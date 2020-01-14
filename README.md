@@ -1,17 +1,17 @@
 ---
 home: true
-heroImage: /hero.png
+heroImage: /images/nisargadatta_maharaj.jpg
 heroText: I Am That
 tagline: Dialogues of Sri Nisargadatta Maharaj
 actionText: Read →
 actionLink: /1-the-sense-of-i-am/
-footer: MIT Licensed | Copyright © 2020-present no one
+footer: MIT Licensed | Copyright © 2020-present no-one
 ---
 
 *That in whom reside all beings and who resides in all beings, who is the giver of grace to all, the Supreme Soul of the universe, the limitless being — I am that.*  
 —Amritbindu Upanishad
 
-*That which permeates all, which nothing transcends and which, like the universal space around us, fills everything completely from within and without, that Supreme non-dual Brahman -- that thou art.*  
+*That which permeates all, which nothing transcends and which, like the universal space around us, fills everything completely from within and without, that Supreme non-dual Brahman — that thou art.*  
 —Sankaracharya
 
 *The seeker is he who is in search of himself.*  
