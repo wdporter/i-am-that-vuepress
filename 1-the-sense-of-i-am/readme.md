@@ -1,3 +1,6 @@
+---
+prev: /editors-note/
+---
 # 1. The Sense of ‘I Am’
 
 **Questioner:** It is a matter of daily experience that on waking up the world suddenly appears. Where does it come from?

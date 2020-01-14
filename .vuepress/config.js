@@ -8,6 +8,7 @@ module.exports = {
 		smoothScroll: true,
 		sidebar: [
 			"/1-the-sense-of-i-am/",
+			"/2-obsession-with-the-body/",
 			"/foreword/",
 			"/who-is-nisargadatta-maharaj/",
 			"/translators-note/",

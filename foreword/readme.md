@@ -1,3 +1,6 @@
+---
+prev: 
+---
 # Foreword
 
 That there should be yet another addition of *I AM THAT* is not surprising, for the sublimity of the words spoken by Sri Nisargadatta Maharaj, their directness and the lucidity with which they refer to the Highest have already made this book a literature of paramount importance. In fact, many regard it as the only book of spiritual teaching really worth studying.

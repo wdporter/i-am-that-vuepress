@@ -1,11 +1,10 @@
 ---
 home: true
-heroImage: "/hero.png"
+heroImage: /hero.png
 heroText: I Am That
 tagline: Dialogues of Sri Nisargadatta Maharaj
 actionText: Read →
-actionLink: /chapter-1/
-
+actionLink: /1-the-sense-of-i-am/
 footer: MIT Licensed | Copyright © 2020-present no one
 ---
 
