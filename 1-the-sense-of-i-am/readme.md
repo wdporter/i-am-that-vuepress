@@ -33,4 +33,4 @@ prev: /editors-note/
 
 **Q:** How do I get at it?
 
-**M:** You need not get at it, for you are it. It will get at you, if you give it a chance. Let go your attachment to the unreal and the real will swiftly and smoothly step into its own. Stop imagining yourself being or doing this or that and the realisation that you are the source and heart of all will dawn upon you. With this will come great love which is not choice or predilection, nor attachment, but a power which makes all things love-worthy and lovable. 
+**M:** You need not get at it, for you *are* it. It will get at you, if you give it a chance. Let go your attachment to the unreal and the real will swiftly and smoothly step into its own. Stop imagining yourself being or doing this or that and the realisation that you are the source and heart of all will dawn upon you. With this will come great love which is not choice or predilection, nor attachment, but a power which makes all things love-worthy and lovable. 

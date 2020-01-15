@@ -7,12 +7,24 @@ module.exports = {
 		navbar: false,
 		smoothScroll: true,
 		sidebar: [
-			"/1-the-sense-of-i-am/",
-			"/2-obsession-with-the-body/",
-			"/foreword/",
-			"/who-is-nisargadatta-maharaj/",
-			"/translators-note/",
-			"/editors-note/"
+			{
+				title: "1–10",
+				children: [
+					"/1-the-sense-of-i-am/",
+					"/2-obsession-with-the-body/",
+					"/3-the-living-present/",
+					"/4-real-world-is-beyond-the-mind"
+				]
+			},
+			{
+				title: "Front Matter",
+				children: [
+					"/foreword/",
+					"/who-is-nisargadatta-maharaj/",
+					"/translators-note/",
+					"/editors-note/"
+				]
+			}
 		]
 	}
 }
