@@ -13,7 +13,8 @@ module.exports = {
 					"/1-the-sense-of-i-am/",
 					"/2-obsession-with-the-body/",
 					"/3-the-living-present/",
-					"/4-real-world-is-beyond-the-mind"
+					"/4-real-world-is-beyond-the-mind/",
+					"/5-what-is-born-must-die/"
 				]
 			},
 			{

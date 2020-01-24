@@ -1,4 +1,4 @@
-# 2. Obsession with the body
+# 2. Obsession With the body
 
 **Questioner:** Maharaj, you are sitting in front of me and I am here at your feet. What is the basic difference between us?
 
