@@ -3,13 +3,13 @@
 **Questioner:** There are very interesting books written by apparently very competent people, in which the illusoriness of the world is denied (though not its transitoriness). According to them, there exists a hierarchy of beings, from the lowest to the highest; on each level the complexity of the organism enables and reflects the depth, breadth and intensity of consciousness, without any visible or knowable culmination. One law supreme rules throughout: evolution of forms for the
 growth and enrichment of consciousness and manifestation of its infinite potentialities.
 
-**Maharaj:** This may or may not be so. Even if it is, it is only so from the mind’s point of view, but in fact the entire universe (*mahadakash*) exists only in consciousness (*chidakash*), while I have my stand in the Absolute (*paramakash*). In pure being consciousness arises; in consciousness the world appears and disappears. All there is is me, all there is is mine. Before all beginnings, after all endings — I am. All has its being in me, in the ‘I am’, that shines in every living being. Even not being is unthinkable without me. Whatever happens, I must be there to witness it. 
+**Maharaj:** This may or may not be so. Even if it is, it is only so from the mind’s point of view, but in fact the entire universe (*mahadakash*) exists only in consciousness (*chidakash*), while I have my stand in the Absolute (*paramakash*). In pure being consciousness arises; in consciousness the world appears and disappears. All there is is me, all there is is mine. Before all beginnings, after all endings — I am. All has its being in me, in the ‘I am’, that shines in every living being. Even not being is unthinkable without me. Whatever happens, I must be there to witness it.
 
 **Q:** Why do you deny being to the world?
 
 **M:** I do not negate the world. I see it as appearing in consciousness, which is the totality of the known in the immensity of the unknown. What begins and ends is mere appearance. The world can be said to appear, but not to be. The appearance may last very long on some scale of time, and be very short on another, but ultimately it comes to the same. Whatever is time bound is momentary and has no reality.
 
-**Q:** Surely, you see the actual world as it surrounds you. You seem to behave quite normally! 
+**Q:** Surely, you see the actual world as it surrounds you. You seem to behave quite normally!
 
 **M:** That is how it appears to you. What in your case occupies the entire field of consciousness, is a mere speck in mine. The world lasts, but for a moment. It is your memory that makes you think that the world continues. Myself, I don't live by memory. I see the world as it is, a momentary appearance in consciousness.
 
