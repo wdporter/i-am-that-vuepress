@@ -1,4 +1,4 @@
-## 7. The Mind
+# 7. The Mind
 
 **Questioner:** There are very interesting books written by apparently very competent people, in which the illusoriness of the world is denied (though not its transitoriness). According to them, there exists a hierarchy of beings, from the lowest to the highest; on each level the complexity of the organism enables and reflects the depth, breadth and intensity of consciousness, without any visible or knowable culmination. One law supreme rules throughout: evolution of forms for the
 growth and enrichment of consciousness and manifestation of its infinite potentialities.
