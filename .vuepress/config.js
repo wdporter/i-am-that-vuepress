@@ -18,7 +18,8 @@ module.exports = {
 					"/5-what-is-born-must-die/",
 					"/6-meditation/",
 					"/7-the-mind/",
-					"/8-the-self-stands-beyond-mind/" 
+					"/8-the-self-stands-beyond-mind/",
+					"/9-responses-of-memory/" 
 				]
 			},
 			{
