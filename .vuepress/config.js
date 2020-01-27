@@ -17,7 +17,8 @@ module.exports = {
 					"/4-real-world-is-beyond-the-mind/",
 					"/5-what-is-born-must-die/",
 					"/6-meditation/",
-					"/7-the-mind/"
+					"/7-the-mind/",
+					"/8-the-self-stands-beyond-mind/" 
 				]
 			},
 			{
