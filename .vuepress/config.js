@@ -19,7 +19,8 @@ module.exports = {
 					"/6-meditation/",
 					"/7-the-mind/",
 					"/8-the-self-stands-beyond-mind/",
-					"/9-responses-of-memory/" 
+					"/9-responses-of-memory/",
+					"/10-witnessing/" 
 				]
 			},
 			{
