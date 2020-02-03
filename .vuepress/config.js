@@ -24,6 +24,13 @@ module.exports = {
 				]
 			},
 			{
+				title: "11–20",
+				children: [
+					"/11-awareness-and-consciousness/",
+					"/12-the-person-is-not-reality/" 
+				]
+			},
+			{
 				title: "Front Matter",
 				children: [
 					"/foreword/",
