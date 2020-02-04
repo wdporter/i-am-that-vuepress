@@ -31,6 +31,7 @@
 **Q:** Within the field of your consciousness there is your body also.
 
 **M:** Of course. But the idea ‘my body’, as different from other bodies, is not there. To me it is ‘a body’, not ‘my body’, ‘a mind’, not ‘my mind’. The mind looks after the body all right, I need not interfere. What needs be done is being done, in the normal and natural way. 
+
 You may not be quite conscious of your physiological functions, but when it comes to thoughts and feelings, desires and fears you become acutely self-conscious. To me these too are largely unconscious. I find myself talking to people, or doing things quite correctly and appropriately, without being very much conscious of them. It looks as if I live my physical, waking life automatically, reacting spontaneously and accurately.
 
 **Q:** Does this spontaneous response come as a result of realisation, or by training?
