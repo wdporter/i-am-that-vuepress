@@ -1,5 +1,7 @@
 # 2. Obsession With the body
 
+>…get rid of the tendency to define your self. All definitions apply to your body only and to its expressions. Once this obsession with the body goes, you will revert to your natural state, spontaneously and effortlessly.
+
 **Questioner:** Maharaj, you are sitting in front of me and I am here at your feet. What is the basic difference between us?
 
 **Maharaj:** There is no basic difference.

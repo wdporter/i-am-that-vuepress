@@ -8,6 +8,7 @@ module.exports = {
 		navbar: false,
 		smoothScroll: true,
 		sidebar: [
+			"/",
 			{
 				title: "1–10",
 				children: [

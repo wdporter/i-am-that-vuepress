@@ -3,6 +3,8 @@ prev: /editors-note/
 ---
 # 1. The Sense of ‘I Am’
 
+>On waking up the experience runs: “I am — the body — in the world”. It may appear to arise in succession but in fact it is all simultaneous, a single idea of having a body in a world. Can there be the sense of ‘I am’ without being somebody or other?
+
 **Questioner:** It is a matter of daily experience that on waking up the world suddenly appears. Where does it come from?
 
 **Maharaj:** Before anything can come into being there must be somebody to whom it comes. All appearance and disappearance presupposes a change against some changeless background.

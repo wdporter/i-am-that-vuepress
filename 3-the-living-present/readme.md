@@ -1,5 +1,7 @@
 # 3. The Living Present
 
+>There is something exceptional, unique, about the present event, which the previous, or the coming do not have. There is a livingness about it, an actuality; it stands out as if illuminated. There is the ‘stamp of reality’ on the actual, which the past and the future do not have.
+
 **Questioner:** As I can see, there is nothing wrong with my body nor with my real being. Both are not of my making and need not be improved upon. What has gone wrong is the ‘inner body’, call it mind, consciousness, *antahkarana*, whatever the name.
 
 **Maharaj:** What do you consider to be wrong with your mind?
