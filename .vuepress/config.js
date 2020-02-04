@@ -27,7 +27,8 @@ module.exports = {
 				title: "11–20",
 				children: [
 					"/11-awareness-and-consciousness/",
-					"/12-the-person-is-not-reality/" 
+					"/12-the-person-is-not-reality/",
+					"/13-the-supreme-the-mind-and-the-body/" 
 				]
 			},
 			{
