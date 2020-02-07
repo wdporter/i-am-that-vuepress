@@ -1,5 +1,7 @@
 # 5. What is Born Must Die
 
+>What was born must die. Only the unborn is deathless. Find what is it that never sleeps and never wakes, and whose pale reflection is our sense of ‘I’.
+
 **Questioner:** Is the witness-consciousness permanent or not?
 
 **Maharaj:** It is not permanent. The knower rises and sets with the known. That in which both the knower and the known arise and set, is beyond time. The words permanent or eternal do not apply.
@@ -20,7 +22,7 @@
 
 **M:** Life remains. Consciousness needs a vehicle and an instrument for its manifestation. When life produces another body, another knower comes into being.
 
-**Q:** Is there a causal link between the successive bodyknowers, or body-minds?
+**Q:** Is there a causal link between the successive body-knowers, or body-minds?
 
 **M:** Yes, there is something that may be called the memory body, or causal body, a record of all that was thought, wanted and done. It is like a cloud of images held together.
 
