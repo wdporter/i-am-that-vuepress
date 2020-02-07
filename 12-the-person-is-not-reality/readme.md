@@ -2,7 +2,7 @@
 
 **Questioner:** Kindly tell us how you realised.
 
-**Maharaj:** I met my Guru when I was 34 and realised by 37.
+**Maharaj:** I met my *Guru* when I was 34 and realised by 37.
 
 **Q:** What happened? What was the change?
 

@@ -20,7 +20,7 @@
 
 **Q:** What made you so dispassionate?
 
-**M:** Nothing in particular. It so happened that I trusted my Guru. He told me I am nothing but my self and I believed him. Trusting him, I behaved accordingly and ceased caring for what was not me, nor mine.
+**M:** Nothing in particular. It so happened that I trusted my *Guru*. He told me I am nothing but my self and I believed him. Trusting him, I behaved accordingly and ceased caring for what was not me, nor mine.
 
 **Q:** Why were you lucky to trust your teacher fully, while our trust is nominal and verbal?
 

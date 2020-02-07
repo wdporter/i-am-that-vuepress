@@ -26,8 +26,7 @@
 
 **M:** Look at the net and its many contradictions. You do and undo at every step. You want peace, love and happiness, and work hard to create pain, hatred and war. You want longevity and overeat, you want friendship and exploit. See your net as made of such contradictions and remove them — your very seeing them will make them go.
 
-**Q:** Since my seeing the contradiction makes it go, is there no causal link between my seeing and
-its going?
+**Q:** Since my seeing the contradiction makes it go, is there no causal link between my seeing and its going?
 
 **M:** Causality, even as a concept, does not apply to chaos.
 

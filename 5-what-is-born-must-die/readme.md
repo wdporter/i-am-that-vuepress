@@ -28,7 +28,7 @@
 
 **Q:** What is this sense of a separate existence?
 
-**M:** It is a reflection in a separate body of the one reality. In this reflection the unlimited and the limited are confused and taken to be the same. To undo this confusion is the purpose of Yoga.
+**M:** It is a reflection in a separate body of the one reality. In this reflection the unlimited and the limited are confused and taken to be the same. To undo this confusion is the purpose of *Yoga*.
 
 **Q:** Does not death undo this confusion?
 
