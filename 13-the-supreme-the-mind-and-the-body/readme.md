@@ -58,7 +58,7 @@
 
 **Q:** Then who is doing it?
 
-**M:** Nobody. All happens by itself. You are asking the question and you are supplying the answer. And you know the answer when you ask the question. All is a play in consciousness. All divisions are illusory. You can know the false only. The true you must yourself be.
+**M:** Nobody. All happens by itself. You are asking the question and you are supplying the answer. And you know the answer when you ask the question. All is a play in consciousness. All divisions are illusory. You can know the false only. The true you must yourself *be*.
 
 **Q:** There is the witnessed consciousness and there is the witnessing consciousness. Is the 
 second the supreme?
@@ -115,7 +115,7 @@ second the supreme?
 
 **Q:** If reality leaves no evidence, there is no speaking about it.
 
-**M:** It is. It cannot be denied. It is deep and dark, mystery beyond mystery. But it is, while all else merely happens.
+**M:** It *is*. It cannot be denied. It is deep and dark, mystery beyond mystery. But it *is*, while all else merely happens.
 
 **Q:** Is it the Unknown?
 

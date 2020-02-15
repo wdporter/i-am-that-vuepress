@@ -4,7 +4,7 @@
 
 **Questioner:** There are very interesting books written by apparently very competent people, in which the illusoriness of the world is denied (though not its transitoriness). According to them, there exists a hierarchy of beings, from the lowest to the highest; on each level the complexity of the organism enables and reflects the depth, breadth and intensity of consciousness, without any visible or knowable culmination. One law supreme rules throughout: evolution of forms for the growth and enrichment of consciousness and manifestation of its infinite potentialities.
 
-**Maharaj:** This may or may not be so. Even if it is, it is only so from the mind’s point of view, but in fact the entire universe (*mahadakash*) exists only in consciousness (*chidakash*), while I have my stand in the Absolute (*paramakash*). In pure being consciousness arises; in consciousness the world appears and disappears. All there is is me, all there is is mine. Before all beginnings, after all endings — I am. All has its being in me, in the ‘I am’, that shines in every living being. Even not being is unthinkable without me. Whatever happens, I must be there to witness it.
+**Maharaj:** This may or may not be so. Even if it is, it is only so from the mind’s point of view, but in fact the entire universe (*mahadakash*) exists only in consciousness (*chidakash*), while I have my stand in the Absolute (*paramakash*). In pure being consciousness arises; in consciousness the world appears and disappears. All there *is* is me, all there *is* is mine. Before all beginnings, after all endings — I am. All has its being in me, in the ‘I am’, that shines in every living being. Even not being is unthinkable without me. Whatever happens, I must be there to witness it.
 
 **Q:** Why do you deny being to the world?
 
@@ -14,7 +14,7 @@
 
 **M:** That is how it appears to you. What in your case occupies the entire field of consciousness, is a mere speck in mine. The world lasts, but for a moment. It is your memory that makes you think that the world continues. Myself, I don't live by memory. I see the world as it is, a momentary appearance in consciousness.
 
-**Q:** In your consciousness?
+**Q:** In *your* consciousness?
 
 **M:** All idea of ‘me’ and ‘mine’, even of ‘I am’ is in consciousness.
 
@@ -32,9 +32,9 @@
 
 **Q:** Are you not immersed timelessly in an abstraction?
 
-**M:** Abstraction is mental and verbal and disappears in sleep, or swoon; it reappears in time; I am in my own state (*swarupa*) timelessly in the now. Past and future are in mind only — I am now.
+**M:** Abstraction is mental and verbal and disappears in sleep, or swoon; it reappears in time; I am in my own state (*swarupa*) timelessly in the *now*. Past and future are in mind only — I am *now*.
 
-**Q:** The world too is now.
+**Q:** The world too is *now*.
 
 **M**: Which world?
 

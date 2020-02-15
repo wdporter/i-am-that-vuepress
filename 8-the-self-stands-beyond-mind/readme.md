@@ -1,6 +1,8 @@
 # 8. The Self Stands Beyond Mind 
 
-**Questioner:** As a child fairly often I experienced states of complete happiness, verging on ecstasy: later, they ceased, but since I came to India they reappeared, particularly after I met you. Yet these states, however wonderful, are not lasting. They come and go and there is no knowing when they will come back.
+>Happiness comes from the self and can be found in the self only. Find your real self (*swarupa*) and all else will come with it… ideas of movement, of restlessness, of pleasure and pain are all in the mind. The Self stands beyond the mind, aware, but unconcerned.
+
+**Questioner:** As a child fairly often I experienced states of complete happiness, verging on ecstasy. Later, they ceased, but since I came to India they reä ppeared, particularly after I met you. Yet these states, however wonderful, are not lasting. They come and go and there is no knowing when they will come back.
 
 **Maharaj:** How can anything be steady in a mind which itself is not steady?
 
@@ -82,7 +84,7 @@ instruments are material, they get tired and worn out. The pleasure they yield i
 
 **M:** Be alert. Question, observe, investigate, learn all you can about confusion, how it operates, what it does to you and others. By being clear about confusion you become clear of confusion.
 
-**Q:** When I look into myself, I find my strongest desire is to create a monument, to build something which will outlast me. Even when I think of a home, wife and child, it is because it is a lasting, solid, testimony to myself.
+**Q:** When I look into myself, I find my strongest desire is to create a monument, to build something which will outlast me. Even when I think of a home, wife and child, it is because it is a lasting, solid testimony to myself.
 
 **M:** Right, build yourself a monument. How do you propose to do it?
 
@@ -105,7 +107,7 @@ permanency. I want to create something that lasts.
 
 **Q:** There is no ‘I am’ in sleep.
 
-**M:** Before you make such sweeping statements, examine carefully your waking state. You will soon discover that it is full of gaps, when the min blanks out. Notice how little you remember even when fully awake. You just don’t remember. A gap in memory is not necessarily a gap in consciousness.
+**M:** Before you make such sweeping statements, examine carefully your waking state. You will soon discover that it is full of gaps, when the mind blanks out. Notice how little you remember even when fully awake. You just don’t remember. A gap in memory is not necessarily a gap in consciousness.
 
 **Q:** Can I make myself remember my state of deep sleep?
 

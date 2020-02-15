@@ -33,7 +33,7 @@ and doing on the 30th of the last month.
 
 **M:** It is not so bad. You do remember a lot — unconscious memory makes the world in which you live so familiar.
 
-**Q:** Admitted that the world in which I live is subjective and partial. What about you? In what kind of world do you live?
+**Q:** Admitted that the world in which I live is subjective and partial. What about you? In what kind of world do *you* live?
 
 **M:** My world is just like yours. I see, I hear, I feel, I think, I speak and act in a world I perceive, just like you. But with you it is all, with me it is nothing. Knowing the world to be a part of myself, I pay it no more attention than you pay to the food you have eaten. While being prepared and eaten, the food is separate from you and your mind is on it; once swallowed, you become totally unconscious of it. I have eaten up the world and I need not think of it any more.
 
