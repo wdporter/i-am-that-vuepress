@@ -31,7 +31,8 @@ module.exports = {
 					"/12-the-person-is-not-reality/",
 					"/13-the-supreme-the-mind-and-the-body/",
 					"/14-appearances-and-the-reality/",
-					"/15-the-jnani/" 
+					"/15-the-jnani/",
+					"/16-desirelessness-the-highest-bliss/" 
 				]
 			},
 			{
