@@ -32,7 +32,8 @@ module.exports = {
 					"/13-the-supreme-the-mind-and-the-body/",
 					"/14-appearances-and-the-reality/",
 					"/15-the-jnani/",
-					"/16-desirelessness-the-highest-bliss/" 
+					"/16-desirelessness-the-highest-bliss/",
+					"/17-the-ever-present/" 
 				]
 			},
 			{
