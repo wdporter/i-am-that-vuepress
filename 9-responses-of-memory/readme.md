@@ -1,5 +1,7 @@
 # 9. Responses of Memory
 
+>Perception, imagination, expectation, anticipation, illusion — all are based on memory. There are hardly any border lines between them. They just merge into each other. All are responses of memory.
+
 **Questioner:** Some say the universe was created. Others say that it always existed and is for ever undergoing transformation. Some say it is subject to eternal laws. Others deny even causality. Some say the world is real. Others — that it has no being whatsoever. 
 
 **Maharaj:** Which world are you enquiring about?

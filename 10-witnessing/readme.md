@@ -1,5 +1,7 @@
 # 10. Witnessing
 
+>You must watch yourself continuously — particularly your mind — moment by moment, missing nothing. This witnessing is essential for the separation of the self from the not-self.
+
 **Questioner:** I am full of desires and want them fulfilled. How am I to get what I want?
 
 **Maharaj:** Do you deserve what you desire? In some way or other you have to work for the fulfilment of your desires. Put in energy and wait for the results.

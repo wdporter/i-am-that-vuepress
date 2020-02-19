@@ -1,5 +1,7 @@
 # 13. The Supreme, the Mind and the Body
 
+>The supreme gives existence to the mind. The mind gives existence to the body.
+
 **Questioner:** From what you told us it appears that you are not quite conscious of your surroundings. To us you seem extremely alert and active. We cannot possibly believe that you are in a kind of hypnotic state, which leaves no memory behind. On the contrary, your memory seems excellent. How are we to understand your statement that the world and all it includes does not exist, as far as you are concerned. 
 
 **Maharaj:** It is all a matter of focus. Your mind is focussed in the world, mine is focussed in reality. It is like the moon in daylight — when the sun shines, the moon is hardly visible. Or, watch how you take your food. As long as it is in your mouth, you are conscious of it; once swallowed, it does not concern you any longer. It would be troublesome to have it constantly in mind until it is eliminated. The mind should be normally in abeyance — incessant activity is a morbid state. The universe works by itself — that I know. What else do I need to know?
@@ -22,7 +24,7 @@
 
 **Q:** And what lies beyond?
 
-**M:** Take an example. A venerable *Yogi*, a master in the art of longevity, himself over 1,000 years old, comes to teach me his art. I fully respect and sincerely admire his achievements, yet all I can tell him is: of what use is longevity to me? I am beyond time. However long a life may be, it is but a moment and a dream. In the same way I am beyond all attributes. They appear and disappear in my light, but cannot describe me. The universe is all names and forms, based on qualities and their differences, while I am beyond. The world is there because I am, but I am not the world.
+**M:** Take an example. A venerable *Yogi*, a master in the art of longevity, himself over one thousand years old, comes to teach me his art. I fully respect and sincerely admire his achievements, yet all I can tell him is: of what use is longevity to me? I am beyond time. However long a life may be, it is but a moment and a dream. In the same way I am beyond all attributes. They appear and disappear in my light, but cannot describe me. The universe is all names and forms, based on qualities and their differences, while I am beyond. The world is there because I am, but I am not the world.
 
 **Q:** But you are living in the world!
 
@@ -50,7 +52,7 @@
 
 **Q:** In my daily actions much goes by habit, automatically. I am aware of the general purpose, but not of each movement in detail. As my consciousness broadens and deepens, details tend to recede, leaving me free for the general trends. Does not the same happen to a *jnani*, but more so?
 
-**M:** On the level of consciousness — yes. In the supreme state, no. This state is entirely one and indivisible, a single solid block of reality. The only way of knowing it is to be it. The mind cannot reach it. To perceive it does not need the senses; to know it does not need the mind.
+**M:** On the level of consciousness — yes. In the supreme state, no. This state is entirely one and indivisible, a single solid block of reality. The only way of knowing it is to *be* it. The mind cannot reach it. To perceive it does not need the senses; to know it does not need the mind.
 
 **Q:** That is how God runs the world.
 
@@ -99,7 +101,7 @@ second the supreme?
 
 **Q:** Can there be life without consciousness?
 
-**M:** No, nor consciousness without life. They are both one. But in reality only the Ultimate is. The rest is a matter of name and form. And as long as you cling to the idea that only what has name and shape exists, the Supreme will appear to you non-existing. When you understand that names and shapes are hollow shells without any content whatsoever, and what is real is nameless and formless, pure energy of life and light of consciousness, you will be at peace — immersed in the deep silence of reality.
+**M:** No, nor consciousness without life. They are both one. But in reality only the Ultimate *is*. The rest is a matter of name and form. And as long as you cling to the idea that only what has name and shape exists, the Supreme will appear to you non-existing. When you understand that names and shapes are hollow shells without any content whatsoever, and what is real is nameless and formless, pure energy of life and light of consciousness, you will be at peace — immersed in the deep silence of reality.
 
 **Q:** If time and space are mere illusions and you are beyond, please tell me what is the weather in New York. Is it hot or raining there?
 

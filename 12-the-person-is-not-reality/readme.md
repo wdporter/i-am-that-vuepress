@@ -1,5 +1,7 @@
 # 12. The Person is not Reality
 
+> Once you realise that the person is merely a shadow of the reality, but not reality itself, you cease to fret and worry. You agree to be guided from within and life becomes a journey into the unknown.
+
 **Questioner:** Kindly tell us how you realised.
 
 **Maharaj:** I met my *Guru* when I was 34 and realised by 37.
@@ -22,15 +24,15 @@
 
 **Q:** Is there no such thing as immortality?
 
-**M:** When life and death are seen as essential to each other, as two aspects of one being, that is immortality. To see the end in the beginning and beginning in the end is the intimation of eternity. Definitely, immortality is not continuity. Only the process of change continues. Nothing lasts.
+**M:** When life and death are seen as essential to each other, as two aspects of one being, *that* is immortality. To see the end in the beginning and beginning in the end is the intimation of eternity. Definitely, immortality is not continuity. Only the process of change continues. Nothing lasts.
 
 **Q:** Awareness lasts?
 
 **M:** Awareness is not of time. Time exists in consciousness only. Beyond consciousness where are time and space?
 
-**Q:** Within the field of your consciousness there is your body also.
+**Q:** Within the field of your consciousness there is *your* body also.
 
-**M:** Of course. But the idea ‘my body’, as different from other bodies, is not there. To me it is ‘a body’, not ‘my body’, ‘a mind’, not ‘my mind’. The mind looks after the body all right, I need not interfere. What needs be done is being done, in the normal and natural way. 
+**M:** Of course. But the idea ‘my body’, as different from other bodies, is not there. To me it is ‘*a* body’, not ‘my body’, ‘*a* mind’, not ‘my mind’. The mind looks after the body all right, I need not interfere. What needs be done is being done, in the normal and natural way. 
 
 You may not be quite conscious of your physiological functions, but when it comes to thoughts and feelings, desires and fears you become acutely self-conscious. To me these too are largely unconscious. I find myself talking to people, or doing things quite correctly and appropriately, without being very much conscious of them. It looks as if I live my physical, waking life automatically, reacting spontaneously and accurately.
 

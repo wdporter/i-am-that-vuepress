@@ -1,5 +1,7 @@
 # 11. Awareness and Consciousness
 
+>Awareness is primordial; it is the original state, beginningless, endless, uncaused, unsupported, without parts, without change. Consciousness is on contact, a reflection against a surface, a state of duality. There can be no consciousness without awareness, but there can be awareness without consciousness, as in deep sleep. 
+
 **Questioner:** What do you do when asleep?
 
 **Maharaj:** I am aware of being asleep.
