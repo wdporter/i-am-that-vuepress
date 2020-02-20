@@ -33,7 +33,8 @@ module.exports = {
 					"/14-appearances-and-the-reality/",
 					"/15-the-jnani/",
 					"/16-desirelessness-the-highest-bliss/",
-					"/17-the-ever-present/" 
+					"/17-the-ever-present/",
+					"/18-to-know-what-you-are-find-out-what-you-are-not/" 
 				]
 			},
 			{
