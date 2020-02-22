@@ -34,7 +34,8 @@ module.exports = {
 					"/15-the-jnani/",
 					"/16-desirelessness-the-highest-bliss/",
 					"/17-the-ever-present/",
-					"/18-to-know-what-you-are-find-out-what-you-are-not/" 
+					"/18-to-know-what-you-are-find-out-what-you-are-not/",
+					"/19-reality-lies-in-objectivity/"
 				]
 			},
 			{
