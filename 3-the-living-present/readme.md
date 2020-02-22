@@ -2,7 +2,7 @@
 
 >There is something exceptional, unique, about the present event, which the previous, or the coming do not have. There is a livingness about it, an actuality; it stands out as if illuminated. There is the ‘stamp of reality’ on the actual, which the past and the future do not have.
 
-**Questioner:** As I can see, there is nothing wrong with my body nor with my real being. Both are not of my making and need not be improved upon. What has gone wrong is the ‘inner body’, call it mind, consciousness, *antahkarana*, whatever the name.
+**Questioner:** As I can see, there is nothing wrong with my body nor with my real being. Both are not of my making and need not be improved upon. What has gone wrong is the ‘inner body’, call it mind, consciousness, <span class=tooltip>antahkarana<span class=tooltiptext>The psyche, mind. Mind in a collective sense, including intelligence (*buddhi*), ego (*ahamkara*) and mind (*manas*).</span></span>, whatever the name.
 
 **Maharaj:** What do you consider to be wrong with your mind?
 
@@ -20,7 +20,7 @@
 
 **Q:** But we deal with things remembered as if they were real.
 
-**M:** We consider memories, only when they come into the present The forgotten is not counted until one is reminded — which implies, bringing into the *now*.
+**M:** We consider memories, only when they come into the present. The forgotten is not counted until one is reminded — which implies, bringing into the *now*.
 
 **Q:** Yes, I can see there is in the now some unknown factor that gives momentary reality to the transient actuality.
 

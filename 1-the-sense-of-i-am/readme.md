@@ -31,7 +31,7 @@ prev: /editors-note/
 
 **Q:** The sense of being an experiencer, the sense of ‘I am’, is it not also an experience?
 
-**M:** Obviously, every thing experienced is an experience. And in every experience there arises the experiencer of it. Memory creates the illusion of continuity. In reality each experience has its own experiencer and the sense of identity is due to the common factor at the root of all experiencer–experience relations. Identity and continuity are not the same. Just as each flower has its own colour, but all colours are caused by the same light, so do many experiences appear in the undivided and indivisible awareness, each separate in memory, identical in essence. This essence is the root, the foundation, the timeless and spaceless 'possibility' of all experience.
+**M:** Obviously, every thing experienced is an experience. And in every experience there arises the experiencer of it. Memory creates the illusion of continuity. In reality each experience has its own experiencer and the sense of identity is due to the common factor at the root of all experiencer–experience relations. Identity and continuity are not the same. Just as each flower has its own colour, but all colours are caused by the same light, so do many experiences appear in the undivided and indivisible awareness, each separate in memory, identical in essence. This essence is the root, the foundation, the timeless and spaceless ‘possibility’ of all experience.
 
 **Q:** How do I get at it?
 

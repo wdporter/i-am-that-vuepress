@@ -28,7 +28,7 @@
 
 **Q:** What is this sense of a separate existence?
 
-**M:** It is a reflection in a separate body of the one reality. In this reflection the unlimited and the limited are confused and taken to be the same. To undo this confusion is the purpose of *Yoga*.
+**M:** It is a reflection in a separate body of the one reality. In this reflection the unlimited and the limited are confused and taken to be the same. To undo this confusion is the purpose of <span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span>.
 
 **Q:** Does not death undo this confusion?
 
@@ -44,7 +44,7 @@
 
 **Q:** Do you mean to say that mere wanting to find out is enough? Surely, both qualifications and opportunities are needed.
 
-**M:** These will come with earnestness. What is supremely important is to be free from contradictions: the goal and the way must not be on different levels; life and light must not quarrel; behaviour must not betray belief. Call it honesty, integrity, wholeness; you must not go back, undo, uproot, abandon the conquered ground. Tenacity of purpose and honesty in pursuit will bring you to your goal.
+**M:** These will come with earnestness. What is supremely important is to be free from contradictions: the goal and the way must not be on different levels; life and light must not quarrel; behaviour must not betray belief. Call it honesty, integrity, wholeness; you must not go back, undo, uproot or abandon the conquered ground. Tenacity of purpose and honesty in pursuit will bring you to your goal.
 
 **Q:** Tenacity and honesty are endowments, surely! Not a trace of them I have.
 
