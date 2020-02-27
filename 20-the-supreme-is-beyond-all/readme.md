@@ -1,6 +1,6 @@
 # 20. The Supreme is Beyond All
 
->quote
+>All desires aim at happiness. Their shape and quality depend on the psyche (*antahkarana*). Where inertia (*tamas*) predominates, we find perversions. With energy (*rajas*), passions arise. With lucidity (*sattva*) the motive behind the desire is goodwill, compassion, the urge to make happy rather than be happy. But the Supreme is beyond all, yet because of its infinite permeability all cogent desires can be fulfilled.
 
 **Questioner:**&ensp;You say, reality is one. Oneness, unity, is the attribute of the person. Is then reality a person, with the universe as its body?
 
@@ -24,7 +24,7 @@
 
 **Q:**&ensp;I can now understand that I am not the person, but that which, when reflected in the person, gives it a sense of being. Now, about the Supreme? In what way do I know myself as the Supreme?
 
-**M:**&ensp;The source of consciousness cannot be an object in consciousness. To know the source is to be the source. When you realise that you are not the person, but the pure and calm witness, and that fearless awareness is your very being, you are the being. It is the source, the Inexhaustible Possibility.
+**M:**&ensp;The source of consciousness cannot be an object in consciousness. To know the source is to *be* the source. When you realise that you are not the person, but the pure and calm witness, and that fearless awareness is your very being, *you* are the being. It is the source, the Inexhaustible Possibility.
 
 **Q:**&ensp;Are there many sources or one for all?
 
@@ -56,7 +56,7 @@
 
 **Q:**&ensp;No purposeful action is then possible?
 
-**M:**&ensp;All I say is that consciousness contains all. In consciousness all is possible. You can have causes if you want them, in your world. Another may be content with a single cause — God’s will. The root cause is one: the sense ‘I am’.
+**M:**&ensp;All I say is that consciousness contains all. In consciousness all is possible. You can have causes if you want them, in *your* world. Another may be content with a single cause — God’s will. The root cause is one: the sense ‘I am’.
 
 **Q:**&ensp;What is the link between the Self (*Vyakta*) and the Supreme (*Avyakta*)?
 
@@ -68,7 +68,7 @@
 
 **Q:**&ensp;And if I desire nothing, not even the Supreme?
 
-**M:**&ensp;Then you are as good as dead, or you are the Supreme.
+**M:**&ensp;Then you are as good as dead, or you *are* the Supreme.
 
 **Q:**&ensp;The world is full of desires: Everybody wants something or other. Who is the desirer? The person or the self?
 
@@ -88,7 +88,7 @@
 
 **Q:**&ensp;Does the Supreme know itself? Is the Impersonal conscious?
 
-**M:**&ensp;The source of all has all. Whatever flows from it must be there already in seed form. And as a seed is the last of innumerable seeds, and contains the experience and the promise of numberless forests, so does the Unknown contain all that was, or could have been and all that shall or would be. The entire field of becoming is open and accessible; past and future coëxist in the eternal now.
+**M:**&ensp;The source of all has all. Whatever flows from it must be there already in seed form. And as a seed is the last of innumerable seeds, and contains the experience and the promise of numberless forests, so does the Unknown contain all that was, or could have been and all that shall or would be. The entire field of becoming is open and accessible; past and future coëxist in the eternal *now*.
 
 **Q:**&ensp;Are you living in the Supreme Unknown?
 
