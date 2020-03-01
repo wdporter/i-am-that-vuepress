@@ -23,7 +23,7 @@ prev: /editors-note/
 
 **Q:**&ensp;What benefit is there in knowing that I am not the body?
 
-**M:**&ensp;Even to say that you are not the body is not quite true. In a way you are all the bodies, hearts and minds and much more. Go deep into the sense of ‘I am’ and you will find. How do you find a thing you have mislaid or forgotten? You keep it in your mind until you recall it. The sense of being, of 'I am' is the first to emerge. Ask yourself whence it comes, or just watch it quietly. When the mind stays in the 'I am' without moving, you enter a state which cannot be verbalised but can be experienced. All you need to do is try and try again. After all the sense ‘I am’ is always with you, only you have attached all kinds of things to it — body, feelings, thoughts, ideas, possessions etc. All these self-identifications are misleading. Because of them you take yourself to be what you are not.
+**M:**&ensp;Even to say that you are not the body is not quite true. In a way you are all the bodies, hearts and minds and much more. Go deep into the sense of ‘I am’ and you will find. How do you find a thing you have mislaid or forgotten? You keep it in your mind until you recall it. The sense of being, of ‘I am’ is the first to emerge. Ask yourself whence it comes, or just watch it quietly. When the mind stays in the ‘I am’ without moving, you enter a state which cannot be verbalised but can be experienced. All you need to do is try and try again. After all the sense ‘I am’ is always with you, only you have attached all kinds of things to it — body, feelings, thoughts, ideas, possessions etc. All these self-identifications are misleading. Because of them you take yourself to be what you are not.
 
 **Q:**&ensp;Then what am I?
 

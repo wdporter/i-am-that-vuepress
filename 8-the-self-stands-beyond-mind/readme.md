@@ -24,7 +24,7 @@
 
 **Q:**&ensp;Yet I want happiness.
 
-**M:**&ensp;True happiness cannot be found in things that change and pass away. Pleasure and pain alternate inexorably. Happiness comes from the self and can be found in the self only. Find your real self (*swarupa*) and all else will come with it.
+**M:**&ensp;True happiness cannot be found in things that change and pass away. Pleasure and pain alternate inexorably. Happiness comes from the self and can be found in the self only. Find your real self (<span class=tooltip>swarupa<span class=tooltiptext>One’s own form, nature, character.</span></span>) and all else will come with it.
 
 **Q:**&ensp;If my real self is peace and love, why is it so restless?
 

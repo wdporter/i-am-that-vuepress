@@ -12,7 +12,7 @@
 
 **Q:**&ensp;Surely, you see the actual world as it surrounds you. You seem to behave quite normally!
 
-**M:**&ensp;That is how it appears to you. What in your case occupies the entire field of consciousness, is a mere speck in mine. The world lasts, but for a moment. It is your memory that makes you think that the world continues. Myself, I don't live by memory. I see the world as it is, a momentary appearance in consciousness.
+**M:**&ensp;That is how it appears to you. What in your case occupies the entire field of consciousness, is a mere speck in mine. The world lasts, but for a moment. It is your memory that makes you think that the world continues. Myself, I don’'t live by memory. I see the world as it is, a momentary appearance in consciousness.
 
 **Q:**&ensp;In *your* consciousness?
 
@@ -32,7 +32,7 @@
 
 **Q:**&ensp;Are you not immersed timelessly in an abstraction?
 
-**M:**&ensp;Abstraction is mental and verbal and disappears in sleep, or swoon; it reappears in time; I am in my own state (<span class=tooltip>svarupa<span class=tooltiptext>One’s own form, nature, character.</span></span>) timelessly in the *now*. Past and future are in mind only — I am *now*.
+**M:**&ensp;Abstraction is mental and verbal and disappears in sleep, or swoon; it reappears in time; I am in my own state (<span class=tooltip>swarupa<span class=tooltiptext>One’s own form, nature, character.</span></span>) timelessly in the *now*. Past and future are in mind only — I am *now*.
 
 **Q:**&ensp;The world too is *now*.
 
