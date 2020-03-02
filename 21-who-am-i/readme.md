@@ -1,6 +1,6 @@
 # 21. Who Am I?
 
->quote here
+>Give up all questions except one: “Who am l?”. After all, the only fact you are sure of is that you are. The ‘I am’ is certain. The ‘I am this’ is not. Struggle to find out what you are in reality.
 
 **Questioner:**&ensp;We are advised to worship reality personified as God, or as the Perfect Man. We are told not to attempt the worship of the Absolute, as it is much too difficult for a brain-centred consciousness.
 
@@ -84,7 +84,7 @@
 
 **Q:**&ensp;We talk of divine virtue.
 
-**M:**&ensp;True virtue is divine nature (*swarupa*). What you are really is your virtue. But the opposite of sin which you call virtue is only obedience born out of fear.
+**M:**&ensp;True virtue is divine nature (<span class=tooltip>swarupa<span class=tooltiptext>One’s own form, nature, character.</span></span>). What you are really is your virtue. But the opposite of sin which you call virtue is only obedience born out of fear.
 
 **Q:**&ensp;Then why all effort at being good?
 
@@ -96,9 +96,9 @@
 
 **Q:**&ensp;Knowledge depends on memory.
 
-**M:**&ensp;Remembering your self is virtue, forgetting your self is sin. It all boils down to the mental or psychological link between the spirit and matter. We may call the link psyche (*antahkarana*). When the psyche is raw, undeveloped, quite primitive, it is subject to gross illusions. As it grows in breadth and sensitivity, it becomes a perfect link between pure matter and pure spirit and gives meaning to matter and expression to spirit.
+**M:**&ensp;Remembering your self is virtue, forgetting your self is sin. It all boils down to the mental or psychological link between the spirit and matter. We may call the link psyche (<span class=tooltip>antahkarana<span class=tooltiptext>The psyche, mind. Mind in a collective sense, including intelligence (*buddhi*), ego (*ahamkara*) and mind (*manas*).</span></span>). When the psyche is raw, undeveloped, quite primitive, it is subject to gross illusions. As it grows in breadth and sensitivity, it becomes a perfect link between pure matter and pure spirit and gives meaning to matter and expression to spirit.
 
-There is the material world (*mahadakash*) and the spiritual (*paramakash*). Between lies the universal mind (*chidakash*) which is also the universal heart (*premakash*). It is wise love that makes the two one.
+There is the material world (<span class=tooltip>mahadakash<span class=tooltiptext>The great expanse of existence, the universe of matter and energy.</span></span>) and the spiritual (<span class=tooltip>paramakash<span class=tooltiptext>The great expanse, the timeless and spaceless reality; the Absolute being.</span></span>). Between lies the universal mind (<span class=tooltip>chidakash<span class=tooltiptext>[*chit*, to perceive + *akash*, expanse, sky] Brahman in its aspect of limitless knowledge, the expanse of awareness. Variously used for consciousness, individual as well as universal.</span></span>) which is also the universal heart (<span class=tooltip>premakash<span class=tooltiptext>*Brahman* in its aspect of limitless love. It is another name for *chidakash*, but it lays stress on the love aspect not on the knowledge aspect. Love is the expression of the Self through the heart.</span></span>). It is wise love that makes the two one.
 
 **Q:**&ensp;Some people are stupid, some are intelligent. The difference is in their psyche. The ripe ones had more experience behind them. Just like a child grows by eating and drinking, sleeping and playing, so is man’s psyche shaped by all he thinks and feels and does, until it is perfect enough to serve as a bridge between the spirit and the body. As a bridge permits the traffic; between the banks, so does the psyche bring together the source and its expression.
 
