@@ -32,8 +32,7 @@
 
 **Q:**&ensp;Are you not immersed timelessly in an abstraction?
 
-**M:** Abstraction is mental and verbal and disappears in sleep, or swoon; it reäppears in time; I am in my own state (*swarupa*) timelessly in the *now*. Past and future are in mind only — I am *now*.
-**M:**&ensp;Abstraction is mental and verbal and disappears in sleep, or swoon; it reappears in time; I am in my own state (<span class=tooltip>swarupa<span class=tooltiptext>One’s own form, nature, character.</span></span>) timelessly in the *now*. Past and future are in mind only — I am *now*.
+**M:**&ensp;Abstraction is mental and verbal and disappears in sleep, or swoon; it reäppears in time; I am in my own state (<span class=tooltip>swarupa<span class=tooltiptext>One’s own form, nature, character.</span></span>) timelessly in the *now*. Past and future are in mind only — I am *now*.
 
 **Q:**&ensp;The world too is *now*.
 
