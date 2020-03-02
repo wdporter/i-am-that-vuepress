@@ -42,7 +42,8 @@ module.exports = {
 			{
 				title: "21–30",
 				children: [
-					"/21-who-am-i/"
+					"/21-who-am-i/",
+					"/22-life-is-love-and-love-is-life/"
 				]
 			},
 			{
