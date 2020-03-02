@@ -12,7 +12,7 @@
 
 **Q:**&ensp;Surely, you see the actual world as it surrounds you. You seem to behave quite normally!
 
-**M:**&ensp;That is how it appears to you. What in your case occupies the entire field of consciousness, is a mere speck in mine. The world lasts, but for a moment. It is your memory that makes you think that the world continues. Myself, I don’'t live by memory. I see the world as it is, a momentary appearance in consciousness.
+**M:**&ensp;That is how it appears to you. What in your case occupies the entire field of consciousness, is a mere speck in mine. The world lasts, but for a moment. It is your memory that makes you think that the world continues. Myself, I don’t live by memory. I see the world as it is, a momentary appearance in consciousness.
 
 **Q:**&ensp;In *your* consciousness?
 
