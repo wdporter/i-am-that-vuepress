@@ -3,7 +3,7 @@ module.exports = {
 	description: "I Am That — Dialogues of Sri Nisargadatta Maharaj",
 	lang: "en",
 	evergreen: true,
-	plugins: ['@vuepress/back-to-top'],
+	plugins: ["@vuepress/back-to-top"],
 	themeConfig: {
 		navbar: false,
 		smoothScroll: true,
