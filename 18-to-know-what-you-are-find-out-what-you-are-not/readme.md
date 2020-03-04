@@ -1,6 +1,6 @@
 # 18. To Know What You Are, Find What You Are Not
 
->To know what you are you must first investigate and know what you are not. And to know what you are not you must watch yourself carefully, rejecting all that does not necessarily go with the basic fact: ‘I am’ … Our usual attitude is of “I am this”. Separate consistently and perseveringly the ‘I am’ from ‘this’ or ‘that’.
+>To know what you are you must first investigate and know what you are not. And to know what you are not you must watch yourself carefully, rejecting all that does not necessarily go with the basic fact: ‘I am’ … Our usual attitude is of ‘I am this’. Separate consistently and perseveringly the ‘I am’ from ‘this’ or ‘that’.
 
 **Questioner:**&ensp;Your way of describing the universe as consisting of matter, mind and spirit is one of the many. There are other patterns to which the universe is expected to conform, and one is at a loss to know which pattern is true and which is not. One ends in suspecting that all patterns are only verbal and that no pattern can contain reality. According to you, reality consists of three expanses: The expanse of matter–energy (<span class=tooltip>mahadakash<span class=tooltiptext>The great expanse of existence, the universe of matter and energy.</span></span>), the expanse of consciousness (<span class=tooltip>chidakash<span class=tooltiptext>[*chit*, to perceive + *akash*, expanse, sky] Brahman in its aspect of limitless knowledge, the expanse of awareness. Variously used for consciousness, individual as well as universal.</span></span>) and of pure spirit (<span class=tooltip>paramakash<span class=tooltiptext>The great expanse, the timeless and spaceless reality; the Absolute being.</span></span>). The first is something that has both movement and inertia. That we perceive. We also know that we perceive — we are conscious and also aware of being conscious. Thus, we have two: matter–energy and consciousness. Matter seems to be in space while energy is always in time, being connected with change and measured by the rate of change. Consciousness seems to be somehow here and now, in a single point of time and space. But you seem to suggest that consciousness too is universal — which makes it timeless, spaceless and impersonal. I can somehow understand that there is no contradiction between the timeless and spaceless and the here and now, but impersonal consciousness I cannot fathom. To me consciousness is always focalised, centred, individualised: a person. You seem to say that there can be perceiving without a perceiver, knowing without a knower, loving without a lover, acting without an actor. I feel that the trinity of knowing, knower and known can be seen in every movement of life. Consciousness implies a conscious being, an object of consciousness and the fact of being conscious. That which is conscious I call a person. A person lives in the world, is a part of it, affects it and is affected by it. 
 
@@ -52,11 +52,11 @@
 
 **Q:**&ensp;I would call it rather unconscious existence: I am, but I do not know that I am.
 
-**M:**&ensp;You have said just now: “I am, but I do not know that I am”. Could you possibly say it about your being in an unconscious state?
+**M:**&ensp;You have said just now, “I am, but I do not know that I am”. Could you possibly say it about your being in an unconscious state?
 
 **Q:**&ensp;No, I could not.
 
-**M:**&ensp;You can only describe it in the past tense: “I did not know. I was unconscious”, in the sense of not remembering.
+**M:**&ensp;You can only describe it in the past tense, “I did not know. I was unconscious”, in the sense of not remembering.
 
 **Q:**&ensp;Having been unconscious, how could I remember and what?
 
@@ -110,7 +110,7 @@
 
 **M:**&ensp;You said: appear. Could you add: disappear?
 
-**Q:**&ensp;No, I cannot. I can only be aware of my and my world’s appearance. As a person, I cannot say: “the world is not”. Without a world I would not be there to say it. Because there is a world, I am there to say: “there is a world”.
+**Q:**&ensp;No, I cannot. I can only be aware of my and my world’s appearance. As a person, I cannot say, “the world is not”. Without a world I would not be there to say it. Because there is a world, I am there to say, “there is a world”.
 
 **M:**&ensp;Maybe it is the other way round. Because of you, there is a world.
 

@@ -1,6 +1,6 @@
 # 21. Who Am I?
 
->Give up all questions except one: “Who am l?”. After all, the only fact you are sure of is that you are. The ‘I am’ is certain. The ‘I am this’ is not. Struggle to find out what you are in reality.
+>Give up all questions except one: “Who am I?”. After all, the only fact you are sure of is that you are. The ‘I am’ is certain. The ‘I am this’ is not. Struggle to find out what you are in reality.
 
 **Questioner:**&ensp;We are advised to worship reality personified as God, or as the Perfect Man. We are told not to attempt the worship of the Absolute, as it is much too difficult for a brain-centred consciousness.
 
@@ -30,9 +30,9 @@
 
 **M:**&ensp;Find out. Even if I tell you that you are the witness, the silent watcher, it will mean nothing to you, unless you find the way to your own being.
 
-**Q:**&ensp;My question is: How to find the way to one‘s own being?
+**Q:**&ensp;My question is: How to find the way to one’s own being?
 
-**M:**&ensp;Give up all questions except one: “Who am l?”. After all, the only fact you are sure of is that you are. The ‘I am’ is certain. The ‘I am this’ is not. Struggle to find out what you are in reality.
+**M:**&ensp;Give up all questions except one: “Who am I?”. After all, the only fact you are sure of is that you are. The ‘I am’ is certain. The ‘I am this’ is not. Struggle to find out what you are in reality.
 
 **Q:**&ensp;I am doing nothing else for the last sixty years.
 
@@ -68,7 +68,7 @@
 
 **Q:**&ensp;By what sign shall l know that I am beyond sin and virtue?
 
-**M:**&ensp;By being free from all desire and fear, from the very idea of being a person. To nourish the ideas: “I am a sinner”, “I am not a sinner”, is sin. To identify oneself with the particular is all the sin there is. The impersonal is real, the personal appears and disappears. ‘I am’ is the impersonal Being. ‘I am this’ is the person. The person is relative and the pure Being — fundamental.
+**M:**&ensp;By being free from all desire and fear, from the very idea of being a person. To nourish the ideas: ‘I am a sinner’, ‘I am not a sinner’, is sin. To identify oneself with the particular is all the sin there is. The impersonal is real, the personal appears and disappears. ‘I am’ is the impersonal Being. ‘I am this’ is the person. The person is relative and the pure Being — fundamental.
 
 **Q:**&ensp;Surely pure Being is not unconscious, nor is it devoid of discrimination. How can it be beyond sin and virtue? Just tell us, please, has it intelligence or not?
 

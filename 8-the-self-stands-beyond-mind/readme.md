@@ -12,7 +12,7 @@
 
 **Q:**&ensp;How is it done?
 
-**M:**&ensp;Refuse all thoughts except one: the thought “I am”. The mind will rebel in the beginning, but with patience and perseverance it will yield and keep quiet. Once you are quiet, things will begin to happen spontaneously and quite naturally without any interference on your part.
+**M:**&ensp;Refuse all thoughts except one: the thought, “I am”. The mind will rebel in the beginning, but with patience and perseverance it will yield and keep quiet. Once you are quiet, things will begin to happen spontaneously and quite naturally without any interference on your part.
 
 **Q:**&ensp;Can I avoid this protracted battle with my mind?
 
@@ -103,7 +103,7 @@ permanency. I want to create something that lasts.
 
 **Q:**&ensp;I was born, I shall die.
 
-**M:**&ensp;Can you truly say you were not before you were born and can you possibly say when dead: “Now I am no more”? You cannot say from your own experience that you are not. You can only say “I am“. Others too cannot tell you “you are not”.
+**M:**&ensp;Can you truly say you were not before you were born and can you possibly say when dead, “Now I am no more”? You cannot say from your own experience that you are not. You can only say, “I am”. Others too cannot tell you, “you are not”.
 
 **Q:**&ensp;There is no ‘I am’ in sleep.
 

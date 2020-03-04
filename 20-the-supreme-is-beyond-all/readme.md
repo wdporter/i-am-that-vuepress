@@ -18,9 +18,9 @@
 
 **M:**&ensp;How can you? They are so contradictory! See them as they are — mere habits of thoughts and feelings, bundles of memories and urges.
 
-**Q:**&ensp;Yet they all say: “I am”.
+**Q:**&ensp;Yet they all say, “I am”.
 
-**M:**&ensp;It is only because you identify yourself with them. Once you realise that whatever appears before you cannot be yourself, and cannot say “I am”, you are free of all your ‘persons’ and their demands. The sense ‘I am’ is your own. You cannot part with it, but you can impart it to anything, as in saying: “I am young. I am rich etc.”. But such self-identifications are patently false and the cause of bondage.
+**M:**&ensp;It is only because you identify yourself with them. Once you realise that whatever appears before you cannot be yourself, and cannot say, “I am”, you are free of all your ‘persons’ and their demands. The sense ‘I am’ is your own. You cannot part with it, but you can impart it to anything, as in saying, “I am young. I am rich etc.”. But such self-identifications are patently false and the cause of bondage.
 
 **Q:**&ensp;I can now understand that I am not the person, but that which, when reflected in the person, gives it a sense of being. Now, about the Supreme? In what way do I know myself as the Supreme?
 

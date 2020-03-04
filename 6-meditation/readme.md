@@ -10,7 +10,7 @@ Incidentally practice of meditation affects deeply our character. We are slaves 
 
 **Q:**&ensp;What is the use of a quiet mind?
 
-**M:**&ensp;When the mind is quiet, we come to know ourselves as the pure witness. We withdraw from the experience and its experiencer and stand apart in pure awareness, which is between and beyond the two. The personality, based on self-identification, on imagining oneself to be something: “I am this, I am that”, continues, but only as a part of the objective world. Its identification with the witness snaps.
+**M:**&ensp;When the mind is quiet, we come to know ourselves as the pure witness. We withdraw from the experience and its experiencer and stand apart in pure awareness, which is between and beyond the two. The personality, based on self-identification, on imagining oneself to be something, “I am this, I am that”, continues, but only as a part of the objective world. Its identification with the witness snaps.
 
 **Q:**&ensp;As I can make out, I live on many levels and life on each level requires energy. The self by its very nature delights in everything and its energies flow outwards. Is it not the purpose of meditation to dam up the energies on the higher levels, or to push them back and up, so as to enable the higher levels to prosper also?
 

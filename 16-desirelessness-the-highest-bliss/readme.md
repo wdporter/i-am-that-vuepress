@@ -26,11 +26,11 @@ By liberation I mean to be permanently in that wonderful state. What I am asking
 
 **Q:**&ensp;I may not remember, but that does not disprove my being occasionally unconscious.
 
-**M:**&ensp;Why not turn away from the experience to the experiencer and realise the full import of the only true statement you can make: ‘I am’?
+**M:**&ensp;Why not turn away from the experience to the experiencer and realise the full import of the only true statement you can make: “I am”?
 
 **Q:**&ensp;How is it done?
 
-**M:**&ensp;There is no “how” here. Just keep in mind the feeling ‘I am’, merge in it, until your mind and feeling become one. By repeated attempts you will stumble on the right balance of attention and affection and your mind will be firmly established in the thought-feeling ‘I am’. Whatever you think, say or do, this sense of immutable and affectionate being remains as the ever-present background of the mind.
+**M:**&ensp;There is no ‘how’ here. Just keep in mind the feeling ‘I am’, merge in it, until your mind and feeling become one. By repeated attempts you will stumble on the right balance of attention and affection and your mind will be firmly established in the thought-feeling ‘I am’. Whatever you think, say or do, this sense of immutable and affectionate being remains as the ever-present background of the mind.
 
 **Q:**&ensp;And you call it liberation?
 
@@ -113,7 +113,7 @@ transient, and only the ‘I am’ endures.
 
 **Q:**&ensp;I do believe you, but when it comes to the actual finding of this inner self, I find it escapes me.
 
-**M:**&ensp;The idea “it escapes me”, where does it arise?
+**M:**&ensp;The idea, ‘it escapes me’, where does it arise?
 
 **Q:**&ensp;In the mind.
 
@@ -121,7 +121,7 @@ transient, and only the ‘I am’ endures.
 
 **Q:**&ensp;The witness of the mind knows the mind.
 
-**M:**&ensp;Did anybody come to you and say: “I am the witness of your mind”?
+**M:**&ensp;Did anybody come to you and say, “I am the witness of your mind”?
 
 **Q:**&ensp;Of course not. He would have been just another idea in the mind.
 
