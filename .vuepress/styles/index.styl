@@ -1,5 +1,15 @@
 blockquote p {
 	color: $textColor;
+	font-style: italic;
+	text-align:center;
+}
+
+blockquote p::before {
+	content: "“";
+}
+
+blockquote p::after {
+	content: "”";
 }
 
 .tooltip {

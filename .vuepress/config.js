@@ -54,6 +54,12 @@ module.exports = {
 					"/translators-note/",
 					"/editors-note/"
 				]
+			},
+			{
+				title: "Back Matter",
+				children: [
+					"/glossary/"
+				]
 			}
 		]
 	}

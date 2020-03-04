@@ -10,6 +10,8 @@ pageClass: glossary-class
 
 **Brahma:**&ensp;one of the gods of the Hindu trinity: Brahma, the creator; Vishnu, the preserver; Shiva, the destroyer.
 
+**Brahman:**&ensp;the Absolute, the Ultimate Reality, whose characteristics are absolute existence (*sat*), absolute consciousness (*chit*) and absolute bliss (*ananda*). According to Shankaracharya, Brahman, the Absolute has five different phases: *Hiranyagarbha*, the Cosmic Self; *Ishvara*, the personal god in the form of an avatar; *jiva*, the individual soul; *prakriti*, the perishable nature and *shakti*, the creative power.
+
 **<em>buddhi:</em>**&ensp;intelligence, the reflection of the real in the mind (*bodhati*, to discern, to know). *Buddhi* is that faculty which enables the mind to perceive objects in the phenomenal world. As long as *buddhi* is functioning through the medium of the mind, it is not possible to know pure consciousness. (*Budh*, to wake up, observe).
 
 **<em>chetana:</em>**&ensp;consciousness, inner awakening.
@@ -38,6 +40,10 @@ pageClass: glossary-class
 
 **<em>mana, manas:</em>**&ensp;the mind, understanding (*man*, to think). *Manas* is the thinking faculty, the faculty of discrimination. In *Nyaya* philosophy, *manas* is regarded as a substance distinct from *Atman*, the soul.
 
+**<em>mantra:</em>**&ensp;incantation, hymn, an instrument of thought, ideal sounds visualised as letters and vocalised as syllables. A mantra is a group of words whose constant repetition produces specific results.
+
+**<em>neti-neti:</em>**&ensp;not this; not this, the analytic process of progressively negating all names and forms (*nama–rupa*) of which the world is made in order to arrive at the eternal, Ultimate Truth.
+
 **Parabrahman:**&ensp;the Supreme Reality.
 
 **<em>paramakash:</em>**&ensp;the great expanse, the timeless and spaceless reality; the Absolute being.
@@ -53,6 +59,8 @@ pageClass: glossary-class
 **<em>sadchitananda:</em>**&ensp;the ultimate principle with the three attributes in absolute perfection (*sat*, being + *chit*, consciousness + *ananda*, bliss).
 
 **<em>sadguru:</em>**&ensp;the true spiritual teacher.
+
+**<em>sadhana:</em>**&ensp;the practice which produces success, *siddhi*.
 
 **<em>samadhi</em>**&ensp;superconscious state, profound meditation, trance, rapturous absorption. A practice of *yoga* in which the seeker (*sadhaka*) becomes one with the object of his meditation (*sadhya*), thus attaining unqualified bliss. “*Samadhi* is a state in which you transcend the bounds of your body, mind and self-identity, and merge into an undifferentiated unity with all that is”.
 
