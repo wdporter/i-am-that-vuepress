@@ -4,6 +4,8 @@ pageClass: glossary-class
 
 # Glossary
 
+**<em>akash:</em>**&ensp;the void, an element of space, sky.
+
 **<em>antahkarana:</em>**&ensp;the psyche, mind. Mind in a collective sense, including intelligence (*buddhi*), ego (*ahamkara*) and mind (*manas*).
 
 **<em>avyakta:</em>**&ensp;unmanifest. Opposite is *vyakta*.
@@ -38,11 +40,19 @@ pageClass: glossary-class
 
 **<em>mahadakash:</em>**&ensp;the great expanse of existence, the universe of matter and energy.
 
+**<em>mahakarta:</em>**&ensp;the great doër. Mind is the great doer, for it is every busy, ever engaged in something or the other.
+
+**<em>Mahatma:</em>**&ensp;enlightened being.
+
 **<em>mana, manas:</em>**&ensp;the mind, understanding (*man*, to think). *Manas* is the thinking faculty, the faculty of discrimination. In *Nyaya* philosophy, *manas* is regarded as a substance distinct from *Atman*, the soul.
 
 **<em>mantra:</em>**&ensp;incantation, hymn, an instrument of thought, ideal sounds visualised as letters and vocalised as syllables. A mantra is a group of words whose constant repetition produces specific results.
 
 **<em>neti-neti:</em>**&ensp;not this; not this, the analytic process of progressively negating all names and forms (*nama–rupa*) of which the world is made in order to arrive at the eternal, Ultimate Truth.
+
+**<em>nirguna:</em>**&ensp;the unconditioned, without form, qualities and attributes.
+
+**<em>nivritti:</em>**&ensp;liberation from worldly existence, renunciation.
 
 **Parabrahman:**&ensp;the Supreme Reality.
 
@@ -50,7 +60,11 @@ pageClass: glossary-class
 
 **<em>pragna:</em>**&ensp;cognitive consciousness, pure awareness, higher consciousness.
 
+**<em>pralaya:</em>**&ensp;complete dissolution, merger of the cosmos with the unmanifested Absolute — the Supreme Reality.
+
 **<em>prana:</em>**&ensp;the breath of life, vital principle.
+
+**<em>pravritti:</em>**&ensp;penchant, predilection towards worldly life.
 
 **<em>premakash:</em>**&ensp;*Brahman* in its aspect of limitless love. It is another name for *chidakash*, but it lays stress on the love aspect not on the knowledge aspect. Love is the expression of the Self through the heart.
 
@@ -61,6 +75,8 @@ pageClass: glossary-class
 **<em>sadguru:</em>**&ensp;the true spiritual teacher.
 
 **<em>sadhana:</em>**&ensp;the practice which produces success, *siddhi*.
+
+**<em>saguna:</em>**&ensp;manifested condition with the three *gunas*, qualities — *sattva*, *rajas* and *tamas*. The Supreme Absolute conceived of as possessing qualities like love, mercy etc., as distinguished from the undifferentiated Absolute of the *Advaita Vedanta*.
 
 **<em>samadhi</em>**&ensp;superconscious state, profound meditation, trance, rapturous absorption. A practice of *yoga* in which the seeker (*sadhaka*) becomes one with the object of his meditation (*sadhya*), thus attaining unqualified bliss. “*Samadhi* is a state in which you transcend the bounds of your body, mind and self-identity, and merge into an undifferentiated unity with all that is”.
 
@@ -77,6 +93,10 @@ pageClass: glossary-class
 **<em>turiya:</em>**&ensp;the superconscious state of *samadhi*, (*turiya*, fourth), the fourth state of soul in which it becomes one with *Brahman*, the highest awareness.
 
 **<em>tyaga:</em>**&ensp;renunciation. *Tyaga* is the renunciation of the fruits of all works: i.e., the *tyagi* should perform *karma* with detachment and with no desire for results.
+
+**<em>vairagya:</em>**&ensp;dispassion, indifference to the pains and pleasures of the material world.
+
+**<em>viveka:</em>**&ensp;discrimination; discrimination between the true and the false, the real and the unreal. *Viveka* is an expression of the spiritual consciousness hidden behind the mind. It leads to *vairagya*.
 
 **<em>vyakta:</em>**&ensp;manifest matter, the evolved nature. Opposite is *avyakta*.
 
