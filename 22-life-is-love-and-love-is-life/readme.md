@@ -56,7 +56,7 @@
 
 **Q:**&ensp;All are moved by the same power: what is the difference?
 
-**M:**&ensp;This only: The realised man knows what others merely hear; but don’t experience. Intellectually they may seem convinced, but in action they betray their bondage, while the realised man is always right.
+**M:**&ensp;This only: The realised man *knows* what others merely hear; but don’t experience. Intellectually they may seem convinced, but in action they betray their bondage, while the realised man is always right.
 
 **Q:**&ensp;Everybody says, “I am”. The realised man too says, “I am”. Where is the difference?
 

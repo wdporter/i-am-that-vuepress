@@ -44,7 +44,9 @@ module.exports = {
 				children: [
 					"/21-who-am-i/",
 					"/22-life-is-love-and-love-is-life/",
-					"/23-discrimination-leads-to-detachment/"
+					"/23-discrimination-leads-to-detachment/",
+					"/24-god-is-the-all-doer-the-jnani-a-non-doer/",
+					"/25-hold-on-to-i-am/"
 				]
 			},
 			{
