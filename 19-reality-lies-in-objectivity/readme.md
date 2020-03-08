@@ -40,7 +40,7 @@
 
 **Q:**&ensp;People talk of seeing God.
 
-**M:**&ensp;When you see the world you see God. There is no seeing God, apart from the world. Beyond the world to see God is to be God. The light by which you see the world, which is God, is the tiny little spark: ‘I am’, apparently so small, yet the first and the last in every act of knowing and loving.
+**M:**&ensp;When you see the world you see God. There is no seeing God, apart from the world. Beyond the world to see God is to be God. The light by which you see the world, which is God, is the tiny little spark: ‘I Am’, apparently so small, yet the first and the last in every act of knowing and loving.
 
 **Q:**&ensp;Must I see the world to see God?
 
@@ -60,11 +60,11 @@
 
 **Q:**&ensp;How can I see the world as God? What does it mean to see the world as God?
 
-**M:**&ensp;It is like entering a dark room. You see nothing — you may touch, but you do not see — no colours, no outlines. The window opens and the room is flooded with light. Colours and shapes come into being. The window is the giver of light, but not the source of it. The sun is the source. Similarly, matter is like the dark room: consciousness — the window — flooding matter with sensations and perceptions, and the Supreme is the sun the source both of matter and of light. The window may be closed, or open, the sun shines all the time. It makes all the difference to the room, but none to the sun. Yet all this is secondary to the tiny little thing which is the ‘I am’. Without the ‘I am’ there is nothing. All knowledge is about the ‘I am’. False ideas about this ‘I am’ lead to bondage, right knowledge leads to freedom and happiness.
+**M:**&ensp;It is like entering a dark room. You see nothing — you may touch, but you do not see — no colours, no outlines. The window opens and the room is flooded with light. Colours and shapes come into being. The window is the giver of light, but not the source of it. The sun is the source. Similarly, matter is like the dark room: consciousness — the window — flooding matter with sensations and perceptions, and the Supreme is the sun the source both of matter and of light. The window may be closed, or open, the sun shines all the time. It makes all the difference to the room, but none to the sun. Yet all this is secondary to the tiny little thing which is the ‘I Am’. Without the ‘I Am’ there is nothing. All knowledge is about the ‘I Am’. False ideas about this ‘I Am’ lead to bondage, right knowledge leads to freedom and happiness.
 
-**Q:**&ensp;Is ‘I am’ and ‘there is’ the same?
+**Q:**&ensp;Is ‘I Am’ and ‘there is’ the same?
 
-**M:**&ensp;‘I am’ denotes the inner, ‘there is’ — the outer. Both are based on the sense of being.
+**M:**&ensp;‘I Am’ denotes the inner, ‘there is’ — the outer. Both are based on the sense of being.
 
 **Q:**&ensp;Is it the same as the experience of existence?
 

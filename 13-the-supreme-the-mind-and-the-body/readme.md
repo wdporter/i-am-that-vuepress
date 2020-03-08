@@ -72,7 +72,7 @@
 
 **Q:**&ensp;But he remains a person?
 
-**M:**&ensp;When you believe yourself to be a person, you see persons everywhere. In reality there are no persons, only threads of memories and habits. At the moment of realisation the person ceases. Identity remains, but identity is not a person, it is inherent in the reality itself. The person has no being in itself; it is a reflection in the mind of the witness, the ‘I am’, which again is a mode of being.
+**M:**&ensp;When you believe yourself to be a person, you see persons everywhere. In reality there are no persons, only threads of memories and habits. At the moment of realisation the person ceases. Identity remains, but identity is not a person, it is inherent in the reality itself. The person has no being in itself; it is a reflection in the mind of the witness, the ‘I Am’, which again is a mode of being.
 
 **Q:**&ensp;Is the Supreme conscious?
 

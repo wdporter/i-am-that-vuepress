@@ -4,7 +4,7 @@
 
 **Questioner:**&ensp;Without God’s power nothing can be done. Even you would not be sitting here and talking to us without Him.
 
-**Maharaj:**&ensp;All is His doing, no doubt. What is it to me, since I want nothing? What can God give me, or take away from me? What is mine is mine and was mine even when God was not. Of course, it is a very tiny little thing, a speck — the sense ‘I am’, the fact of being. This is my own place, nobody gave it to me. The earth is mine; what grows on it is God’s.
+**Maharaj:**&ensp;All is His doing, no doubt. What is it to me, since I want nothing? What can God give me, or take away from me? What is mine is mine and was mine even when God was not. Of course, it is a very tiny little thing, a speck — the sense ‘I Am’, the fact of being. This is my own place, nobody gave it to me. The earth is mine; what grows on it is God’s.
 
 **Q:**&ensp;Did God take the earth on rent from you?
 
@@ -12,7 +12,7 @@
 
 **Q:**&ensp;Is there no God apart from you?
 
-**M:**&ensp;How can there be? ‘I am’ is the root, God is the tree. Whom am I to worship, and what for?
+**M:**&ensp;How can there be? ‘I Am’ is the root, God is the tree. Whom am I to worship, and what for?
 
 **Q:**&ensp;Are you the devotee or the object of devotion?
 

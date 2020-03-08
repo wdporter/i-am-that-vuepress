@@ -20,7 +20,7 @@
 
 **Q:**&ensp;How are we to distinguish the inner from the outer in actual experience?
 
-**M:**&ensp;The inner is the source of inspiration, the outer is moved by memory. The source is untraceable, while all memory begins somewhere. Thus the outer is always determined, while the inner cannot be held in words. The mistake of students consists in their imagining the inner to be something to get hold of, and forgetting that all perceivables are transient and, therefore, unreal. Only that which makes perception possible, call it Life or <span class=tooltip>Brahman<span class=tooltiptext>The Absolute, the Ultimate Reality, whose characteristics are absolute existence (*sat*), absolute consciousness (*chit*) and absolute blis(*ananda*). According to Shankaracharya, Brahman, the Absolute has five different phases: *Hiranyagarbha*, the Cosmic Self; *Ishvara*, the personal god in the form of an avatar; *jiva*, the individual soul; *prakriti*, the perishable nature and and *shakti*, the creative power.</span></span>, or what you like, is real.
+**M:**&ensp;The inner is the source of inspiration, the outer is moved by memory. The source is untraceable, while all memory begins somewhere. Thus the outer is always determined, while the inner cannot be held in words. The mistake of students consists in their imagining the inner to be something to get hold of, and forgetting that all perceivables are transient and, therefore, unreal. Only that which makes perception possible, call it Life or <span class=tooltip>Brahman<span class=tooltiptext>The Absolute, the Ultimate Reality, whose characteristics are absolute existence (*sat*), absolute consciousness (*chit*) and absolute bliss(*ananda*). According to Shankaracharya, Brahman, the Absolute has five different phases: *Hiranyagarbha*, the Cosmic Self; *Ishvara*, the personal god in the form of an avatar; *jiva*, the individual soul; *prakriti*, the perishable nature and and *shakti*, the creative power.</span></span>, or what you like, is real.
 
 **Q:**&ensp;Must Life have a body for its self-expression?
 
@@ -60,7 +60,7 @@
 
 **Q:**&ensp;Everybody says, “I am”. The realised man too says, “I am”. Where is the difference?
 
-**M:**&ensp;The difference is in the meaning attached to the words ‘I am’. With the realised man the experience ‘I am the world, the world is mine’ is supremely valid — he thinks, feels and acts integrally and in unity with all that lives. He may not even know the theory and practice of self-realisation, and be born and bred free of religious and metaphysical notions. But there will not be the least flaw in his understanding and compassion.
+**M:**&ensp;The difference is in the meaning attached to the words ‘I Am’. With the realised man the experience ‘I am the world, the world is mine’ is supremely valid — he thinks, feels and acts integrally and in unity with all that lives. He may not even know the theory and practice of self-realisation, and be born and bred free of religious and metaphysical notions. But there will not be the least flaw in his understanding and compassion.
 
 **Q:**&ensp;I may come across a beggar, naked and hungry and ask him, “Who are you?”. He may answer, “I am the Supreme Self”. “Well”, I say, “suffice you are the Supreme, change your present state”. What will he do?
 

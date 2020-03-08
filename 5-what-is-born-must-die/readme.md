@@ -48,4 +48,4 @@
 
 **Q:**&ensp;Tenacity and honesty are endowments, surely! Not a trace of them I have.
 
-**M:**&ensp;All will come as you go on. Take the first step first. All blessings come from within. Turn within. ‘I am’ you know. Be with it all the time you can spare, until you revert to it spontaneously. There is no simpler and easier way.
+**M:**&ensp;All will come as you go on. Take the first step first. All blessings come from within. Turn within. ‘I Am’ you know. Be with it all the time you can spare, until you revert to it spontaneously. There is no simpler and easier way.

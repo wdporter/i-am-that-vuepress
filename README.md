@@ -15,7 +15,7 @@ footer: MIT Licensed | Copyright © 2020-present no-one
 —Sankaracharya
 
 *The seeker is he who is in search of himself.*  
-*Give up all questions except one: “Who am I?”. After all, the only fact you are sure of is that you are. The ‘I am’ is certain. The ‘I am this’ is not. Struggle to find out what you are in reality.*  
+*Give up all questions except one: “Who am I?”. After all, the only fact you are sure of is that you are. The ‘I Am’ is certain. The ‘I am this’ is not. Struggle to find out what you are in reality.*  
 *To know what you are, you must first investigate and know what you are not.*  
 *Discover all that you are not — body, feelings thoughts, time, space, this or that — nothing, concrete or abstract, which you perceive can be you. The very act of perceiving shows that you are not what you perceive.*  
 *The clearer you understand on the level of mind you can be described in negative terms only, the quicker will you come to the end of your search and realise that you are the limitless being.*  
