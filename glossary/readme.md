@@ -6,9 +6,15 @@ pageClass: glossary-class
 
 **<em>akash:</em>**&ensp;the void, an element of space, sky.
 
+**<em>ananda:</em>**&ensp;bliss, happiness.
+
 **<em>antahkarana:</em>**&ensp;the psyche, mind. Mind in a collective sense, including intelligence (*buddhi*), ego (*ahamkara*) and mind (*manas*).
 
 **<em>avyakta:</em>**&ensp;unmanifest. Opposite is *vyakta*.
+
+**<em>bhoga:</em>**&ensp;sense enjoyment, experience of worldly joys and sorrows.
+
+**<em>bhogi:</em>**&ensp;a *bhogi* is one involved in worldly joys and sorrows. *Bhoga marga*, is the path of worldly pursuits — joys and sorrows.
 
 **Brahma:**&ensp;one of the gods of the Hindu trinity: Brahma, the creator; Vishnu, the preserver; Shiva, the destroyer.
 
@@ -38,6 +44,8 @@ pageClass: glossary-class
 
 **<em>karma:</em>**&ensp;cause, the primary cause invariably antecedent to a result, the unmanifested potential cause that in due course takes shape as the visible effect, the material cause of the universe. *karana* is cosmic energy in potential form.
 
+**<em>lila:</em>**&ensp;play, sport, the cosmos looked upon as the divine play; “effortless or playful relation between the Absolute,or Brahman, and the contingent world”.
+
 **<em>mahadakash:</em>**&ensp;the great expanse of existence, the universe of matter and energy.
 
 **<em>mahakarta:</em>**&ensp;the great doër. Mind is the great doer, for it is every busy, ever engaged in something or the other.
@@ -47,6 +55,8 @@ pageClass: glossary-class
 **<em>mana, manas:</em>**&ensp;the mind, understanding (*man*, to think). *Manas* is the thinking faculty, the faculty of discrimination. In *Nyaya* philosophy, *manas* is regarded as a substance distinct from *Atman*, the soul.
 
 **<em>mantra:</em>**&ensp;incantation, hymn, an instrument of thought, ideal sounds visualised as letters and vocalised as syllables. A mantra is a group of words whose constant repetition produces specific results.
+
+**<em>marga:</em>**&ensp;path.
 
 **<em>neti-neti:</em>**&ensp;not this; not this, the analytic process of progressively negating all names and forms (*nama–rupa*) of which the world is made in order to arrive at the eternal, Ultimate Truth.
 
@@ -68,6 +78,8 @@ pageClass: glossary-class
 
 **<em>premakash:</em>**&ensp;*Brahman* in its aspect of limitless love. It is another name for *chidakash*, but it lays stress on the love aspect not on the knowledge aspect. Love is the expression of the Self through the heart.
 
+**<em>purna:</em>**&ensp;full, complete, absolute, infinite.
+
 **<em>rajas:</em>**&ensp;motivity, activity, energy. One of the three *gunas* or qualities of matter: *sattva*, *rajas* and *tamas*. In *yoga*, egoism.
 
 **<em>sadchitananda:</em>**&ensp;the ultimate principle with the three attributes in absolute perfection (*sat*, being + *chit*, consciousness + *ananda*, bliss).
@@ -82,9 +94,15 @@ pageClass: glossary-class
 
 **<em>samskara:</em>**&ensp;“imprints left on the subconscious by experiences in past lives or the present life and which determine and condition one’s desires and actions”. Mental impression, memory. Also called *vasana*, residual impression.
 
+**<em>sat:</em>**&ensp;“the ideal; pure and true essence (nature)” of an entity or existence. It can thus be concluded as “the self-existent or universal spirit, Brahman”. Opposite is ‘*asat*’.
+
 **<em>sattva:</em>**&ensp;being, existence, true essence. In *yoga* the quality of purity or goodness; *sattvic* — pure, true.
 
 **<em>satyakama:</em>**&ensp;he who longs for the sublime truth.
+
+**<em>satyam–shivam–sundaram:</em>**&ensp;the true, the good, the beautiful.
+
+**Shiva:**&ensp;one of the gods of the Hindu trinity — Brahma, the creator; Vishnu, the preserver and Shiva, the destroyer. Shiva actually means auspicious, propitious. Destruction ofthe cosmos by the god Shiva is a propitious act, for destruction precedes creation. Shiva is absolute love of the ‘I-principle’ in a man. As a destroyer, he brings about the total annihilation of the human ego.
 
 **<em>swarupa:</em>**&ensp;one’s own form, nature, character.
 
