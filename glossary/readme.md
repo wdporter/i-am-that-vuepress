@@ -4,6 +4,8 @@ pageClass: glossary-class
 
 # Glossary
 
+**<em>Adhi Yoga:</em>**&ensp;[*adhi*, above, supreme + *yoga*] the Supreme Yoga.
+
 **<em>akash:</em>**&ensp;the void, an element of space, sky.
 
 **<em>ananda:</em>**&ensp;bliss, happiness.
@@ -50,9 +52,13 @@ pageClass: glossary-class
 
 **<em>mahakarta:</em>**&ensp;the great doër. Mind is the great doer, for it is every busy, ever engaged in something or the other.
 
+**<em>mahamantra:</em>**&ensp;the great incantation (see *mantra*).
+
 **<em>Mahatma:</em>**&ensp;enlightened being.
 
 **<em>mana, manas:</em>**&ensp;the mind, understanding (*man*, to think). *Manas* is the thinking faculty, the faculty of discrimination. In *Nyaya* philosophy, *manas* is regarded as a substance distinct from *Atman*, the soul.
+
+**<em>manana:</em>**&ensp;meditation, reflection.
 
 **<em>mantra:</em>**&ensp;incantation, hymn, an instrument of thought, ideal sounds visualised as letters and vocalised as syllables. A mantra is a group of words whose constant repetition produces specific results.
 
@@ -61,6 +67,10 @@ pageClass: glossary-class
 **<em>neti-neti:</em>**&ensp;not this; not this, the analytic process of progressively negating all names and forms (*nama–rupa*) of which the world is made in order to arrive at the eternal, Ultimate Truth.
 
 **<em>nirguna:</em>**&ensp;the unconditioned, without form, qualities and attributes.
+
+**<em>nirvana:</em>**&ensp;“a state of ‘ultimate’ peace that is achieved with the uprooting and final dissolution of the volitional formations”. Liberation from matter and union with the Supreme Spirit (Brahman).
+
+**<em>nisarga:</em>**&ensp;natural, innate, inborn.
 
 **<em>nivritti:</em>**&ensp;liberation from worldly existence, renunciation.
 
@@ -86,6 +96,8 @@ pageClass: glossary-class
 
 **<em>sadguru:</em>**&ensp;the true spiritual teacher.
 
+**<em>sadhaka:</em>**&ensp;spiritual aspirant.
+
 **<em>sadhana:</em>**&ensp;the practice which produces success, *siddhi*.
 
 **<em>saguna:</em>**&ensp;manifested condition with the three *gunas*, qualities — *sattva*, *rajas* and *tamas*. The Supreme Absolute conceived of as possessing qualities like love, mercy etc., as distinguished from the undifferentiated Absolute of the *Advaita Vedanta*.
@@ -103,6 +115,10 @@ pageClass: glossary-class
 **<em>satyam–shivam–sundaram:</em>**&ensp;the true, the good, the beautiful.
 
 **Shiva:**&ensp;one of the gods of the Hindu trinity — Brahma, the creator; Vishnu, the preserver and Shiva, the destroyer. Shiva actually means auspicious, propitious. Destruction ofthe cosmos by the god Shiva is a propitious act, for destruction precedes creation. Shiva is absolute love of the ‘I-principle’ in a man. As a destroyer, he brings about the total annihilation of the human ego.
+
+**<em>shravana:</em>**&ensp;hearing of the scriptures, the act of hearing.
+
+**<em>smarana:</em>**&ensp;remembrance, mental recitation.
 
 **<em>swarupa:</em>**&ensp;one’s own form, nature, character.
 

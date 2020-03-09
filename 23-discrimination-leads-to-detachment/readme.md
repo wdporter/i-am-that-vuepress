@@ -1,6 +1,6 @@
 # 23. Discrimination Leads to Detachment
 
->viveka-vairagya
+>See your world as it is, not as you imagine it to be. Discrimination will lead to detachment; detachment will ensure right action; right action will build the inner bridge to your real being.
 
 **Maharaj:**&ensp;You are all drenched for it is raining hard. In my world it is always fine weather. There is no night or day, no heat or cold. No worries beset me there, nor regrets. My mind is free of thoughts, for there are no desires to slave for.
 
@@ -150,4 +150,4 @@
 
 **Q:**&ensp;To be a superman one must be a man first. Manhood is the fruit of innumerable experiences: Desire drives to experience. Hence at its own time and level desire is right.
 
-**M:**&ensp;All this is true in a way. But a day comes when you have amassed enough and must begin to build. Then sorting out and discarding (viveka-vairagya) are absolutely necessary. Everything must be scrutinised and the unnecessary ruthlessly destroyed. Believe me, there cannot be too much destruction. For in reality nothing is of value. Be passionately dispassionate — that is all. 
+**M:**&ensp;All this is true in a way. But a day comes when you have amassed enough and must begin to build. Then sorting out and discarding (<span class=tooltip>viveka<span class=tooltiptext>Discrimination; discrimination between the true and the false, the real and the unreal. *Viveka* is an expression of the spiritual consciousness hidden behind the mind. It leads to *vairagya*.</span></span>–<span class=tooltip>vairagya<span class=tooltiptext>Dispassion, indifference to the pains and pleasures of the material world.</span></span>) are absolutely necessary. Everything must be scrutinised and the unnecessary ruthlessly destroyed. Believe me, there cannot be too much destruction. For in reality nothing is of value. Be passionately dispassionate — that is all. 
