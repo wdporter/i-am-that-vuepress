@@ -4,6 +4,8 @@ pageClass: glossary-class
 
 # Glossary
 
+**<em>adhar:</em>**&ensp;support.
+
 **<em>Adhi Yoga:</em>**&ensp;[*adhi*, above, supreme + *yoga*] the Supreme Yoga.
 
 **<em>akash:</em>**&ensp;the void, an element of space, sky.
@@ -11,6 +13,8 @@ pageClass: glossary-class
 **<em>ananda:</em>**&ensp;bliss, happiness.
 
 **<em>antahkarana:</em>**&ensp;the psyche, mind. Mind in a collective sense, including intelligence (*buddhi*), ego (*ahamkara*) and mind (*manas*).
+
+**<em>atmaram:</em>**&ensp;rejoicing in the Self.
 
 **<em>avyakta:</em>**&ensp;unmanifest. Opposite is *vyakta*.
 
@@ -22,13 +26,21 @@ pageClass: glossary-class
 
 **Brahman:**&ensp;the Absolute, the Ultimate Reality, whose characteristics are absolute existence (*sat*), absolute consciousness (*chit*) and absolute bliss (*ananda*). According to Shankaracharya, Brahman, the Absolute has five different phases: *Hiranyagarbha*, the Cosmic Self; *Ishvara*, the personal god in the form of an avatar; *jiva*, the individual soul; *prakriti*, the perishable nature and *shakti*, the creative power.
 
+**<em>Brahmasmi:</em>**&ensp;(Brahman, the Supreme + *asmi*, I am, as, to be] I am the Supreme. ‘I am’ (*asmi*) represents the pure awareness of self-existence and is therefore the expression of pure consciousness or the *Purusha*. When this pure consciousness gets involved in matter, the pure ‘I am’ changes into ‘I am that’, ‘I am so-and-so’.
+
 **<em>buddhi:</em>**&ensp;intelligence, the reflection of the real in the mind (*bodhati*, to discern, to know). *Buddhi* is that faculty which enables the mind to perceive objects in the phenomenal world. As long as *buddhi* is functioning through the medium of the mind, it is not possible to know pure consciousness. (*Budh*, to wake up, observe).
 
 **<em>chetana:</em>**&ensp;consciousness, inner awakening.
 
 **<em>chidakash:</em>**&ensp;[*chit*, to perceive + *akash*, expanse, sky] Brahman in its aspect of limitless knowledge, the expanse of awareness. Variously used for consciousness, individual as well as universal.
 
+**<em>chidananda:</em>**&ensp;consciousness–bliss, the joy of spirit.
+
+**<em>chidaram:</em>**&ensp;joy of consciousness.
+
 **<em>chit:</em>**&ensp;universal consciousness.
+
+**<em>chitta:</em>**&ensp;individual consciousness. It may be described as a product of both consciousness and matter or *purusha* and *prakriti*. *Chitta* comprises all the levels of mind, the lowest of which is *manas*.
 
 **<em>deha:</em>**&ensp;physical body.
 
@@ -41,6 +53,8 @@ pageClass: glossary-class
 **<em>jnana:</em>**&ensp;knowledge, especially the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”. (*jna*, to know; *jnani*, the knower).
 
 **<em>jnani:</em>**&ensp;the knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.
+
+**<em>kalpana:</em>**&ensp;imagination, fancy.
 
 **<em>karana:</em>**&ensp;cause, the primary cause invariably antecedent to a result, the unmanifested potential cause that in due course takes shape as the visibile effect, the material cause of the universe. *Karana* is cosmic energy in potential form.
 
@@ -55,6 +69,8 @@ pageClass: glossary-class
 **<em>mahamantra:</em>**&ensp;the great incantation (see *mantra*).
 
 **<em>Mahatma:</em>**&ensp;enlightened being.
+
+**<em>mahavakya:</em>**&ensp;the sublime pronouncement. Four Upanishadic declarations, expressing the highest Vedantic truths, are known as *Mahavakya*s. They are: *Prajnanam Brahman* (consciousness is *Brahman*), *aham Brahmasmi* (I am *Brahman*), *tat tvam asi* (That Thou Art) and *ayam atma Brahma* (the self is Brahman).
 
 **<em>mana, manas:</em>**&ensp;the mind, understanding (*man*, to think). *Manas* is the thinking faculty, the faculty of discrimination. In *Nyaya* philosophy, *manas* is regarded as a substance distinct from *Atman*, the soul.
 
@@ -80,6 +96,8 @@ pageClass: glossary-class
 
 **<em>pragna:</em>**&ensp;cognitive consciousness, pure awareness, higher consciousness.
 
+**<em>prakriti:</em>**&ensp;the cosmic substance, the original uncaused cause of phenomenal existence, which is formless, limitless, immobile, eternal and all-pervasive, also called *avyakta*.
+
 **<em>pralaya:</em>**&ensp;complete dissolution, merger of the cosmos with the unmanifested Absolute — the Supreme Reality.
 
 **<em>prana:</em>**&ensp;the breath of life, vital principle.
@@ -89,6 +107,8 @@ pageClass: glossary-class
 **<em>premakash:</em>**&ensp;*Brahman* in its aspect of limitless love. It is another name for *chidakash*, but it lays stress on the love aspect not on the knowledge aspect. Love is the expression of the Self through the heart.
 
 **<em>purna:</em>**&ensp;full, complete, absolute, infinite.
+
+**<em>purusha:</em>**&ensp;the cosmic spirit, the eternal and efficient cause of the universe that gives appearance of consciousness to all manifestations of matter (*prakriti*). The bondage of *purusha* in matter is due to ‘I’-consciousness born of *chitta–vrittis*, which gives rise to innuumerable desires.
 
 **<em>rajas:</em>**&ensp;motivity, activity, energy. One of the three *gunas* or qualities of matter: *sattva*, *rajas* and *tamas*. In *yoga*, egoism.
 
@@ -120,9 +140,13 @@ pageClass: glossary-class
 
 **<em>smarana:</em>**&ensp;remembrance, mental recitation.
 
+**<em>soham:</em>**&ensp;‘I Am He’.
+
 **<em>swarupa:</em>**&ensp;one’s own form, nature, character.
 
 **<em>tamas:</em>**&ensp;darkness, inertia, passivity. One of the three constituents (*gunas*) of the cosmic substance: *sattava*, *rajas* and *tamas*.
+
+**<em>tat–sat:</em>**&ensp;[*tat*, that + *sat*, truth, being, reality] that is the truth. The sacred text is “*Om Tat Sat*” in which *Brahman* is identified by each of the three words.
 
 **<em>turiya:</em>**&ensp;the superconscious state of *samadhi*, (*turiya*, fourth), the fourth state of soul in which it becomes one with *Brahman*, the highest awareness.
 
