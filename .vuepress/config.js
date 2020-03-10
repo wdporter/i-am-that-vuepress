@@ -47,7 +47,9 @@ module.exports = {
 					"/23-discrimination-leads-to-detachment/",
 					"/24-god-is-the-all-doer-the-jnani-a-non-doer/",
 					"/25-hold-on-to-i-am/",
-					"/26-personality-an-obstacle/"
+					"/26-personality-an-obstacle/",
+					"/27-the-beginningless-begins-forever/",
+					"/28-all-suffering-is-born-of-desire/"
 				]
 			},
 			{
