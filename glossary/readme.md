@@ -80,6 +80,8 @@ pageClass: glossary-class
 
 **<em>marga:</em>**&ensp;path.
 
+**<em>mukmukshuttva:</em>**&ensp;right desire, which consists of earnestness to know the Ultimate Principle to attain liberation. In *Vedanta*, one of the four qualifications of the seeker of the Truth: right discrimination (*viveka*), right passion (*vairagya*), right conduct (*sat-sampat*) and right desire (*mumukshattva*). *Mumukshattva* is intense longing for liberation.
+
 **<em>neti-neti:</em>**&ensp;not this; not this, the analytic process of progressively negating all names and forms (*nama–rupa*) of which the world is made in order to arrive at the eternal, Ultimate Truth.
 
 **<em>nirguna:</em>**&ensp;the unconditioned, without form, qualities and attributes.
@@ -128,6 +130,8 @@ pageClass: glossary-class
 
 **<em>sat:</em>**&ensp;“the ideal; pure and true essence (nature)” of an entity or existence. It can thus be concluded as “the self-existent or universal spirit, Brahman”. Opposite is ‘*asat*’.
 
+**<em>satsang:</em>**&ensp;association with the true and the wise people.
+
 **<em>sattva:</em>**&ensp;being, existence, true essence. In *yoga* the quality of purity or goodness; *sattvic* — pure, true.
 
 **<em>satyakama:</em>**&ensp;he who longs for the sublime truth.
@@ -152,6 +156,8 @@ pageClass: glossary-class
 
 **<em>tyaga:</em>**&ensp;renunciation. *Tyaga* is the renunciation of the fruits of all works: i.e., the *tyagi* should perform *karma* with detachment and with no desire for results.
 
+**<em>uparati:</em>**&ensp;rest, repose, tolerance and renunciation of all sectarian observances. In *Vedanta* one of the six acquirements (*sat-sampat*): *sama*, tranquility; *dama*, self-restraint; *uprati*, tolerance; *titiksha*, endurance; *sraddha*, faith; and *samadhana*, equipoise.
+
 **<em>vairagya:</em>**&ensp;dispassion, indifference to the pains and pleasures of the material world.
 
 **<em>viveka:</em>**&ensp;discrimination; discrimination between the true and the false, the real and the unreal. *Viveka* is an expression of the spiritual consciousness hidden behind the mind. It leads to *vairagya*.
@@ -159,6 +165,8 @@ pageClass: glossary-class
 **<em>vyakta:</em>**&ensp;manifest matter, the evolved nature. Opposite is *avyakta*.
 
 **<em>vyakti:</em>**&ensp;person, the outer self.
+
+**<em>vyaktitva:</em>**&ensp;personality, limited self-identification with the body.
 
 **yoga:**&ensp;one of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).
 

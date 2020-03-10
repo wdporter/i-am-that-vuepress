@@ -1,6 +1,8 @@
 # 28. All Suffering is Born of Desire
 
->uparati; mukmukshutva; vyaktitva;satsang
+>All suffering is born of desire. True love is never frustrated. How can the sense of unity be frustrated? What can be frustrated is the desire for expression. Such desire is of the mind. As with all things mental, frustration is inevitable.
+
+
 
 **Questioner:**&ensp;I come from a far-off country. I had some inner experiences on my own and I would like to compare notes. 
 
@@ -80,19 +82,19 @@
 
 **Q:**&ensp;How does self-identification happen?
 
-**M:**&ensp;The self by its nature knows itself only. For lack of experience whatever it perceives it takes to be itself. Battered, it learns to look out (<span class=tooltip>viveka<span class=tooltiptext>Discrimination; discrimination between the true and the false, the real and the unreal. *Viveka* is an expression of the spiritual consciousness hidden behind the mind. It leads to *vairagya*.</span></span>) and to live alone (<span class=tooltip>vairagya<span class=tooltiptext>Dispassion, indifference to the pains and pleasures of the material world.</span></span>). When right behaviour (uparati), becomes normal, a powerful inner urge (mukmukshutva) makes it seek its source. The candle of the body is lighted and all becomes clear and bright.
+**M:**&ensp;The self by its nature knows itself only. For lack of experience whatever it perceives it takes to be itself. Battered, it learns to look out (<span class=tooltip>viveka<span class=tooltiptext>Discrimination; discrimination between the true and the false, the real and the unreal. *Viveka* is an expression of the spiritual consciousness hidden behind the mind. It leads to *vairagya*.</span></span>) and to live alone (<span class=tooltip>vairagya<span class=tooltiptext>Dispassion, indifference to the pains and pleasures of the material world.</span></span>). When right behaviour (<span class=tooltip>uparati<span class=tooltiptext>Rest, repose, tolerance and renunciation of all sectarian observances. In *Vedanta* one of the six acquirements (*sat-sampat*): *sama*, tranquility; *dama*, self-restraint; *uprati*, tolerance; *titiksha*, endurance; *sraddha*, faith; and *samadhana*, equipoise.</span></span>), becomes normal, a powerful inner urge (<span class=tooltip>mukmukshattva<span class=tooltiptext>Right desire, which consists of earnestness to know the Ultimate Principle to attain liberation. In *Vedanta*, one of the four qualifications of the seeker of the Truth: right discrimination (*viveka*), right passion (*vairagya*), right conduct (*sat-sampat*) and right desire (*mumukshattva*). *Mumukshattva* is intense longing for liberation.</span></span>) makes it seek its source. The candle of the body is lighted and all becomes clear and bright.
 
 **Q:**&ensp;What is the real cause of suffering?
 
-**M:**&ensp;Self-identification with the limited (vyaktitva). Sensations as such, however strong, do not cause suffering. It is the mind bewildered by wrong ideas, addicted to thinking, “I am this”, “I am that”, that fears loss and craves gain and suffers when frustrated.
+**M:**&ensp;Self-identification with the limited (<span class=tooltip>vyaktitva<span class=tooltiptext>Personality, limited self-identification with the body.</span></span>). Sensations as such, however strong, do not cause suffering. It is the mind bewildered by wrong ideas, addicted to thinking, “I am this”, “I am that”, that fears loss and craves gain and suffers when frustrated.
 
 **Q:**&ensp;A friend of mine used to have horrible dreams night after night. Going to sleep would terrorise him. Nothing could help him.
 
-**M:**&ensp;Company of the truly good (satsang) would help him.
+**M:**&ensp;Company of the truly good (<span class=tooltip>satsang<span class=tooltiptext>Association with the true and the wise people.</span></span>) would help him.
 
 **Q:**&ensp;Life itself is a nightmare.
 
-**M:**&ensp;Noble friendship (satsang) is the supreme remedy for all ills, physical and mental.
+**M:**&ensp;Noble friendship (<span class=tooltip>satsang<span class=tooltiptext>Association with the true and the wise people.</span></span>) is the supreme remedy for all ills, physical and mental.
 
 **Q:**&ensp;Generally one cannot find such friendship.
 
