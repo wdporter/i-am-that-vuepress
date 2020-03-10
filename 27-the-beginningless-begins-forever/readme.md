@@ -48,8 +48,7 @@
 
 **Q:**&ensp;Can’t they coëxist, as the tumult of the waves and the quiet of the deep coëxist in the ocean.
 
-**M:**&ensp;Beyond the mind there is no such thing as experience. Experience is a dual state. You cannot talk of reality as an experience. Once this is understood, you will no longer look for being and becoming as separate and opposite. In reality they are one and inseparable, like roots and branches of the same tree. Both can exist only in the light of consciousness, which again, arises in 
-the wake of the sense ‘I Am’. This is the primary fact. If you miss it, you miss all.
+**M:**&ensp;Beyond the mind there is no such thing as experience. Experience is a dual state. You cannot talk of reality as an experience. Once this is understood, you will no longer look for being and becoming as separate and opposite. In reality they are one and inseparable, like roots and branches of the same tree. Both can exist only in the light of consciousness, which again, arises in the wake of the sense ‘I Am’. This is the primary fact. If you miss it, you miss all.
 
 **Q:**&ensp;Is the sense of being a product of experience only? The great saying (<span class=tooltip>Mahavakya<span class=tooltiptext>he sublime pronouncement. Four Upanishadic declarations, expressing the highest Vedantic truths, are known as *Mahavakya*s. They are: *Prajnanam Brahman* (consciousness is *Brahman*), *aham Brahmasmi* (I am *Brahman*), *tat tvam asi* (That Thou Art) and *ayam atma Brahma* (the self is Brahman).</span></span>) <span class=tooltip>tat-sat<span class=tooltiptext>[*tat*, that + *sat*, truth, being, reality] That is the truth. The sacred text is “*Om Tat Sat*” in which *Brahman* is identified by each of the three words.</span></span> is it a mere mode of mentation?
 
@@ -61,8 +60,7 @@ the wake of the sense ‘I Am’. This is the primary fact. If you miss it, you 
 
 **Q:**&ensp;In your daily life are you always conscious of your real state?
 
-**M:**&ensp;Neither conscious, nor unconscious. I do not need convictions. I live on courage. Courage is my essence, which is love of life. I am free of memories and anticipations, unconcerned with what I am and what I am not. I am not addicted to self descriptions, 
-<span class=tooltip>soham<span class=tooltiptext>‘I Am He’.</span></span> and <span class=tooltip>brahmasmi<span class=tooltiptext>(Brahman, the Supreme + *asmi*, I am, as, to be] I am the Supreme. ‘I am’ (*asmi*) represents the pure awareness of self-existence and is therefore the expression of pure consciousness or the *Purusha*. When this pure consciousness gets involved in matter, the pure ‘I am’ changes into ‘I am that’, ‘I am so-and-so’.</span></span> (‘I am He’, ‘I am the Supreme’) are of no use to me, I have the courage to be as nothing and to see the world as it is: nothing. It sounds simple, just try it!
+**M:**&ensp;Neither conscious, nor unconscious. I do not need convictions. I live on courage. Courage is my essence, which is love of life. I am free of memories and anticipations, unconcerned with what I am and what I am not. I am not addicted to self descriptions, <span class=tooltip>soham<span class=tooltiptext>‘I Am He’.</span></span> and <span class=tooltip>brahmasmi<span class=tooltiptext>(Brahman, the Supreme + *asmi*, I am, as, to be] I am the Supreme. ‘I am’ (*asmi*) represents the pure awareness of self-existence and is therefore the expression of pure consciousness or the *Purusha*. When this pure consciousness gets involved in matter, the pure ‘I am’ changes into ‘I am that’, ‘I am so-and-so’.</span></span> (‘I am He’, ‘I am the Supreme’) are of no use to me, I have the courage to be as nothing and to see the world as it is: nothing. It sounds simple, just try it!
 
 **Q:**&ensp;But what gives you courage?
 
@@ -80,36 +78,34 @@ the wake of the sense ‘I Am’. This is the primary fact. If you miss it, you 
 
 **M:**&ensp;The separation is an appearance. Just as the dream is not apart from the dreamer, so is knowing not apart from being. The dream is the dreamer, the knowledge is the knower, the distinction is merely verbal.
 
-**Q:**&ensp;I can see now that sat and chit are one. But what about bliss (ananda)? Being and
-consciousness are always present together, but bliss flashes only occasionally.
-**M:**&ensp;The undisturbed state of being is bliss; the disturbed state is what appears as the world. In nonduality
-there is bliss; in duality — experience. What comes and goes is experience with its duality of
-pain and pleasure. Bliss is not to be known. One is always bliss, but never blissful. Bliss is not an
-attribute.
-**Q:**&ensp;I have another question to ask: Some Yogis attain their goal, but it is of no use to others. They
-do not know, or are not able to share. Those who can share out what they have, initiate others.
-Where lies the difference?
-**M:**&ensp;There is no difference. Your approach is wrong. There are no others to help. A rich man, when
-he hands over his entire fortune to his family, has not a coin left to give a beggar. So is the wise
-man (jnani) stripped of all his powers and possessions. Nothing, literally nothing, can be said about
-him. He cannot help anybody for he is everybody. He is the poor and also his poverty, the thief and
-also his thievery. How can he be said to help, when he is not apart? Who thinks of himself as
-separate from the world, let him help the world.
-**Q:**&ensp;Still, there is duality, there is sorrow, there is need of help. By denouncing it as mere dream
-nothing is achieved.
+**Q:**&ensp;I can see now that <span class=tooltip>sat<span class=tooltiptext>“The ideal; pure and true essence (nature)” of an entity or existence. It can thus be concluded as “the self-existent or universal spirit, Brahman”. Opposite is ‘*asat*’.</span></span> and <span class=tooltip>chit<span class=tooltiptext>Universal consciousness.</span></span> are one. But what about bliss (<span class=tooltip>ananda<span class=tooltiptext>Bliss, happiness.</span></span>)? Being and consciousness are always present together, but bliss flashes only occasionally.
+
+**M:**&ensp;The undisturbed state of being is bliss; the disturbed state is what appears as the world. In nonduality there is bliss; in duality — experience. What comes and goes is experience with its duality of pain and pleasure. Bliss is not to be known. One is always bliss, but never blissful. Bliss is not an attribute.
+
+**Q:**&ensp;I have another question to ask: Some <span class=tooltip>Yogi<span class=tooltiptext>One who practices *yoga*.</span></span>s attain their goal, but it is of no use to others. They do not know, or are not able to share. Those who can share out what they have, initiate others. Where lies the difference?
+
+**M:**&ensp;There is no difference. Your approach is wrong. There are no others to help. A rich man, when he hands over his entire fortune to his family, has not a coin left to give a beggar. So is the wise man (<span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span>) stripped of all his powers and possessions. Nothing, literally nothing, can be said about him. He cannot help anybody for he is everybody. He is the poor and also his poverty, the thief and also his thievery. How can he be said to help, when he is not apart? Who thinks of himself as separate from the world, let him help the world.
+
+**Q:**&ensp;Still, there is duality, there is sorrow, there is need of help. By denouncing it as mere dream nothing is achieved.
+
 **M:**&ensp;The only thing that can help is to wake up from the dream.
+
 **Q:**&ensp;An awakener is needed.
-**M:**&ensp;Who again is in the dream. The awakener signifies the beginning of the end. There are no
-eternal dreams.
+
+**M:**&ensp;Who again is in the dream. The awakener signifies the beginning of the end. There are no eternal dreams.
+
 **Q:**&ensp;Even when it is beginningless?
+
 **M:**&ensp;Everything begins with you. What else is beginningless?
+
 **Q:**&ensp;I began at birth.
+
 **M:**&ensp;That is what you are told. Is it so? Did you see yourself beginning?
+
 **Q:**&ensp;I began just now. All else is memory.
-**M:**&ensp;Quite right. The beginningless begins forever. In the same way, I give eternally, because I have
-nothing. To be nothing, to have nothing, to keep nothing for oneself is the greatest gift, the highest
-generosity.
+
+**M:**&ensp;Quite right. The beginningless begins forever. In the same way, I give eternally, because I have nothing. To be nothing, to have nothing, to keep nothing for oneself is the greatest gift, the highest generosity.
+
 **Q:**&ensp;Is there no self-concern left?
-**M:**&ensp;Of course I am self-concerned, but the self is all. In practice it takes the shape of goodwill,
-unfailing and universal. You may call it love, all-pervading, all-redeeming. Such love is supremely
-active — without the sense of doing.
+
+**M:**&ensp;Of course I am self-concerned, but the self is all. In practice it takes the shape of goodwill, unfailing and universal. You may call it love, all-pervading, all-redeeming. Such love is supremely active — without the sense of doing.
