@@ -8,6 +8,8 @@ pageClass: glossary-class
 
 **<em>Adhi Yoga:</em>**&ensp;[*adhi*, above, supreme + *yoga*] the Supreme Yoga.
 
+**<em>ahimsa:</em>**&ensp;nonviolence; abstaining from hurting others in thought, words or deed.
+
 **<em>akash:</em>**&ensp;the void, an element of space, sky.
 
 **<em>ananda:</em>**&ensp;bliss, happiness.
@@ -15,6 +17,8 @@ pageClass: glossary-class
 **<em>antahkarana:</em>**&ensp;the psyche, mind. Mind in a collective sense, including intelligence (*buddhi*), ego (*ahamkara*) and mind (*manas*).
 
 **<em>atmaram:</em>**&ensp;rejoicing in the Self.
+
+**avatara:**&ensp;incarnation.
 
 **<em>avyakta:</em>**&ensp;unmanifest. Opposite is *vyakta*.
 
@@ -87,6 +91,8 @@ pageClass: glossary-class
 **<em>nirguna:</em>**&ensp;the unconditioned, without form, qualities and attributes.
 
 **<em>nirvana:</em>**&ensp;“a state of ‘ultimate’ peace that is achieved with the uprooting and final dissolution of the volitional formations”. Liberation from matter and union with the Supreme Spirit (Brahman).
+
+**<em>nirvikalpa:</em>**&ensp;free of ideation, without modifications of the mind.
 
 **<em>nisarga:</em>**&ensp;natural, innate, inborn.
 
@@ -169,5 +175,7 @@ pageClass: glossary-class
 **<em>vyaktitva:</em>**&ensp;personality, limited self-identification with the body.
 
 **yoga:**&ensp;one of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).
+
+**<em>yoga-bhrashta:</em>**&ensp;one who has falled from the high state of *yoga*.
 
 **yogi:**&ensp;one who practices *yoga*.

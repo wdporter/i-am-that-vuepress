@@ -49,7 +49,18 @@ module.exports = {
 					"/25-hold-on-to-i-am/",
 					"/26-personality-an-obstacle/",
 					"/27-the-beginningless-begins-forever/",
-					"/28-all-suffering-is-born-of-desire/"
+					"/28-all-suffering-is-born-of-desire/",
+					"/29-living-is-lifes-only-purpose/",
+					"/30-you-are-free-now/"
+				]
+			},
+			{
+				title: "31–40",
+				children: [
+					"/31-do-not-undervalue-attention/",
+					"/32-life-is-the-supreme-guru/",
+					"/33-everything-happens-by-itself/",
+					"/34-mind-is-restlessness-itself/"
 				]
 			},
 			{
