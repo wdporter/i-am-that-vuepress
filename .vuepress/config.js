@@ -60,7 +60,9 @@ module.exports = {
 					"/31-do-not-undervalue-attention/",
 					"/32-life-is-the-supreme-guru/",
 					"/33-everything-happens-by-itself/",
-					"/34-mind-is-restlessness-itself/"
+					"/34-mind-is-restlessness-itself/",
+					"/35-the-greatest-guru-is-your-inner-self/",
+					"/36-killing-hurts-the-killer-not-the-killed/"
 				]
 			},
 			{

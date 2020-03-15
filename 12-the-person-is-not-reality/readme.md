@@ -4,7 +4,7 @@
 
 **Questioner:**&ensp;Kindly tell us how you realised.
 
-**Maharaj:**&ensp;I met my <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span> when I was 34 and realised by 37.
+**Maharaj:**&ensp;I met my <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span> when I was thirty-four and realised by thirty-seven.
 
 **Q:**&ensp;What happened? What was the change?
 

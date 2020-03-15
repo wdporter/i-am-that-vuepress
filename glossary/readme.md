@@ -22,6 +22,8 @@ pageClass: glossary-class
 
 **<em>avyakta:</em>**&ensp;unmanifest. Opposite is *vyakta*.
 
+**<em>bhakti:</em>**&ensp;devotion, adoration. Hence *bhakta*, a devotee.
+
 **<em>bhoga:</em>**&ensp;sense enjoyment, experience of worldly joys and sorrows.
 
 **<em>bhogi:</em>**&ensp;a *bhogi* is one involved in worldly joys and sorrows. *Bhoga marga*, is the path of worldly pursuits — joys and sorrows.
