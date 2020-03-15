@@ -62,7 +62,8 @@ module.exports = {
 					"/33-everything-happens-by-itself/",
 					"/34-mind-is-restlessness-itself/",
 					"/35-the-greatest-guru-is-your-inner-self/",
-					"/36-killing-hurts-the-killer-not-the-killed/"
+					"/36-killing-hurts-the-killer-not-the-killed/",
+					"/37-beyond-pain-and-pleasure-there-is-bliss/"
 				]
 			},
 			{
