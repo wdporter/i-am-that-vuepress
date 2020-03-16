@@ -49,7 +49,23 @@ module.exports = {
 					"/25-hold-on-to-i-am/",
 					"/26-personality-an-obstacle/",
 					"/27-the-beginningless-begins-forever/",
-					"/28-all-suffering-is-born-of-desire/"
+					"/28-all-suffering-is-born-of-desire/",
+					"/29-living-is-lifes-only-purpose/",
+					"/30-you-are-free-now/"
+				]
+			},
+			{
+				title: "31–40",
+				children: [
+					"/31-do-not-undervalue-attention/",
+					"/32-life-is-the-supreme-guru/",
+					"/33-everything-happens-by-itself/",
+					"/34-mind-is-restlessness-itself/",
+					"/35-the-greatest-guru-is-your-inner-self/",
+					"/36-killing-hurts-the-killer-not-the-killed/",
+					"/37-beyond-pain-and-pleasure-there-is-bliss/",
+					"/38-spiritual-practice-is-will-asserted-and-reasserted/",
+					"/39-by-itself-nothing-has-existence/"
 				]
 			},
 			{
