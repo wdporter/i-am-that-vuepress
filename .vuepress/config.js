@@ -65,7 +65,14 @@ module.exports = {
 					"/36-killing-hurts-the-killer-not-the-killed/",
 					"/37-beyond-pain-and-pleasure-there-is-bliss/",
 					"/38-spiritual-practice-is-will-asserted-and-reasserted/",
-					"/39-by-itself-nothing-has-existence/"
+					"/39-by-itself-nothing-has-existence/",
+					"/40-only-the-self-is-real/"
+				]
+			},
+			{
+				title: "41–50",
+				children: [
+					"/41-develop-the-witness-attitude/"
 				]
 			},
 			{

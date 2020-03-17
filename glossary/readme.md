@@ -16,6 +16,8 @@ pageClass: glossary-class
 
 **<em>antahkarana:</em>**&ensp;the psyche, mind. Mind in a collective sense, including intelligence (*buddhi*), ego (*ahamkara*) and mind (*manas*).
 
+**Atma, Atman:**&ensp;the Supreme Self, the individual soul. *Atman* is beyond all the three *gunas* of *prakriti*. It is not the *atman* that acts but only the *prakriti*.
+
 **<em>atmaram:</em>**&ensp;rejoicing in the Self.
 
 **avatara:**&ensp;incarnation.
@@ -27,6 +29,8 @@ pageClass: glossary-class
 **<em>bhoga:</em>**&ensp;sense enjoyment, experience of worldly joys and sorrows.
 
 **<em>bhogi:</em>**&ensp;a *bhogi* is one involved in worldly joys and sorrows. *Bhoga marga*, is the path of worldly pursuits — joys and sorrows.
+
+**Bikkhu:**&ensp;a *Bikkhu* (Pali) or *Bhikshu* (sanskrit) is an ordained male Buddhist monastic.
 
 **Brahma:**&ensp;one of the gods of the Hindu trinity: Brahma, the creator; Vishnu, the preserver; Shiva, the destroyer.
 
