@@ -64,23 +64,7 @@ Or, take another example. We wake and we sleep. After a day’s work sleep comes
 
 **Q:**&ensp;Would you say that reality expresses itself in action rather than in knowledge? Or, is it a feeling of sorts?
 
-**M:**&ensp;Neither action, feeling nor thought express reality. There is no such thing as an expression of reality. You are introducing a duality where there is none. Only reality *is*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-, there is nothing else. The three states of waking, dreaming and sleeping are not me and I am not in them. When I die, the world will say, “Oh, Maharaj is dead!”. But to me these are words without content; they have no meaning. When the worship is done before the image of the <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span>, all takes place as if he wakes and bathes and eats and rests, and goes for a stroll and returns, blesses all and goes to sleep. All is attended to in minutest details and yet there is a sense of unreality about it all. So is the case with me. All happens as it needs, yet nothing happens. I do what seems to be necessary, but at the same time I know that nothing is necessary, that life itself is only a make-belief.
+**M:**&ensp;Neither action, feeling nor thought express reality. There is no such thing as an expression of reality. You are introducing a duality where there is none. Only reality *is*, there is nothing else. The three states of waking, dreaming and sleeping are not me and I am not in them. When I die, the world will say, “Oh, Maharaj is dead!”. But to me these are words without content; they have no meaning. When the worship is done before the image of the <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span>, all takes place as if he wakes and bathes and eats and rests, and goes for a stroll and returns, blesses all and goes to sleep. All is attended to in minutest details and yet there is a sense of unreality about it all. So is the case with me. All happens as it needs, yet nothing happens. I do what seems to be necessary, but at the same time I know that nothing is necessary, that life itself is only a make-belief.
 
 **Q:**&ensp;Why then live at all? Why all this unnecessary coming and going, waking and sleeping, eating and digesting?
 
