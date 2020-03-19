@@ -72,7 +72,8 @@ module.exports = {
 			{
 				title: "41–50",
 				children: [
-					"/41-develop-the-witness-attitude/"
+					"/41-develop-the-witness-attitude/",
+					"/42-reality-can-not-be-expressed/"
 				]
 			},
 			{
