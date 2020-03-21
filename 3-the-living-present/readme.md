@@ -2,7 +2,7 @@
 
 >There is something exceptional, unique, about the present event, which the previous, or the coming do not have. There is a livingness about it, an actuality; it stands out as if illuminated. There is the ‘stamp of reality’ on the actual, which the past and the future do not have.
 
-**Questioner:**&ensp;As I can see, there is nothing wrong with my body nor with my real being. Both are not of my making and need not be improved upon. What has gone wrong is the ‘inner body’, call it mind, consciousness, <span class=tooltip>antahkarana<span class=tooltiptext>The psyche, mind. Mind in a collective sense, including intelligence (*buddhi*), ego (*ahamkara*) and mind (*manas*).</span></span>, whatever the name.
+**Questioner:**&ensp;As I can see, there is nothing wrong with my body nor with my real being. Both are not of my making and need not be improved upon. What has gone wrong is the ‘inner body’, call it mind, consciousness or <span class=tooltip>antahkarana<span class=tooltiptext>The psyche, mind. Mind in a collective sense, including intelligence (*buddhi*), ego (*ahamkara*) and mind (*manas*).</span></span>, whatever the name.
 
 **Maharaj:**&ensp;What do you consider to be wrong with your mind?
 
@@ -12,7 +12,7 @@
 
 **Q:**&ensp;Yet, between the body and the self there lies a cloud of thoughts and feelings, which neither serve the body nor the self. These thoughts and feelings are flimsy, transient and meaningless, mere mental dust that blinds and chokes, yet they are there, obscuring and destroying.
 
-**M:**&ensp;Surely, the memory of an event cannot pass for the event itself. Nor can the anticipation. There is something exceptional, unique, about the present event, which the previous, or the coming do not have. There is a livingness about it, an actuality; it stands out as if illuminated. There is the ‘stamp of reality’ on the actual, which the past and the future do not have.
+**M:**&ensp;Surely, the memory of an event cannot pass for the event itself. Nor can the anticipation. There is something exceptional or unique about the present event, which the previous, or the coming, do not have. There is a livingness about it, an actuality; it stands out as if illuminated. There is the ‘stamp of reality’ on the actual, which the past and the future do not have.
 
 **Q:**&ensp;What gives the present that ‘stamp of reality’?
 
@@ -20,7 +20,7 @@
 
 **Q:**&ensp;But we deal with things remembered as if they were real.
 
-**M:**&ensp;We consider memories, only when they come into the present. The forgotten is not counted until one is reminded — which implies, bringing into the *now*.
+**M:**&ensp;We consider memories only when they come into the present. The forgotten is not counted until one is reminded — which implies bringing into the *now*.
 
 **Q:**&ensp;Yes, I can see there is in the now some unknown factor that gives momentary reality to the transient actuality.
 
@@ -28,7 +28,7 @@
 
 **Q:**&ensp;In deep sleep there is no experience of the present reality.
 
-**M:**&ensp;The blankness of deep sleep is due entirely to the lack of specific memories. But a general memory of well-being is there. There is a difference in feeling when we say “I was deeply asleep” from “I was absent”.
+**M:**&ensp;The blankness of deep sleep is due entirely to the lack of specific memories. But a general memory of well-being is there. There is a difference in feeling when we say, “I was deeply asleep”, from, “I was absent”.
 
 **Q:**&ensp;We shall repeat the question we began with: between life’s source and life’s expression (which is the body), there is the mind and its ever-changeful states. The stream of mental states is endless, meaningless and painful. Pain is the constant factor. What we call pleasure is but a gap, an interval between two painful states. Desire and fear are the weft and warp of living, and both are made of pain. Our question is: can there be a happy mind?
 
@@ -56,7 +56,7 @@
 
 **Q:**&ensp;In that mind, the problem of joy and sorrow exist no longer?
 
-**M:**&ensp;Not as we know them, as desirable or repugnant. It becomes rather a question of love seeking expression and meeting with obstacles. The inclusive mind is love in action, battling against circumstances, initially frustrated, ultimately victorious.
+**M:**&ensp;Not as we know them, as desirable or repugnant. It becomes rather a question of love seeking expression and meeting with obstacles. The inclusive mind is love in action, battling against circumstances, initially frustrated and ultimately victorious.
 
 **Q:**&ensp;Between the spirit and the body, is it love that provides the bridge?
 
