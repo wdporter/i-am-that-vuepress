@@ -19,7 +19,7 @@ prev: /editors-note/
 
 **Q:**&ensp;I seek the source of their knowledge under their instruction.
 
-**M:**&ensp;Is it not important to you to know whether you are a mere body, or something else? Or, maybe nothing at all? Don’t you see that all your problems are your body’s problems — food, clothing, shelter, family, friends, name, fame, security, survival — all these lose their meaning the moment you realise that you may not be a mere body.
+**M:**&ensp;Is it not important to you to know whether you are a mere body, or something else? Or, maybe nothing at all? Don’t you see that all your problems are your body’s problems — food, clothing, shelter, family, friends, name, fame, security or survival — all these lose their meaning the moment you realise that you may not be a mere body.
 
 **Q:**&ensp;What benefit is there in knowing that I am not the body?
 
