@@ -2,7 +2,7 @@
 
 >The real world is beyond the mind’s ken; we see it through the net of our desires, divided into pleasure and pain, right and wrong, inner and outer. To see the universe as it is, you must step beyond the net. It is not hard to do so, for the net is full of holes.
 
-**Questioner:**&ensp;On several occasions the question was raised as to whether the universe is subject to the law of causation, or does it exist and function outside the law. You seem to hold the view that it is uncaused, that everything, however small, is uncaused, arising and disappearing for no known reason whatsoever.
+**Questioner:**&ensp;On several occasions the question was raised as to whether the universe is subject to the law of causation, or does it exist and function outside the law. You seem to hold the view that it is uncaused; that everything, however small, is uncaused — arising and disappearing for no known reason whatsoever.
 
 **Maharaj:**&ensp;Causation means succession in time of events in space, the space being physical or mental. Time, space and causation are mental categories, arising and subsiding with the mind.
 
@@ -24,7 +24,7 @@
 
 **Q:**&ensp;What do you mean by holes? And how to find them?
 
-**M:**&ensp;Look at the net and its many contradictions. You do and undo at every step. You want peace, love and happiness — and work hard to create pain, hatred and war. You want longevity — and overeat, you want friendship — and exploit. See your net as made of such contradictions and remove them; your very seeing them will make them go.
+**M:**&ensp;Look at the net and its many contradictions. You do and undo at every step. You want peace, love and happiness — and work hard to create pain, hatred and war. You want longevity — and overeat; you want friendship — and exploit. See your net as made of such contradictions and remove them; your very seeing them will make them go.
 
 **Q:**&ensp;Since my seeing the contradiction makes it go, is there no causal link between my seeing and its going?
 
