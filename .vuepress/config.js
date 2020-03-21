@@ -73,7 +73,8 @@ module.exports = {
 				title: "41–50",
 				children: [
 					"/41-develop-the-witness-attitude/",
-					"/42-reality-can-not-be-expressed/"
+					"/42-reality-can-not-be-expressed/",
+					"/43-ignorance-can-be-recognised-not-jnana/"
 				]
 			},
 			{
