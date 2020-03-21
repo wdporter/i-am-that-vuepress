@@ -74,7 +74,8 @@ module.exports = {
 				children: [
 					"/41-develop-the-witness-attitude/",
 					"/42-reality-can-not-be-expressed/",
-					"/43-ignorance-can-be-recognised-not-jnana/"
+					"/43-ignorance-can-be-recognised-not-jnana/",
+					"/44-i-am-is-true-all-else-is-inference/"
 				]
 			},
 			{
