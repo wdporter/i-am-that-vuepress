@@ -76,7 +76,8 @@ module.exports = {
 					"/42-reality-can-not-be-expressed/",
 					"/43-ignorance-can-be-recognised-not-jnana/",
 					"/44-i-am-is-true-all-else-is-inference/",
-					"/45-what-comes-and-goes-has-no-being/"
+					"/45-what-comes-and-goes-has-no-being/",
+					"/46-awareness-of-being-is-bliss/"
 				]
 			},
 			{
