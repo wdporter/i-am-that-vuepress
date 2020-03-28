@@ -78,7 +78,9 @@ module.exports = {
 					"/44-i-am-is-true-all-else-is-inference/",
 					"/45-what-comes-and-goes-has-no-being/",
 					"/46-awareness-of-being-is-bliss/",
-					"/47-watch-your-mind/"
+					"/47-watch-your-mind/",
+					"/48-awareness-is-free/",
+					"/49-mind-causes-insecurity/"
 				]
 			},
 			{

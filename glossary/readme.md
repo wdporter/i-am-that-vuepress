@@ -58,6 +58,8 @@ pageClass: glossary-class
 
 **<em>guru:</em>**&ensp;spiritual teacher, preceptor.
 
+**<em>jagrit-sushupti:</em>**&ensp;awakened-sleep, attentive sleep.
+
 **<em>jiva, jivatman:</em>**&ensp;[*Atman* + doërship is *jiva*.] the individual soul. According to Vedanta, *jiva* comes into being as a result of the false identification of the atman with body, senses and mind.
 
 **<em>jnana:</em>**&ensp;knowledge, especially the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”. (*jna*, to know; *jnani*, the knower).
