@@ -157,7 +157,7 @@ transient, and only the ‘I Am’ endures.
 
 **Q:**&ensp;Please tell me which road to self-realisation is the shortest.
 
-**M:**&ensp;No way is short or long, but some people are more in earnest and some are less. I can tell you about myself. I was a simple man, but I trusted my <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span>. What he told me to do, I did. He told me to concentrate on ‘I Am’ — I did. He told me that I am beyond all perceivables and conceivables — I believed. I gave him my heart and soul, my entire attention and the whole of my spare time (I had to work to keep my family alive). As a result of faith and earnest application, I realised my self (<span class=tooltip>swarupa<span class=tooltiptext>One’s own form, nature, character.</span></span>) within three years. 
+**M:**&ensp;No way is short or long, but some people are more in earnest and some are less. I can tell you about myself. I was a simple man, but I trusted my *Guru*. What he told me to do, I did. He told me to concentrate on ‘I Am’ — I did. He told me that I am beyond all perceivables and conceivables — I believed. I gave him my heart and soul, my entire attention and the whole of my spare time (I had to work to keep my family alive). As a result of faith and earnest application, I realised my self (*swarupa*) within three years. 
 
 You may choose any way that suits you; your earnestness will determine the rate of progress.
 

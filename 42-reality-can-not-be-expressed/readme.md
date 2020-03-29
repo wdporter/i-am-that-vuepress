@@ -88,7 +88,7 @@ Or, take another example. We wake and we sleep. After a day’s work sleep comes
 
 **Q:**&ensp;Is there a way to it?
 
-**M:**&ensp;Everything can become a way, provided you are interested. Just puzzling over my words and trying to grasp their full meaning is a <span class=tooltip>sadhana<span class=tooltiptext>The practice which produces success, *siddhi*.</span></span> quite sufficient for breaking down the wall. Nothing troubles me. I offer no resistance to trouble — therefore it does not stay with me. On your side there is so much trouble. On mine there is no trouble at all. Come to my side. You are trouble-prone. I am immune. Anything may happen — what is needed is sincere interest. Earnestness does it.
+**M:**&ensp;Everything can become a way, provided you are interested. Just puzzling over my words and trying to grasp their full meaning is a *sadhana* quite sufficient for breaking down the wall. Nothing troubles me. I offer no resistance to trouble — therefore it does not stay with me. On your side there is so much trouble. On mine there is no trouble at all. Come to my side. You are trouble-prone. I am immune. Anything may happen — what is needed is sincere interest. Earnestness does it.
 
 **Q:**&ensp;Can I do it?
 

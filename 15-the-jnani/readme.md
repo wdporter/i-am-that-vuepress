@@ -80,7 +80,7 @@
 
 **Q:**&ensp;Who is the <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span>? The witness or the supreme?
 
-**M:**&ensp;The <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> is the supreme and also the witness. He is both being and awareness. In relation to consciousness he is awareness. In relation to the universe he is pure being.
+**M:**&ensp;The *jnani* is the supreme and also the witness. He is both being and awareness. In relation to consciousness he is awareness. In relation to the universe he is pure being.
 
 **Q:**&ensp;And what about the person? What comes first, the person or the knower? 
 

@@ -92,7 +92,7 @@
 
 **Q:**&ensp;Life itself is a nightmare.
 
-**M:**&ensp;Noble friendship (<span class=tooltip>satsang<span class=tooltiptext>Association with the true and the wise people.</span></span>) is the supreme remedy for all ills, physical and mental.
+**M:**&ensp;Noble friendship (*satsang*) is the supreme remedy for all ills, physical and mental.
 
 **Q:**&ensp;Generally one cannot find such friendship.
 

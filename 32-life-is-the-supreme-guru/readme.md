@@ -68,7 +68,7 @@ s
 
 **Q:**&ensp;You mean to say that this was enough?
 
-**M:**&ensp;What more needs be done? It was quite a lot to remember the <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span> and his words. My advice to you is even less difficult than this — just remember yourself. ‘I Am’, is enough to heal your mind and take you beyond. Just have some trust. I don’t mislead you. Why should I? Do I want anything from you? I wish you well — such is my nature. Why should I mislead you? 
+**M:**&ensp;What more needs be done? It was quite a lot to remember the *Guru* and his words. My advice to you is even less difficult than this — just remember yourself. ‘I Am’, is enough to heal your mind and take you beyond. Just have some trust. I don’t mislead you. Why should I? Do I want anything from you? I wish you well — such is my nature. Why should I mislead you? 
 
 Commonsense too will tell you that to fulfil a desire you must keep your mind on it. If you want to know your true nature, you must have yourself in mind all the time, until the secret of your being stands revealed.
 
@@ -88,9 +88,9 @@ Commonsense too will tell you that to fulfil a desire you must keep your mind on
 
 **M:**&ensp;Sir, you are not separate. The happiness you cannot share is spurious. Only the shareable is truly desirable.
 
-**Q:**&ensp;Right. But do I need a <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span>? What you tell me is simple and convincing. I shall remember it. This does not make you my <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span>.
+**Q:**&ensp;Right. But do I need a *Guru*? What you tell me is simple and convincing. I shall remember it. This does not make you my *Guru*.
 
-**M:**&ensp;It is not the worship of a person that is crucial, but the steadiness and depth of your devotion to the task. Life itself is the Supreme <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span>; be attentive to its lessons and obedient to its commands. When you personalise their source, you have an outer <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span>; when you take them from life directly, the <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span> is within. Remember, wonder, ponder, live with it, love it, grow into it, grow with it, make it your own — the word of your <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span>, outer or inner. Put in all and you will get all. I was doing it. All my time I was giving to my <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span> and to what he told me.
+**M:**&ensp;It is not the worship of a person that is crucial, but the steadiness and depth of your devotion to the task. Life itself is the Supreme *Guru*; be attentive to its lessons and obedient to its commands. When you personalise their source, you have an outer *Guru*; when you take them from life directly, the *Guru* is within. Remember, wonder, ponder, live with it, love it, grow into it, grow with it, make it your own — the word of your *Guru*, outer or inner. Put in all and you will get all. I was doing it. All my time I was giving to my *Guru* and to what he told me.
 
 **Q:**&ensp;I am a writer by profession. Can you give me some advice, for me specifically?
 
@@ -122,4 +122,4 @@ Commonsense too will tell you that to fulfil a desire you must keep your mind on
 
 **Q:**&ensp;It is a part of Indian spiritual tradition that mere living in the proximity of a saint or sage is conducive to liberation and no other means are needed. Why don’t you organise an *Ashram* so that people could live near you?
 
-**M:**&ensp;The moment I create an institution I become its prisoner. As a matter of fact I am available to all. Common roof and food will not make people more welcome. ‘Living near’ does not mean breathing the same air. It means trusting and obeying, not letting the good intentions of the teacher go to waste. Have your <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span> always in your heart and remember his instructions — this is real abidance with the true. Physical proximity is least important. Make your entire life an expression of your faith and love for your teacher — this is real dwelling with the <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span>.
+**M:**&ensp;The moment I create an institution I become its prisoner. As a matter of fact I am available to all. Common roof and food will not make people more welcome. ‘Living near’ does not mean breathing the same air. It means trusting and obeying, not letting the good intentions of the teacher go to waste. Have your *Guru* always in your heart and remember his instructions — this is real abidance with the true. Physical proximity is least important. Make your entire life an expression of your faith and love for your teacher — this is real dwelling with the *Guru*.

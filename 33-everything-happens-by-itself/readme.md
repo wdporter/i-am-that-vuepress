@@ -4,15 +4,15 @@
 
 **Questioner:**&ensp;Does a <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> die?
 
-**Maharaj:**&ensp;He is beyond life and death. What we take to be inevitable — to be born and to die — appears to him but a way of expressing movement in the Immovable, change in the changeless, end in the endless. To the <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> it is obvious that nothing is born and nothing dies, nothing lasts and nothing changes, all is as it is — timelessly.
+**Maharaj:**&ensp;He is beyond life and death. What we take to be inevitable — to be born and to die — appears to him but a way of expressing movement in the Immovable, change in the changeless, end in the endless. To the *jnani* it is obvious that nothing is born and nothing dies, nothing lasts and nothing changes, all is as it is — timelessly.
 
-**Q:**&ensp;You say the <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> is beyond. Beyond what? Beyond knowledge?
+**Q:**&ensp;You say the *jnani* is beyond. Beyond what? Beyond knowledge?
 
-**M:**&ensp;Knowledge has its rising and setting. Consciousness comes into being and goes out of being. It is a matter of daily occurrence and observation. We all know that sometimes we are conscious and sometimes not. When we are not conscious, it appears to us as a darkness or a blank. But a <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> is aware of himself as neither conscious nor unconscious, but purely aware, a witness to the three states of the mind and their contents.
+**M:**&ensp;Knowledge has its rising and setting. Consciousness comes into being and goes out of being. It is a matter of daily occurrence and observation. We all know that sometimes we are conscious and sometimes not. When we are not conscious, it appears to us as a darkness or a blank. But a *jnani* is aware of himself as neither conscious nor unconscious, but purely aware, a witness to the three states of the mind and their contents.
 
 **Q:**&ensp;When does this witnessing begin?
 
-**M:**&ensp;To a <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> nothing has beginning or ending. As salt dissolves in water, so does everything dissolve into pure being. Wisdom is eternally negating the unreal. To see the unreal is wisdom. Beyond this lies the inexpressible.
+**M:**&ensp;To a *jnani* nothing has beginning or ending. As salt dissolves in water, so does everything dissolve into pure being. Wisdom is eternally negating the unreal. To see the unreal is wisdom. Beyond this lies the inexpressible.
 
 **Q:**&ensp;There is in me the conviction, “I am the body”. Granted, I am talking from unwisdom. But the state of feeling oneself the body, the body–mind, the mind–body, or even pure mind — when did it begin?
 
@@ -64,7 +64,7 @@
 
 **Q:**&ensp;Here it is.
 
-**M:**&ensp;Only when you think of it. Both mind and body are intermittent states. The sum total of these flashes creates the illusion of existence. Enquire what is permanent in the transient, real in the unreal. This is <span class=tooltip>sadhana<span class=tooltiptext>The practice which produces success, *siddhi*.</span></span>.
+**M:**&ensp;Only when you think of it. Both mind and body are intermittent states. The sum total of these flashes creates the illusion of existence. Enquire what is permanent in the transient, real in the unreal. This is *sadhana*.
 
 **Q:**&ensp;The fact is that I am thinking of myself as the body.
 
@@ -154,7 +154,7 @@
 
 **M:**&ensp;It is ignorance of yourself that makes you afraid and also unaware that you are afraid. Don’t try not to be afraid. Break down the wall of ignorance first. 
 
-People are afraid to die, because they do not know what is death. The <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> has died before his death, he saw that there was nothing to be afraid of. The moment you know your real being, you are afraid of nothing. Death gives freedom and power. To be free in the world, you must die to the world. Then the universe is your own, it becomes your body, an expression and a tool. The happiness of being absolutely free is beyond description. On the other hand, he who is afraid of freedom cannot die.
+People are afraid to die, because they do not know what is death. The *jnani* has died before his death, he saw that there was nothing to be afraid of. The moment you know your real being, you are afraid of nothing. Death gives freedom and power. To be free in the world, you must die to the world. Then the universe is your own, it becomes your body, an expression and a tool. The happiness of being absolutely free is beyond description. On the other hand, he who is afraid of freedom cannot die.
 
 **Q:**&ensp;You mean that one who cannot die, cannot live?
 
@@ -162,7 +162,7 @@ People are afraid to die, because they do not know what is death. The <span clas
 
 **Q:**&ensp;Does it follow that if you are saved, the world is saved?
 
-**M:**&ensp;As a whole the world does not need saving. Man makes mistakes and creates sorrow; when it enters the field of awareness, the consciousness of a <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span>, it is set right. Such is his nature.
+**M:**&ensp;As a whole the world does not need saving. Man makes mistakes and creates sorrow; when it enters the field of awareness, the consciousness of a *jnani*, it is set right. Such is his nature.
 
 **Q:**&ensp;We can observe what may be called spiritual progress. A selfish man turns religious, controls himself, refines his thoughts and feelings, takes to spiritual practice, realises his true being. Is such progress ruled by causality, or is it accidental?
 
@@ -174,10 +174,10 @@ People are afraid to die, because they do not know what is death. The <span clas
 
 **Q:**&ensp;The great obstacle to inner effort is boredom. The disciple gets bored.
 
-**M:**&ensp;Inertia and restlessness (<span class=tooltip>tamas<span class=tooltiptext>Darkness, inertia, passivity. One of the three constituents (*gunas*) of the cosmic substance: *sattava*, *rajas* and *tamas*.</span></span> and <span class=tooltip>rajas<span class=tooltiptext>Motivity, activity, energy. One of the three *gunas* or qualities of matter: *sattva*, *rajas* and *tamas*. In *yoga*, egoism.</span></span>) work together and keep clarity and harmony (<span class=tooltip>sattva<span class=tooltiptext>Being, existence, true essence. In *yoga* the quality of purity or goodness.</span></span>) down. <span class=tooltip>Tamas<span class=tooltiptext>Darkness, inertia, passivity. One of the three constituents (*gunas*) of the cosmic substance: *sattava*, *rajas* and *tamas*.</span></span> and <span class=tooltip>rajas<span class=tooltiptext>Motivity, activity, energy. One of the three *gunas* or qualities of matter: *sattva*, *rajas* and *tamas*. In *yoga*, egoism.</span></span> must be conquered before <span class=tooltip>sattva<span class=tooltiptext>Being, existence, true essence. In *yoga* the quality of purity or goodness.</span></span> can appear. It will all come in due course, quite spontaneously.
+**M:**&ensp;Inertia and restlessness (<span class=tooltip>tamas<span class=tooltiptext>Darkness, inertia, passivity. One of the three constituents (*gunas*) of the cosmic substance: *sattava*, *rajas* and *tamas*.</span></span> and <span class=tooltip>rajas<span class=tooltiptext>Motivity, activity, energy. One of the three *gunas* or qualities of matter: *sattva*, *rajas* and *tamas*. In *yoga*, egoism.</span></span>) work together and keep clarity and harmony (<span class=tooltip>sattva<span class=tooltiptext>Being, existence, true essence. In *yoga* the quality of purity or goodness.</span></span>) down. *Tamas* and *rajas* must be conquered before *sattva* can appear. It will all come in due course, quite spontaneously.
 
 **Q:**&ensp;Is there no need of effort then?
 
 **M:**&ensp;When effort is needed, effort will appear. When effortlessness becomes essential, it will assert itself. You need not push life about. Just flow with it and give yourself completely to the task of the present moment, which is the dying now to the now. For living is dying. Without death life cannot be. 
 
-Get hold of the main thing that the world and the self are one and perfect. Only your attitude is faulty and needs reädjustment. This process or reädjustment is what you call <span class=tooltip>sadhana<span class=tooltiptext>The practice which produces success, *siddhi*.</span></span>. You come to it by putting an end to indolence and using all your energy to clear the way for clarity and charity. But in reality, these all are signs of inevitable growth. Don’t be afraid, don’t resist and don’t delay. Be what you are. There is nothing to be afraid of. Trust and try. Experiment honestly. Give your real being a chance to shape your life. You will not regret.
+Get hold of the main thing that the world and the self are one and perfect. Only your attitude is faulty and needs reädjustment. This process or reädjustment is what you call *sadhana*. You come to it by putting an end to indolence and using all your energy to clear the way for clarity and charity. But in reality, these all are signs of inevitable growth. Don’t be afraid, don’t resist and don’t delay. Be what you are. There is nothing to be afraid of. Trust and try. Experiment honestly. Give your real being a chance to shape your life. You will not regret.

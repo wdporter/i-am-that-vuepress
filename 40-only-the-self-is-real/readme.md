@@ -22,15 +22,15 @@
 
 I may perceive the world just like you, but you believe to be in it, while I see it as an iridescent drop in the vast expanse of consciousness.
 
-**Q:**&ensp;We are all getting old. Old age is not pleasant — all aches and pains, weakness and the approaching end. How does a <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> feel as an old man? How does his inner self look at his own senility?
+**Q:**&ensp;We are all getting old. Old age is not pleasant — all aches and pains, weakness and the approaching end. How does a *jnani* feel as an old man? How does his inner self look at his own senility?
 
 **M:**&ensp;As he gets older he grows more and more happy and peaceful. After all, he is going home. Like a traveller nearing his destination and collecting his luggage, he leaves the train without regret.
 
-**Q:**&ensp;Surely there is a contradiction. We are told the <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> is beyond all change. His happiness neither grows nor wanes. How can he grow happier because older, and that in spite of physical weakness and so on?
+**Q:**&ensp;Surely there is a contradiction. We are told the *jnani* is beyond all change. His happiness neither grows nor wanes. How can he grow happier because older, and that in spite of physical weakness and so on?
 
 **M:**&ensp;There is no contradiction. The reel of destiny is coming to its end — the mind is happy. The mist of bodily existence is lifting — the burden of the body is growing less from day to day.
 
-**Q:**&ensp;Let us say, the <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> is ill. He has caught some flu and every joint aches and burns. What is his state of mind?
+**Q:**&ensp;Let us say, the *jnani* is ill. He has caught some flu and every joint aches and burns. What is his state of mind?
 
 **M:**&ensp;Every sensation is contemplated in perfect equanimity. There is no desire for it, nor refusal. It is as it is and then he looks at it with a smile of affectionate detachment.
 
@@ -50,13 +50,13 @@ I may perceive the world just like you, but you believe to be in it, while I see
 
 **M:**&ensp;The master is in consciousness, not beyond it. In terms of consciousness the Supreme is both creation and dissolution, concretion and abstraction, the focal and the universal. It is also neither. Words do not reach there, nor mind.
 
-**Q:**&ensp;The <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> seems to be a very lonely being, all by himself.
+**Q:**&ensp;The *jnani* seems to be a very lonely being, all by himself.
 
 **M:**&ensp;He is alone, but he is all. He is not even a being. He is the beingness of all beings. Not even that. No words apply. He is what he is, the ground from which all grows.
 
 **Q:**&ensp;Are you not afraid to die?
 
-**M:**&ensp;I shall tell you how my <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span>’s <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span> died. After announcing that his end was nearing, he stopped eating, without changing the routine of his daily life. On the eleventh day, at prayer time he was singing and clapping vigorously and suddenly died! Just like that, between two movements, like a blown out candle. Everybody dies as he lives. I am not afraid of death, because I am not afraid of life. I live a happy life and shall die a happy death. Misery is to be born, not to die. All depends how you look at it.
+**M:**&ensp;I shall tell you how my <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span>’s *Guru* died. After announcing that his end was nearing, he stopped eating, without changing the routine of his daily life. On the eleventh day, at prayer time he was singing and clapping vigorously and suddenly died! Just like that, between two movements, like a blown out candle. Everybody dies as he lives. I am not afraid of death, because I am not afraid of life. I live a happy life and shall die a happy death. Misery is to be born, not to die. All depends how you look at it.
 
 **Q:**&ensp;There can be no evidence of your state. All I know about it is what you say. All I see is a very interesting old man.
 

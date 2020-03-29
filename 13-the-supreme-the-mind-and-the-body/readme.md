@@ -50,7 +50,7 @@
 
 **M:**&ensp;As the universe is the body of the mind, so is consciousness the body of the supreme. It is not conscious, but it gives rise to consciousness.
 
-**Q:**&ensp;In my daily actions much goes by habit, automatically. I am aware of the general purpose, but not of each movement in detail. As my consciousness broadens and deepens, details tend to recede, leaving me free for the general trends. Does not the same happen to a <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span>, but more so?
+**Q:**&ensp;In my daily actions much goes by habit, automatically. I am aware of the general purpose, but not of each movement in detail. As my consciousness broadens and deepens, details tend to recede, leaving me free for the general trends. Does not the same happen to a *jnani*, but more so?
 
 **M:**&ensp;On the level of consciousness — yes. In the supreme state, no. This state is entirely one and indivisible, a single solid block of reality. The only way of knowing it is to *be* it. The mind cannot reach it. To perceive it does not need the senses; to know it does not need the mind.
 
@@ -66,7 +66,7 @@
 
 **M:**&ensp;There are the two — the person and the witness, the observer. When you see them as one, and go beyond, you are in the supreme state. It is not perceivable, because it is what makes perception possible. It is beyond being and not being. It is neither the mirror nor the image in the mirror. It is what is — the timeless reality, unbelievably hard and solid.
 
-**Q:**&ensp;The <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> — is he the witness or the Supreme?
+**Q:**&ensp;The *jnani* — is he the witness or the Supreme?
 
 **M:**&ensp;He is the Supreme, of course, but he can also be viewed as the universal witness.
 
@@ -84,7 +84,7 @@
 
 **Q:**&ensp;Is it vitality, the energy of life, livingness?
 
-**M:**&ensp;Energy comes first. For everything is a form of energy. Consciousness is most differentiated in the waking state. Less so in dream. Still less in sleep. Homogeneous — in the fourth state. Beyond is the inexpressible monolithic reality, the abode of the <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span>.
+**M:**&ensp;Energy comes first. For everything is a form of energy. Consciousness is most differentiated in the waking state. Less so in dream. Still less in sleep. Homogeneous — in the fourth state. Beyond is the inexpressible monolithic reality, the abode of the *jnani*.
 
 **Q:**&ensp;I have cut my hand. It healed. By what power did it heal?
 
@@ -104,7 +104,7 @@
 
 **Q:**&ensp;If time and space are mere illusions and you are beyond, please tell me what is the weather in New York. Is it hot or raining there?
 
-**M:**&ensp;How can I tell you? Such things need special training. Or, just travelling to New York. I may be quite certain that I am beyond time and space, and yet unable to locate myself at will at some point of time and space. I am not interested enough; I see no purpose in undergoing a special <span class=tooltip>Yogi<span class=tooltiptext>One who practices *yoga*.</span></span>c training. I have just heard of New York. To me it is a word. Why should I know more than the word conveys? Every atom may be a universe, as complex as ours. Must I know them all? I can — if I train.
+**M:**&ensp;How can I tell you? Such things need special training. Or, just travelling to New York. I may be quite certain that I am beyond time and space, and yet unable to locate myself at will at some point of time and space. I am not interested enough; I see no purpose in undergoing a special *Yogi*c training. I have just heard of New York. To me it is a word. Why should I know more than the word conveys? Every atom may be a universe, as complex as ours. Must I know them all? I can — if I train.
 
 **Q:**&ensp;In putting the question about the weather in New York, where did I make the mistake?
 
@@ -128,4 +128,4 @@
 
 **Q:**&ensp;What is the place of <span class=tooltip>samadhi<span class=tooltiptext>Superconscious state, profound meditation, trance, rapturous absorption. A practice of *yoga* in which the seeker (*sadhaka*) becomes one with the object of his meditation (*sadhya*), thus attaining unqualified bliss. “*Samadhi* is a state in which you transcend the bounds of your body, mind and self-identity, and merge into an undifferentiated unity with all that is”.</span></span>?
 
-**M:** Not making use of one’s consciousness is <span class=tooltip>samadhi<span class=tooltiptext>Superconscious state, profound meditation, trance, rapturous absorption. A practice of *yoga* in which the seeker (*sadhaka*) becomes one with the object of his meditation (*sadhya*), thus attaining unqualified bliss. “*Samadhi* is a state in which you transcend the bounds of your body, mind and self-identity, and merge into an undifferentiated unity with all that is”.</span></span>. You just leave your mind alone. You want nothing, neither from your body nor from your mind.
+**M:** Not making use of one’s consciousness is *samadhi*. You just leave your mind alone. You want nothing, neither from your body nor from your mind.

@@ -20,7 +20,7 @@
 
 Without trust there is no peace. Somebody or other you always trust — it may be your mother, or your wife. Of all the people the knower of the self, the liberated man, is the most trustworthy. But merely to trust is not enough. You must also desire. Without desire for freedom of what use is the confidence that you can acquire freedom? Desire and confidence must go together. The stronger your desire, the easier comes the help. The greatest <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span> is helpless as long as the disciple is not eager to learn. Eagerness and earnestness are all-important. Confidence will come with experience. Be devoted to your goal — and devotion to him who can guide you will follow. If your desire and confidence are strong, they will operate and take you to your goal, for you will not cause delay by hesitation and compromise. 
 
-The greatest <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span> is your inner self. Truly, he is the supreme teacher. He alone can take you to your goal and he alone meets you at the end of the road. Confide in him and you need no outer <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span>. But again you must have the strong desire to find him and do nothing that will create obstacles and delays. And do not waste energy and time on regrets. Learn from your mistakes and do not repeat them.
+The greatest *Guru* is your inner self. Truly, he is the supreme teacher. He alone can take you to your goal and he alone meets you at the end of the road. Confide in him and you need no outer *Guru*. But again you must have the strong desire to find him and do nothing that will create obstacles and delays. And do not waste energy and time on regrets. Learn from your mistakes and do not repeat them.
 
 **Q:**&ensp;If you do not mind my asking a personal question…?
 
@@ -36,7 +36,7 @@ The greatest <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, 
 
 **Q:**&ensp;But the animal had to be killed.
 
-**M:**&ensp;I have never heard of a <span class=tooltip>Yogi<span class=tooltiptext>One who practices *yoga*.</span></span> killing a tiger for his hide. The killers are not <span class=tooltip>Yogi<span class=tooltiptext>One who practices *yoga*.</span></span>s and the <span class=tooltip>Yogi<span class=tooltiptext>One who practices *yoga*.</span></span>s are not killers.
+**M:**&ensp;I have never heard of a *Yogi* killing a tiger for his hide. The killers are not *Yogi*s and the *Yogi*s are not killers.
 
 **Q:**&ensp;Should you not express your disapproval by refusing to sit on a skin?
 
@@ -96,7 +96,7 @@ The greatest <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, 
 
 **Q:**&ensp;Still, you have a body and you depend on it.
 
-**M:**&ensp;Again you assume that your point of view is the only correct one. I repeat: I was not, am not, shall not be a body. To me this is a fact. I too was under the illusion of having been born, but my <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span> made me see that birth and death are mere ideas — birth is merely the idea, “I have a body”. And death — “I have lost my body”. Now, when I know I am not a body, the body may be there or may not — what difference does it make? The body–mind is like a room. It is there, but I need not live in it all the time.
+**M:**&ensp;Again you assume that your point of view is the only correct one. I repeat: I was not, am not, shall not be a body. To me this is a fact. I too was under the illusion of having been born, but my *Guru* made me see that birth and death are mere ideas — birth is merely the idea, “I have a body”. And death — “I have lost my body”. Now, when I know I am not a body, the body may be there or may not — what difference does it make? The body–mind is like a room. It is there, but I need not live in it all the time.
 
 **Q:**&ensp;Yet, there is a body and you do take care of it.
 

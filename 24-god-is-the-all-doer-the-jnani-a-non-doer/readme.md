@@ -31,13 +31,13 @@ and wakes up the mind (<span class=tooltip>chidakash<span class=tooltiptext>[*ch
 
 **M:**&ensp;He is beyond all that the mind conceives. He is beyond being and not being. He is the Yes and No to everything, beyond and within, creating and destroying, unimaginably real.
 
-**Q:**&ensp;God and the <span class=tooltip>Mahatma<span class=tooltiptext>Enlightened beings</span></span> are they one or two?
+**Q:**&ensp;God and the *Mahatma*, are they one or two?
 
 **M:**&ensp;They are one.
 
 **Q:**&ensp;There must be some difference.
 
-**M:**&ensp;God is the All-Doër, the <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> is a non-doër. God himself does not say, “I am doing all”. To Him things happen by their own nature. To the <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> all is done by God. He sees no difference between God and nature. Both God and the <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> know themselves to be the immovable centre of the movable, the eternal witness of the transient. The centre is a point of void and the witness a point of 
+**M:**&ensp;God is the All-Doër, the <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> is a non-doër. God himself does not say, “I am doing all”. To Him things happen by their own nature. To the *jnani* all is done by God. He sees no difference between God and nature. Both God and the *jnani* know themselves to be the immovable centre of the movable, the eternal witness of the transient. The centre is a point of void and the witness a point of 
 pure awareness; they know themselves to be as nothing, therefore nothing can resist them.
 
 **Q:**&ensp;How does this look and feel in your personal experience?
@@ -70,7 +70,7 @@ pure awareness; they know themselves to be as nothing, therefore nothing can res
 
 **Q:**&ensp;And how do you help the entire world?
 
-**M:**&ensp;Gandhi is dead, yet his mind pervades the earth. The thought of a <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> pervades humanity and works ceaselessly for good. Being anonymous, coming from within, it is the more powerful and compelling. That is how the world improves — the inner aiding and blessing the outer. When a <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> dies, he is no more, in the same sense in which a river is no more when it merges in the sea: the name, the shape, are no more, but the water remains and becomes one with the ocean. When a <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> joins the universal mind, all his goodness and wisdom become the heritage of humanity and uplift every human being.
+**M:**&ensp;Gandhi is dead, yet his mind pervades the earth. The thought of a *jnani* pervades humanity and works ceaselessly for good. Being anonymous, coming from within, it is the more powerful and compelling. That is how the world improves — the inner aiding and blessing the outer. When a *jnani* dies, he is no more, in the same sense in which a river is no more when it merges in the sea: the name, the shape, are no more, but the water remains and becomes one with the ocean. When a *jnani* joins the universal mind, all his goodness and wisdom become the heritage of humanity and uplift every human being.
 
 **Q:**&ensp;We are attached to our personality. Our individuality, our being unlike others, we value very much. You seem to denounce both as useless. Your unmanifested, of what use is it to us?
 

@@ -12,7 +12,7 @@
 
 **Q:**&ensp;People are very much afraid of death.
 
-**M:**&ensp;The <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> is afraid of nothing. But he pities the man who is afraid. After all to be born, to live and to die is natural. To be afraid is not. To the event, of course, attention is given.
+**M:**&ensp;The *jnani* is afraid of nothing. But he pities the man who is afraid. After all to be born, to live and to die is natural. To be afraid is not. To the event, of course, attention is given.
 
 **Q:**&ensp;Imagine you are ill — high fever, aches and shivers. The doctor tells you the condition is serious, there are only a few days to live. What would be your first reäction?
 
@@ -24,19 +24,19 @@
 
 **Q:**&ensp;What about the prayers for the dead?
 
-**M:**&ensp;By all means pray for the dead. It pleases them very much. They are flattered. The <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> does not need your prayers. He is himself the answer to your prayers.
+**M:**&ensp;By all means pray for the dead. It pleases them very much. They are flattered. The *jnani* does not need your prayers. He is himself the answer to your prayers.
 
-**Q:**&ensp;How does the <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> fare after death?
+**Q:**&ensp;How does the *jnani* fare after death?
 
-**M:**&ensp;The <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> is dead already. Do you expect him to die again?
+**M:**&ensp;The *jnani* is dead already. Do you expect him to die again?
 
-**Q:**&ensp;Surely, the dissolution of the body is an important event even to a <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span>.
+**Q:**&ensp;Surely, the dissolution of the body is an important event even to a *jnani*.
 
-**M:**&ensp;There are no important events for a <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span>, except when somebody reaches the highest goal. Then only his heart rejoices. All else is of no concern. The entire universe is his body, all life is his life. As in a city of lights, when one bulb burns out, it does not affect the network, so the death of a body does not affect the whole.
+**M:**&ensp;There are no important events for a *jnani*, except when somebody reaches the highest goal. Then only his heart rejoices. All else is of no concern. The entire universe is his body, all life is his life. As in a city of lights, when one bulb burns out, it does not affect the network, so the death of a body does not affect the whole.
 
 **Q:**&ensp;The particular may not matter to the whole, but it does matter to the particular. The whole is an abstraction, the particular, the concrete, is real.
 
-**M:**&ensp;That is what you say. To me it may be the other way — the whole is real, the part comes and goes. The particular is born and reborn, changing name and shape; the <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> is the Changeless Reality, which makes the changeful possible. But he cannot give you the conviction. It must come with your own experience. With me all is one, all is equal.
+**M:**&ensp;That is what you say. To me it may be the other way — the whole is real, the part comes and goes. The particular is born and reborn, changing name and shape; the *jnani* is the Changeless Reality, which makes the changeful possible. But he cannot give you the conviction. It must come with your own experience. With me all is one, all is equal.
 
 **Q:**&ensp;Are sin and virtue one and the same?
 

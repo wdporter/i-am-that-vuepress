@@ -14,21 +14,21 @@
 
 **M:**&ensp;Good enough. Is it all you want?
 
-**Q:**&ensp;I seek peace of mind. I got disgusted with all the cruel things done by the so-called Christians in the name of Christ. For some time I was without religion. Then I got attracted to <span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span>.
+**Q:**&ensp;I seek peace of mind. I got disgusted with all the cruel things done by the so-called Christians in the name of Christ. For some time I was without religion. Then I got attracted to *Yoga*.
 
 **M:**&ensp;What did you gain?
 
-**Q:**&ensp;I studied the philosophy of <span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span> and it did help me.
+**Q:**&ensp;I studied the philosophy of *Yoga* and it did help me.
 
 **M:**&ensp;In what way did it help you? By what signs did you conclude that you have been helped?
 
 **Q:**&ensp;Good health is something quite tangible.
 
-**M:**&ensp;No doubt it is very pleasant to feel fit. Is pleasure all you expected from <span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span>?
+**M:**&ensp;No doubt it is very pleasant to feel fit. Is pleasure all you expected from *Yoga*?
 
-**Q:**&ensp;The joy of well-being is the reward of *Hatha* <span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span>. But <span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span> in general yields more than that. It answers many questions.
+**Q:**&ensp;The joy of well-being is the reward of *Hatha Yoga*. But *Yoga* in general yields more than that. It answers many questions.
 
-**M:**&ensp;What do you mean by <span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span>?
+**M:**&ensp;What do you mean by *Yoga*?
 
 **Q:**&ensp;The whole teaching of India — evolution, reëncarnation, karma and so on.
 
@@ -40,15 +40,15 @@
 
 **Q:**&ensp;No, not yet.
 
-**M:**&ensp;Naturally. There will be no end to it, because there is no such thing as peace of mind. Mind means disturbance; restlessness itself is mind. <span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span> is not an attribute of the mind, nor is it a state of mind.
+**M:**&ensp;Naturally. There will be no end to it, because there is no such thing as peace of mind. Mind means disturbance; restlessness itself is mind. *Yoga* is not an attribute of the mind, nor is it a state of mind.
 
-**Q:**&ensp;Some measure of peace I did derive from <span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span>.
+**Q:**&ensp;Some measure of peace I did derive from *Yoga*.
 
 **M:**&ensp;Examine closely and you will see that the mind is seething with thoughts. It may go blank occasionally, but it does it for a time and reverts to its usual restlessness. A becalmed mind is not a peaceful mind. 
 
 You say you want to pacify your mind. Is he, who wants to pacify the mind, himself peaceful?
 
-**Q:**&ensp;No. I am not at peace, I take the help of <span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span>.
+**Q:**&ensp;No. I am not at peace. I take the help of *Yoga*.
 
 **M:**&ensp;Don’t you see the contradiction? For many years you sought your peace of mind. You could not find it, for a thing essentially restless cannot be at peace.
 
@@ -66,13 +66,13 @@ You say you want to pacify your mind. Is he, who wants to pacify the mind, himse
 
 **Q:**&ensp;So what has one to do?
 
-**M:**&ensp;Through <span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span> you have accumulated knowledge and experience. This cannot be denied. But of what use is it all to you? <span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span> means union, joining. What have you reünited, rejoined?
+**M:**&ensp;Through *Yoga* you have accumulated knowledge and experience. This cannot be denied. But of what use is it all to you? *Yoga* means union, joining. What have you reünited, rejoined?
 
 **Q:**&ensp;I am trying to rejoin the personality back to the real self.
 
-**M:**&ensp;The personality (<span class=tooltip>vyakti<span class=tooltiptext>Person, the outer self.</span></span>) is but a product of imagination. The self (<span class=tooltip>vyakta<span class=tooltiptext>Manifest matter, the evolved nature. Opposite is *avyakta*.</span></span>) is the victim of this imagination. It is the taking yourself to be what you are not that binds you. The person cannot be said to exist on its own rights; it is the self that believes there is a person and is conscious of being it. Beyond the self (<span class=tooltip>vyakta<span class=tooltiptext>Manifest matter, the evolved nature. Opposite is *avyakta*.</span></span>) lies the unmanifested (<span class=tooltip>avyakta<span class=tooltiptext>Unmanifest. Opposite is *vyakta*</span></span>), the causeless cause of everything. Even to talk of reüniting the person with the self is not right, because there is no person, only a mental picture given a false reality by conviction. Nothing was divided and there is nothing to unite.
+**M:**&ensp;The personality (<span class=tooltip>vyakti<span class=tooltiptext>Person, the outer self.</span></span>) is but a product of imagination. The self (<span class=tooltip>vyakta<span class=tooltiptext>Manifest matter, the evolved nature. Opposite is *avyakta*.</span></span>) is the victim of this imagination. It is the taking yourself to be what you are not that binds you. The person cannot be said to exist on its own rights; it is the self that believes there is a person and is conscious of being it. Beyond the self (*vyakta*) lies the unmanifested (<span class=tooltip>avyakta<span class=tooltiptext>Unmanifest. Opposite is *vyakta*</span></span>), the causeless cause of everything. Even to talk of reüniting the person with the self is not right, because there is no person, only a mental picture given a false reality by conviction. Nothing was divided and there is nothing to unite.
 
-**Q:**&ensp;<span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span> helps in the search for and the finding of the self.
+**Q:**&ensp;*Yoga* helps in the search for and the finding of the self.
 
 **M:**&ensp;You can find what you have lost. But you cannot find what you have not lost.
 
@@ -84,7 +84,7 @@ You say you want to pacify your mind. Is he, who wants to pacify the mind, himse
 
 **M:**&ensp;The true knowledge of the self is not a knowledge. It is not something that you find by searching, by looking everywhere. It is not to be found in space or time. Knowledge is but a memory, a pattern of thought, a mental habit. All these are motivated by pleasure and pain. It is because you are goaded by pleasure and pain that you are in search of knowledge. Being oneself is completely beyond all motivation. You cannot be yourself for some reason. You *are* yourself, and no reason is needed.
 
-**Q:**&ensp;By doing <span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span> I shall find peace.
+**Q:**&ensp;By doing *Yoga* I shall find peace.
 
 **M:**&ensp;Can there be peace apart from yourself? Are you talking from your own experience or from books only? Your book knowledge is useful to begin with, but soon it must be given up for direct experience, which by its very nature is inexpressible. Words can be used for destruction also; of words images are built, by words they are destroyed. You got yourself into your present state through verbal thinking; you must get out of it the same way.
 
@@ -126,7 +126,7 @@ You say you want to pacify your mind. Is he, who wants to pacify the mind, himse
 
 **Q:**&ensp;Yes, I was always attracted by the idea of <span class=tooltip>ahimsa<span class=tooltiptext>Nonviolence; abstaining from hurting others in thought, words or deed.</span></span> (non-violence).
 
-**M:**&ensp;Primarily, <span class=tooltip>ahimsa<span class=tooltiptext>Nonviolence; abstaining from hurting others in thought, words or deed.</span></span> means what it says: “don't hurt”. It is not doing good that comes first, but ceasing to hurt, not adding to suffering. Pleasing others is not <span class=tooltip>ahimsa<span class=tooltiptext>Nonviolence; abstaining from hurting others in thought, words or deed.</span></span>.
+**M:**&ensp;Primarily, *ahimsa* means what it says: “don't hurt”. It is not doing good that comes first, but ceasing to hurt, not adding to suffering. Pleasing others is not *ahimsa*.
 
 **Q:**&ensp;I am not talking of pleasing, but I am all for helping others.
 
