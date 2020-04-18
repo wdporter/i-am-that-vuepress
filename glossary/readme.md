@@ -78,11 +78,15 @@ pageClass: glossary-class
 
 **<em>mahakarta:</em>**&ensp;the great doër. Mind is the great doer, for it is every busy, ever engaged in something or the other.
 
-**<em>mahamantra:</em>**&ensp;the great incantation (see *mantra*).
-
 **<em>Mahatma:</em>**&ensp;enlightened being.
 
-**<em>mahavakya:</em>**&ensp;the sublime pronouncement. Four Upanishadic declarations, expressing the highest Vedantic truths, are known as *Mahavakya*s. They are: *Prajnanam Brahman* (consciousness is *Brahman*), *aham Brahmasmi* (I am *Brahman*), *tat tvam asi* (That Thou Art) and *ayam atma Brahma* (the self is Brahman).
+**<em>maha-mantra:</em>**&ensp;the great incantation (see *mantra*).
+
+**<em>maha-sattva:</em>**&ensp;the supreme harmony, harmonious existence.
+
+**<em>maha-tattva:</em>**&ensp;the great reality, supreme consciousness.
+
+**<em>maha-vakya:</em>**&ensp;the sublime pronouncement. Four Upanishadic declarations, expressing the highest Vedantic truths, are known as *Mahavakya*s. They are: *Prajnanam Brahman* (consciousness is *Brahman*), *aham Brahmasmi* (I am *Brahman*), *tat tvam asi* (That Thou Art) and *ayam atma Brahma* (the self is Brahman).
 
 **<em>mana, manas:</em>**&ensp;the mind, understanding (*man*, to think). *Manas* is the thinking faculty, the faculty of discrimination. In *Nyaya* philosophy, *manas* is regarded as a substance distinct from *Atman*, the soul.
 
@@ -161,6 +165,8 @@ pageClass: glossary-class
 **<em>smarana:</em>**&ensp;remembrance, mental recitation.
 
 **<em>soham:</em>**&ensp;‘I Am He’.
+
+**<em>sutratma:</em>**&ensp;the connecting link between all beings. The string-like supporter of the manifested worlds, hence the pure consciousness which is the substratum of all beings. *Maharaj* uses the word for the accumulated *karma* from life to life.
 
 **<em>swarupa:</em>**&ensp;one’s own form, nature, character.
 

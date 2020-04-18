@@ -80,7 +80,19 @@ module.exports = {
 					"/46-awareness-of-being-is-bliss/",
 					"/47-watch-your-mind/",
 					"/48-awareness-is-free/",
-					"/49-mind-causes-insecurity/"
+					"/49-mind-causes-insecurity/",
+					"/50-self-awareness-is-the-witness/"
+				]
+			},
+			{
+				title: "51–60",
+				children: [
+					"/51-be-indifferent-to-pain-and-pleasure/",
+					"/52-being-happy-making-happy-is-the-rhythm-of-life/",
+					"/53-desires-fulfilled-breed-more-desires/",
+					"/54-body-and-mind-are-symptoms-of-ignorance/",
+					"/55-give-up-all-and-you-gain-all/",
+					"/56-consciousness-arising-world-arises/"
 				]
 			},
 			{
