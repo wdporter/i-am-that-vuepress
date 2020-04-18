@@ -4,6 +4,11 @@ module.exports = {
 	lang: "en",
 	evergreen: true,
 	plugins: ["@vuepress/back-to-top"],
+	head: [
+		["script", {src: "https://unpkg.com/@popperjs/core@2"}],
+		["script", {src: "https://unpkg.com/tippy.js@6"}],
+		["script", {src: "/js/tooltips.js"}],
+	],
 	themeConfig: {
 		navbar: false,
 		smoothScroll: true,
@@ -92,7 +97,8 @@ module.exports = {
 					"/53-desires-fulfilled-breed-more-desires/",
 					"/54-body-and-mind-are-symptoms-of-ignorance/",
 					"/55-give-up-all-and-you-gain-all/",
-					"/56-consciousness-arising-world-arises/"
+					"/56-consciousness-arising-world-arises/",
+					"/57-beyond-mind-there-is-no-suffering/"
 				]
 			},
 			{

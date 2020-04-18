@@ -124,6 +124,8 @@ pageClass: glossary-class
 
 **<em>prana:</em>**&ensp;the breath of life, vital principle.
 
+**<em>prarabdha:</em>**&ensp;destiny, *sanchita karma* (karma of past lives) that has become the destiny in the present life.
+
 **<em>pravritti:</em>**&ensp;penchant, predilection towards worldly life.
 
 **<em>premakash:</em>**&ensp;*Brahman* in its aspect of limitless love. It is another name for *chidakash*, but it lays stress on the love aspect not on the knowledge aspect. Love is the expression of the Self through the heart.
