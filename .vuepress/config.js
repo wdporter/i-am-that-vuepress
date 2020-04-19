@@ -5,9 +5,8 @@ module.exports = {
 	evergreen: true,
 	plugins: ["@vuepress/back-to-top"],
 	head: [
-		["script", {src: "https://unpkg.com/@popperjs/core@2"}],
-		["script", {src: "https://unpkg.com/tippy.js@6"}],
-		["script", {src: "/js/tooltips.js"}],
+		["script", {src: "https://unpkg.com/@popperjs/core@2", async: "async", defer: "defer"}],
+		["script", {src: "https://unpkg.com/tippy.js@6", async: "async", defer: "defer"}]
 	],
 	themeConfig: {
 		navbar: false,

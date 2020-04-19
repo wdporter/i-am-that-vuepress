@@ -2,9 +2,9 @@
 
 >You imagine that without cause there can be no happiness. To me dependence on anything for happiness is utter misery. Pleasure and pain have causes, while my state is my own, totally uncaused, independent and unassailable.
 
-**Maharaj:**&ensp;The world is but a show, glittering and empty. It is, and yet is not. It is there as long as I want to see it and take part in it. When I cease caring, it dissolves. It has no cause and serves no purpose. It just happens when we are absent-minded. It appears exactly as it looks, but there is no depth in it, nor meaning. Only the onlooker is real. Call him Self or <span class=tooltip>Atma<span class=tooltiptext>The Supreme Self, the individual soul. *Atman* is beyond all the three *gunas* of *prakriti*. It is not the *atman* that acts but only the *prakriti*.</span></span>. To the Self the world is but a colourful show, which he enjoys as long as it lasts and forgets when it is over. Whatever happens on the stage makes him shudder in terror or roll with laughter, yet all the time he is aware that it is but a show. Without desire or fear he enjoys it, as it happens.
+**Maharaj:**&ensp;The world is but a show, glittering and empty. It is, and yet is not. It is there as long as I want to see it and take part in it. When I cease caring, it dissolves. It has no cause and serves no purpose. It just happens when we are absent-minded. It appears exactly as it looks, but there is no depth in it, nor meaning. Only the onlooker is real. Call him Self or <span data-tippy-content="The Supreme Self, the individual soul. <em>Atman</em> is beyond all the three <em>gunas</em> of <em>prakriti</em>. It is not the <em>atman</em> that acts but only the <em>prakriti</em>.">Atma</span>. To the Self the world is but a colourful show, which he enjoys as long as it lasts and forgets when it is over. Whatever happens on the stage makes him shudder in terror or roll with laughter, yet all the time he is aware that it is but a show. Without desire or fear he enjoys it, as it happens.
 
-**Questioner:**&ensp;The person immersed in the world has a life of many flavours. He weeps, he laughs, loves and hates, desires and fears, suffers and rejoices. The desireless and fearless <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span>, what life has he? Is he not left high and dry in his aloofness?
+**Questioner:**&ensp;The person immersed in the world has a life of many flavours. He weeps, he laughs, loves and hates, desires and fears, suffers and rejoices. The desireless and fearless <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span>, what life has he? Is he not left high and dry in his aloofness?
 
 **M:**&ensp;His state is not so desolate. It tastes of the pure, uncaused and undiluted bliss. He is happy and fully aware that happiness is his very nature and that he need not do anything, nor strive for anything to secure it. It follows him, more real than the body, nearer than the mind itself. You imagine that without cause there can be no happiness. To me dependence on anything for happiness is utter misery. Pleasure and pain have causes, while my state is my own, totally uncaused, independent and unassailable.
 
@@ -12,7 +12,7 @@
 
 **M:**&ensp;The play was written, planned and rehearsed. The world just spouts into being out of nothing and returns to nothing.
 
-**Q:**&ensp;Is there no creator? Was not the world in the mind of <span class=tooltip>Brahma<span class=tooltiptext>One of the gods of the Hindu trinity: Brahma, the creator; Vishnu, the preserver; Shiva, the destroyer.</span></span>, before it was created?
+**Q:**&ensp;Is there no creator? Was not the world in the mind of <span data-tippy-content="One of the gods of the Hindu trinity: Brahma, the creator; Vishnu, the preserver; Shiva, the destroyer.">Brahma</span>, before it was created?
 
 **M:**&ensp;As long as you are outside my state, you will have Creators, Preservers and Destroyers, but once with me you will know the Self only and see yourself in all.
 
@@ -56,7 +56,7 @@ I may perceive the world just like you, but you believe to be in it, while I see
 
 **Q:**&ensp;Are you not afraid to die?
 
-**M:**&ensp;I shall tell you how my <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span>’s *Guru* died. After announcing that his end was nearing, he stopped eating, without changing the routine of his daily life. On the eleventh day, at prayer time he was singing and clapping vigorously and suddenly died! Just like that, between two movements, like a blown out candle. Everybody dies as he lives. I am not afraid of death, because I am not afraid of life. I live a happy life and shall die a happy death. Misery is to be born, not to die. All depends how you look at it.
+**M:**&ensp;I shall tell you how my <span data-tippy-content="Spiritual teacher, preceptor.">Guru</span>’s *Guru* died. After announcing that his end was nearing, he stopped eating, without changing the routine of his daily life. On the eleventh day, at prayer time he was singing and clapping vigorously and suddenly died! Just like that, between two movements, like a blown out candle. Everybody dies as he lives. I am not afraid of death, because I am not afraid of life. I live a happy life and shall die a happy death. Misery is to be born, not to die. All depends how you look at it.
 
 **Q:**&ensp;There can be no evidence of your state. All I know about it is what you say. All I see is a very interesting old man.
 
@@ -77,3 +77,12 @@ I may perceive the world just like you, but you believe to be in it, while I see
 **Q:**&ensp;My approach is not so absolute, hence my question. Throughout the West people are in search of something real. They turn to science, which tells them a lot about matter, a little about the mind and nothing about the nature and purpose of consciousness. To them reality is objective, outside the observable and describable, directly or by inference; about the subjective aspect of reality they know nothing. It is extremely important to let them know that there is reality and it is to be found in the freedom of consciousness from matter and its limitations and distortions. Most of the people in the world just do not know that there is reality which can be found and experienced in consciousness. It seems very important that they should hear the good news from somebody who has actually experienced. Such witnesses have always existed and their testimony is precious.
 
 **M:**&ensp;Of course. The gospel of self-realisation, once heard, will never be forgotten. Like a seed left in the ground, it will wait for the right season and sprout and grow into a mighty tree.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

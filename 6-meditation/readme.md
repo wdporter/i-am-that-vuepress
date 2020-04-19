@@ -14,7 +14,7 @@ Incidentally practice of meditation affects deeply our character. We are slaves 
 
 **Q:**&ensp;As I can make out, I live on many levels and life on each level requires energy. The self by its very nature delights in everything and its energies flow outwards. Is it not the purpose of meditation to dam up the energies on the higher levels, or to push them back and up, so as to enable the higher levels to prosper also?
 
-**M:**&ensp;It is not so much the matter of levels as of <span class=tooltip>gunas<span class=tooltiptext>Attributes, qualities. In *Samkhya* philosophy the three attributes of the cosmic substance (*prakriti*) are: illuminating (*sattva*), activating (*rajas*) and restraining (*tamas*).</span></span> (qualities). Meditation is a <span class=tooltip>sattvic<span class=tooltiptext>Being, existence, true essence. In *yoga* the quality of purity or goodness; *sattvic* — pure, true.</span></span> (pure) activity and aims at complete elimination of <span class=tooltip>tamas<span class=tooltiptext>Darkness, inertia, passivity. One of the three constituents (*gunas*) of the cosmic substance: *sattava*, *rajas* and *tamas*.</span></span> (inertia) and <span class=tooltip>rajas<span class=tooltiptext>Motivity, activity, energy. One of the three *gunas* or qualities of matter: *sattva*, *rajas* and *tamas*. In *yoga*, egoism.</span></span> (motivity). Pure <span class=tooltip>sattva<span class=tooltiptext>Being, existence, true essence. In *yoga* the quality of purity or goodness.</span></span> (harmony) is perfect freedom from sloth and restlessness.
+**M:**&ensp;It is not so much the matter of levels as of <span data-tippy-content="Attributes, qualities. In <em>Samkhya</em> philosophy the three attributes of the cosmic substance (<em>prakriti</em>) are: illuminating (<em>sattva</em>), activating (<em>rajas</em>) and restraining (<em>tamas</em>).">guna</span>s (qualities). Meditation is a <span data-tippy-content="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness; <em>sattvic</em> — pure, true.">sattv</span>ic (pure) activity and aims at complete elimination of <span data-tippy-content="Darkness, inertia, passivity. One of the three constituents (<em>gunas</em>) of the cosmic substance: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>.">tamas</span> (inertia) and <span data-tippy-content="Motivity, activity, energy. One of the three <em>gunas</em> or qualities of matter: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</span> (motivity). Pure <span data-tippy-content="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span> (harmony) is perfect freedom from sloth and restlessness.
 
 **Q:**&ensp;How to strengthen and purify the *sattva*?
 
@@ -27,3 +27,12 @@ Incidentally practice of meditation affects deeply our character. We are slaves 
 **Q:**&ensp;Since I cannot improve *sattva*, am I to deal with *tamas* and *rajas* only? How can I deal with them?
 
 **M:**&ensp;By watching their influence in you and on you. Be aware of them in operation, watch their expressions in your thoughts, words and deeds, and gradually their grip on you will lessen and the clear light of *sattva* will emerge. It is neither difficult, nor a protracted process; earnestness is the only condition of success.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

@@ -20,7 +20,7 @@
 
 **Q:**&ensp;What made you so dispassionate?
 
-**M:**&ensp;Nothing in particular. It so happened that I trusted my <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span>. He told me I am nothing but my self and I believed him. Trusting him, I behaved accordingly and ceased caring for what was not me, nor mine.
+**M:**&ensp;Nothing in particular. It so happened that I trusted my <span data-tippy-content="Spiritual teacher, preceptor.">Guru</span>. He told me I am nothing but my self and I believed him. Trusting him, I behaved accordingly and ceased caring for what was not me, nor mine.
 
 **Q:**&ensp;Why were you lucky to trust your teacher fully, while our trust is nominal and verbal?
 
@@ -33,3 +33,12 @@
 **Q:**&ensp;What do you see?
 
 **M:**&ensp;I see what you too could see, here and now, but for the wrong focus of your attention. You give no attention to your self. Your mind is all with things, people and ideas, never with your self. Bring your self into focus, become aware of your own existence. See how you function, watch the motives and the results of your actions. Study the prison you have built around yourself by inadvertence. By knowing what you are not, you come to know your self. The way back to your self is through refusal and rejection. One thing is certain: the real is not imaginary, it is not a product of the mind. Even the sense ‘I Am’ is not continuous, though it is a useful pointer; it shows where to seek, but not what to seek. Just have a good look at it. Once you are convinced that you cannot say truthfully about your self anything except, “I Am”, and that nothing that can be pointed at, can be your self, the need for the ‘I Am’ is over — you are no longer intent on verbalising what you are. All you need is to get rid of the tendency to define your self. All definitions apply to your body only and to its expressions. Once this obsession with the body goes, you will revert to your natural state, spontaneously and effortlessly. The only difference between us is that I am aware of my natural state, while you are bemused. Just like gold made into ornaments has no advantage over gold dust, except when the mind makes it so, so are we one in being — we differ only in appearance. We discover it by being earnest, by searching, enquiring, questioning daily and hourly, by giving one’s life to this discovery.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

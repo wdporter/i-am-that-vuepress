@@ -1,6 +1,6 @@
 # 35. The Greatest Guru is Your Inner Self
 
->The greatest <span style=font-weight:normal>Guru</span> is your inner self. Truly, he is the supreme teacher. He alone can take you to your goal and he alone meets you at the end of the road. Confide in him and you need no outer <span style=font-weight:normal>Guru</span>.
+>The greatest <span style=font-style:normal>Guru</span> is your inner self. Truly, he is the supreme teacher. He alone can take you to your goal and he alone meets you at the end of the road. Confide in him and you need no outer <span style=font-style:normal>Guru</span>.
 
 **Questioner:**&ensp;On all sides I hear that freedom from desires and inclinations is the first condition of self-realisation. But I find the condition impossible of fulfilment. Ignorance of oneself causes desires and desires perpetuate ignorance. A truly vicious circle!
 
@@ -14,11 +14,11 @@
 
 **M:**&ensp;Both are ideas in the mind, and words that express them. There is no self in them. The self is neither, between nor beyond. To look for it on the mental level is futile. Stop searching, and see — it is here and now — it is that ‘I Am’ you know so well. All you need to do is to cease taking yourself to be within the field of consciousness. Unless you have already considered these matters carefully, listening to me once will not do. Forget your past experiences and achievements, stand naked, exposed to the winds and rains of life and you will have a chance.
 
-**Q:**&ensp;Has devotion (<span class=tooltip>bhakti<span class=tooltiptext>Devotion, adoration. Hence *bhakta*, a devotee.</span></span>) any place in your teaching?
+**Q:**&ensp;Has devotion (<span data-tippy-content="Devotion, adoration. Hence <em>bhakta</em>, a devotee.">bhakti</span>) any place in your teaching?
 
 **M:**&ensp;When you are not well, you go to a physician who tells you what is wrong and what is the remedy. If you have confidence in him, it makes things simple: you take the medicine, follow the diet restrictions and get well. But if you do not trust him, you may still take a chance, or you may study medicine yourself! In all cases it is your desire for recovery that moves you, not the physician. 
 
-Without trust there is no peace. Somebody or other you always trust — it may be your mother, or your wife. Of all the people the knower of the self, the liberated man, is the most trustworthy. But merely to trust is not enough. You must also desire. Without desire for freedom of what use is the confidence that you can acquire freedom? Desire and confidence must go together. The stronger your desire, the easier comes the help. The greatest <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span> is helpless as long as the disciple is not eager to learn. Eagerness and earnestness are all-important. Confidence will come with experience. Be devoted to your goal — and devotion to him who can guide you will follow. If your desire and confidence are strong, they will operate and take you to your goal, for you will not cause delay by hesitation and compromise. 
+Without trust there is no peace. Somebody or other you always trust — it may be your mother, or your wife. Of all the people the knower of the self, the liberated man, is the most trustworthy. But merely to trust is not enough. You must also desire. Without desire for freedom of what use is the confidence that you can acquire freedom? Desire and confidence must go together. The stronger your desire, the easier comes the help. The greatest <span data-tippy-content="Spiritual teacher, preceptor.">Guru</span> is helpless as long as the disciple is not eager to learn. Eagerness and earnestness are all-important. Confidence will come with experience. Be devoted to your goal — and devotion to him who can guide you will follow. If your desire and confidence are strong, they will operate and take you to your goal, for you will not cause delay by hesitation and compromise. 
 
 The greatest *Guru* is your inner self. Truly, he is the supreme teacher. He alone can take you to your goal and he alone meets you at the end of the road. Confide in him and you need no outer *Guru*. But again you must have the strong desire to find him and do nothing that will create obstacles and delays. And do not waste energy and time on regrets. Learn from your mistakes and do not repeat them.
 
@@ -32,7 +32,7 @@ The greatest *Guru* is your inner self. Truly, he is the supreme teacher. He alo
 
 **Q:**&ensp;Surely all avoidable violence should be avoided. And yet in India every holy man has his tiger, lion, leopard or antelope skin to sit on.
 
-**M:**&ensp;Maybe because no plastics were available in ancient times and a skin was best to keep the damp away. Rheumatism has no charm, even for a saint! Thus the tradition arose that for lengthy meditations a skin is needed. Just like the drum-hide in a temple, so is the antelope skin of a <span class=tooltip>Yogi<span class=tooltiptext>One who practices *yoga*.</span></span>. We hardly notice it.
+**M:**&ensp;Maybe because no plastics were available in ancient times and a skin was best to keep the damp away. Rheumatism has no charm, even for a saint! Thus the tradition arose that for lengthy meditations a skin is needed. Just like the drum-hide in a temple, so is the antelope skin of a <span data-tippy-content="One who practices <em>yoga</em>.">Yogi</span>. We hardly notice it.
 
 **Q:**&ensp;But the animal had to be killed.
 
@@ -86,7 +86,7 @@ The greatest *Guru* is your inner self. Truly, he is the supreme teacher. He alo
 
 **M:**&ensp;None compels.
 
-**Q:**&ensp;None compels you, but I am compelled. My world is an evil world, full of tears, toil and pain. To explain it away by the intellectualising, by putting forth theories of evolution and karma is merely adding insult to injury. The God of an evil world is a cruel God.
+**Q:**&ensp;None compels you, but I am compelled. My world is an evil world, full of tears, toil and pain. To explain it away by the intellectualising, by putting forth theories of evolution and <span data-tippy-content="Action or “the fruits of action”. <em>Karma</em> is of three kinds: <em>sanchita</em> (accumulated from previous births), <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the present life) and <em>agami</em> (the current <em>karma</em> the result of which will fructify in future).">karma</span> is merely adding insult to injury. The God of an evil world is a cruel God.
 
 **M:**&ensp;You are the god of your world and you are both stupid and cruel. Let God be a concept — your own creation. Find out who you are, how did you come to live, longing for truth, goodness and beauty in a world full of evil. Of what use is your arguing for or against God. when you just do not know who is God and what are you talking about. The God born of fear and hope, shaped by desire and imagination, cannot be the Power That is, the Mind and the Heart of the universe.
 
@@ -121,3 +121,12 @@ The greatest *Guru* is your inner self. Truly, he is the supreme teacher. He alo
 **Q:**&ensp;Take me over.
 
 **M:**&ensp;I am doing it, but you resist. You give reality to concepts, while concepts are distortions of reality. Abandon all conceptualisation and stay silent and attentive. Be earnest about it and all will be well with you.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

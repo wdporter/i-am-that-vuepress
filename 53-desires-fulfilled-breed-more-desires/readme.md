@@ -4,7 +4,7 @@
 
 **Questioner:**&ensp;I must confess I came today in a rebellious mood. I got a raw deal at the airlines office. When faced with such situations everything seems doubtful, everything seems useless.
 
-**Maharaj:**&ensp;This is a very useful mood. Doubting all, refusing all, unwilling to learn through another. It is the fruit of your long <span class=tooltip>sadhana<span class=tooltiptext>The practice which produces success, *siddhi*.</span></span>. After all one does not study for ever.
+**Maharaj:**&ensp;This is a very useful mood. Doubting all, refusing all, unwilling to learn through another. It is the fruit of your long <span data-tippy-content="The practice which produces success, <em>siddhi</em>.">sadhana</span>. After all one does not study for ever.
 
 **Q:**&ensp;Enough of it. It took me nowhere.
 
@@ -30,7 +30,7 @@ If you are angry or in pain, separate yourself from anger and pain and watch the
 
 **Q:**&ensp;For full three hours that I spent in the airline office I was practising patience and forbearance. It did not speed up matters.
 
-**M:**&ensp;At least it did not slow them down, as your kicking would have surely done! You want immediate results! We do not dispense magic here. Everybody does the same mistake: refusing the means, but wanting the ends. You want peace and harmony in the world, but refuse to have them in yourself. Follow my advice implicitly and you will not be disappointed. I cannot solve your problem by mere words. You have to act on what I told you and persevere. It is not the right advice that liberates, but the action based on it. Just like a doctor, after giving the patient an injection, tells him, “Now, keep quiet. Do nothing more, just keep quiet”. I am telling you, you have got your ‘injection’, now keep quiet, just keep quiet. You have nothing else to do. My <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span> did the same. He would tell me something and then said, “Now keep quiet. Don’t go on ruminating all the time. Stop. Be silent”.
+**M:**&ensp;At least it did not slow them down, as your kicking would have surely done! You want immediate results! We do not dispense magic here. Everybody does the same mistake: refusing the means, but wanting the ends. You want peace and harmony in the world, but refuse to have them in yourself. Follow my advice implicitly and you will not be disappointed. I cannot solve your problem by mere words. You have to act on what I told you and persevere. It is not the right advice that liberates, but the action based on it. Just like a doctor, after giving the patient an injection, tells him, “Now, keep quiet. Do nothing more, just keep quiet”. I am telling you, you have got your ‘injection’, now keep quiet, just keep quiet. You have nothing else to do. My <span data-tippy-content="Spiritual teacher, preceptor.">Guru</span> did the same. He would tell me something and then said, “Now keep quiet. Don’t go on ruminating all the time. Stop. Be silent”.
 
 **Q:**&ensp;I can keep quiet for an hour in the morning. But the day is long and many things happen that throw me out of balance. It is easy to say, “be silent”, but to be silent when all is screaming in me and around me — please tell me how it is done.
 
@@ -63,3 +63,12 @@ If you are angry or in pain, separate yourself from anger and pain and watch the
 **Q:**&ensp;How am I to fight desire? There is nothing stronger.
 
 **M:**&ensp;The waters of life are thundering over the rocks of objects — desirable or hateful. Remove the rocks by insight and detachment and the same waters will flow deep and silent and swift, in greater volume and with greater power. Don’t be theoretical about it, give time to thought and consideration; if you desire to be free, neglect not the nearest step to freedom. It is like climbing a mountain: not a step can be missed. One step less — and the summit is not reached.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

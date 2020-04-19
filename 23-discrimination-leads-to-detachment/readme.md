@@ -116,7 +116,7 @@
 
 **M:**&ensp;Well, if you think so, act on it. Feed your God, by all means.
 
-**Q:**&ensp;A child goes to school and learns many things, which will be of no use to it later. But in the course of learning it grows. So do we pass through experiences without number and forget them all, but in the meantime we grow all the time. And what is a <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> but a man with a genius for reality! This world of mine cannot be an accident. It makes sense, there must be a plan behind it. My God has a plan.
+**Q:**&ensp;A child goes to school and learns many things, which will be of no use to it later. But in the course of learning it grows. So do we pass through experiences without number and forget them all, but in the meantime we grow all the time. And what is a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> but a man with a genius for reality! This world of mine cannot be an accident. It makes sense, there must be a plan behind it. My God has a plan.
 
 **M:**&ensp;If the world is false, then the plan and its creator are also false.
 
@@ -136,7 +136,7 @@
 
 **M:**&ensp;By self-realisation. I found that I am conscious and happy absolutely and only by mistake I thought I owed being-consciousness-bliss to the body and the world of bodies.
 
-**Q:**&ensp;You are not a learned man. You have not read much and what you read, or heard did perhaps not contradict itself. I am fairly well educated and have read a lot and I found that books and teachers contradict each other hopelessly. Hence whatever I read or hear, I take it in a state of doubt. “It may be so, it may not be so”, is my first reaction. And as my mind is unable to decide what is true and what is not, I am left high and dry with my doubts. In <span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span> a doubting mind is at a tremendous disadvantage.
+**Q:**&ensp;You are not a learned man. You have not read much and what you read, or heard did perhaps not contradict itself. I am fairly well educated and have read a lot and I found that books and teachers contradict each other hopelessly. Hence whatever I read or hear, I take it in a state of doubt. “It may be so, it may not be so”, is my first reaction. And as my mind is unable to decide what is true and what is not, I am left high and dry with my doubts. In <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">Yoga</span> a doubting mind is at a tremendous disadvantage.
 
 **M:**&ensp;I am glad to hear it; but my Guru too taught me to doubt — everything and absolutely. He said, “deny existence to everything except your self”. Through desire you have created the world with its pains and pleasures.
 
@@ -146,8 +146,17 @@
 
 **Q:**&ensp;All you say is clear to me. But when some physical or mental trouble comes, my mind goes dull and grey, or seeks frantically for relief.
 
-**M:**&ensp;What does it matter? It is the mind that is dull or restless, not you. Look, all kinds of things happen in this room. Do I cause them to happen? They just happen. So it is with you — the roll of destiny unfolds itself and actualises the inevitable. You cannot change the course of events, but you can change your attitude and what really matters is the attitude and not the bare event. The world is the abode of desires and fears. You cannot find peace in it. For peace you must go beyond the world. The root cause of the world is self-love. Because of it we seek pleasure and avoid pain. Replace self-love by love of the Self and the picture changes. <span class=tooltip>Brahma<span class=tooltiptext>One of the gods of the Hindu trinity: Brahma, the creator; Vishnu, the preserver; Shiva, the destroyer.</span></span> the Creator is the sum total of all desires. The world is the instrument for their fulfilment. Souls take whatever pleasure they desire and pay for them in tears. Time squares all accounts. The law of balance reigns supreme.
+**M:**&ensp;What does it matter? It is the mind that is dull or restless, not you. Look, all kinds of things happen in this room. Do I cause them to happen? They just happen. So it is with you — the roll of destiny unfolds itself and actualises the inevitable. You cannot change the course of events, but you can change your attitude and what really matters is the attitude and not the bare event. The world is the abode of desires and fears. You cannot find peace in it. For peace you must go beyond the world. The root cause of the world is self-love. Because of it we seek pleasure and avoid pain. Replace self-love by love of the Self and the picture changes. <span data-tippy-content="One of the gods of the Hindu trinity: Brahma, the creator; Vishnu, the preserver; Shiva, the destroyer." style=font-style:normal>Brahma</span> the Creator is the sum total of all desires. The world is the instrument for their fulfilment. Souls take whatever pleasure they desire and pay for them in tears. Time squares all accounts. The law of balance reigns supreme.
 
 **Q:**&ensp;To be a superman one must be a man first. Manhood is the fruit of innumerable experiences: Desire drives to experience. Hence at its own time and level desire is right.
 
-**M:**&ensp;All this is true in a way. But a day comes when you have amassed enough and must begin to build. Then sorting out and discarding (<span class=tooltip>viveka<span class=tooltiptext>Discrimination; discrimination between the true and the false, the real and the unreal. *Viveka* is an expression of the spiritual consciousness hidden behind the mind. It leads to *vairagya*.</span></span>–<span class=tooltip>vairagya<span class=tooltiptext>Dispassion, indifference to the pains and pleasures of the material world.</span></span>) are absolutely necessary. Everything must be scrutinised and the unnecessary ruthlessly destroyed. Believe me, there cannot be too much destruction. For in reality nothing is of value. Be passionately dispassionate — that is all. 
+**M:**&ensp;All this is true in a way. But a day comes when you have amassed enough and must begin to build. Then sorting out and discarding (<span data-tippy-content="Discrimination; discrimination between the true and the false, the real and the unreal. <em>Viveka</em> is an expression of the spiritual consciousness hidden behind the mind. It leads to <em>vairagya</em>.">viveka</span>–<span data-tippy-content="Dispassion, indifference to the pains and pleasures of the material world.">vairagya</span>) are absolutely necessary. Everything must be scrutinised and the unnecessary ruthlessly destroyed. Believe me, there cannot be too much destruction. For in reality nothing is of value. Be passionately dispassionate — that is all. 
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

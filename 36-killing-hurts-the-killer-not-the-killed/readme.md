@@ -2,7 +2,7 @@
 
 >The cruelty lies in the motive, not in the fact. Killing hurts the killer, not the killed.
 
-**Questioner:**&ensp;A thousand years ago a man lived and died. His identity (<span class=tooltip>antahkarana<span class=tooltiptext>The psyche, mind. Mind in a collective sense, including intelligence (*buddhi*), ego (*ahamkara*) and mind (*manas*).</span></span>) reäppeared in a new body. Why does he not remember his previous life? And if he does, can the memory be brought into the conscious?
+**Questioner:**&ensp;A thousand years ago a man lived and died. His identity (<span data-tippy-content="The psyche, mind. Mind in a collective sense, including intelligence (<em>buddhi</em>), ego (<em>ahamkara</em>) and mind (<em>manas</em>).">antahkarana</span>) reäppeared in a new body. Why does he not remember his previous life? And if he does, can the memory be brought into the conscious?
 
 **Maharaj:**&ensp;How do you know that the same person reäppeared in the new body? A new body may mean a new person altogether.
 
@@ -16,7 +16,7 @@
 
 **Q:**&ensp;An idea, of course. How can a brain remember what it has not experienced?
 
-**M:**&ensp;You have answered your own question. Why play with ideas? Be content with what you are sure of. And the only thing you can be sure of is ‘I Am’. Stay with it, and reject everything else. This is <span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span>.
+**M:**&ensp;You have answered your own question. Why play with ideas? Be content with what you are sure of. And the only thing you can be sure of is ‘I Am’. Stay with it, and reject everything else. This is <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">Yoga</span>.
 
 **Q:**&ensp;I can reject only verbally. At best I remember to repeat the formula, “This is not me, this is not mine. I am beyond all this”.
 
@@ -78,7 +78,7 @@
 
 **M:**&ensp;What he thinks himself to be before death he continues to be after death. His self-image survives.
 
-**Q:**&ensp;The other day there was a talk about the use by the <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> of animal skins for meditation etc. I was not convinced. It is easy to justify everything by referring to custom and tradition. Customs may be cruel and tradition corrupt. They explain, but do not justify.
+**Q:**&ensp;The other day there was a talk about the use by the <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> of animal skins for meditation etc. I was not convinced. It is easy to justify everything by referring to custom and tradition. Customs may be cruel and tradition corrupt. They explain, but do not justify.
 
 **M:**&ensp;I never meant to say that lawlessness follows self-realisation. A liberated man is extremely law-abiding. But his laws are the laws of his real self, not of his society. These he observes, or breaks according to circumstances and necessity. But he will never be fanciful and disorderly.
 
@@ -149,3 +149,12 @@
 **Q:**&ensp;Surely there were people, common people, who helped greatly.
 
 **M:**&ensp;When the time comes for the world to be helped, some people are given the will, the wisdom and the power to cause great changes.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

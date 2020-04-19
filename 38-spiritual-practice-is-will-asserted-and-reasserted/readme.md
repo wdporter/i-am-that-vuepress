@@ -2,7 +2,7 @@
 
 >…there is a connection between the word and its meaning, between the action and its motive. Spiritual practice is will asserted and reässerted. Who has not the daring will not accept the real even when offered. Unwillingness born out of fear is the only obstacle.
 
-**Questioner:**&ensp;The Westerners who occasionally come to see you are faced with a peculiar difficulty. The very notion of a liberated man, a realised man, a self-knower, a God-knower, a man beyond the world, is unknown to them. All they have in their Christian culture is the idea of a saint: a pious man, law-abiding, God-fearing, fellow-loving, prayerful, sometimes prone to ecstasies and confirmed by a few miracles. The very idea of a <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> is foreign to Western culture, something exotic and rather unbelievable. Even when his existence is accepted, he is looked at with suspicion, as a case of self-induced euphoria caused by strange physical postures and mental attitudes. The very idea of a new dimension in consciousness seems to them implausible and improbable. 
+**Questioner:**&ensp;The Westerners who occasionally come to see you are faced with a peculiar difficulty. The very notion of a liberated man, a realised man, a self-knower, a God-knower, a man beyond the world, is unknown to them. All they have in their Christian culture is the idea of a saint: a pious man, law-abiding, God-fearing, fellow-loving, prayerful, sometimes prone to ecstasies and confirmed by a few miracles. The very idea of a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> is foreign to Western culture, something exotic and rather unbelievable. Even when his existence is accepted, he is looked at with suspicion, as a case of self-induced euphoria caused by strange physical postures and mental attitudes. The very idea of a new dimension in consciousness seems to them implausible and improbable. 
 
 What will help them is the opportunity of hearing a *jnani* relate his own experience of realisation, its causes and beginnings, its progress and attainments and its actual practice in daily life. Much of what he says may remain strange, even meaningless, yet there will remain a feeling of reality, an atmosphere of actual experiencing — ineffable, yet very real, a centre from which an exemplary life
 can be lived.
@@ -115,7 +115,7 @@ After all, when I talk of trusting me, it is only for a short time, just enough 
 
 **Q:**&ensp;Not everybody has the chance of meeting you.
 
-**M:**&ensp;Meet your own self. Be with your own self, listen to it, obey it, cherish it, keep it in mind ceaselessly. You need no other guide. As long as your urge for truth affects your daily life, all is well with you. Live your life without hurting anybody. Harmlessness is a most powerful form of <span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span> and it will take you speedily to your goal. This is what I call <span class=tooltip>nisarga<span class=tooltiptext>Natural, innate, inborn.</span></span> *yoga*, the Natural *yoga*. It is the art of living in peace and harmony, in friendliness and love. The fruit of it is happiness, uncaused and endless.
+**M:**&ensp;Meet your own self. Be with your own self, listen to it, obey it, cherish it, keep it in mind ceaselessly. You need no other guide. As long as your urge for truth affects your daily life, all is well with you. Live your life without hurting anybody. Harmlessness is a most powerful form of <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">Yoga</span> and it will take you speedily to your goal. This is what I call <span data-tippy-content="Natural, innate, inborn.">nisarga</span> *yoga*, the Natural *yoga*. It is the art of living in peace and harmony, in friendliness and love. The fruit of it is happiness, uncaused and endless.
 
 **Q:**&ensp;Still, all this presupposes some faith.
 
@@ -128,3 +128,12 @@ After all, when I talk of trusting me, it is only for a short time, just enough 
 **Q:**&ensp;Then I watch him closely and try to make out.
 
 **M:**&ensp;And this is exactly what I want you to do! Be interested, give attention, until a current of mutual understanding is established. Then the sharing will be easy. As a matter of fact, all realisation is only sharing. You enter a wider consciousness and share in it. Unwillingness to enter and to share is the only hindrance. I never talk of differences, for to me there are none. You do, so it is up to you to show them to me. By all means, show me the differences. For this you will have to understand me, but then you will no longer talk of differences. Understand one thing well, and you have arrived. What prevents you from knowing is not the lack of opportunity, but the lack of ability to focus in your mind what you want to understand. If you could but keep in mind what you do not know, it would reveal to you its secrets. But if you are shallow and impatient, not earnest enough to look and wait, you are like a child crying for the moon.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

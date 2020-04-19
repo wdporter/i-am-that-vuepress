@@ -36,7 +36,7 @@
 
 When reality explodes in you, you may call it experience of God. Or, rather, it is God experiencing you. God knows you when you know yourself. Reality is not the result of a process; it is an explosion. It is definitely beyond the mind, but all you can do is to know your mind well. Not that the mind will help you, but by knowing your mind you may avoid your mind disabling you. You have to be very alert, or else your mind will play false with you. It is like watching a thief — not that you expect anything from a thief, but you do not want to be robbed. In the same way you give a lot of attention to the mind without expecting anything from it. 
 
-Or, take another example. We wake and we sleep. After a day’s work sleep comes. Now, do I go to sleep or does inadvertence — characteristic of the sleeping state — come to me? In other words — we are awake because we are asleep. We do not wake up into a really waking state. In the waking state the world emerges due to ignorance and takes one into a waking-dream state. Both sleep and waking are misnomers. We are only dreaming. True waking and true sleeping only the <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> knows. We dream that we are awake, we dream that we are asleep. The three states are only varieties of the dream state. Treating everything as a dream liberates. As long as you give reality to dreams, you are their slave. By imagining that you are born as so-and-so, you become a slave to the so-and-so. The essence of slavery is to imagine yourself to be a process, to have past and future, to have history. In fact, we have no history, we are not a process, we do not develop, nor decay; also see all as a dream and stay out of it.
+Or, take another example. We wake and we sleep. After a day’s work sleep comes. Now, do I go to sleep or does inadvertence — characteristic of the sleeping state — come to me? In other words — we are awake because we are asleep. We do not wake up into a really waking state. In the waking state the world emerges due to ignorance and takes one into a waking-dream state. Both sleep and waking are misnomers. We are only dreaming. True waking and true sleeping only the <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> knows. We dream that we are awake, we dream that we are asleep. The three states are only varieties of the dream state. Treating everything as a dream liberates. As long as you give reality to dreams, you are their slave. By imagining that you are born as so-and-so, you become a slave to the so-and-so. The essence of slavery is to imagine yourself to be a process, to have past and future, to have history. In fact, we have no history, we are not a process, we do not develop, nor decay; also see all as a dream and stay out of it.
 
 **Q:**&ensp;What benefit do I derive from listening to you?
 
@@ -64,7 +64,7 @@ Or, take another example. We wake and we sleep. After a day’s work sleep comes
 
 **Q:**&ensp;Would you say that reality expresses itself in action rather than in knowledge? Or, is it a feeling of sorts?
 
-**M:**&ensp;Neither action, feeling nor thought express reality. There is no such thing as an expression of reality. You are introducing a duality where there is none. Only reality *is*, there is nothing else. The three states of waking, dreaming and sleeping are not me and I am not in them. When I die, the world will say, “Oh, Maharaj is dead!”. But to me these are words without content; they have no meaning. When the worship is done before the image of the <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span>, all takes place as if he wakes and bathes and eats and rests, and goes for a stroll and returns, blesses all and goes to sleep. All is attended to in minutest details and yet there is a sense of unreality about it all. So is the case with me. All happens as it needs, yet nothing happens. I do what seems to be necessary, but at the same time I know that nothing is necessary, that life itself is only a make-belief.
+**M:**&ensp;Neither action, feeling nor thought express reality. There is no such thing as an expression of reality. You are introducing a duality where there is none. Only reality *is*, there is nothing else. The three states of waking, dreaming and sleeping are not me and I am not in them. When I die, the world will say, “Oh, Maharaj is dead!”. But to me these are words without content; they have no meaning. When the worship is done before the image of the <span data-tippy-content="Spiritual teacher, preceptor.">Guru</span>, all takes place as if he wakes and bathes and eats and rests, and goes for a stroll and returns, blesses all and goes to sleep. All is attended to in minutest details and yet there is a sense of unreality about it all. So is the case with me. All happens as it needs, yet nothing happens. I do what seems to be necessary, but at the same time I know that nothing is necessary, that life itself is only a make-belief.
 
 **Q:**&ensp;Why then live at all? Why all this unnecessary coming and going, waking and sleeping, eating and digesting?
 
@@ -82,7 +82,7 @@ Or, take another example. We wake and we sleep. After a day’s work sleep comes
 
 **M:**&ensp;There was no coming. It was so — always. There was discovery and it was sudden. Just as at birth you discover the world suddenly, as suddenly I discovered my real being.
 
-**Q:**&ensp;Was it clouded over and your <span class=tooltip>sadhana<span class=tooltiptext>The practice which produces success, *siddhi*.</span></span> dissolved the mist? When your true state became clear to you, did it remain clear, or did it get obscured again? Is your condition permanent or intermittent?
+**Q:**&ensp;Was it clouded over and your <span data-tippy-content="The practice which produces success, <em>siddhi</em>.">sadhana</span> dissolved the mist? When your true state became clear to you, did it remain clear, or did it get obscured again? Is your condition permanent or intermittent?
 
 **M:**&ensp;Absolutely steady. Whatever I may do, it stays like a rock — motionless. Once you have awakened into reality, you stay in it. A child does not return to the womb! It is a simple state, smaller than the smallest, bigger than the biggest. It is self-evident and yet beyond description.
 
@@ -93,3 +93,12 @@ Or, take another example. We wake and we sleep. After a day’s work sleep comes
 **Q:**&ensp;Can I do it?
 
 **M:**&ensp;Of course. You are quite capable of crossing over. Only be sincere.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

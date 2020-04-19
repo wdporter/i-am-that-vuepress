@@ -4,7 +4,7 @@
 
 **Questioner:**&ensp;There are very interesting books written by apparently very competent people, in which the illusoriness of the world is denied (though not its transitoriness). According to them, there exists a hierarchy of beings, from the lowest to the highest; on each level the complexity of the organism enables and reflects the depth, breadth and intensity of consciousness, without any visible or knowable culmination. One law supreme rules throughout: evolution of forms for the growth and enrichment of consciousness and manifestation of its infinite potentialities.
 
-**Maharaj:**&ensp;This may or may not be so. Even if it is, it is only so from the mind’s point of view, but in fact the entire universe (<span class=tooltip>mahadakash<span class=tooltiptext>The great expanse of existence, the universe of matter and energy.</span></span>) exists only in consciousness (<span class=tooltip>chidakash<span class=tooltiptext>[*chit*, to perceive + *akash*, expanse, sky] Brahman in its aspect of limitless knowledge, the expanse of awareness. Variously used for consciousness, individual as well as universal.</span></span>), while I have my stand in the Absolute (<span class=tooltip>paramakash<span class=tooltiptext>The great expanse, the timeless and spaceless reality; the Absolute being.</span></span>). In pure being consciousness arises; in consciousness the world appears and disappears. All there *is* is me, all there *is* is mine. Before all beginnings, after all endings — I am. All has its being in me, in the ‘I Am’, that shines in every living being. Even not being is unthinkable without me. Whatever happens, I must be there to witness it.
+**Maharaj:**&ensp;This may or may not be so. Even if it is, it is only so from the mind’s point of view, but in fact the entire universe (<span data-tippy-content="The great expanse of existence, the universe of matter and energy.">mahadakash</span>) exists only in consciousness (<span data-tippy-content="[<em>chit</em>, to perceive + <em>akash</em>, expanse, sky] Brahman in its aspect of limitless knowledge, the expanse of awareness. Variously used for consciousness, individual as well as universal.">chidakash</span>), while I have my stand in the Absolute (<span data-tippy-content="The great expanse, the timeless and spaceless reality; the Absolute being.">paramakash</span>). In pure being consciousness arises; in consciousness the world appears and disappears. All there *is* is me, all there *is* is mine. Before all beginnings, after all endings — I am. All has its being in me, in the ‘I Am’, that shines in every living being. Even not being is unthinkable without me. Whatever happens, I must be there to witness it.
 
 **Q:**&ensp;Why do you deny being to the world?
 
@@ -32,7 +32,7 @@
 
 **Q:**&ensp;Are you not immersed timelessly in an abstraction?
 
-**M:**&ensp;Abstraction is mental and verbal and disappears in sleep, or swoon; it reäppears in time; I am in my own state (<span class=tooltip>swarupa<span class=tooltiptext>One’s own form, nature, character.</span></span>) timelessly in the *now*. Past and future are in mind only — I am *now*.
+**M:**&ensp;Abstraction is mental and verbal and disappears in sleep, or swoon; it reäppears in time; I am in my own state (<span data-tippy-content="One’s own form, nature, character.">svarupa</span>) timelessly in the *now*. Past and future are in mind only — I am *now*.
 
 **Q:**&ensp;The world too is *now*.
 
@@ -69,3 +69,12 @@
 **Q:**&ensp;But do you see and hear as we do?
 
 **M:**&ensp;Yes, l appear to hear and see and talk and act, but to me it just happens, as to you digestion or perspiration happens. The body–mind machine looks after it, but leaves me out of it. Just as you do not need to worry about growing hair, so I need not worry about words and actions. They just happen and leave me unconcerned, for in my world nothing ever goes wrong.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

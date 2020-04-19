@@ -78,7 +78,7 @@
 
 **M:**&ensp;The knower and the witness are two or one? When the knower is seen as separate from the known, the witness stands alone. When the known and the knower are seen as one, the witness becomes one with them.
 
-**Q:**&ensp;Who is the <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span>? The witness or the supreme?
+**Q:**&ensp;Who is the <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span>? The witness or the supreme?
 
 **M:**&ensp;The *jnani* is the supreme and also the witness. He is both being and awareness. In relation to consciousness he is awareness. In relation to the universe he is pure being.
 
@@ -113,3 +113,12 @@
 **Q:**&ensp;Which part of the future is real and which is not?
 
 **M:**&ensp;The unexpected and unpredictable is real.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

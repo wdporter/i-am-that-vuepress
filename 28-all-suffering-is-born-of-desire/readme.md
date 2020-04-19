@@ -80,15 +80,15 @@
 
 **Q:**&ensp;How does self-identification happen?
 
-**M:**&ensp;The self by its nature knows itself only. For lack of experience whatever it perceives it takes to be itself. Battered, it learns to look out (<span class=tooltip>viveka<span class=tooltiptext>Discrimination; discrimination between the true and the false, the real and the unreal. *Viveka* is an expression of the spiritual consciousness hidden behind the mind. It leads to *vairagya*.</span></span>) and to live alone (<span class=tooltip>vairagya<span class=tooltiptext>Dispassion, indifference to the pains and pleasures of the material world.</span></span>). When right behaviour (<span class=tooltip>uparati<span class=tooltiptext>Rest, repose, tolerance and renunciation of all sectarian observances. In *Vedanta* one of the six acquirements (*sat-sampat*): *sama*, tranquility; *dama*, self-restraint; *uprati*, tolerance; *titiksha*, endurance; *sraddha*, faith; and *samadhana*, equipoise.</span></span>), becomes normal, a powerful inner urge (<span class=tooltip>mukmukshattva<span class=tooltiptext>Right desire, which consists of earnestness to know the Ultimate Principle to attain liberation. In *Vedanta*, one of the four qualifications of the seeker of the Truth: right discrimination (*viveka*), right passion (*vairagya*), right conduct (*sat-sampat*) and right desire (*mumukshattva*). *Mumukshattva* is intense longing for liberation.</span></span>) makes it seek its source. The candle of the body is lighted and all becomes clear and bright.
+**M:**&ensp;The self by its nature knows itself only. For lack of experience whatever it perceives it takes to be itself. Battered, it learns to look out (<span data-tippy-content="Discrimination; discrimination between the true and the false, the real and the unreal. <em>Viveka</em> is an expression of the spiritual consciousness hidden behind the mind. It leads to <em>vairagya</em>.">viveka</span>) and to live alone (<span data-tippy-content="Dispassion, indifference to the pains and pleasures of the material world.">vairagya</span>). When right behaviour (<span data-tippy-content="Rest, repose, tolerance and renunciation of all sectarian observances. In <em>Vedanta</em> one of the six acquirements (<em>sat-sampat</em>): <em>sama</em>, tranquility; <em>dama</em>, self-restraint; <em>uprati</em>, tolerance; <em>titiksha</em>, endurance; <em>sraddha</em>, faith; and <em>samadhana</em>, equipoise.">uparati</span>), becomes normal, a powerful inner urge (<span data-tippy-content="Right desire, which consists of earnestness to know the Ultimate Principle to attain liberation. In <em>Vedanta</em>, one of the four qualifications of the seeker of the Truth: right discrimination (<em>viveka</em>), right passion (<em>vairagya</em>), right conduct (<em>sat-sampat</em>) and right desire (<em>mumukshattva</em>). <em>Mumukshattva</em> is intense longing for liberation.">mukmukshattva</span>) makes it seek its source. The candle of the body is lighted and all becomes clear and bright.
 
 **Q:**&ensp;What is the real cause of suffering?
 
-**M:**&ensp;Self-identification with the limited (<span class=tooltip>vyaktitva<span class=tooltiptext>Personality, limited self-identification with the body.</span></span>). Sensations as such, however strong, do not cause suffering. It is the mind bewildered by wrong ideas, addicted to thinking, “I am this”, “I am that”, that fears loss and craves gain and suffers when frustrated.
+**M:**&ensp;Self-identification with the limited (<span data-tippy-content="Personality, limited self-identification with the body.">vyaktitva</span>). Sensations as such, however strong, do not cause suffering. It is the mind bewildered by wrong ideas, addicted to thinking, “I am this”, “I am that”, that fears loss and craves gain and suffers when frustrated.
 
 **Q:**&ensp;A friend of mine used to have horrible dreams night after night. Going to sleep would terrorise him. Nothing could help him.
 
-**M:**&ensp;Company of the truly good (<span class=tooltip>satsang<span class=tooltiptext>Association with the true and the wise people.</span></span>) would help him.
+**M:**&ensp;Company of the truly good (<span data-tippy-content="Association with the true and the wise people.">satsang</span>) would help him.
 
 **Q:**&ensp;Life itself is a nightmare.
 
@@ -133,3 +133,12 @@
 **Q:**&ensp;What can make me love?
 
 **M:**&ensp;You are love itself — when you are not afraid.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

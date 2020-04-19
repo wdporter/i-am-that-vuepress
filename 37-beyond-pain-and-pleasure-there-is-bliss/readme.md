@@ -14,7 +14,7 @@
 
 **Q:**&ensp;From early childhood I was taught to think that I am limited to my name and shape. A mere statement to the contrary will not erase the mental groove. A regular brain-washing is needed — if at all it can be done.
 
-**M:**&ensp;You call it brain-washing, I call it <span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span> — levelling up all the mental ruts. You must not be compelled to think the same thoughts again and again. Move on!
+**M:**&ensp;You call it brain-washing, I call it <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">Yoga</span> — levelling up all the mental ruts. You must not be compelled to think the same thoughts again and again. Move on!
 
 **Q:**&ensp;Easier said than done.
 
@@ -138,7 +138,7 @@
 
 **Q:**&ensp;I am, the pain–pleasure man.
 
-**M:**&ensp;Pain and pleasure are both <span class=tooltip>ananda<span class=tooltiptext>Bliss, happiness.</span></span> (bliss). Here I am sitting in front of you and telling you — from my own immediate and unchanging experience — pain and pleasure are the crests and valleys of the waves in the ocean of bliss. Deep down there is utter fullness.
+**M:**&ensp;Pain and pleasure are both <span data-tippy-content="Bliss, happiness.">ananda</span> (bliss). Here I am sitting in front of you and telling you — from my own immediate and unchanging experience — pain and pleasure are the crests and valleys of the waves in the ocean of bliss. Deep down there is utter fullness.
 
 **Q:**&ensp;Is your experience constant?
 
@@ -155,3 +155,12 @@
 **Q:**&ensp;How inadequate are words for understanding!
 
 **M:**&ensp;Without words, what is there to understand? The need for understanding arises from misunderstanding. What I say is true, but to you it is only a theory. How will you come to know that it is true? Listen, remember, ponder, visualise and experience. Also apply it in your daily life. Have patience with me and, above all have patience with yourself, for you are your only obstacle. The way leads through yourself beyond yourself. As long as you believe only the particular to be real, conscious and happy and reject the non-dual reality as something imagined, an abstract concept, you will find me doling out concepts and abstractions. But once you have touched the real within your own being, you will find me describing what for you is the nearest and the dearest.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

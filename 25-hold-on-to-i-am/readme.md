@@ -12,7 +12,7 @@
 
 **Q:**&ensp;When I see something pleasant, I want it. Who exactly wants it? The self or the mind?
 
-**M:**&ensp;The question is wrongly put. There is no ‘who’. There is desire, fear, anger, and the mind says, “this is me, this is mine”. There is no thing which could be called ‘me’ or ‘mine’. Desire is a state of the mind, perceived and named by the mind. Without the mind perceiving and naming, where is desire?
+**M:**&ensp;The question is wrongly put. There is no “who”. There is desire, fear, anger, and the mind says, “this is me, this is mine”. There is no thing which could be called ‘me’ or ‘mine’. Desire is a state of the mind, perceived and named by the mind. Without the mind perceiving and naming, where is desire?
 
 **Q:**&ensp;But is there such a thing as perceiving without naming?
 
@@ -28,7 +28,7 @@
 
 **Q:**&ensp;Surely, you care when your child is ill, don’t you?
 
-**M:**&ensp;I don’t get flustered. I just do the needful. I do not worry about the future. A right response to every situation is in my nature. I do not stop to think what to do. I act and move on. Results do not affect me. I do not even care, whether they are good or bad. Whatever they are, they are — if they come back to me, I deal with them afresh. Or, rather, I happen to deal with them afresh. There is no sense of purpose in my doing anything. Things happens as they happen — not because I make them happen, but it is because I *am* that they happen. In reality nothing ever happens. When the mind is restless, it makes <span class=tooltip>Shiva<span class=tooltiptext>One of the gods of the Hindu trinity — Brahma, the creator; Vishnu, the preserver and Shiva, the destroyer. Shiva actually means auspicious, propitious. Destruction ofthe cosmos by the god Shiva is a propitious act, for destruction precedes creation. Shiva is absolute love of the ‘I-principle’ in a man. As a destroyer, he brings about the total annihilation of the human ego.</span></span> dance, like the restless waters of the lake make the moon dance. It is all appearance, due to wrong ideas.
+**M:**&ensp;I don’t get flustered. I just do the needful. I do not worry about the future. A right response to every situation is in my nature. I do not stop to think what to do. I act and move on. Results do not affect me. I do not even care, whether they are good or bad. Whatever they are, they are — if they come back to me, I deal with them afresh. Or, rather, I happen to deal with them afresh. There is no sense of purpose in my doing anything. Things happens as they happen — not because I make them happen, but it is because I *am* that they happen. In reality nothing ever happens. When the mind is restless, it makes <span data-tippy-content="One of the gods of the Hindu trinity — Brahma, the creator; Vishnu, the preserver; and Shiva, the destroyer. Shiva actually means auspicious, propitious. Destruction ofthe cosmos by the god Shiva is a propitious act, for destruction precedes creation. Shiva is absolute love of the ‘I-principle’ in a man. As a destroyer, he brings about the total annihilation of the human ego.">Shiva</span> dance, like the restless waters of the lake make the moon dance. It is all appearance, due to wrong ideas.
 
 **Q:**&ensp;Surely, you are aware of many things and behave according to their nature. You treat a child as a child and an adult as an adult.
 
@@ -49,8 +49,7 @@ images and thoughts, ideas and concepts.
 
 **Q:**&ensp;To forget, one must know. Did I know who I am, before I forgot it?
 
-**M:**&ensp;Of course. Self-forgetting is inherent in self-knowing. Consciousness and unconsciousness are two aspects of one life. They coëxist. To know the world you forget the self — to know the self you forget the world. What is world after all? A collection of memories. Cling to one thing that matters, hold on to ‘I Am’ and let go all else. This is <span class=tooltip>sadhana<span class=tooltiptext>The practice which produces success, *siddhi*.</span></span>. In realisation there is nothing to hold on to and 
-nothing to forget. Everything is known, nothing is remembered.
+**M:**&ensp;Of course. Self-forgetting is inherent in self-knowing. Consciousness and unconsciousness are two aspects of one life. They coëxist. To know the world you forget the self — to know the self you forget the world. What is world after all? A collection of memories. Cling to one thing that matters, hold on to ‘I Am’ and let go all else. This is <span data-tippy-content="The practice which produces success, <em>siddhi</em>.">sadhana</span>. In realisation there is nothing to hold on to and nothing to forget. Everything is known, nothing is remembered.
 
 **Q:**&ensp;What is the cause of self-forgetting?
 
@@ -70,7 +69,7 @@ nothing to forget. Everything is known, nothing is remembered.
 
 **Q:**&ensp;How can it be? You cannot prove to me that I am not. Even when convinced that I am not — I am.
 
-**M:**&ensp;Reality can neither be proved nor disproved. Within the mind you cannot, beyond the mind you need not. In the real, the question ‘what is real?’ does not arise. The manifested (<span class=tooltip>saguna<span class=tooltiptext>Manifested condition with the three *gunas*, qualities — *sattva*, *rajas* and *tamas*. The Supreme Absolute conceived of as possessing qualities like love, mercy etc., as distinguished from the undifferentiated Absolute of the *Advaita Vedanta*.</span></span>) and unmanifested (<span class=tooltip>nirguna<span class=tooltiptext>The unconditioned, without form, qualities and attributes.</span></span>) are not different.
+**M:**&ensp;Reality can neither be proved nor disproved. Within the mind you cannot, beyond the mind you need not. In the real, the question ‘what is real?’ does not arise. The manifested (<span data-tippy-content="Manifested condition with the three <em>guna</em>s, qualities — <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. The Supreme Absolute conceived of as possessing qualities like love, mercy etc., as distinguished from the undifferentiated Absolute of the <em>Advaita Vedanta</em>.">saguna</span>) and unmanifested (<span data-tippy-content="The unconditioned, without form, qualities and attributes.">nirguna</span>) are not different.
 
 **Q:**&ensp;In that case all is real.
 
@@ -100,13 +99,13 @@ nothing to forget. Everything is known, nothing is remembered.
 
 **M:**&ensp;It is a stage on which a world drama is being played. The quality of the performance is all that matters; not what the actors say and do, but how they say and do it.
 
-**Q:**&ensp;I do not like this <span class=tooltip>lila<span class=tooltiptext>Play, sport, the cosmos looked upon as the divine play; “effortless or playful relation between the Absolute,or Brahman, and the contingent world”.</span></span> idea I would rather compare the world to a work-yard in which we are the builders.
+**Q:**&ensp;I do not like this <span data-tippy-content="Play, sport, the cosmos looked upon as the divine play; “effortless or playful relation between the Absolute,or Brahman, and the contingent world”.">lila</span> idea I would rather compare the world to a work-yard in which we are the builders.
 
-**M:**&ensp;You take it too seriously. What is wrong with play? You have a purpose only as long as you are not complete (<span class=tooltip>purna<span class=tooltiptext>Full, complete, absolute, infinite.</span></span>); until then completeness, perfection, is the purpose. But when you are complete in yourself, fully integrated within and without, then you enjoy the universe; you do not labour at it. To the disintegrated you may seem working hard, but that is their illusion. Sportsmen seem to make tremendous efforts: yet their sole motive is to play and display.
+**M:**&ensp;You take it too seriously. What is wrong with play? You have a purpose only as long as you are not complete (<span data-tippy-content="Full, complete, absolute, infinite.">purna</span>); until then completeness, perfection, is the purpose. But when you are complete in yourself, fully integrated within and without, then you enjoy the universe; you do not labour at it. To the disintegrated you may seem working hard, but that is their illusion. Sportsmen seem to make tremendous efforts: yet their sole motive is to play and display.
 
 **Q:**&ensp;Do you mean to say that God is just having fun, that he is engaged in purposeless action?
 
-**M:**&ensp;God is not only true and good, he is also beautiful (<span class=tooltip>satyam–shivam–sundaram<span class=tooltiptext>The true, the good, the beautiful.</span></span>). He creates beauty — for the joy of It.
+**M:**&ensp;God is not only true and good, he is also beautiful (<span data-tippy-content="The true, the good, the beautiful.">satyam–shivam–sundaram</span>). He creates beauty — for the joy of It.
 
 **Q:**&ensp;Well, then beauty is his purpose!
 
@@ -116,15 +115,15 @@ nothing to forget. Everything is known, nothing is remembered.
 
 **M:**&ensp;What is beautiful? Whatever is perceived blissfully is beautiful. Bliss is the essence of beauty. 
 
-**Q:**&ensp;You speak of <span class=tooltip>Sat<span class=tooltiptext>“The ideal; pure and true essence (nature)” of an entity or existence. It can thus be concluded as “the self-existent or universal spirit, Brahman”. Opposite is ‘*asat*’.</span></span>–<span class=tooltip>Chit<span class=tooltiptext>Universal consciousness.</span></span>–<span class=tooltip>Ananda<span class=tooltiptext>Bliss, happiness.</span></span>. That I Am is obvious. That I know is obvious. That I am happy is not at all obvious. Where has my happiness gone?
+**Q:**&ensp;You speak of <span data-tippy-content="“The ideal; pure and true essence (nature)” of an entity or existence. It can thus be concluded as “the self-existent or universal spirit, Brahman”. Opposite is ‘<em>asat</em>’.">Sat</span>–<span data-tippy-content="Universal consciousness.">Chit</span>–<span data-tippy-content="Bliss, happiness.">Ananda</span>. That I Am is obvious. That I know is obvious. That I am happy is not at all obvious. Where has my happiness gone?
 
 **M:**&ensp;Be fully aware of your own being and you will be in bliss consciously. Because you take your mind off yourself and make it dwell on what you are not, you lose your sense of well-being of being well.
 
-**Q:**&ensp;There are two paths before us — the path of effort (<span class=tooltip>yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span> <span class=tooltip>marga<span class=tooltiptext>Path</span></span>), and the path of ease (<span class=tooltip>bhoga<span class=tooltiptext>Sense enjoyment, experience of worldly joys and sorrows.</span></span> *marga*). Both lead to the same goal — liberation.
+**Q:**&ensp;There are two paths before us — the path of effort (<span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). Yoga teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span> <span data-tippy-content="Path">marga</span>), and the path of ease (<span data-tippy-content="Sense enjoyment, experience of worldly joys and sorrows.">bhoga</span> *marga*). Both lead to the same goal — liberation.
 
 **M:**&ensp;Why do you call *bhoga* a path? How can ease bring you perfection?
 
-**Q:**&ensp;The perfect renouncer (<span class=tooltip>yogi<span class=tooltiptext>One who practices *yoga*.</span></span>) will find reality. The perfect enjoyer (<span class=tooltip>bhogi<span class=tooltiptext>A *bhogi* is one involved in worldly joys and sorrows. *Bhoga marga*, is the path of worldly pursuits — joys and sorrows.</span></span>) also will come to it.
+**Q:**&ensp;The perfect renouncer (<span data-tippy-content="One who practices <em>yoga</em>.">yogi</span>) will find reality. The perfect enjoyer (<span data-tippy-content="A <em>bhogi</em> is one involved in worldly joys and sorrows. <em>Bhoga marga</em>, is the path of worldly pursuits — joys and sorrows.">bhogi</span>) also will come to it.
 
 **M:**&ensp;How can it be? Aren’t they contradictory?
 
@@ -135,3 +134,12 @@ nothing to forget. Everything is known, nothing is remembered.
 **Q:**&ensp;All beings seek happiness. The means only differ. Some seek it within and are therefore called *Yogi*s; some seek it without and are condemned as *Bhogi*s. Yet they need each other.
 
 **M:**&ensp;Pleasure and pain alternate. Happiness is unshakable. What you can seek and find is not the real thing. Find what you have never lost, find the inalienable.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

@@ -10,7 +10,7 @@
 
 **M:**&ensp;No. Such things require special training. I am like a dealer in wheat. I know little about breads and cakes. Even the taste of a wheat-gruel I may not know. But about the wheat grain I know all and well. I know the source of all experience. But the innumerable particular forms experience can take I do not know. Nor do I need to know. From moment to moment, the little I need to know to live my life, I somehow happen to know.
 
-**Q:**&ensp;Your particular existence and my particular existence, do they both exist in the mind of <span class=tooltip>Brahma<span class=tooltiptext>One of the gods of the Hindu trinity: Brahma, the creator; Vishnu, the preserver; Shiva, the destroyer.</span></span>?
+**Q:**&ensp;Your particular existence and my particular existence, do they both exist in the mind of <span data-tippy-content="One of the gods of the Hindu trinity: Brahma, the creator; Vishnu, the preserver; Shiva, the destroyer.">Brahma</span>?
 
 **M:**&ensp;The universal is not aware of the particular. The existence as a person is a personal matter. A person exists in time and space, has name and shape, beginning and end; the universal includes all persons and the absolute is at the root of and beyond all.
 
@@ -26,7 +26,7 @@
 
 **M:**&ensp;Where are the many points? In your mind. You insist that your world is independent of your mind. How can it be? Your desire to know other people’s minds is due to your not knowing your own mind. First know your own mind and you will find that the question of other minds does not arise at all, for there are no other people. You are the common factor, the only link between the minds. Being is consciousness; ‘I Am’ applies to all.
 
-**Q:**&ensp;The Supreme Reality (<span class=tooltip>Parabrahman<span class=tooltiptext>The Supreme Reality.</span></span>) may be present in all of us. But of what use is it to us?
+**Q:**&ensp;The Supreme Reality (<span data-tippy-content="The Supreme Reality.">Parabrahman</span>) may be present in all of us. But of what use is it to us?
 
 **M:**&ensp;You are like a man who says, “I need a place where to keep my things, but of what use is space to me?”, or “I need milk, tea, coffee or soda, but for water I have no use”. Don’t you see that the Supreme Reality is what makes everything possible? But if you ask of what use is it to you, I must answer, “None”. In matters of daily life the knower of the real has no advantage: he may be at a disadvantage rather — being free from greed and fear, he does not protect himself. The very idea of profit is foreign to him; he abhors accretions; his life is constant divesting oneself, sharing, giving.
 
@@ -54,7 +54,7 @@
 
 **M:**&ensp;When you are love itself, you are beyond time and numbers. In loving one you love all, in loving all, you love each. One and all are not exclusive.
 
-**Q:**&ensp;You say you are in a timeless state. Does it mean that past and future are open to you? Did you meet Vashishta Muni, Rama’s <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span>?
+**Q:**&ensp;You say you are in a timeless state. Does it mean that past and future are open to you? Did you meet Vashishta Muni, Rama’s <span data-tippy-content="Spiritual teacher, preceptor.">Guru</span>?
 
 **M:**&ensp;The question is in time and about time. Again you are asking me about the contents of a dream. Timelessness is beyond the illusion of time, it is not an extension in time. He who called himself Vashishta knew Vashishta. I am beyond all names and shapes. Vashishta is a dream in your dream. How can I know him? You are too much concerned with past and future. It is all due to your longing to continue, to protect yourself against extinction. And as you want to continue, you want others to keep you company, hence your concern with their survival. But what you call survival is but the survival of a dream. Death is preferable to it. There is a chance of waking up.
 
@@ -93,3 +93,12 @@
 **Q:**&ensp;My death is nearing.
 
 **M:**&ensp;Your body is short of time, not you. Time and space are in the mind only. You are not bound. Just understand yourself — that itself is eternity.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

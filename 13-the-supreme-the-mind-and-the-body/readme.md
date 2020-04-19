@@ -6,7 +6,7 @@
 
 **Maharaj:**&ensp;It is all a matter of focus. Your mind is focussed in the world, mine is focussed in reality. It is like the moon in daylight — when the sun shines, the moon is hardly visible. Or, watch how you take your food. As long as it is in your mouth, you are conscious of it; once swallowed, it does not concern you any longer. It would be troublesome to have it constantly in mind until it is eliminated. The mind should be normally in abeyance — incessant activity is a morbid state. The universe works by itself — that I know. What else do I need to know?
 
-**Q:**&ensp;So a <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> knows what he is doing only when he turns his mind to it; otherwise he just acts, without being concerned.
+**Q:**&ensp;So a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> knows what he is doing only when he turns his mind to it; otherwise he just acts, without being concerned.
 
 **M:**&ensp;The average man is not conscious of his body as such. He is conscious of his sensations, feelings and thoughts. Even these, once detachment sets in, move away from the centre of consciousness and happen spontaneously and effortlessly.
 
@@ -24,7 +24,7 @@
 
 **Q:**&ensp;And what lies beyond?
 
-**M:**&ensp;Take an example. A venerable <span class=tooltip>Yogi<span class=tooltiptext>One who practices *yoga*.</span></span>, a master in the art of longevity, himself over one thousand years old, comes to teach me his art. I fully respect and sincerely admire his achievements, yet all I can tell him is: of what use is longevity to me? I am beyond time. However long a life may be, it is but a moment and a dream. In the same way I am beyond all attributes. They appear and disappear in my light, but cannot describe me. The universe is all names and forms, based on qualities and their differences, while I am beyond. The world is there because I am, but I am not the world.
+**M:**&ensp;Take an example. A venerable <span data-tippy-content="One who practices <em>yoga</em>.">Yogi</span>, a master in the art of longevity, himself over one thousand years old, comes to teach me his art. I fully respect and sincerely admire his achievements, yet all I can tell him is: of what use is longevity to me? I am beyond time. However long a life may be, it is but a moment and a dream. In the same way I am beyond all attributes. They appear and disappear in my light, but cannot describe me. The universe is all names and forms, based on qualities and their differences, while I am beyond. The world is there because I am, but I am not the world.
 
 **Q:**&ensp;But you are living in the world!
 
@@ -44,7 +44,7 @@
 
 **Q:**&ensp;The fully realised man, spontaneously abiding in the supreme state, appears to eat, drink and so on. Is he aware of it, or not?
 
-**M:**&ensp;That in which consciousness happens, the universal consciousness or mind, we call the ether of consciousness. All the objects of consciousness form the universe. What is beyond both, supporting both, is the supreme state, a state of utter stillness and silence. Whoever goes there, disappears. It is unreachable by words, or mind. You may call it God, or <span class=tooltip>Parabrahman<span class=tooltiptext>The Supreme Reality.</span></span>, or Supreme Reality, but these are names given by the mind. It is the nameless, contentless, effortless and spontaneous state, beyond being and not being.
+**M:**&ensp;That in which consciousness happens, the universal consciousness or mind, we call the ether of consciousness. All the objects of consciousness form the universe. What is beyond both, supporting both, is the supreme state, a state of utter stillness and silence. Whoever goes there, disappears. It is unreachable by words, or mind. You may call it God, or <span data-tippy-content="The Supreme Reality.">Parabrahman</span>, or Supreme Reality, but these are names given by the mind. It is the nameless, contentless, effortless and spontaneous state, beyond being and not being.
 
 **Q:**&ensp;But does one remain conscious?
 
@@ -78,7 +78,7 @@
 
 **M:**&ensp;Neither conscious nor unconscious, I am telling you from experience.
 
-**Q:**&ensp;<span class=tooltip>Pragnanam<span class=tooltiptext>Cognitive consciousness, pure awareness, higher consciousness.</span></span> <span class=tooltip>Brahma<span class=tooltiptext>One of the gods of the Hindu trinity: Brahma, the creator; Vishnu, the preserver; Shiva, the destroyer.</span></span>. What is this <span class=tooltip>Pragna<span class=tooltiptext>Cognitive consciousness, pure awareness, higher consciousness.</span></span>?
+**Q:**&ensp;<span data-tippy-content="Cognitive consciousness, pure awareness, higher consciousness.">Pragnanam</span> <span data-tippy-content="One of the gods of the Hindu trinity: Brahma, the creator; Vishnu, the preserver; Shiva, the destroyer.">Brahma</span>. What is this *Pragna*?
 
 **M:**&ensp;It is the un-self-conscious knowledge of life itself.
 
@@ -126,6 +126,15 @@
 
 **M:**&ensp;This too is of the mind. All states and conditions are of the mind.
 
-**Q:**&ensp;What is the place of <span class=tooltip>samadhi<span class=tooltiptext>Superconscious state, profound meditation, trance, rapturous absorption. A practice of *yoga* in which the seeker (*sadhaka*) becomes one with the object of his meditation (*sadhya*), thus attaining unqualified bliss. “*Samadhi* is a state in which you transcend the bounds of your body, mind and self-identity, and merge into an undifferentiated unity with all that is”.</span></span>?
+**Q:**&ensp;What is the place of <span data-tippy-content="Superconscious state, profound meditation, trance, rapturous absorption. A practice of <em>yoga</em> in which the seeker (<em>sadhaka</em>) becomes one with the object of his meditation (<em>sadhya</em>), thus attaining unqualified bliss. “<em>Samadhi</em> is a state in which you transcend the bounds of your body, mind and self-identity, and merge into an undifferentiated unity with all that is”.">samadhi</span>?
 
 **M:** Not making use of one’s consciousness is *samadhi*. You just leave your mind alone. You want nothing, neither from your body nor from your mind.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

@@ -6,9 +6,9 @@
 
 **Maharaj:**&ensp;According to his belief it happens. As life before death is but imagination, so is life after. The dream continues.
 
-**Q:**&ensp;And what about the <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span>?
+**Q:**&ensp;And what about the <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”. (*jna*, to know; *jnani*, the knower).">jnani</span>?
 
-**M:**&ensp;The <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> does not die because he was never born.
+**M:**&ensp;The *jnani* does not die because he was never born.
 
 **Q:**&ensp;He appears so to others.
 
@@ -16,7 +16,7 @@
 
 **Q:**&ensp;Still you must know the state of the man who died. At least from your own past lives.
 
-**M:**&ensp;Until I met my <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span> I knew so many things. Now I know nothing, for all knowledge is in dream only and not valid. I know myself and I find no life nor death in me, only pure being — not being this or that, but just *being*. But the moment the mind, drawing on its stock of memories, begins to imagine, it fills the space with objects and time with events. As I do not know even this birth, how can I know past births? It is the mind that, itself in movement, sees everything moving, and having created time, worries about the past and future. All the universe is cradled in consciousness (<span class=tooltip>maha-tattva<span class=tooltiptext>The great reality, supreme consciousness</span></span>), which arises where there is perfect order and harmony (<span class=tooltip>maha-sattva<span class=tooltiptext>The supreme harmony, harmonious existence.</span></span>). As all waves are in the ocean, so are all things physical and mental in awareness. Hence awareness itself is all important, not the content of it. Deepen and broaden your awareness of yourself and all the blessings will flow. You need not seek anything, all will come to you most naturally and effortlessly. The five senses and the four functions of the mind — memory, thought, understanding and selfhood; the five elements — earth, water, fire, air and ether; the two aspects of creation — matter and spirit, all are contained in awareness.
+**M:**&ensp;Until I met my <span data-tippy-content="Spiritual teacher, preceptor.">Guru</span> I knew so many things. Now I know nothing, for all knowledge is in dream only and not valid. I know myself and I find no life nor death in me, only pure being — not being this or that, but just *being*. But the moment the mind, drawing on its stock of memories, begins to imagine, it fills the space with objects and time with events. As I do not know even this birth, how can I know past births? It is the mind that, itself in movement, sees everything moving, and having created time, worries about the past and future. All the universe is cradled in consciousness (<span data-tippy-content="The great reality, supreme consciousness.">maha-tattva</span>), which arises where there is perfect order and harmony (<span data-tippy-content="The supreme harmony, harmonious existence.">maha-sattva</span>). As all waves are in the ocean, so are all things physical and mental in awareness. Hence awareness itself is all important, not the content of it. Deepen and broaden your awareness of yourself and all the blessings will flow. You need not seek anything, all will come to you most naturally and effortlessly. The five senses and the four functions of the mind — memory, thought, understanding and selfhood; the five elements — earth, water, fire, air and ether; the two aspects of creation — matter and spirit, all are contained in awareness.
 
 **Q:**&ensp;Yet, you must believe in having lived before.
 
@@ -26,7 +26,7 @@ All exists in awareness and awareness neither dies nor is reborn. It is the chan
 
 All the universe of experience is born with the body and dies with the body; it has its beginning and end in awareness, but awareness knows no beginning, nor end. If you think it out carefully and brood over it for a long time, you will come to see the light of awareness in all its clarity and the world will fade out of your vision. It is like looking at a burning incense stick, you see the stick and the smoke first; when you notice the fiery point, you realise that it has the power to consume mountains of sticks and fill the universe with smoke. 
 
-Timelessly the self actualises itself, without exhausting its infinite possibilities. In the incense stick simile the stick is the body and the smoke is the mind. As long as the mind is busy with its contortions, it does not perceive its own source. The <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span> comes and turns your attention to the spark within. By its very nature the mind is outward turned; it always tends to seek for the source of things among the things themselves; to be told to look for the source within, is, in a way, the beginning of a new life. Awareness takes the place of consciousness; in consciousness there is the ‘I’, who is conscious while awareness is undivided; awareness is aware of itself. The ‘I Am’ is a thought, while awareness is not a thought, there is no ‘I am aware’ in awareness. Consciousness is an attribute while awareness is not; one can be aware of being conscious, but not conscious of awareness. God is the totality of consciousness, but awareness is beyond all — being as well as not-being.
+Timelessly the self actualises itself, without exhausting its infinite possibilities. In the incense stick simile the stick is the body and the smoke is the mind. As long as the mind is busy with its contortions, it does not perceive its own source. The *Guru* comes and turns your attention to the spark within. By its very nature the mind is outward turned; it always tends to seek for the source of things among the things themselves; to be told to look for the source within, is, in a way, the beginning of a new life. Awareness takes the place of consciousness; in consciousness there is the ‘I’, who is conscious while awareness is undivided; awareness is aware of itself. The ‘I Am’ is a thought, while awareness is not a thought, there is no ‘I am aware’ in awareness. Consciousness is an attribute while awareness is not; one can be aware of being conscious, but not conscious of awareness. God is the totality of consciousness, but awareness is beyond all — being as well as not-being.
 
 **Q:**&ensp;I had started with the question about the condition of a man after death. When his body is destroyed, what happens to his consciousness? Does he carry his senses of seeing, hearing etc. along with him or does he leave them behind? And, if he loses his senses, what becomes to his consciousness?
 
@@ -58,7 +58,7 @@ Timelessly the self actualises itself, without exhausting its infinite possibili
 
 **Q:**&ensp;Does consciousness come down from reality or is it an attribute of matter?
 
-**M:**&ensp;Consciousness as such is the subtle counterpart of matter. Just as inertia (<span class=tooltip>tamas<span class=tooltiptext>Darkness, inertia, passivity. One of the three constituents (*gunas*) of the cosmic substance: *sattava*, *rajas* and *tamas*.</span></span>) and energy (<span class=tooltip>rajas<span class=tooltiptext>Motivity, activity, energy. One of the three *gunas* or qualities of matter: *sattva*, *rajas* and *tamas*. In *yoga*, egoism.</span></span>) are attributes of matter, so does harmony (<span class=tooltip>sattva<span class=tooltiptext>Being, existence, true essence. In *yoga* the quality of purity or goodness.</span></span>) manifest itself as consciousness. You may consider it in a way as a form of very subtle energy. Wherever matter organises itself into a stable organism, consciousness appears spontaneously. With the destruction of the organism consciousness disappears.
+**M:**&ensp;Consciousness as such is the subtle counterpart of matter. Just as inertia (<span data-tippy-content="Darkness, inertia, passivity. One of the three constituents (<em>gunas</em>) of the cosmic substance: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>.">tamas</span>) and energy (<span data-tippy-content="Motivity, activity, energy. One of the three <em>gunas</em> or qualities of matter: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</span>) are attributes of matter, so does harmony (<span data-tippy-content="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>) manifest itself as consciousness. You may consider it in a way as a form of very subtle energy. Wherever matter organises itself into a stable organism, consciousness appears spontaneously. With the destruction of the organism consciousness disappears.
 
 **Q:**&ensp;Then what survives?
 
@@ -70,7 +70,7 @@ Timelessly the self actualises itself, without exhausting its infinite possibili
 
 **Q:**&ensp;Please tell us squarely: are you conscious or unconscious?
 
-**M:**&ensp;The enlightened (<span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span>) is neither. But in his enlightenment (<span class=tooltip>jnana<span class=tooltiptext>Knowledge, especially the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”. (*jna*, to know; *jnani*, the knower).</span></span>) all is contained. Awareness contains every experience. But he who is aware is beyond every experience. He is beyond awareness itself.
+**M:**&ensp;The enlightened (*jnani*) is neither. But in his enlightenment (<span data-tippy-content="Knowledge, especially the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnana</span>) all is contained. Awareness contains every experience. But he who is aware is beyond every experience. He is beyond awareness itself.
 
 **Q:**&ensp;There is the background of experience, call it matter. There is the experiencer, call it mind. What makes the bridge between the two?
 
@@ -86,10 +86,19 @@ Consciousness arising, the world arises. When you consider the wisdom and the be
 
 **M:**&ensp;Before you were born you expected to live according to a plan, which you yourself had laid down. Your own will was the backbone of your destiny.
 
-**Q:**&ensp;Surely, <span class=tooltip>karma<span class=tooltiptext>Cause, the primary cause invariably antecedent to a result, the unmanifested potential cause that in due course takes shape as the visible effect, the material cause of the universe. *karana* is cosmic energy in potential form.</span></span> interfered.
+**Q:**&ensp;Surely, <span data-tippy-content="Action or “the fruits of action”. <em>Karma</em> is of three kinds: <em>sanchita</em> (accumulated from previous births), <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the present life) and <em>agami</em> (the current <em>karma</em> the result of which will fructify in future).">karma</span> interfered.
 
-**M:**&ensp;<span class=tooltip>Karma<span class=tooltiptext>Cause, the primary cause invariably antecedent to a result, the unmanifested potential cause that in due course takes shape as the visible effect, the material cause of the universe. *karana* is cosmic energy in potential form.</span></span> shapes the circumstances: the attitudes are your own. Ultimately your character shapes your life and you alone can shape your character.
+**M:**&ensp;*Karma* shapes the circumstances: the attitudes are your own. Ultimately your character shapes your life and you alone can shape your character.
 
 **Q:**&ensp;How does one shape one’s character?
 
 **M:**&ensp;By seeïng it as it is, and being sincerely sorry. This integral seeïng-feeling can work miracles. It is like casting a bronze image: metal alone, or fire alone, will not do; nor will the mould be of any use — you have to melt down the metal in the heat of the fire and cast it in the mould.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

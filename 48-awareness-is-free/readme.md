@@ -22,7 +22,7 @@
 
 **M:**&ensp;What kind of quiet was it? Something akin to deep sleep, yet conscious all the same? A sort of wakeful sleep?
 
-**Q:**&ensp;Yes. Alertly asleep. (<span class=tooltip>jagrit-sushupti<span class=tooltiptext>Awakened-sleep, attentive sleep.</span></span>).
+**Q:**&ensp;Yes. Alertly asleep. (<span data-tippy-content="Awakened sleep, attentive sleep.">jagrit-sushupti</span>).
 
 **M:**&ensp;The main thing is to be free of negative emotions — desire, fear etc., the ‘six enemies’ of the mind. Once the mind is free of them, the rest will come easily. Just as cloth kept in soap water will become clean, so will the mind get purified in the stream of pure feeling. 
 
@@ -128,7 +128,7 @@ The same power that makes the fire burn and the water flow, the seeds sprout and
 
 **M:**&ensp;No, it means refusal and rejection of the incomplete and the imperfect. The search for reality is itself the movement of reality. In a way all search is for the real bliss, or the bliss of the real. But here we mean by search the search for oneself as the root of being conscious, as the light beyond the mind. This search will never end, while the restless craving for all else must end, for real progress to take place. 
 
-One has to understand that the search for reality, or God, or <span class=tooltip>guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span> and the search for the self are the same; when one is found, all are found. When ‘I Am‘ and ‘God Is’ become in your mind indistinguishable, then something will happen and you will know without a trace of doubt that God is because you are, you are because God is. The two are one.
+One has to understand that the search for reality, or God, or <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> and the search for the self are the same; when one is found, all are found. When ‘I Am‘ and ‘God Is’ become in your mind indistinguishable, then something will happen and you will know without a trace of doubt that God is because you are, you are because God is. The two are one.
 
 **Q:**&ensp;Since all is preördained, is our self-realisation also preördained? Or are we free there at least?
 
@@ -173,3 +173,12 @@ Man becomes what he believes himself to be. Abandon all ideas about yourself and
 **Q:**&ensp;If I become anything I think myself to be, and I start thinking that I am the Supreme Reality, will not my Supreme Reality remain a mere idea?
 
 **M:**&ensp;First reach that state and then ask the question.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

@@ -2,17 +2,17 @@
 
 >…to be always on the move, learning, discovering, unfolding, is your eternal destiny. Living is life’s only purpose.
 
-**Questioner:**&ensp;What does it mean to fail in <span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span>? Who is a failure in *Yoga* (<span class=tooltip>yoga bhrashta<span class=tooltiptext>One who has falled from the high state of *yoga*.</span></span>)?
+**Questioner:**&ensp;What does it mean to fail in <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">Yoga</span>? Who is a failure in *Yoga* (<span data-tippy-content="One who has falled from the high state of <em>yoga</em>.">yoga bhrashta</span>)?
 
 **Maharaj:**&ensp;It is only a question of incompletion. He who could not complete his *Yoga* for some reason is called failed in *Yoga*. Such failure is only temporary, for there can be no defeat in *Yoga*. This battle is always won, for it is a battle between the true and the false. The false has no chance.
 
-**Q:**&ensp;Who fails? The person (<span class=tooltip>vyakti<span class=tooltiptext>Person, the outer self.</span></span>) or the self (<span class=tooltip>vyakta<span class=tooltiptext>Manifest matter, the evolved nature. Opposite is *avyakta*.</span></span>)?
+**Q:**&ensp;Who fails? The person (<span data-tippy-content="Person, the outer self.">vyakti</span>) or the self (<span data-tippy-content="Manifest matter, the evolved nature. Opposite is <em>avyakta</em>.">vyakta</span>)?
 
 **M:**&ensp;The question is wrongly put. There is no question of failure, neither in the short run nor in the long. It is like travelling a long and arduous road in an unknown country. Of all the innumerable steps there is only the last which brings you to your destination. Yet you will not consider all previous steps as failures. Each brought you nearer to your goal, even when you had to turn back to bypass an obstacle. In reality each step brings you to your goal, because to be always on the move, learning, discovering, unfolding, is your eternal destiny. Living is life’s only purpose. The self does not identify itself with success or failure — the very idea of becoming this or that is unthinkable. The self understands that success and failure are relative and related, that they are the very warp and weft of life. Learn from both and go beyond. If you have not learnt, repeat.
 
 **Q:**&ensp;What am I to learn?
 
-**M:**&ensp;To live without self-concern. For this you must know your own true being (<span class=tooltip>swarupa<span class=tooltiptext>One’s own form, nature, character.</span></span>) as indomitable, fearless and ever victorious. Once you know with absolute certainty that nothing can trouble you but your own imagination, you come to disregard your desires, fears, concepts and ideas, and live by truth alone.
+**M:**&ensp;To live without self-concern. For this you must know your own true being (<span data-tippy-content="One’s own form, nature, character.">svarupa</span>) as indomitable, fearless and ever victorious. Once you know with absolute certainty that nothing can trouble you but your own imagination, you come to disregard your desires, fears, concepts and ideas, and live by truth alone.
 
 **Q:**&ensp;What may be the reason that some people succeed and others fail in *Yoga*? Is it destiny or character, or just accident?
 
@@ -22,7 +22,7 @@ Yet, all this is so in the mind only. As I see it, there is really nothing of th
 
 **Q:**&ensp;Just as a child cannot help growing, so does a man, compelled by nature, make progress. Why exert oneself? Where is the need of *Yoga*?
 
-**M:**&ensp;There is progress all the time. Everything contributes to progress. But this is the progress of ignorance. The circles of ignorance may be ever widening, yet it remains a bondage all the same. In due course a <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span> appears to teach and inspire us to practise *Yoga* and a ripening takes place as a result of which the immemorial night of ignorance dissolves before the rising sun of wisdom. But in reality nothing happened. The sun is always there, there is no night to it; the mind, blinded by the ‘I am the body’ idea, spins out endlessly its thread of illusion.
+**M:**&ensp;There is progress all the time. Everything contributes to progress. But this is the progress of ignorance. The circles of ignorance may be ever widening, yet it remains a bondage all the same. In due course a <span data-tippy-content="Spiritual teacher, preceptor.">Guru</span> appears to teach and inspire us to practise *Yoga* and a ripening takes place as a result of which the immemorial night of ignorance dissolves before the rising sun of wisdom. But in reality nothing happened. The sun is always there, there is no night to it; the mind, blinded by the ‘I am the body’ idea, spins out endlessly its thread of illusion.
 
 **Q:**&ensp;If all is a part of a natural process, where is the need of effort?
 
@@ -30,7 +30,7 @@ Yet, all this is so in the mind only. As I see it, there is really nothing of th
 
 **Q:**&ensp;We come across some great people, who, in their old age, become childish, petty, quarrelsome and spiteful. How could they deteriorate so much?
 
-**M:**&ensp;They were not perfect <span class=tooltip>Yogi<span class=tooltiptext>One who practices *yoga*.</span></span>s, having their bodies under complete control. Or, they might not have cared to protect their bodies from the natural decay. One must not draw conclusions without understanding all the factors. Above all, one must not make judgements of inferiority or superiority. Youthfulness is more a matter of vitality (<span class=tooltip>prana<span class=tooltiptext>The breath of life, vital principle.</span></span>) than of wisdom (<span class=tooltip>jnana<span class=tooltiptext>Knowledge, especially the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”. (*jna*, to know; *jnani*, the knower).</span></span>).
+**M:**&ensp;They were not perfect <span data-tippy-content="One who practices <em>yoga</em>.">Yogi</span>s, having their bodies under complete control. Or, they might not have cared to protect their bodies from the natural decay. One must not draw conclusions without understanding all the factors. Above all, one must not make judgements of inferiority or superiority. Youthfulness is more a matter of vitality (<span data-tippy-content="The breath of life, vital principle.">prana</span>) than of wisdom (<span data-tippy-content="Knowledge, especially the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”. (<em>jna</em>, to know; <em>jnani</em>, the knower).">jnana</span>).
 
 **Q:**&ensp;One may get old, but why should one lose all alertness and discrimination?
 
@@ -76,7 +76,7 @@ Yet, all this is so in the mind only. As I see it, there is really nothing of th
 
 **M:**&ensp;In man — of course. Any moment. In humanity — as we know it — after very many years. In creation — never, for creation itself is rooted in ignorance; matter itself is ignorance. Not to know, and not to know that one does not know, is the cause of endless suffering.
 
-**Q:**&ensp;We are told of the great <span class=tooltip>avatar<span class=tooltiptext>Incarnation.</span></span>s, the saviours of the world.
+**Q:**&ensp;We are told of the great <span data-tippy-content="Incarnation.">avatar</span>s, the saviours of the world.
 
 **M:**&ensp;Did they save? They have come and gone — and the world plods on. Of course, they did a lot and opened new dimensions in the human mind. But to talk of saving the world is an exaggeration.
 
@@ -86,7 +86,7 @@ Yet, all this is so in the mind only. As I see it, there is really nothing of th
 
 **Q:**&ensp;You seem to stress the point that without you your world would not have existed and therefore the only thing you can do for it is to wind up the show. This is not a way out. Even if the world were of my own creation, this knowledge does not save it. It only explains it. The question remains: why did I create such a wretched world and what can I do to change it? You seem to say, “forget it all and admire your own glory”. Surely, you don’t mean it. The description of a disease and its causes does not cure it. What we need is the right medicine.
 
-**M:**&ensp;The description and causation *are* the remedy for a disease caused by obtuseness and stupidity. Just like a deficiency disease is cured through the supply of the missing factor, so are the diseases of living cured by a good dose of intelligent detachment. (<span class=tooltip>viveka<span class=tooltiptext>Discrimination; discrimination between the true and the false, the real and the unreal. *Viveka* is an expression of the spiritual consciousness hidden behind the mind. It leads to *vairagya*.</span></span>–<span class=tooltip>vairagya<span class=tooltiptext>Dispassion, indifference to the pains and pleasures of the material world.</span></span>).
+**M:**&ensp;The description and causation *are* the remedy for a disease caused by obtuseness and stupidity. Just like a deficiency disease is cured through the supply of the missing factor, so are the diseases of living cured by a good dose of intelligent detachment. (<span data-tippy-content="Discrimination; discrimination between the true and the false, the real and the unreal. <em>Viveka</em> is an expression of the spiritual consciousness hidden behind the mind. It leads to <em>vairagya</em>.">viveka</span>–<span data-tippy-content="Dispassion, indifference to the pains and pleasures of the material world.">vairagya</span>).
 
 **Q:**&ensp;You cannot save the world by preaching counsels of perfection. People are as they are. Must they suffer?
 
@@ -110,8 +110,17 @@ Yet, all this is so in the mind only. As I see it, there is really nothing of th
 
 **Q:**&ensp;Is dreaming caused by thinking?
 
-**M:**&ensp;Everything is a play of ideas. In the state free from ideation (<span class=tooltip>nirvikalpa<span class=tooltiptext>Free of ideation, without modifications of the mind.</span></span> <span class=tooltip>samadhi<span class=tooltiptext>Superconscious state, profound meditation, trance, rapturous absorption. A practice of *yoga* in which the seeker (*sadhaka*) becomes one with the object of his meditation (*sadhya*), thus attaining unqualified bliss. “*Samadhi* is a state in which you transcend the bounds of your body, mind and self-identity, and merge into an undifferentiated unity with all that is”.</span></span>) nothing is perceived. The root idea is ‘I Am’. It shatters the state of pure consciousness and is followed by the innumerable sensations and perceptions, feeling and ideas which in their totality constitute God and His world. The ‘I Am’ remains as the witness, but it is by the will of God that everything happens.
+**M:**&ensp;Everything is a play of ideas. In the state free from ideation (<span data-tippy-content="Free of ideation, without modifications of the mind.">nirvikalpa</span> <span data-tippy-content="Superconscious state, profound meditation, trance, rapturous absorption. A practice of <em>yoga</em> in which the seeker (<em>sadhaka</em>) becomes one with the object of his meditation (<em>sadhya</em>), thus attaining unqualified bliss. “<em>Samadhi</em> is a state in which you transcend the bounds of your body, mind and self-identity, and merge into an undifferentiated unity with all that is”.">samadhi</span>) nothing is perceived. The root idea is ‘I Am’. It shatters the state of pure consciousness and is followed by the innumerable sensations and perceptions, feeling and ideas which in their totality constitute God and His world. The ‘I Am’ remains as the witness, but it is by the will of God that everything happens.
 
 **Q:**&ensp;Why not by my will?
 
 **M:**&ensp;Again you have split yourself — into God and witness. Both are one.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

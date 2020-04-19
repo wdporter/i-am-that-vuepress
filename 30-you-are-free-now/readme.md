@@ -15,7 +15,7 @@ inexhaustible possibility. Because you <span style=font-style:normal>are</span>,
 
 **M:**&ensp;Your sincerity will guide you. Devotion to the goal of freedom and perfection will make you abandon all theories and systems and live by wisdom, intelligence and active love. Theories may be good as starting points, but must be abandoned — the sooner the better.
 
-**Q:**&ensp;There is a <span class=tooltip>Yogi<span class=tooltiptext>One who practices *yoga*.</span></span> who says that for realisation the eightfold <span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span> is not necessary; that will-power alone will do. It is enough to concentrate on the goal with full confidence in the power of pure will to obtain effortlessly and quickly what others take decades to achieve.
+**Q:**&ensp;There is a <span data-tippy-content="One who practices <em>yoga</em>.">Yogi</span> who says that for realisation the eightfold <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">Yoga</span> is not necessary; that will-power alone will do. It is enough to concentrate on the goal with full confidence in the power of pure will to obtain effortlessly and quickly what others take decades to achieve.
 
 **M:**&ensp;Concentration, full confidence, pure will! With such assets no wonder one attains in no time. This *Yoga* of will is alright for the mature seeker, who has shed all desires but one. After all, what is will but steadiness of heart and mind. Given such steadfastness all can be achieved.
 
@@ -89,8 +89,17 @@ inexhaustible possibility. Because you <span style=font-style:normal>are</span>,
 
 **Q:**&ensp;Still they will be there. Will one never be completely free?
 
-**M:**&ensp;You are completely free even now. What you call destiny (<span class=tooltip>karma<span class=tooltiptext>Cause, the primary cause invariably antecedent to a result, the unmanifested potential cause that in due course takes shape as the visible effect, the material cause of the universe. *Karana* is cosmic energy in potential form.</span></span>) is but the result of your own will to live. How strong is this will you can judge by the universal horror of death.
+**M:**&ensp;You are completely free even now. What you call destiny (<span data-tippy-content="Action or “the fruits of action”. <em>Karma</em> is of three kinds: <em>sanchita</em> (accumulated from previous births), <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the present life) and <em>agami</em> (the current <em>karma</em> the result of which will fructify in future).">karma</span>) is but the result of your own will to live. How strong is this will you can judge by the universal horror of death.
 
 **Q:**&ensp;People die willingly quite often.
 
 **M:**&ensp;Only when the alternative is worse than death. But such readiness to die flows from the same source as the will to live, a source deeper even than life itself. To be a living being is not the ultimate state; there is something beyond, much more wonderful, which is neither being nor non-being, neither living nor not-living. It is a state of pure awareness, beyond the limitations of space and time. Once the illusion that the body–mind is oneself is abandoned, death loses its terror, it becomes a part of living.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

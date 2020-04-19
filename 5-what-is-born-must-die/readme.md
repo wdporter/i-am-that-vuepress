@@ -28,7 +28,7 @@
 
 **Q:**&ensp;What is this sense of a separate existence?
 
-**M:**&ensp;It is a reflection in a separate body of the one reality. In this reflection the unlimited and the limited are confused and taken to be the same. To undo this confusion is the purpose of <span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span>.
+**M:**&ensp;It is a reflection in a separate body of the one reality. In this reflection the unlimited and the limited are confused and taken to be the same. To undo this confusion is the purpose of <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">Yoga</span>.
 
 **Q:**&ensp;Does not death undo this confusion?
 
@@ -49,3 +49,12 @@
 **Q:**&ensp;Tenacity and honesty are endowments, surely! Not a trace of them I have.
 
 **M:**&ensp;All will come as you go on. Take the first step first. All blessings come from within. Turn within. ‘I Am’ you know. Be with it all the time you can spare, until you revert to it spontaneously. There is no simpler and easier way.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

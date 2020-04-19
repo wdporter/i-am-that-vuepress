@@ -76,7 +76,7 @@ What is beginningless cannot have a cause. It is not that you knew what you are 
 
 **M:**&ensp;Reality is neither subjective nor objective, neither mind nor matter, neither time nor space. These divisions need somebody to whom to happen, a conscious separate centre. But reality is all and nothing, the totality and the exclusion, the fullness and the emptiness, fully consistent, absolutely paradoxical. You cannot speak about it, you can only lose your self in it. When you deny reality to anything, you come to a residue which cannot be denied. 
 
-All talk of <span class=tooltip>jnana<span class=tooltiptext>Knowledge, especially the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”. (*jna*, to know; *jnani*, the knower).</span></span> is a sign of ignorance. It is the mind that imagines that it does not know and then comes to know. Reality knows nothing of these contortions. Even the idea of God as the Creator is false. Do I owe my being to any other being? Because I *am*, all *is*.
+All talk of <span data-tippy-content="Knowledge, especially the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnana</span> is a sign of ignorance. It is the mind that imagines that it does not know and then comes to know. Reality knows nothing of these contortions. Even the idea of God as the Creator is false. Do I owe my being to any other being? Because I *am*, all *is*.
 
 **Q:**&ensp;How can it be? A child is born into the world, not the world into the child. The world is old and the child is new.
 
@@ -85,3 +85,12 @@ All talk of <span class=tooltip>jnana<span class=tooltiptext>Knowledge, especial
 **Q:**&ensp;Just as the waking state exists in seed form during sleep, so does the world the child creates on being born exist before its birth. With whom does the seed lie?
 
 **M:**&ensp;With him who is the witness of birth and death, but is neither born nor dies. He alone is the seed of creation as well as its residue. Don’t ask the mind to confirm what is beyond the mind. Direct experience is the only valid confirmation.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

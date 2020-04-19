@@ -2,7 +2,7 @@
 
 >There is something exceptional, unique, about the present event, which the previous, or the coming do not have. There is a livingness about it, an actuality; it stands out as if illuminated. There is the ‘stamp of reality’ on the actual, which the past and the future do not have.
 
-**Questioner:**&ensp;As I can see, there is nothing wrong with my body nor with my real being. Both are not of my making and need not be improved upon. What has gone wrong is the ‘inner body’, call it mind, consciousness or <span class=tooltip>antahkarana<span class=tooltiptext>The psyche, mind. Mind in a collective sense, including intelligence (*buddhi*), ego (*ahamkara*) and mind (*manas*).</span></span>, whatever the name.
+**Questioner:**&ensp;As I can see, there is nothing wrong with my body nor with my real being. Both are not of my making and need not be improved upon. What has gone wrong is the ‘inner body’, call it mind, consciousness or <span data-tippy-content="The psyche, mind. Mind in a collective sense, including intelligence (<em>buddhi</em>), ego (<em>ahamkara</em>) and mind (<em>manas</em>).">antahkarana</span>, whatever the name.
 
 **Maharaj:**&ensp;What do you consider to be wrong with your mind?
 
@@ -61,3 +61,12 @@
 **Q:**&ensp;Between the spirit and the body, is it love that provides the bridge?
 
 **M:**&ensp;What else? Mind creates the abyss, the heart crosses it.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

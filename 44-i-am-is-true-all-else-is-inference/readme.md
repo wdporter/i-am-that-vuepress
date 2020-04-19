@@ -62,4 +62,13 @@ Neither your body nor mind can give you what you seek — the being and knowing 
 
 **M:**&ensp;In each case the value lies in bringing you to the need of seeking within. Playing with various approaches may be due to resistance to going within, to the fear of having to abandon the illusion of being something or somebody in particular. To find water you do not dig small pits all over the place, but drill deep in one place only. Similarly, to find your self you have to explore yourself. When you realise that you are the light of the world, you will also realise that you are the love of it; that to know is to love and to love is to know. 
 
-Of all the affections the love of oneself comes first. Your love of the world is the reflection of your love of yourself, for your world is of your own creation. Light and love are impersonal, but they are reflected in your mind as knowing and wishing oneself well. We are always friendly towards ourselves, but not always wise. A <span class=tooltip>Yogi<span class=tooltiptext>One who practices *yoga*.</span></span> is a man whose goodwill is allied to wisdom.
+Of all the affections the love of oneself comes first. Your love of the world is the reflection of your love of yourself, for your world is of your own creation. Light and love are impersonal, but they are reflected in your mind as knowing and wishing oneself well. We are always friendly towards ourselves, but not always wise. A <span data-tippy-content="One who practices <em>yoga</em>.">Yogi</span> is a man whose goodwill is allied to wisdom.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

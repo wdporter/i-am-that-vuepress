@@ -4,7 +4,7 @@
 
 **Questioner:**&ensp;Kindly tell us how you realised.
 
-**Maharaj:**&ensp;I met my <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span> when I was thirty-four and realised by thirty-seven.
+**Maharaj:**&ensp;I met my <span data-tippy-content="Spiritual teacher, preceptor.">Guru</span> when I was thirty-four and realised by thirty-seven.
 
 **Q:**&ensp;What happened? What was the change?
 
@@ -71,3 +71,12 @@ You may not be quite conscious of your physiological functions, but when it come
 **Q:**&ensp;You seem to be in favour of a computerised life.
 
 **M:**&ensp;What is wrong with a life which is free from problems? Personality is merely a reflection of the real. Why should not the reflection be true to the original as a matter of course, automatically? Need the person have any designs of its own? The life of which it is an expression will guide it. Once you realise that the person is merely a shadow of the reality, but not reality itself, you cease to fret and worry. You agree to be guided from within and life becomes a journey into the unknown.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

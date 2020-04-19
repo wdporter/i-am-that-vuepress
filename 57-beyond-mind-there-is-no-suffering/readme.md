@@ -6,7 +6,7 @@
 
 **Maharaj:**&ensp;There is not much difference on the surface, but very much of it in depth. You know yourself only through the senses and the mind. You take yourself to be what they suggest; having no direct knowledge of yourself, you have mere ideas; all mediöcre, secondhand, by hearsay. Whatever you think you are you take it to be true; the habit of imagining yourself perceivable and describable is very strong with you. 
 
-I see as you see, hear as you hear, taste as you taste, eat as you eat. I also feel thirst and hunger and expect my food to be served on time. When starved or sick, my body and mind go weak. All this I perceive quite clearly, but somehow I am not in it, I feel myself as if floating over it, aloof and detached. Even not aloof and detached. There is aloofness and detachment as there is thirst and hunger; there is also the awareness of it all and a sense of immense distance, as if the body and the mind and all that happens to them were somewhere far out on the horizon. I am like a cinema screen — clear and empty — the pictures pass over it and disappear, leaving it as clear and empty as before. In no way is the screen affected by the pictures, nor are the pictures affected by the screen. The screen intercepts and reflects the pictures, it does not shape them. It has nothing to do with the rolls of films. These are as they are, lumps of destiny (<span data-tippy-content="Destiny, <em>sanchita karma</em> (karma of past lives) that has become the destiny in the present life." >prarabdha</span>), but not my destiny; the destinies of the people on the screen.
+I see as you see, hear as you hear, taste as you taste, eat as you eat. I also feel thirst and hunger and expect my food to be served on time. When starved or sick, my body and mind go weak. All this I perceive quite clearly, but somehow I am not in it, I feel myself as if floating over it, aloof and detached. Even not aloof and detached. There is aloofness and detachment as there is thirst and hunger; there is also the awareness of it all and a sense of immense distance, as if the body and the mind and all that happens to them were somewhere far out on the horizon. I am like a cinema screen — clear and empty — the pictures pass over it and disappear, leaving it as clear and empty as before. In no way is the screen affected by the pictures, nor are the pictures affected by the screen. The screen intercepts and reflects the pictures, it does not shape them. It has nothing to do with the rolls of films. These are as they are, lumps of destiny (<span data-tippy-content="Destiny, <em>sanchita karma</em> (karma of past lives) that has become the destiny in the present life.">prarabdha</span>), but not my destiny; the destinies of the people on the screen.
 
 **Q:**&ensp;You do not mean to say that the people in a picture have destinies! They belong to the story, the story is not theirs.
 
@@ -26,7 +26,7 @@ I see as you see, hear as you hear, taste as you taste, eat as you eat. I also f
 
 **Q:**&ensp;Do you mean to say that you spend your time repeating, “this I am not, that I am not”?
 
-**M:**&ensp;Of course not. I am merely verbalising for your sake. By the grace of my <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span> I have realised once and for good that I am neither object nor subject and I do not need to remind myself all the time.
+**M:**&ensp;Of course not. I am merely verbalising for your sake. By the grace of my <span data-tippy-content="Spiritual teacher, preceptor.">Guru</span> I have realised once and for good that I am neither object nor subject and I do not need to remind myself all the time.
 
 **Q:**&ensp;I find it hard to grasp what exactly do you mean by saying that you are neither the object nor the subject. At this very moment, as we talk, am I not the object of your experience, and you the subject?
 
@@ -36,13 +36,13 @@ I see as you see, hear as you hear, taste as you taste, eat as you eat. I also f
 
 **M:**&ensp;You ask and the answer comes. I watch myself — I watch the answer and see no contradiction. It is clear to me that I am telling you the truth. It is all very simple. Only you must trust me that I mean what I say, that I am quite serious. As I told you already, my *Guru* showed me my true nature — and the true nature of the world. Having realised that I am one with, and yet beyond the world, I became free from all desire and fear. I did not reason out that I should be free. I found myself free — unexpectedly, without the least effort. This freedom from desire and fear remained with me since then. Another thing I noticed was that I do not need to make an effort; the deed follows the thought, without delay and friction. I have also found that thoughts become self-fulfilling; things would fall in place smoothly and rightly. The main change was in the mind; it became motionless and silent, responding quickly, but not perpetuäting the response. Spontaneity became a way of life, the real became natural and the natural became real. And above all, infinite affection, love, dark and quiet, radiating in all directions, embracing all, making all interesting and beautiful, significant and auspicious.
 
-**Q:**&ensp;We are told that various <span class=tooltip>Yogi<span class=tooltiptext>One who practices *yoga*.</span></span>c powers arise spontaneously in a man who has realised his own true being. What is your experience in these matters?
+**Q:**&ensp;We are told that various <span data-tippy-content="One who practices <em>yoga</em>.">Yogi</span>c powers arise spontaneously in a man who has realised his own true being. What is your experience in these matters?
 
 **M:**&ensp;Man’s fivefold body (physical etc.) has potential powers beyond our wildest dreams. Not only is the entire universe reflected in man, but also the power to control the universe is waiting to be used by him. The wise man is not anxious to use such powers, except when the situation calls for them. He finds the abilities and skills of the human personality quite adequate for the business of daily living. Some of the powers can be developed by specialised training, but the man who flaunts such powers is still in bondage. The wise man counts nothing as his own. When at some time and place some miracle is attributed to some person, he will not establish any causal link between events and people, nor will he allow any conclusions to be drawn. All happened as it happened because it had to happen. Everything happens as it does, because the universe is as it is.
 
 **Q:**&ensp;The universe does not seem a happy place to live in. Why is there so much suffering?
 
-**M:**&ensp;Pain is physical; suffering is mental. Beyond the mind there is no suffering. Pain is merely a signal that the body is in danger and requires attention. Similarly, suffering warns us that the structure of memories and habits, which we call the person (<span class=tooltip>vyakti<span class=tooltiptext>Person, the outer self.</span></span>), is threatened by loss or change. Pain is essential for the survival of the body, but none compels you to suffer. Suffering is due entirely to clinging or resisting; it is a sign of our unwillingness to move on, to flow with life. 
+**M:**&ensp;Pain is physical; suffering is mental. Beyond the mind there is no suffering. Pain is merely a signal that the body is in danger and requires attention. Similarly, suffering warns us that the structure of memories and habits, which we call the person (<span data-tippy-content="Person, the outer self.">vyakti</span>), is threatened by loss or change. Pain is essential for the survival of the body, but none compels you to suffer. Suffering is due entirely to clinging or resisting; it is a sign of our unwillingness to move on, to flow with life. 
 
 As a sane life is free of pain, so is a saintly life free from suffering.
 
@@ -58,4 +58,12 @@ As a sane life is free of pain, so is a saintly life free from suffering.
 
 **M:**&ensp;But I am dead already, or, rather, neither alive nor dead. You see my body behaving the habitual way and draw your own conclusions. You will not admit that your conclusions bind nobody but you. Do see that the image you have of me may be altogether wrong? Your image of yourself is wrong too, but that is your problem. But you need not creäte problems for me and then ask me to solve them. I am neither creäting problems nor solving them.
 
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>
 

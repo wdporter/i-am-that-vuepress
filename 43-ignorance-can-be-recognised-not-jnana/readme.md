@@ -6,9 +6,9 @@
 
 **Maharaj:**&ensp;In a hospital the sick are treated and get well. The treatment is routine, with hardly any change, but there is nothing monotonous about health. My teaching may be routine, but the fruit of it is new from man to man.
 
-**Q:**&ensp;What is realisation? Who is a realised man? By what is the <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> recognised?
+**Q:**&ensp;What is realisation? Who is a realised man? By what is the <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”. (<em>jna</em>, to know; <em>jnani</em>, the knower.)">jnani</span> recognised?
 
-**M:**&ensp;There are no distinctive marks of <span class=tooltip>jnana<span class=tooltiptext>Knowledge, especially the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”. (*jna*, to know; *jnani*, the knower).</span></span>. Only ignorance can be recognised, not *jnana*. Nor does a *jnani* claim to be something special. All those who proclaim their own greatness and uniqueness are not *jnani*s. They are mistaking some unusual development for realisation. The *jnani* shows no tendency to proclaim himself to be a *jnani*. He considers himself to be perfectly normal, true to his real nature. Proclaiming oneself to be an omnipotent, omniscient and omnipotent deity is a clear sign of ignorance.
+**M:**&ensp;There are no distinctive marks of <span data-tippy-content="Knowledge, especially the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnana</span>. Only ignorance can be recognised, not *jnana*. Nor does a *jnani* claim to be something special. All those who proclaim their own greatness and uniqueness are not *jnani*s. They are mistaking some unusual development for realisation. The *jnani* shows no tendency to proclaim himself to be a *jnani*. He considers himself to be perfectly normal, true to his real nature. Proclaiming oneself to be an omnipotent, omniscient and omnipotent deity is a clear sign of ignorance.
 
 **Q:**&ensp;Can the *jnani* convey his experience to the ignorant? Can *jnana* be transmitted from one man to another?
 
@@ -22,23 +22,23 @@
 
 **M:**&ensp;It comes to the same.
 
-**Q:**&ensp;There are many who have practiced <span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span> for years and years without any result. What may be the cause of their failure?
+**Q:**&ensp;There are many who have practiced <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">Yoga</span> for years and years without any result. What may be the cause of their failure?
 
 **M:**&ensp;Some are addicted to trances, with their consciousness in abeyance. Without full consciousness what progress can there be?
 
-**Q:**&ensp;Many are practicing <span class=tooltip>samadhi<span class=tooltiptext>Superconscious state, profound meditation, trance, rapturous absorption. A practice of *yoga* in which the seeker (*sadhaka*) becomes one with the object of his meditation (*sadhya*), thus attaining unqualified bliss. “*Samadhi* is a state in which you transcend the bounds of your body, mind and self-identity, and merge into an undifferentiated unity with all that is”.</span></span>s (states of rapturous absorption). In *samadhi*s consciousness is quite intense, yet they do not result in anything.
+**Q:**&ensp;Many are practicing <span data-tippy-content="Superconscious state, profound meditation, trance, rapturous absorption. A practice of <em>yoga</em> in which the seeker (<em>sadhaka</em>) becomes one with the object of his meditation (<em>sadhya</em>), thus attaining unqualified bliss. “<em>Samadhi</em> is a state in which you transcend the bounds of your body, mind and self-identity, and merge into an undifferentiated unity with all that is”.">samadhi</span>s (states of rapturous absorption). In *samadhi*s consciousness is quite intense, yet they do not result in anything.
 
-**M:**&ensp;What results do you expect? And why should *jnana* be the result of anything? One thing leads to another, but *jnana* is not a thing to be bound by causes and results. It is beyond causality altogether. It is abidance in the self. The <span class=tooltip>Yogi<span class=tooltiptext>One who practices *yoga*.</span></span> comes to know many wonders, but of the self he remains ignorant. The *jnani* may look and feel quite ordinary, but the self he knows well.
+**M:**&ensp;What results do you expect? And why should *jnana* be the result of anything? One thing leads to another, but *jnana* is not a thing to be bound by causes and results. It is beyond causality altogether. It is abidance in the self. The <span data-tippy-content="One who practices <em>yoga</em>.">Yogi</span> comes to know many wonders, but of the self he remains ignorant. The *jnani* may look and feel quite ordinary, but the self he knows well.
 
 **Q:**&ensp;There are many who strive for self-knowledge earnestly, but with scant results. What may be the cause of it?
 
 **M:**&ensp;They have not investigated the sources of knowledge sufficiently, their sensations, feelings and thoughts they do not know well enough. This may be one cause of delay. The other: some desires may still be alive.
 
-**Q:**&ensp;Ups and downs in <span class=tooltip>sadhana<span class=tooltiptext>The practice which produces success, *siddhi*.</span></span> are inevitable. Yet the earnest seeker plods on in spite of all. What can the *jnani* do for such a seeker?
+**Q:**&ensp;Ups and downs in <span data-tippy-content="The practice which produces success, <em>siddhi</em>.">sadhana</span> are inevitable. Yet the earnest seeker plods on in spite of all. What can the *jnani* do for such a seeker?
 
 **M:**&ensp;If the seeker is earnest, the light can be given. The light is for all and always there, but the seekers are few, and among those few, those who are ready are very rare. Ripeness of heart and mind is indispensable.
 
-**Q:**&ensp;Did you get your own realisation through effort or by the grace of your <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span>?
+**Q:**&ensp;Did you get your own realisation through effort or by the grace of your <span data-tippy-content="Spiritual teacher, preceptor.">Guru</span>?
 
 **M:**&ensp;His was the teaching and mine was the trust. My confidence in him made me accept his words as true, go deep into them, live them, and that is how I came to realise what I am. The *Guru*’s person and words made me trust him and my trust made them fruitful.
 
@@ -125,3 +125,12 @@
 **Q:**&ensp;Must I see, to *be*?
 
 **M:**&ensp;See what you are. Don’t ask others, don’t let others tell you about yourself. Look within and see. All the teacher can tell you is only this. There is no need of going from one to another. The same water is in all the wells. You just draw from the nearest. In my case the water is within me and I am the water.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

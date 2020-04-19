@@ -6,7 +6,7 @@
 
 **Maharaj:**&ensp;You may find differences, or you may not. All depends on your capacity of observation. The objective differences are however, the least important. What matters is their outlook, their attitude, which is that of total detachment, aloofness, standing apart.
 
-**Q:**&ensp;Does not a <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> feel sorrow when his child dies, does he not suffer?
+**Q:**&ensp;Does not a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> feel sorrow when his child dies, does he not suffer?
 
 **M:**&ensp;He suffers with those who suffer. The event itself is of little importance, but he is full of compassion for the suffering being, whether alive or dead, in the body or out of it. After all, love and compassion are his very nature. He is one with all that lives and love is that oneness in action.
 
@@ -46,13 +46,13 @@
 
 **M:**&ensp;You can put it as you like.
 
-**Q:**&ensp;Is the practice of silence as a <span class=tooltip>sadhana<span class=tooltiptext>The practice which produces success, *siddhi*.</span></span> effective?
+**Q:**&ensp;Is the practice of silence as a <span data-tippy-content="The practice which produces success, <em>siddhi</em>.">sadhana</span> effective?
 
 **M:**&ensp;Anything you do for the sake of enlightenment takes you nearer. Anything you do without remembering enlightenment puts you off. But why complicate? Just know that you are above and beyond all things and thoughts. What you want to be, you are it already. Just keep it in mind.
 
 **Q:**&ensp;I hear you saying it, but I cannot believe.
 
-**M:**&ensp;I was in the same position myself. But I trusted my <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span> and he proved right. Trust me, if you can. Keep in mind what I tell you: desire nothing, for you lack nothing. The very seeking prevents you from finding.
+**M:**&ensp;I was in the same position myself. But I trusted my <span data-tippy-content="Spiritual teacher, preceptor.">Guru</span> and he proved right. Trust me, if you can. Keep in mind what I tell you: desire nothing, for you lack nothing. The very seeking prevents you from finding.
 
 **Q:**&ensp;You seem to be so very indifferent to everything!
 
@@ -62,7 +62,7 @@
 
 **M:**&ensp;On the contrary, compassion and love are my very core. Void of all predilections, I am free to love.
 
-**Q:**&ensp;Buddha said that the idea of enlightenment is extremely important. Most people go through their lives not even knowing that there is such a thing as enlightenment, leave alone the striving for it. Once they have heard of it, a seed was sown which cannot die. Therefore, he would send his <span class=tooltip>bhikkhu<span class=tooltiptext>A *Bikkhu* (Pali) or *Bhikshu* (sanskrit) is an ordained male Buddhist monastic.</span></span>s to preach ceaselessly for eight months every year.
+**Q:**&ensp;Buddha said that the idea of enlightenment is extremely important. Most people go through their lives not even knowing that there is such a thing as enlightenment, leave alone the striving for it. Once they have heard of it, a seed was sown which cannot die. Therefore, he would send his <span data-tippy-content="A <em>Bikkhu</em> (Pali) or <em>Bhikshu</em> (sanskrit) is an ordained male Buddhist monastic.">bhikkhu</span>s to preach ceaselessly for eight months every year.
 
 **M:**&ensp;“One can give food, clothes, shelter, knowledge or affection, but the highest gift is the gospel of enlightenment”, my Guru used to say. You are right, enlightenment is the highest good. Once you have it, nobody can take it away from you.
 
@@ -89,3 +89,12 @@
 **Q:**&ensp;If nature is in the mind and the mind is my own, I should be able to control nature, which is not really the case. Forces beyond my control determine my behaviour.
 
 **M:**&ensp;Develop the witness attitude and you will find in your own experience that detachment brings control. The state of witnessing is full of power — there is nothing passive about it.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

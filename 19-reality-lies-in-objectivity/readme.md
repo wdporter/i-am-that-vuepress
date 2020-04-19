@@ -52,9 +52,9 @@
 
 **Q:**&ensp;And what becomes of the world and of God?
 
-**M:**&ensp;Pure being (<span class=tooltip>avyakta<span class=tooltiptext>Unmanifest. Opposite is *vyakta*</span></span>).
+**M:**&ensp;Pure being (<span data-tippy-content="Unmanifest. Opposite is <em>vyakta</em>">avyakta</span>).
 
-**Q:**&ensp;Is it the same as the Great Expanse (<span class=tooltip>paramakash<span class=tooltiptext>The great expanse, the timeless and spaceless reality; the Absolute being.</span></span>)?
+**Q:**&ensp;Is it the same as the Great Expanse (<span data-tippy-content="The great expanse, the timeless and spaceless reality; the Absolute being.">paramakash</span>)?
 
 **M:**&ensp;You may call it so. Words do not matter, for they do not reach it. They turn back in utter negation.
 
@@ -90,10 +90,19 @@
 
 **M:**&ensp;It does not depend on memories and expectations, desires and fears, likes and dislikes. All is seen as it is.
 
-**Q:**&ensp;Is it what you call the fourth state (<span class=tooltip>turiya<span class=tooltiptext>The superconscious state of *samadhi*, (*turiya*, fourth), the fourth state of soul in which it becomes one with *Brahman*, the highest awareness.</span></span>)?
+**Q:**&ensp;Is it what you call the fourth state (<span data-tippy-content="The superconscious state of <em>samadhi</em>, (<em>turiya</em>, fourth), the fourth state of soul in which it becomes one with <em>Brahman</em>, the highest awareness.">turiya</span>)?
 
 **M:**&ensp;Call it as you like. It is solid, steady, changeless, beginningless and endless, ever new, ever fresh.
 
 **Q:**&ensp;How is it reached?
 
 **M:**&ensp;Desirelessness and fearlessness will take you there.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

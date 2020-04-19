@@ -26,17 +26,17 @@
 
 **M:**&ensp;The potential becomes actual by thinking. The body and its affairs exist in the mind.
 
-**Q:**&ensp;And the mind is consciousness in motion and consciousness is the conditioned (<span class=tooltip>saguna<span class=tooltiptext>Manifested condition with the three *gunas*, qualities — *sattva*, *rajas* and *tamas*. The Supreme Absolute conceived of as possessing qualities like love, mercy etc., as distinguished from the undifferentiated Absolute of the *Advaita Vedanta*.</span></span>) aspect of the Self. The unconditioned (<span class=tooltip>nirguna<span class=tooltiptext>The unconditioned, without form, qualities and attributes.</span></span>) is another aspect and beyond lies the abyss of the absolute (<span class=tooltip>paramartha<span class=tooltiptext>The sublime truth.</span></span>).
+**Q:**&ensp;And the mind is consciousness in motion and consciousness is the conditioned (<span data-tippy-content="Manifested condition with the three <em>guna</em>s, qualities — <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. The Supreme Absolute conceived of as possessing qualities like love, mercy etc., as distinguished from the undifferentiated Absolute of the <em>Advaita Vedanta</em>.">saguna</span>) aspect of the Self. The unconditioned (<span data-tippy-content="The unconditioned, without form, qualities or attributes.">nirguna</span>) is another aspect and beyond lies the abyss of the absolute (<span data-tippy-content="The sublime truth.">paramartha</span>).
 
 **M:**&ensp;Quite right — you have put it beautifully.
 
 **Q:**&ensp;But these are mere words to me. Hearing and repeating them is not enough, they must be experienced.
 
-**M:**&ensp;Nothing stops you but preöccupation with the outer which prevents you from focussing the inner. It cannot be helped, you cannot skip your <span class=tooltip>sadhana<span class=tooltiptext>The practice which produces success, *siddhi*.</span></span>. You have to turn away from the world and go within, until the inner and the outer merge and you can go beyond the conditioned, whether inner or outer.
+**M:**&ensp;Nothing stops you but preöccupation with the outer which prevents you from focussing the inner. It cannot be helped, you cannot skip your <span data-tippy-content="The practice which produces success, <em>siddhi</em>.">sadhana</span>. You have to turn away from the world and go within, until the inner and the outer merge and you can go beyond the conditioned, whether inner or outer.
 
 **Q:**&ensp;Surely, the unconditioned is merely an idea in the conditioned mind. By itself it has no existence.
 
-**M:**&ensp;By itself nothing has existence. Everything needs its own absence. To be, is to be distinguishable, to be here and not there, to be now and not then, to be thus and not otherwise. Like water is shaped by the container, so is everything determined by conditions (<span class=tooltip>gunas<span class=tooltiptext>Attributes, qualities. In *Samkhya* philosophy the three attributes of the cosmic substance (*prakriti*) are: illuminating (*sattva*), activating (*rajas*) and restraining (*tamas*).</span></span>). As water remains water regardless of the vessels, as light remains itself regardless of the colours it brings out, so does the real remain real, regardless of conditions in which it is reflected. Why keep the reflection only in the focus of consciousness? Why not the real itself?
+**M:**&ensp;By itself nothing has existence. Everything needs its own absence. To be, is to be distinguishable, to be here and not there, to be now and not then, to be thus and not otherwise. Like water is shaped by the container, so is everything determined by conditions (<span data-tippy-content="Attributes, qualities. In <em>Samkhya</em> philosophy the three attributes of the cosmic substance (<em>prakriti</em>) are: illuminating (<em>sattva</em>), activating (<em>rajas</em>) and restraining (<em>tamas</em>).">guna</span>s). As water remains water regardless of the vessels, as light remains itself regardless of the colours it brings out, so does the real remain real, regardless of conditions in which it is reflected. Why keep the reflection only in the focus of consciousness? Why not the real itself?
 
 **Q:**&ensp;Consciousness itself is a reflection. How can it hold the real?
 
@@ -72,7 +72,7 @@
 
 **Q:**&ensp;Is it not a feeling?
 
-**M:**&ensp;A feeling too is a state of mind. Just like a healthy body does not call for attention, so is the unconditioned free from experience. Take the experience of death. The ordinary man is afraid to die, because he is afraid of change. The <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> is not afraid because his mind is dead already. He does not think, “I live”. He knows, “There is life”. There is no change in it and no death. Death appears to be a change in time and space. Where there is neither time nor space, how can there be death? The *jnani* is already dead to name and shape. How can their loss affect him? The man in the train travels from place to place, but the man off the train goes nowhere, for he is not bound for a destination. He has nowhere to go, nothing to do and nothing to become. Those who make plans will be born to carry them out. Those who make no plans need not be born.
+**M:**&ensp;A feeling too is a state of mind. Just like a healthy body does not call for attention, so is the unconditioned free from experience. Take the experience of death. The ordinary man is afraid to die, because he is afraid of change. The <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> is not afraid because his mind is dead already. He does not think, “I live”. He knows, “There is life”. There is no change in it and no death. Death appears to be a change in time and space. Where there is neither time nor space, how can there be death? The *jnani* is already dead to name and shape. How can their loss affect him? The man in the train travels from place to place, but the man off the train goes nowhere, for he is not bound for a destination. He has nowhere to go, nothing to do and nothing to become. Those who make plans will be born to carry them out. Those who make no plans need not be born.
 
 **Q:**&ensp;What is the purpose of pain and pleasure?
 
@@ -105,3 +105,12 @@
 **Q:**&ensp;Everybody believes in God.
 
 **M:**&ensp;To me you are your own God. But if you think otherwise, think to the end. If there be God, then all is God’s and all is for the best. Welcome all that comes with a glad and thankful heart. And love all creatures. This too will take you to your Self.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

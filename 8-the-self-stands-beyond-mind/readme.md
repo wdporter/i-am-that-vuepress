@@ -1,6 +1,6 @@
 # 8. The Self Stands Beyond Mind 
 
->Happiness comes from the self and can be found in the self only. Find your real self (*swarupa*) and all else will come with it… ideas of movement, of restlessness, of pleasure and pain are all in the mind. The Self stands beyond the mind, aware, but unconcerned.
+>Happiness comes from the self and can be found in the self only. Find your real self (*svarupa*) and all else will come with it… ideas of movement, of restlessness, of pleasure and pain are all in the mind. The Self stands beyond the mind, aware, but unconcerned.
 
 **Questioner:**&ensp;As a child fairly often I experienced states of complete happiness, verging on ecstasy. Later, they ceased, but since I came to India they reä ppeared, particularly after I met you. Yet these states, however wonderful, are not lasting. They come and go and there is no knowing when they will come back.
 
@@ -24,7 +24,7 @@
 
 **Q:**&ensp;Yet I want happiness.
 
-**M:**&ensp;True happiness cannot be found in things that change and pass away. Pleasure and pain alternate inexorably. Happiness comes from the self and can be found in the self only. Find your real self (<span class=tooltip>swarupa<span class=tooltiptext>One’s own form, nature, character.</span></span>) and all else will come with it.
+**M:**&ensp;True happiness cannot be found in things that change and pass away. Pleasure and pain alternate inexorably. Happiness comes from the self and can be found in the self only. Find your real self (<span data-tippy-content="One’s own form, nature, character.">svarupa</span>) and all else will come with it.
 
 **Q:**&ensp;If my real self is peace and love, why is it so restless?
 
@@ -144,3 +144,12 @@ permanency. I want to create something that lasts.
 **Q:**&ensp;Even when they are justified?
 
 **M:**&ensp;Emotional reactions, born of ignorance or inadvertence, are never justified. Seek a clear mind and a clean heart. All you need is to keep quietly alert, enquiring into the real nature of yourself. This is the only way to peace.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

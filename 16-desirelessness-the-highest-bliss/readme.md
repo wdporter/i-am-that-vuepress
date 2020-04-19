@@ -80,7 +80,7 @@ mind is not needed.
 
 **Q:**&ensp;How does one go beyond the mind?
 
-**M:**&ensp;There are many starting points — they all lead to the same goal. You may begin with selfless work, abandoning the fruits of action; you may then give up thinking and end in giving up all desires. Here, giving up (<span class=tooltip>tyaga<span class=tooltiptext>Renunciation. *Tyaga* is the renunciation of the fruits of all works: i.e., the *tyagi* should perform *karma* with detachment and with no desire for results.</span></span>) is the operational factor. Or, you may not bother about any thing you want, or think, or do and just stay put in the thought and feeling ‘I Am’, focussing ‘I Am’ firmly in your mind. All kinds of experience may come to you — remain unmoved in the knowledge that all perceivable is
+**M:**&ensp;There are many starting points — they all lead to the same goal. You may begin with selfless work, abandoning the fruits of action; you may then give up thinking and end in giving up all desires. Here, giving up (<span data-tippy-content="Renunciation. <em>Tyaga</em> is the renunciation of the fruits of all works: i.e., the <em>tyagi</em> should perform <em>karma</em> with detachment and with no desire for results.">tyaga</span>) is the operational factor. Or, you may not bother about any thing you want, or think, or do and just stay put in the thought and feeling ‘I Am’, focussing ‘I Am’ firmly in your mind. All kinds of experience may come to you — remain unmoved in the knowledge that all perceivable is
 transient, and only the ‘I Am’ endures.
 
 **Q:**&ensp;I cannot give all my life to such practices. I have my duties to attend to.
@@ -101,7 +101,7 @@ transient, and only the ‘I Am’ endures.
 
 **Q:**&ensp;The scriptures show the general directions but the individual needs personal instructions.
 
-**M:**&ensp;Your own self is your ultimate teacher (<span class=tooltip>sadguru<span class=tooltiptext>The true spiritual teacher.</span></span>). The outer teacher (<span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span>) is merely a milestone. It is only your inner teacher, that will walk with you to the goal, for he is the goal.
+**M:**&ensp;Your own self is your ultimate teacher (<span data-tippy-content="The true spiritual teacher.">sadguru</span>). The outer teacher (<span data-tippy-content="Spiritual teacher, preceptor.">Guru</span>) is merely a milestone. It is only your inner teacher, that will walk with you to the goal, for he is the goal.
 
 **Q:**&ensp;The inner teacher is not easily reached.
 
@@ -109,7 +109,7 @@ transient, and only the ‘I Am’ endures.
 
 **Q:**&ensp;When I look within, I find sensations and perceptions, thoughts and feelings, desires and fears, memories and expectations. I am immersed in this cloud and see nothing else.
 
-**M:**&ensp;That which sees all this, and the nothing too, is the inner teacher. He alone is, all else only appears to be. He is your own self (<span class=tooltip>swarupa<span class=tooltiptext>One’s own form, nature, character.</span></span>), your hope and assurance of freedom; find him and cling to him and you will be saved and safe.
+**M:**&ensp;That which sees all this, and the nothing too, is the inner teacher. He alone is, all else only appears to be. He is your own self (<span data-tippy-content="One’s own form, nature, character.">svarupa</span>), your hope and assurance of freedom; find him and cling to him and you will be saved and safe.
 
 **Q:**&ensp;I do believe you, but when it comes to the actual finding of this inner self, I find it escapes me.
 
@@ -145,7 +145,7 @@ transient, and only the ‘I Am’ endures.
 
 **Q:**&ensp;Is the witness-consciousness the real Self?
 
-**M:**&ensp;It is the reflection of the real in the mind (<span class=tooltip>buddhi<span class=tooltiptext>Intelligence, the reflection of the real in the mind (*bodhati*, to discern, to know). *Buddhi* is that faculty which enables the mind to perceive objects in the phenomenal world. As long as *buddhi* is functioning through the medium of the mind, it is not possible to know pure consciousness. (*Budh*, to wake up, observe).</span></span>). The real is beyond. The witness is the door through which you pass beyond.
+**M:**&ensp;It is the reflection of the real in the mind (<span data-tippy-content="Intelligence, the reflection of the real in the mind (<em>bodhati</em>, to discern, to know). <em>Buddhi</em> is that faculty which enables the mind to perceive objects in the phenomenal world. As long as <em>buddhi</em> is functioning through the medium of the mind, it is not possible to know pure consciousness. (<em>Budh</em>, to wake up, observe).">buddhi</span>). The real is beyond. The witness is the door through which you pass beyond.
 
 **Q:**&ensp;What is the purpose of meditation?
 
@@ -164,3 +164,13 @@ You may choose any way that suits you; your earnestness will determine the rate 
 **Q:**&ensp;No hint for me?
 
 **M:**&ensp;Establish yourself firmly in the awareness of ‘I Am’. This is the beginning and also the end of all endeavour.
+
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

@@ -1,18 +1,18 @@
 # 20. The Supreme is Beyond All
 
->All desires aim at happiness. Their shape and quality depend on the psyche (<span class=tooltip>antahkarana<span class=tooltiptext>The psyche, mind. Mind in a collective sense, including intelligence (*buddhi*), ego (*ahamkara*) and mind (*manas*).</span></span>). Where inertia (<span class=tooltip>tamas<span class=tooltiptext>Darkness, inertia, passivity. One of the three constituents (*gunas*) of the cosmic substance: *sattava*, *rajas* and *tamas*.</span></span>) predominates, we find perversions. With energy (<span class=tooltip>rajas<span class=tooltiptext>Motivity, activity, energy. One of the three *gunas* or qualities of matter: *sattva*, *rajas* and *tamas*. In *yoga*, egoism.</span></span>), passions arise. With lucidity (<span class=tooltip>sattva<span class=tooltiptext>Being, existence, true essence. In *yoga* the quality of purity or goodness.</span></span>) the motive behind the desire is goodwill, compassion, the urge to make happy rather than be happy. But the Supreme is beyond all, yet because of its infinite permeability all cogent desires can be fulfilled.
+>All desires aim at happiness. Their shape and quality depend on the psyche (*antahkarana*). Where inertia (*tamas*) predominates, we find perversions. With energy (*rajas*), passions arise. With lucidity (*sattva*) the motive behind the desire is goodwill, compassion, the urge to make happy rather than be happy. But the Supreme is beyond all, yet because of its infinite permeability all cogent desires can be fulfilled.
 
 **Questioner:**&ensp;You say, reality is one. Oneness, unity, is the attribute of the person. Is then reality a person, with the universe as its body?
 
 **Maharaj:**&ensp;Whatever you may say will be both true and false. Words do not reach beyond the mind.
 
-**Q:**&ensp;I am just trying to understand. You are telling us of the Person, the Self and the Supreme (<span class=tooltip>vyakti<span class=tooltiptext>Person, the outer self.</span></span>, <span class=tooltip>vyakta<span class=tooltiptext>Manifest matter, the evolved nature. Opposite is *avyakta*.</span></span>, <span class=tooltip>avyakta<span class=tooltiptext>Unmanifest. Opposite is *vyakta*</span></span>). The light of Pure Awareness (<span class=tooltip>pragna<span class=tooltiptext>Cognitive consciousness, pure awareness, higher consciousness.</span></span>), focussed as ‘I Am’ in the Self (<span class=tooltip>jivatma<span class=tooltiptext>[*Atman* + doërship is *jiva*.] The individual soul. According to Vedanta, *jiva* comes into being as a result of the false identification of the atman with body, senses and mind.</span></span>), as consciousness (<span class=tooltip>chetana<span class=tooltiptext>Consciousness, inner awakening.</span></span>) illumines the mind (*antahkarana*) and as life (<span class=tooltip>prana<span class=tooltiptext>The breath of life, vital principle.</span></span>) vitalises the body (<span class=tooltip>deha<span class=tooltiptext>Physical body.</span></span>). All this is fine as far as the words go. But when it comes to distinguishing in myself the person from the Self and the Self from the Supreme, I get mixed up.
+**Q:**&ensp;I am just trying to understand. You are telling us of the Person, the Self and the Supreme (<span data-tippy-content="Person, the outer self.">vyakti</span>, <span data-tippy-content="Manifest matter, the evolved nature. Opposite is <em>avyakta</em>.">vyakta</span>, <span data-tippy-content="Unmanifest. Opposite is <em>vyakta</em>.">avyakta</span>). The light of Pure Awareness (<span data-tippy-content="Cognitive consciousness, pure awareness, higher consciousness.">pragna</span>), focussed as ‘I Am’ in the Self (<span data-tippy-content="[<em>Atman</em> + doërship is <em>jiva</em>.] The individual soul. According to <em>Vedanta</em>, <em>jiva</em> comes into being as a result of the false identification of the <em>atman</em> with body, senses and mind.">jivatma</span>), as consciousness (<span data-tippy-content="Consciousness, inner awakening.">chetana</span>) illumines the mind (<span data-tippy-content="The psyche, mind. Mind in a collective sense, including intelligence (<em>buddhi</em>), ego (<em>ahamkara</em>) and mind (<em>manas</em>).">antahkarana</span>) and as life (<span data-tippy-content="The breath of life, vital principle.">prana</span>) vitalises the body (<span data-tippy-content="Physical body.">deha</span>). All this is fine as far as the words go. But when it comes to distinguishing in myself the person from the Self and the Self from the Supreme, I get mixed up.
 
 **M:**&ensp;The person is never the subject. You can see a person, but you are not the person. You are always the Supreme which appears at a given point of time and space as the witness, a bridge between the pure awareness of the Supreme and the manifold consciousness of the person.
 
 **Q:**&ensp;When I look at myself, I find I am several persons fighting among themselves for the use of the body.
 
-**M:**&ensp;They correspond to the various tendencies (<span class=tooltip>samskara<span class=tooltiptext>“Imprints left on the subconscious by experiences in past lives or the present life and which determine and condition one’s desires and actions”. Mental impression, memory. Also called *vasana*, residual impression.</span></span>) of the mind.
+**M:**&ensp;They correspond to the various tendencies (<span data-tippy-content="“Imprints left on the subconscious by experiences in past lives or the present life and which determine and condition one’s desires and actions”. Mental impression, memory. Also called <em>vasana</em>, residual impression.">samskara</span>) of the mind.
 
 **Q:**&ensp;Can I make peace between them?
 
@@ -44,7 +44,7 @@
 
 **Q:**&ensp;Why are there so many centres of consciousness?
 
-**M:**&ensp;The objective universe (<span class=tooltip>mahadakash<span class=tooltiptext>The great expanse of existence, the universe of matter and energy.</span></span>) is in constant movement, projecting and dissolving innumerable forms. Whenever a form is infused with life (*prana<span class=tooltiptext>The breath of life, vital principle.</span></span>), consciousness (*chetana*) appears by reflection of awareness in matter.
+**M:**&ensp;The objective universe (<span data-tippy-content="The great expanse of existence, the universe of matter and energy.">mahadakash</span>) is in constant movement, projecting and dissolving innumerable forms. Whenever a form is infused with life (*prana*), consciousness (*chetana*) appears by reflection of awareness in matter.
 
 **Q:**&ensp;How is the Supreme affected?
 
@@ -74,9 +74,9 @@
 
 **M:**&ensp;The self. All desires, holy and unholy, come from the self; they all hang on the sense ‘I Am’.
 
-**Q:**&ensp;I can understand holy desires (<span class=tooltip>satyakama<span class=tooltiptext>He who longs for the sublime truth.</span></span>) emanating from the self. It may be the expression of the bliss aspect of the <span class=tooltip>Sadchitananda<span class=tooltiptext>he ultimate principle with the three attributes in absolute perfection (*sat*, being + *chit*, consciousness + *ananda*, bliss).</span></span> (Beingness — Awareness — Happiness) of the Self. But why unholy desires?
+**Q:**&ensp;I can understand holy desires (<span data-tippy-content="He who longs for the sublime truth.">satyakama</span>) emanating from the self. It may be the expression of the bliss aspect of the <span data-tippy-content="The ultimate principle with the three attributes in absolute perfection (<em>sat</em>, being + <em>chit</em>, consciousness + <em>ananda</em>, bliss).">Sad-Chit-Ananda</span> (Beingness — Awareness — Happiness) of the Self. But why unholy desires?
 
-**M:**&ensp;All desires aim at happiness. Their shape and quality depend on the psyche (*antahkarana*). Where inertia (*tamas*) predominates, we find perversions. With energy (*rajas*), passions arise. With lucidity (*sattva*) the motive behind the desire is goodwill, compassion, the urge to make happy rather than be happy. But the Supreme is beyond all, yet because of its infinite permeability all cogent desires can be fulfilled.
+**M:**&ensp;All desires aim at happiness. Their shape and quality depend on the psyche (*antahkarana*). Where inertia (<span data-tippy-content="Darkness, inertia, passivity. One of the three constituents (<em>gunas</em>) of the cosmic substance: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>.">tamas</span>) predominates, we find perversions. With energy (<span data-tippy-content="Motivity, activity, energy. One of the three <em>gunas</em> or qualities of matter: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</span>), passions arise. With lucidity (<span data-tippy-content="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>) the motive behind the desire is goodwill, compassion, the urge to make happy rather than be happy. But the Supreme is beyond all, yet because of its infinite permeability all cogent desires can be fulfilled.
 
 **Q:**&ensp;Which desires are cogent?
 
@@ -114,7 +114,7 @@
 
 **M:**&ensp;Because you imagine that you were born, and that you will die if you do not take care of your body. Desire for embodied existence is the root cause of trouble.
 
-**Q:**&ensp;Yet, so many <span class=tooltip>jiva<span class=tooltiptext>[*Atman* + doërship is *jiva*.] The individual soul. According to Vedanta, *jiva* comes into being as a result of the false identification of the atman with body, senses and mind.</span></span>s get into bodies. Surely it cannot be some error of judgement. There must be a purpose. What could it be?
+**Q:**&ensp;Yet, so many <span data-tippy-content="[<em>Atman</em> + doërship is <em>jiva</em>.] The individual soul. According to <em>Vedanta</em>, <em>jiva</em> comes into being as a result of the false identification of the <em>atman</em> with body, senses and mind.">jiva</span>s get into bodies. Surely it cannot be some error of judgement. There must be a purpose. What could it be?
 
 **M:**&ensp;To know itself the self must be faced with its opposite — the not-self. Desire leads to experience. Experience leads to discrimination, detachment, self-knowledge — liberation. And what is liberation after all? To know that you are beyond birth and death. By forgetting who you are and imagining yourself a mortal creature, you created so much trouble for yourself that you have to wake up, like from a bad dream.
 
@@ -130,6 +130,15 @@ Enquiry also wakes you up. You need not wait for suffering; enquiry into happine
 
 **Q:**&ensp;But is there anything beyond the Self?
 
-**M:**&ensp;Outside the Self there is nothing. All is one and all is contained in ‘I Am’. In the waking and dream states it is the person. In deep sleep and <span class=tooltip>turiya<span class=tooltiptext>The superconscious state of *samadhi*, (*turiya*, fourth), the fourth state of soul in which it becomes one with *Brahman*, the highest awareness.</span></span> it is the Self. Beyond the alert intentness of *turiya* lies the great, silent peace of the Supreme. But in fact all is one in essence and related in appearance. In ignorance the seer becomes the seen and in wisdom he is the seeing.
+**M:**&ensp;Outside the Self there is nothing. All is one and all is contained in ‘I Am’. In the waking and dream states it is the person. In deep sleep and <span data-tippy-content="The superconscious state of <em>samadhi</em>, (<em>turiya</em>, fourth), the fourth state of soul in which it becomes one with <em>Brahman</em>, the highest awareness.">turiya</span> it is the Self. Beyond the alert intentness of *turiya* lies the great, silent peace of the Supreme. But in fact all is one in essence and related in appearance. In ignorance the seer becomes the seen and in wisdom he is the seeing.
 
 But why be concerned with the Supreme? Know the knowers and all will be known. 
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

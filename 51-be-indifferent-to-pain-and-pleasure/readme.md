@@ -2,7 +2,7 @@
 
 >Be indifferent to pain and pleasure, neither asking nor refusing, give all your attention to the level on which ‘I Am’ is timelessly present. Soon you will realise that peace and happiness are in your very nature and it is only seeking them through some particular channels that disturbs.
 
-**Questioner:**&ensp;I am a Frenchman by birth and domicile and since about ten years I have been practicing <span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span>.
+**Questioner:**&ensp;I am a Frenchman by birth and domicile and since about ten years I have been practicing <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">Yoga</span>.
 
 **Maharaj:**&ensp;After ten years of work are you anywhere nearer your goal?
 
@@ -10,7 +10,7 @@
 
 **M:**&ensp;The Self is near and the way to it is easy. All you need doing is doing nothing.
 
-**Q:**&ensp;Yet I found my <span class=tooltip>sadhana<span class=tooltiptext>The practice which produces success, *siddhi*.</span></span> very difficult.
+**Q:**&ensp;Yet I found my <span data-tippy-content="The practice which produces success, <em>siddhi</em>.">sadhana</span> very difficult.
 
 **M:**&ensp;Your *sadhana* is to *be*. The doing happens. Just be watchful. Where is the difficulty in remembering that you are? Your *are* all the time.
 
@@ -20,7 +20,7 @@
 
 **Q:**&ensp;Basically, man is afraid. He is afraid of himself most. I feel I am like a man who is carrying a bomb that is going to explode. He cannot defuse it, he cannot throw it away. He is terribly frightened and is searching frantically for a solution, which he cannot find. To me liberation is getting rid of this bomb. I do not know much about the bomb. I only know that it comes from early childhood. I feel like the frightened child protesting passionately against not being loved. The child is craving for love and because he does not get it, he is afraid and angry. Sometimes I feel like killing somebody or myself. This desire is so strong that I am constantly afraid. And I do not know how to get free from fear. 
 
-You see there is a difference between a Hindu mind and a European mind. The Hindu mind is comparatively simple. The European is a much more complex being. The Hindu is basically <span class=tooltip>sattvic<span class=tooltiptext>Being, existence, true essence. In *yoga* the quality of purity or goodness; *sattvic* — pure, true.</span></span>. He does not understand the European’s restlessness, his tireless pursuit of what he thinks needs be done; his greater general knowledge.
+You see there is a difference between a Hindu mind and a European mind. The Hindu mind is comparatively simple. The European is a much more complex being. The Hindu is basically <span data-tippy-content="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness; <em>sattvic</em> — pure, true.">sattv</span>ic. He does not understand the European’s restlessness, his tireless pursuit of what he thinks needs be done; his greater general knowledge.
 
 **M:**&ensp;His reasoning capacity is so great, that he will reason himself out of all reason! His self-assertiveness is due to his reliance on logic.
 
@@ -36,7 +36,7 @@ You see there is a difference between a Hindu mind and a European mind. The Hind
 
 **M:**&ensp;You may have a chronic fever and shiver all the time. It is desires and fears that make the mind restless. Free from all negative emotions it is quiet.
 
-**Q:**&ensp;You cannot protect the child from negative emotions. As soon as it is born it learns pain and fear. Hunger is a cruel master and teaches dependence and hate. The child loves the mother because she feeds it and hates her because she is late with food. Our unconscious mind is full of conflicts, which overflow into the conscious. We live on a volcano; we are always in danger. I agree that the company of people whose mind is peaceful has a very soothing affect, but as soon as I am away from them, the old trouble starts. This is why I come periodically to India to seek the company of my <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span>.
+**Q:**&ensp;You cannot protect the child from negative emotions. As soon as it is born it learns pain and fear. Hunger is a cruel master and teaches dependence and hate. The child loves the mother because she feeds it and hates her because she is late with food. Our unconscious mind is full of conflicts, which overflow into the conscious. We live on a volcano; we are always in danger. I agree that the company of people whose mind is peaceful has a very soothing affect, but as soon as I am away from them, the old trouble starts. This is why I come periodically to India to seek the company of my <span data-tippy-content="Spiritual teacher, preceptor.">Guru</span>.
 
 **M:**&ensp;You think you are coming and going, passing through various states and moods. I see things as they are, momentary events, presenting themselves to me in rapid succession, deriving their being from me, yet definitely neither me nor mine. Among phenomena I am not one, nor subject to any. I am independent so simply and totally, that your mind, accustomed to opposition and denial, cannot grasp it. I mean literally what I say; I do not need to oppose or deny, because it is clear to me that I cannot be the opposite or denial of anything. I am just beyond, in a different dimension altogether. Do not look for me in identification with, or opposition to something: I am where desire and fear are not. Now, what is your experience? Do you also feel that you stand totally aloof from all transient things?
 
@@ -60,7 +60,7 @@ You see there is a difference between a Hindu mind and a European mind. The Hind
 
 **M:**&ensp;Not knowing the means is admittedly as bad as not having the power! But let us drop the subject for the moment; after all it is not important why we feel helpless, as long as we see clearly that for the time being we are helpless. 
 
-I am now seventy-four years old. And yet I feel that I am an infant. I feel clearly that in spite of all the changes I am a child. My *Guru* told me, “that child, which is you even now, is your real self” (<span class=tooltip>swarupa<span class=tooltiptext>One’s own form, nature, character.</span></span>). Go  back to that state of pure being, where the ‘I Am’ is still in its purity before it got contaminated with ‘this I am’ or ‘that I am’. Your burden is of false self-identifications — abandon them all. My *Guru* told me — “Trust me. I tell you, you are divine. Take it as the absolute truth. Your joy is divine, your suffering is divine too. All comes from God. Remember it always. You are God, your will alone is done”. I did believe him and soon realised how wonderfully true and accurate were his words. I did not condition my mind by thinking, “I am God, I am wonderful, I am beyond”. I simply followed his instruction which was to focus the mind on pure being ‘I Am’, and stay in it. I used to sit for hours together, with, nothing but the ‘I Am’ in my mind and soon peace and joy and a deep all-embracing love became my normal state. In it all disappeared — myself, my *Guru*, the life I lived, the world around me. Only peace remained and unfathomable silence.
+I am now seventy-four years old. And yet I feel that I am an infant. I feel clearly that in spite of all the changes I am a child. My *Guru* told me, “that child, which is you even now, is your real self” (<span data-tippy-content="One’s own form, nature, character.">svarupa</span>). Go  back to that state of pure being, where the ‘I Am’ is still in its purity before it got contaminated with ‘this I am’ or ‘that I am’. Your burden is of false self-identifications — abandon them all. My *Guru* told me — “Trust me. I tell you, you are divine. Take it as the absolute truth. Your joy is divine, your suffering is divine too. All comes from God. Remember it always. You are God, your will alone is done”. I did believe him and soon realised how wonderfully true and accurate were his words. I did not condition my mind by thinking, “I am God, I am wonderful, I am beyond”. I simply followed his instruction which was to focus the mind on pure being ‘I Am’, and stay in it. I used to sit for hours together, with, nothing but the ‘I Am’ in my mind and soon peace and joy and a deep all-embracing love became my normal state. In it all disappeared — myself, my *Guru*, the life I lived, the world around me. Only peace remained and unfathomable silence.
 
 **Q:**&ensp;It all looks very simple and easy, but it is just not so. Sometimes the wonderful state of joyful peace dawns on me and I look and wonder: how easily it comes and how intimate it seems, how totally my own. Where was the need to strive so hard for a state so near at hand? This time, surely, it has come to stay. Yet how soon it all dissolves and leaves me wondering — was it a taste of reality or another aberration? If it was reality, why did it go? Maybe some unique experience is needed to fix me for good in the new state and until the crucial experience comes, this game of hide and seek must continue.
 
@@ -91,3 +91,12 @@ Everybody is glad to be. But few know the fullness of it. You come to know by dw
 **M:**&ensp;You want something like a round-the-clock ecstasy. Ecstasies come and go, necessarily, for the human brain cannot stand the tension for a long time. A prolonged ecstasy will burn out your brain, unless it is extremely pure and subtle. In nature nothing is at stand-still, everything pulsates, appears and disappears. Heart, breath, digestion, sleep and waking — birth and death, everything comes and goes in waves. Rhythm, periodicity, harmonious alternation of extremes is the rule. No use rebelling against the very pattern of life. If you seek the Immutable, go beyond experience. When I say, “remember ‘I Am’ all the time”, I mean, “come back to it repeatedly”. No particular thought can be mind’s natural state, only silence. Not the idea of silence, but silence itself. When the mind is in its natural state, it reverts to silence spontaneously after every experience or, rather, every experience happens against the background of silence. 
 
 Now, what you have learnt here becomes the seed. You may forget it — apparently. But it will live and in due season sprout and grow and bring forth flowers and fruits. All will happen by itself. You need not *do* anything, only don’t prevent it.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

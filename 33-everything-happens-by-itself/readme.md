@@ -2,7 +2,7 @@
 
 >To a <span style=font-style:normal>jnani</span> nothing has beginning or ending. As salt dissolves in water, so does everything dissolve into pure being. Wisdom is eternally negating the unreal. To see the unreal is wisdom…
 
-**Questioner:**&ensp;Does a <span class=tooltip>jnani<span class=tooltiptext>The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.</span></span> die?
+**Questioner:**&ensp;Does a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”. (<em>jna</em>, to know; <em>jnani</em>, the knower.)">jnani</span> die?
 
 **Maharaj:**&ensp;He is beyond life and death. What we take to be inevitable — to be born and to die — appears to him but a way of expressing movement in the Immovable, change in the changeless, end in the endless. To the *jnani* it is obvious that nothing is born and nothing dies, nothing lasts and nothing changes, all is as it is — timelessly.
 
@@ -60,7 +60,7 @@
 
 **Q:**&ensp;In my present state the ‘I am the body’ idea comes spontaneously, while the ‘I am pure being’ idea must be imposed on the mind as something true but not experienced.
 
-**M:**&ensp;Yes, <span class=tooltip>sadhana<span class=tooltiptext>The practice which produces success, *siddhi*.</span></span> (practice) consists in reminding oneself forcibly of one’s pure ‘being-ness’, of not being anything in particular, nor a sum of particulars, not even the totality of all particulars, which make up a universe. All exists in the mind, even the body is an integration in the mind of a vast number of sensory perceptions, each perception also a mental state. If you say, “I am the body”, show it.
+**M:**&ensp;Yes, <span data-tippy-content="The practice which produces success, <em>siddhi</em>.">sadhana</span> (practice) consists in reminding oneself forcibly of one’s pure ‘being-ness’, of not being anything in particular, nor a sum of particulars, not even the totality of all particulars, which make up a universe. All exists in the mind, even the body is an integration in the mind of a vast number of sensory perceptions, each perception also a mental state. If you say, “I am the body”, show it.
 
 **Q:**&ensp;Here it is.
 
@@ -100,7 +100,7 @@
 
 **Q:**&ensp;Still you have made a statement. On what is it based?
 
-**M:**&ensp;On what people tell me. But it is you who asks for proofs. I do not need them. Setting things right lies in my very nature, which is <span class=tooltip>satyam, shivam, sundaram<span class=tooltiptext>The true, the good, the beautiful.</span></span>.
+**M:**&ensp;On what people tell me. But it is you who asks for proofs. I do not need them. Setting things right lies in my very nature, which is <span data-tippy-content="The true, the good, the beautiful.">satyam, shivam, sundaram</span>.
 
 **Q:**&ensp;When a man comes to you for advice and you give him advice, wherefrom does it come and by what power does it help?
 
@@ -170,14 +170,23 @@ People are afraid to die, because they do not know what is death. The *jnani* ha
 
 **Q:**&ensp;A crude, unevolved man will not work without a reward. Is it not right to offer him incentives?
 
-**M:**&ensp;He will create for himself incentives anyhow. He does not know that to grow is in the nature of consciousness. He will progress from motive to motive and will chase <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span>s for the fulfilment of his desires. When by the laws of his being he finds the way of return (<span class=tooltip>nivritti<span class=tooltiptext>Liberation from worldly existence, renunciation.</span></span>) he abandons all motives, for his interest in the world is over. He wants nothing — neither from others nor from himself. He dies to all and becomes the All. To want nothing and do nothing — that is true creation! To watch the universe emerging and subsiding in one’s heart is a wonder.
+**M:**&ensp;He will create for himself incentives anyhow. He does not know that to grow is in the nature of consciousness. He will progress from motive to motive and will chase <span data-tippy-content="Spiritual teacher, preceptor.">Guru</span>s for the fulfilment of his desires. When by the laws of his being he finds the way of return (<span data-tippy-content="Liberation from worldly existence, renunciation.">nivritti</span>) he abandons all motives, for his interest in the world is over. He wants nothing — neither from others nor from himself. He dies to all and becomes the All. To want nothing and do nothing — that is true creation! To watch the universe emerging and subsiding in one’s heart is a wonder.
 
 **Q:**&ensp;The great obstacle to inner effort is boredom. The disciple gets bored.
 
-**M:**&ensp;Inertia and restlessness (<span class=tooltip>tamas<span class=tooltiptext>Darkness, inertia, passivity. One of the three constituents (*gunas*) of the cosmic substance: *sattava*, *rajas* and *tamas*.</span></span> and <span class=tooltip>rajas<span class=tooltiptext>Motivity, activity, energy. One of the three *gunas* or qualities of matter: *sattva*, *rajas* and *tamas*. In *yoga*, egoism.</span></span>) work together and keep clarity and harmony (<span class=tooltip>sattva<span class=tooltiptext>Being, existence, true essence. In *yoga* the quality of purity or goodness.</span></span>) down. *Tamas* and *rajas* must be conquered before *sattva* can appear. It will all come in due course, quite spontaneously.
+**M:**&ensp;Inertia and restlessness (<span data-tippy-content="Darkness, inertia, passivity. One of the three constituents (<em>guna</em>s) of the cosmic substance: <em>sattava</em>, <em>rajas</em> and <em>tamas</em>.">tamas</span> and <span data-tippy-content="Motivity, activity, energy. One of the three <em>guna</em>s or qualities of matter: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</span>) work together and keep clarity and harmony (<span data-tippy-content="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>) down. *Tamas* and *rajas* must be conquered before *sattva* can appear. It will all come in due course, quite spontaneously.
 
 **Q:**&ensp;Is there no need of effort then?
 
 **M:**&ensp;When effort is needed, effort will appear. When effortlessness becomes essential, it will assert itself. You need not push life about. Just flow with it and give yourself completely to the task of the present moment, which is the dying now to the now. For living is dying. Without death life cannot be. 
 
 Get hold of the main thing that the world and the self are one and perfect. Only your attitude is faulty and needs reädjustment. This process or reädjustment is what you call *sadhana*. You come to it by putting an end to indolence and using all your energy to clear the way for clarity and charity. But in reality, these all are signs of inevitable growth. Don’t be afraid, don’t resist and don’t delay. Be what you are. There is nothing to be afraid of. Trust and try. Experiment honestly. Give your real being a chance to shape your life. You will not regret.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

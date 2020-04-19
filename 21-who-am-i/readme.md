@@ -84,7 +84,7 @@
 
 **Q:**&ensp;We talk of divine virtue.
 
-**M:**&ensp;True virtue is divine nature (<span class=tooltip>swarupa<span class=tooltiptext>One’s own form, nature, character.</span></span>). What you are really is your virtue. But the opposite of sin which you call virtue is only obedience born out of fear.
+**M:**&ensp;True virtue is divine nature (<span data-tippy-content="One’s own form, nature, character.">svarupa</span>). What you are really is your virtue. But the opposite of sin which you call virtue is only obedience born out of fear.
 
 **Q:**&ensp;Then why all effort at being good?
 
@@ -96,9 +96,9 @@
 
 **Q:**&ensp;Knowledge depends on memory.
 
-**M:**&ensp;Remembering your self is virtue, forgetting your self is sin. It all boils down to the mental or psychological link between the spirit and matter. We may call the link psyche (<span class=tooltip>antahkarana<span class=tooltiptext>The psyche, mind. Mind in a collective sense, including intelligence (*buddhi*), ego (*ahamkara*) and mind (*manas*).</span></span>). When the psyche is raw, undeveloped, quite primitive, it is subject to gross illusions. As it grows in breadth and sensitivity, it becomes a perfect link between pure matter and pure spirit and gives meaning to matter and expression to spirit.
+**M:**&ensp;Remembering your self is virtue, forgetting your self is sin. It all boils down to the mental or psychological link between the spirit and matter. We may call the link psyche (<span data-tippy-content="The psyche, mind. Mind in a collective sense, including intelligence (<em>buddhi</em>), ego (<em>ahamkara</em>) and mind (<em>manas</em>).">antahkarana</span>). When the psyche is raw, undeveloped, quite primitive, it is subject to gross illusions. As it grows in breadth and sensitivity, it becomes a perfect link between pure matter and pure spirit and gives meaning to matter and expression to spirit.
 
-There is the material world (<span class=tooltip>mahadakash<span class=tooltiptext>The great expanse of existence, the universe of matter and energy.</span></span>) and the spiritual (<span class=tooltip>paramakash<span class=tooltiptext>The great expanse, the timeless and spaceless reality; the Absolute being.</span></span>). Between lies the universal mind (<span class=tooltip>chidakash<span class=tooltiptext>[*chit*, to perceive + *akash*, expanse, sky] Brahman in its aspect of limitless knowledge, the expanse of awareness. Variously used for consciousness, individual as well as universal.</span></span>) which is also the universal heart (<span class=tooltip>premakash<span class=tooltiptext>*Brahman* in its aspect of limitless love. It is another name for *chidakash*, but it lays stress on the love aspect not on the knowledge aspect. Love is the expression of the Self through the heart.</span></span>). It is wise love that makes the two one.
+There is the material world (<span data-tippy-content="The great expanse of existence, the universe of matter and energy.">mahadakash</span>) and the spiritual (<span data-tippy-content="The great expanse, the timeless and spaceless reality; the Absolute being.">paramakash</span>). Between lies the universal mind (<span data-tippy-content="[<em>chit</em>, to perceive + <em>akash</em>, expanse, sky] <em>Brahman</em> in its aspect of limitless knowledge, the expanse of awareness. Variously used for consciousness, individual as well as universal.">chidakash</span>) which is also the universal heart (<span data-tippy-content="<em>Brahman</em> in its aspect of limitless love. It is another name for <em>chidakash</em>, but it lays stress on the love aspect not on the knowledge aspect. Love is the expression of the Self through the heart.">premakash</span>). It is wise love that makes the two one.
 
 **Q:**&ensp;Some people are stupid, some are intelligent. The difference is in their psyche. The ripe ones had more experience behind them. Just like a child grows by eating and drinking, sleeping and playing, so is man’s psyche shaped by all he thinks and feels and does, until it is perfect enough to serve as a bridge between the spirit and the body. As a bridge permits the traffic; between the banks, so does the psyche bring together the source and its expression.
 
@@ -127,3 +127,12 @@ There is the material world (<span class=tooltip>mahadakash<span class=tooltipte
 **Q:**&ensp;Why then don’t we wake up?
 
 **M:**&ensp;You will. I shall not be thwarted. It may take some time. When you shall begin to question your dream, awakening will be not far away.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

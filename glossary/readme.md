@@ -70,7 +70,7 @@ pageClass: glossary-class
 
 **<em>karana:</em>**&ensp;cause, the primary cause invariably antecedent to a result, the unmanifested potential cause that in due course takes shape as the visibile effect, the material cause of the universe. *Karana* is cosmic energy in potential form.
 
-**<em>karma:</em>**&ensp;cause, the primary cause invariably antecedent to a result, the unmanifested potential cause that in due course takes shape as the visible effect, the material cause of the universe. *karana* is cosmic energy in potential form.
+**<em>karma:</em>**&ensp;action or “the fruits of action”. *Karma* is of three kinds: *sanchita* (accumulated from previous births), *prarabdha* (portion of the past *karma* to be worked out in the present life) and *agami* (the current *karma* the result of which will fructify in future).
 
 **<em>lila:</em>**&ensp;play, sport, the cosmos looked upon as the divine play; “effortless or playful relation between the Absolute,or Brahman, and the contingent world”.
 
@@ -170,7 +170,7 @@ pageClass: glossary-class
 
 **<em>sutratma:</em>**&ensp;the connecting link between all beings. The string-like supporter of the manifested worlds, hence the pure consciousness which is the substratum of all beings. *Maharaj* uses the word for the accumulated *karma* from life to life.
 
-**<em>swarupa:</em>**&ensp;one’s own form, nature, character.
+**<em>svarupa:</em>**&ensp;one’s own form, nature, character.
 
 **<em>tamas:</em>**&ensp;darkness, inertia, passivity. One of the three constituents (*gunas*) of the cosmic substance: *sattava*, *rajas* and *tamas*.
 

@@ -2,7 +2,7 @@
 
 >…there is no such thing as peace of mind. Mind means disturbance; restlessness itself is mind. …Examine closely and you will see that the mind is seething with thoughts. It may go blank occasionally, but it does it for a time and reverts to its usual restlessness.
 
-**Questioner:**&ensp;I am a Swede by birth. Now I am teaching *Hatha* <span class=tooltip>Yoga<span class=tooltiptext>One of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).</span></span> in Mexico and in the States.
+**Questioner:**&ensp;I am a Swede by birth. Now I am teaching *Hatha* <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">Yoga</span> in Mexico and in the States.
 
 **Maharaj:**&ensp;Where did you learn it?
 
@@ -30,7 +30,7 @@
 
 **M:**&ensp;What do you mean by *Yoga*?
 
-**Q:**&ensp;The whole teaching of India — evolution, reëncarnation, karma and so on.
+**Q:**&ensp;The whole teaching of India — evolution, reïncarnation, <span data-tippy-content="Action or “the fruits of action”. <em>Karma</em> is of three kinds: <em>sanchita</em> (accumulated from previous births), <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the present life) and <em>agami</em> (the current <em>karma</em> the result of which will fructify in future).">karma</span> and so on.
 
 **M:**&ensp;All right, you got all the knowledge you wanted. But in what way are you benefitted by it?
 
@@ -70,7 +70,7 @@ You say you want to pacify your mind. Is he, who wants to pacify the mind, himse
 
 **Q:**&ensp;I am trying to rejoin the personality back to the real self.
 
-**M:**&ensp;The personality (<span class=tooltip>vyakti<span class=tooltiptext>Person, the outer self.</span></span>) is but a product of imagination. The self (<span class=tooltip>vyakta<span class=tooltiptext>Manifest matter, the evolved nature. Opposite is *avyakta*.</span></span>) is the victim of this imagination. It is the taking yourself to be what you are not that binds you. The person cannot be said to exist on its own rights; it is the self that believes there is a person and is conscious of being it. Beyond the self (*vyakta*) lies the unmanifested (<span class=tooltip>avyakta<span class=tooltiptext>Unmanifest. Opposite is *vyakta*</span></span>), the causeless cause of everything. Even to talk of reüniting the person with the self is not right, because there is no person, only a mental picture given a false reality by conviction. Nothing was divided and there is nothing to unite.
+**M:**&ensp;The personality (<span data-tippy-content="Person, the outer self.">vyakti</span>) is but a product of imagination. The self (<span data-tippy-content="Manifest matter, the evolved nature. Opposite is <em>avyakta</em>.">vyakta</span>) is the victim of this imagination. It is the taking yourself to be what you are not that binds you. The person cannot be said to exist on its own rights; it is the self that believes there is a person and is conscious of being it. Beyond the self (*vyakta*) lies the unmanifested (<span data-tippy-content="Unmanifest. Opposite is <em>vyakta</em>.">avyakta</span>), the causeless cause of everything. Even to talk of reüniting the person with the self is not right, because there is no person, only a mental picture given a false reality by conviction. Nothing was divided and there is nothing to unite.
 
 **Q:**&ensp;*Yoga* helps in the search for and the finding of the self.
 
@@ -124,7 +124,7 @@ You say you want to pacify your mind. Is he, who wants to pacify the mind, himse
 
 **M:**&ensp;Whatever work you have undertaken — complete it. Do not take up new tasks, unless it is called for by a concrete situation of suffering and relief from suffering. Find yourself first, and endless blessings will follow. Nothing profits the world as much as the abandoning of profits. A man who no longer thinks in terms of loss and gain is the truly non-violent man, for he is beyond all conflict.
 
-**Q:**&ensp;Yes, I was always attracted by the idea of <span class=tooltip>ahimsa<span class=tooltiptext>Nonviolence; abstaining from hurting others in thought, words or deed.</span></span> (non-violence).
+**Q:**&ensp;Yes, I was always attracted by the idea of <span data-tippy-content="Non-violence; abstaining from hurting others in thought, words or deed.">ahimsa</span> (non-violence).
 
 **M:**&ensp;Primarily, *ahimsa* means what it says: “don't hurt”. It is not doing good that comes first, but ceasing to hurt, not adding to suffering. Pleasing others is not *ahimsa*.
 
@@ -157,3 +157,12 @@ You say you want to pacify your mind. Is he, who wants to pacify the mind, himse
 **M:**&ensp;Being the source of both. The self is beyond both knowledge and power. The observable is in the mind. The nature of the self is pure awareness, pure witnessing, unaffected by the presence or absence of knowledge or liking. 
 
 Have your being outside this body of birth and death and all your problems will be solved. They exist because you believe yourself born to die. Undeceive yourself and be free. You are not a person.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

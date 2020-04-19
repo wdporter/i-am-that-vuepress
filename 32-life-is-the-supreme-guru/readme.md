@@ -48,7 +48,7 @@
 
 **Q:**&ensp;Am I permitted to ask you how did you go beyond the mind?
 
-**M:**&ensp;By the grace of my <span class=tooltip>Guru<span class=tooltiptext>Spiritual teacher, preceptor.</span></span>.
+**M:**&ensp;By the grace of my <span data-tippy-content="Spiritual teacher, preceptor.">Guru</span>.
 
 **Q:**&ensp;What shape his grace took?
 
@@ -63,7 +63,7 @@
 **M:**&ensp;I trusted him and remembered it.
 
 **Q:**&ensp;Is that all?
-s
+
 **M:**&ensp;Yes, I remembered him; I remembered what he said.
 
 **Q:**&ensp;You mean to say that this was enough?
@@ -123,3 +123,12 @@ Commonsense too will tell you that to fulfil a desire you must keep your mind on
 **Q:**&ensp;It is a part of Indian spiritual tradition that mere living in the proximity of a saint or sage is conducive to liberation and no other means are needed. Why don’t you organise an *Ashram* so that people could live near you?
 
 **M:**&ensp;The moment I create an institution I become its prisoner. As a matter of fact I am available to all. Common roof and food will not make people more welcome. ‘Living near’ does not mean breathing the same air. It means trusting and obeying, not letting the good intentions of the teacher go to waste. Have your *Guru* always in your heart and remember his instructions — this is real abidance with the true. Physical proximity is least important. Make your entire life an expression of your faith and love for your teacher — this is real dwelling with the *Guru*.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>
