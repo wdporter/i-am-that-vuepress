@@ -97,7 +97,8 @@ module.exports = {
 					"/54-body-and-mind-are-symptoms-of-ignorance/",
 					"/55-give-up-all-and-you-gain-all/",
 					"/56-consciousness-arising-world-arises/",
-					"/57-beyond-mind-there-is-no-suffering/"
+					"/57-beyond-mind-there-is-no-suffering/",
+					"/58-perfection-destiny-of-all/"
 				]
 			},
 			{
