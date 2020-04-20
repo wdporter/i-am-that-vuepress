@@ -1,6 +1,6 @@
-# 14. Appearances and the Reality
+# 14. Appearances and the Reälity
 
->To take appearance for reality is a grievous sin and the cause of all calamities. You are the all-pervading, eternal and infinitely creative awareness — consciousness. All else is local and temporary. Don’t forget what you are.
+>To take appearance for reälity is a grievous sin and the cause of all calamities. You are the all-pervading, eternal and infinitely creätive awareness — consciousness. All else is local and temporary. Don’t forget what you are.
 
 **Questioner:**&ensp;Repeatedly you have been saying that events are causeless, a thing just happens and no cause can be assigned to it. Surely everything has a cause, or several causes. How am I to understand the causelessness of things?
 
@@ -25,7 +25,7 @@ picture on the cinema screen to be but light.
 
 **Q:**&ensp;This does not make the picture causeless. The film is there, and the actors with the technicians, the director, the producer, the various manufacturers. The world is governed by causality. Everything is inter-linked.
 
-**M:**&ensp;Of course, everything is inter-linked. And therefore everything has numberless causes. The entire universe contributes to the least thing. A thing is as it is, because the world is as it is. You see, you deal in gold ornaments and I — in gold. Between the different ornaments there is no causal relation. When you re-melt an ornament to make another, there is no causal relation between the two. The common factor is the gold. But you cannot say gold is the cause. It cannot be called a cause, for it causes nothing by itself. It is reflected in the mind as ‘I Am’, as the ornament’s particular name and shape. Yet all is only gold. In the same way reality makes everything possible and yet nothing that makes a thing what it is, its name and form, comes from reality. 
+**M:**&ensp;Of course, everything is inter-linked. And therefore everything has numberless causes. The entire universe contributes to the least thing. A thing is as it is, because the world is as it is. You see, you deal in gold ornaments and I — in gold. Between the different ornaments there is no causal relation. When you re-melt an ornament to make another, there is no causal relation between the two. The common factor is the gold. But you cannot say gold is the cause. It cannot be called a cause, for it causes nothing by itself. It is reflected in the mind as ‘I Am’, as the ornament’s particular name and shape. Yet all is only gold. In the same way reälity makes everything possible and yet nothing that makes a thing what it is, its name and form, comes from reälity. 
 
 But why worry so much about causation? What do causes matter, when things themselves are 
 transient? Let come what comes and let go what goes — why catch hold of things and enquire about their causes?
@@ -77,11 +77,11 @@ poverty, hatred and wars — continue unabated. My questions are concerning the 
 
 **Q:**&ensp;All I want to know is how to deal with the world’s sorrows.
 
-**M:**&ensp;You have created them out of your own desires and fears, you deal with them. All is due to your having forgotten your own being. Having given reality to the picture on the screen, you love its people and suffer for them and seek to save them. It is just not so. You must begin with yourself. There is no other way. Work, of course. There is no harm in working.
+**M:**&ensp;You have created them out of your own desires and fears, you deal with them. All is due to your having forgotten your own being. Having given reälity to the picture on the screen, you love its people and suffer for them and seek to save them. It is just not so. You must begin with yourself. There is no other way. Work, of course. There is no harm in working.
 
 **Q:**&ensp;Your universe seems to contain every possible experience. The individual traces a line through it and experiences pleasant and unpleasant states. This gives rise to questioning and seeking, which broaden the outlook and enable the individual to go beyond his narrow and self-created world, limited and self-centred. This personal world can be changed — in time. The universe is timeless and perfect.
 
-**M:**&ensp;To take appearance for reality is a grievous sin and the cause of all calamities. You are the all-pervading, eternal and infinitely creative awareness — consciousness. All else is local and temporary. Don’t forget what you are. In the meantime work to your heart’s content. Work and knowledge should go hand in hand.
+**M:**&ensp;To take appearance for reälity is a grievous sin and the cause of all calamities. You are the all-pervading, eternal and infinitely creätive awareness — consciousness. All else is local and temporary. Don’t forget what you are. In the meantime work to your heart’s content. Work and knowledge should go hand in hand.
 
 **Q:**&ensp;My own feeling is that my spiritual development is not in my hands. Making one’s own plans and carrying them out leads nowhere. I just run in circles round myself. When God considers the fruit to be ripe, He will pluck it and eat it. Whichever fruit seems green to Him will remain on the world’s tree for another day.
 

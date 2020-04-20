@@ -20,7 +20,7 @@
 
 **Q:**&ensp;I can reject only verbally. At best I remember to repeat the formula, “This is not me, this is not mine. I am beyond all this”.
 
-**M:**&ensp;Good enough. First verbally, then mentally and emotionally, then in action. Give attention to the reality within you and it will come to light. It is like churning the cream for butter. Do it correctly and assiduously and the result is sure to come.
+**M:**&ensp;Good enough. First verbally, then mentally and emotionally, then in action. Give attention to the reälity within you and it will come to light. It is like churning the cream for butter. Do it correctly and assiduously and the result is sure to come.
 
 **Q:**&ensp;How can the absolute be the result of a process?
 
@@ -72,7 +72,7 @@
 
 **Q:**&ensp;Sri Ramana Maharshi died. What difference did it make to him?
 
-**M:**&ensp;None. What he was, he is — the Absolute Reality.
+**M:**&ensp;None. What he was, he is — the Absolute Reälity.
 
 **Q:**&ensp;But to the common man death makes a difference.
 
@@ -126,7 +126,7 @@
 
 **M:**&ensp;All beings are in me. But bringing down into the brain the content of another brain requires special training. There is nothing that cannot be achieved by training.
 
-**Q:**&ensp;I am not your projection, nor are you mine. I am on my own right, not merely as your creation. This crude philosophy of imagination and projection does not appeal to me. You are depriving me of all reality. Who is the image of whom? You are my image or am I yours. Or am I an image in my own image! No, something is wrong somewhere.
+**Q:**&ensp;I am not your projection, nor are you mine. I am on my own right, not merely as your creation. This crude philosophy of imagination and projection does not appeal to me. You are depriving me of all reälity. Who is the image of whom? You are my image or am I yours. Or am I an image in my own image! No, something is wrong somewhere.
 
 **M:**&ensp;Words betray their hollowness. The real cannot be described, it must be experienced. I cannot find better words for what I am now. What I say may sound ridiculous. But what the words try to convey is the highest truth. All is one, however much we quibble. And all is done to please the one source and goal of every desire. whom we all know as the ‘I Am’.
 

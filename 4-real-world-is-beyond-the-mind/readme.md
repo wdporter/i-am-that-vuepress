@@ -16,7 +16,7 @@
 
 **Q:**&ensp;If everything is an expression of the totality of causes, how can we talk of a purposeful action towards an achievement?
 
-**M:**&ensp;The very urge to achieve is also an expression of the total universe. It merely shows that the energy potential has risen at a particular point. It is the illusion of time that makes you talk of causality. When the past and the future are seen in the timeless *now*, as parts of a common pattern, the idea of cause–effect loses its validity and creative freedom takes its place.
+**M:**&ensp;The very urge to achieve is also an expression of the total universe. It merely shows that the energy potential has risen at a particular point. It is the illusion of time that makes you talk of causality. When the past and the future are seen in the timeless *now*, as parts of a common pattern, the idea of cause–effect loses its validity and creätive freedom takes its place.
 
 **Q:**&ensp;Yet, I cannot see how can anything came to be without a cause.
 
@@ -32,4 +32,4 @@
 
 **Q:**&ensp;To what extent is desire a causal factor?
 
-**M:**&ensp;One of the many. For everything there are innumerable causal factors. But the source of all-that-is, is the Infinite Possibility, the Supreme Reality, which is in you and which throws its power and light and love on every experience. But this source is not a cause and no cause is a source. Because of that, I say everything is uncaused. You may try to trace how a thing happens, but you cannot find out why a thing *is* as it is. A thing is as it is, because the universe is as it is.
+**M:**&ensp;One of the many. For everything there are innumerable causal factors. But the source of all-that-is, is the Infinite Possibility, the Supreme Reälity, which is in you and which throws its power and light and love on every experience. But this source is not a cause and no cause is a source. Because of that, I say everything is uncaused. You may try to trace how a thing happens, but you cannot find out why a thing *is* as it is. A thing is as it is, because the universe is as it is.

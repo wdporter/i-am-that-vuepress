@@ -56,7 +56,7 @@
 
 **Q:**&ensp;What did he tell you?
 
-**M:**&ensp;He told me I am the Supreme Reality.
+**M:**&ensp;He told me I am the Supreme Reälity.
 
 **Q:**&ensp;What did you do about it?
 
@@ -110,7 +110,7 @@ Commonsense too will tell you that to fulfil a desire you must keep your mind on
 
 **Q:**&ensp;A thing so universal cannot be wrong.
 
-**M:**&ensp;Not wrong, of course. In its own place and time nothing is wrong. But when you are concerned with truth, with reality, you must question every thing, your very life. By asserting the necessity of sensory and intellectual experience you narrow down your enquiry to search for comfort.
+**M:**&ensp;Not wrong, of course. In its own place and time nothing is wrong. But when you are concerned with truth, with reälity, you must question every thing, your very life. By asserting the necessity of sensory and intellectual experience you narrow down your enquiry to search for comfort.
 
 **Q:**&ensp;I seek happiness, not comfort.
 

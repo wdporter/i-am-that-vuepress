@@ -24,7 +24,7 @@
 
 **M:**&ensp;Everything happens all the time, but you must be ready for it. Readiness is ripeness. You do not see the real because your mind is not ready for it.
 
-**Q:**&ensp;If reality is my real nature, how can I ever be unready?
+**Q:**&ensp;If reälity is my real nature, how can I ever be unready?
 
 **M:**&ensp;Unready means afraid. You are afraid of what you are. Your destination is the whole. But you are afraid that you will lose your identity. This is childishness, clinging to the toys, to your desires and fears, opinions and ideas. Give it all up and be ready for the real to assert itself. This self-assertion is best expressed in words: ‘I Am’. Nothing else has being. Of this you are absolutely certain.
 
@@ -38,7 +38,7 @@
 
 **Q:**&ensp;I am moving from now into now — I do not move at all. Everything else moves — not me.
 
-**M:**&ensp;Granted. But your mind does move. In the now you are both the movable and the immovable. So far you took yourself to be the movable and overlooked the immovable. Turn your mind inside out. Overlook the movable and you will find yourself to be the ever-present, changeless reality; inexpressible, but solid like a rock.
+**M:**&ensp;Granted. But your mind does move. In the now you are both the movable and the immovable. So far you took yourself to be the movable and overlooked the immovable. Turn your mind inside out. Overlook the movable and you will find yourself to be the ever-present, changeless reälity; inexpressible, but solid like a rock.
 
 **Q:**&ensp;If it is now, why am I not aware of it?
 
@@ -56,7 +56,7 @@
 
 **M:**&ensp;To know that you are ill must you not be well initially?
 
-**Q:**&ensp;Oh, no. I know by comparison. If I am blind from birth and you tell me that you know things without touching them, while I must touch to know, I am aware that I am blind without knowing what does it mean to see. Similarly, I know that I am lacking something when you assert things which I cannot grasp. You are telling me such wonderful things about myself; according to you I am eternal, omnipresent, omniscient, supremely happy, creator, preserver and destroyer of all there is, the source of all life, the heart of being, the lord and the beloved of every creature. You equate me with the Ultimate Reality, the source and the goal of all existence. I just blink, for I know myself to be a tiny little bundle of desires and fears, a bubble of suffering, a transient flash of consciousness in an ocean of darkness.
+**Q:**&ensp;Oh, no. I know by comparison. If I am blind from birth and you tell me that you know things without touching them, while I must touch to know, I am aware that I am blind without knowing what does it mean to see. Similarly, I know that I am lacking something when you assert things which I cannot grasp. You are telling me such wonderful things about myself; according to you I am eternal, omnipresent, omniscient, supremely happy, creator, preserver and destroyer of all there is, the source of all life, the heart of being, the lord and the beloved of every creature. You equate me with the Ultimate Reälity, the source and the goal of all existence. I just blink, for I know myself to be a tiny little bundle of desires and fears, a bubble of suffering, a transient flash of consciousness in an ocean of darkness.
 
 **M:**&ensp;Before pain was, you were. After pain had gone, you remained. Pain is transient, you are not.
 
@@ -106,7 +106,7 @@
 
 **Q:**&ensp;The same old four-fold negation of Nagarjuna: neither this nor that, nor both, nor either. My mind reels!
 
-**M:**&ensp;Your difficulty stems from the idea that reality is a state of consciousness, one among many. You tend to say, “This is real. That is not real. And this is partly real, partly unreal”, as if reality were an attribute or quality to have in varying measures.
+**M:**&ensp;Your difficulty stems from the idea that reälity is a state of consciousness, one among many. You tend to say, “This is real. That is not real. And this is partly real, partly unreal”, as if reälity were an attribute or quality to have in varying measures.
 
 **Q:**&ensp;Let me put it differently. After all, consciousness becomes a problem only when it is painful. An ever-blissful state does not give rise to questions. We find all consciousness to be a mixture of the pleasant and the painful. Why?
 
@@ -124,7 +124,7 @@
 
 **M:**&ensp;It is a burden. Body means burden. Sensations, desires, thoughts — these are all burdens. All consciousness is of conflict.
 
-**Q:**&ensp;Reality is described as true being, pure consciousness, infinite bliss. What has pain to do with it?
+**Q:**&ensp;Reälity is described as true being, pure consciousness, infinite bliss. What has pain to do with it?
 
 **M:**&ensp;Pain and pleasure happen, but pain is the price of pleasure, pleasure is the reward of pain. In life too you often please by hurting and hurt by pleasing. To know that pain and pleasure are one is peace.
 
@@ -148,13 +148,13 @@
 
 **M:**&ensp;That is what you think about yourself. Stop it. If you cannot break a habit all at once, consider the familiar way of thinking and see its falseness. Questioning the habitual is the duty of the mind. What the mind created, the mind must destroy. Or realise that there is no desire outside the mind and stay out.
 
-**Q:**&ensp;Honestly, I distrust this explaining everything as mind-made. The mind is only an instrument, as the eye is an instrument. Can you say that perception is creation? I see the world *through* the window, not in the window. All you say holds well together because of the common foundation, but I do not know whether your foundation is in reality, or only in the mind. I can have only a mental picture of it. What it means to you I do not know.
+**Q:**&ensp;Honestly, I distrust this explaining everything as mind-made. The mind is only an instrument, as the eye is an instrument. Can you say that perception is creation? I see the world *through* the window, not in the window. All you say holds well together because of the common foundation, but I do not know whether your foundation is in reälity, or only in the mind. I can have only a mental picture of it. What it means to you I do not know.
 
 **M:**&ensp;As long as you take your stand in the mind, you will see me in the mind.
 
 **Q:**&ensp;How inadequate are words for understanding!
 
-**M:**&ensp;Without words, what is there to understand? The need for understanding arises from misunderstanding. What I say is true, but to you it is only a theory. How will you come to know that it is true? Listen, remember, ponder, visualise and experience. Also apply it in your daily life. Have patience with me and, above all have patience with yourself, for you are your only obstacle. The way leads through yourself beyond yourself. As long as you believe only the particular to be real, conscious and happy and reject the non-dual reality as something imagined, an abstract concept, you will find me doling out concepts and abstractions. But once you have touched the real within your own being, you will find me describing what for you is the nearest and the dearest.
+**M:**&ensp;Without words, what is there to understand? The need for understanding arises from misunderstanding. What I say is true, but to you it is only a theory. How will you come to know that it is true? Listen, remember, ponder, visualise and experience. Also apply it in your daily life. Have patience with me and, above all have patience with yourself, for you are your only obstacle. The way leads through yourself beyond yourself. As long as you believe only the particular to be real, conscious and happy and reject the non-dual reälity as something imagined, an abstract concept, you will find me doling out concepts and abstractions. But once you have touched the real within your own being, you will find me describing what for you is the nearest and the dearest.
 
 <script>
 export default {

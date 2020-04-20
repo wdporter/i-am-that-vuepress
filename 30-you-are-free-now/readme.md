@@ -9,7 +9,7 @@ inexhaustible possibility. Because you <span style=font-style:normal>are</span>,
 
 **Q:**&ensp;You seem to favour the dream theory.
 
-**M:**&ensp;These are all ways of putting words together. Some favour one way, some favour another. Theories are neither right nor wrong. They are attempts at explaining the inexplicable. It is not the theory that matters, but the way it is being tested. It is the testing of the theory that makes it fruitful. Experiment with any theory you like — if you are truly earnest and honest, the attainment of reality will be yours. As a living being you are caught in an untenable and painful situation and you are seeking a way out. You are being offered several plans of your prison, none quite true. But they all are of some value, only if you are in dead earnest. It is the earnestness that liberates and not the theory.
+**M:**&ensp;These are all ways of putting words together. Some favour one way, some favour another. Theories are neither right nor wrong. They are attempts at explaining the inexplicable. It is not the theory that matters, but the way it is being tested. It is the testing of the theory that makes it fruitful. Experiment with any theory you like — if you are truly earnest and honest, the attainment of reälity will be yours. As a living being you are caught in an untenable and painful situation and you are seeking a way out. You are being offered several plans of your prison, none quite true. But they all are of some value, only if you are in dead earnest. It is the earnestness that liberates and not the theory.
 
 **Q:**&ensp;Theory may be misleading and earnestness, blind.
 
@@ -73,7 +73,7 @@ inexhaustible possibility. Because you <span style=font-style:normal>are</span>,
 
 **Q:**&ensp;Maybe, I can come to control myself, but shall I be able to deal with the chaos in the world?
 
-**M:**&ensp;There is no chaos in the world, except the chaos which your mind creates. It is self-created in the sense that at its very centre is the false idea of oneself as a thing different and separate from other things. In reality you are not a thing, nor separate. You are the infinite potentiality; the inexhaustible possibility. Because you *are*, all can be. The universe is but a partial manifestation of your limitless capacity to *become*.
+**M:**&ensp;There is no chaos in the world, except the chaos which your mind creates. It is self-created in the sense that at its very centre is the false idea of oneself as a thing different and separate from other things. In reälity you are not a thing, nor separate. You are the infinite potentiality; the inexhaustible possibility. Because you *are*, all can be. The universe is but a partial manifestation of your limitless capacity to *become*.
 
 **Q:**&ensp;I find that I am totally motivated by desire for pleasure and fear of pain. However noble my desire and justified my fear, pleasure and pain are the two poles between which my life oscillates.
 

@@ -2,7 +2,7 @@
 
 >All desires aim at happiness. Their shape and quality depend on the psyche (*antahkarana*). Where inertia (*tamas*) predominates, we find perversions. With energy (*rajas*), passions arise. With lucidity (*sattva*) the motive behind the desire is goodwill, compassion, the urge to make happy rather than be happy. But the Supreme is beyond all, yet because of its infinite permeability all cogent desires can be fulfilled.
 
-**Questioner:**&ensp;You say, reality is one. Oneness, unity, is the attribute of the person. Is then reality a person, with the universe as its body?
+**Questioner:**&ensp;You say, reälity is one. Oneness, unity, is the attribute of the person. Is then reälity a person, with the universe as its body?
 
 **Maharaj:**&ensp;Whatever you may say will be both true and false. Words do not reach beyond the mind.
 

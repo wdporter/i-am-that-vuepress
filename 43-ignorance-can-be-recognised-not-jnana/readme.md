@@ -48,13 +48,13 @@
 
 **Q:**&ensp;What makes one ripe? What is the ripening factor?
 
-**M:**&ensp;Earnestness of course, one must be really anxious. After all, the realised man is the most earnest man. Whatever he does, he does it completely, without limitations and reservations. Integrity will take you to reality.
+**M:**&ensp;Earnestness of course, one must be really anxious. After all, the realised man is the most earnest man. Whatever he does, he does it completely, without limitations and reservations. Integrity will take you to reälity.
 
 **Q:**&ensp;Do you love the world?
 
 **M:**&ensp;When you are hurt, you cry. Why? Because you love yourself. Don’t bottle up your love by limiting it to the body, keep it open. It will be then the love for all. When all the false self-identifications are thrown away, what remains is all-embracing love. Get rid of all ideas about yourself, even of the idea that you are God. No self-definition is valid. 
 
-**Q:**&ensp;I am tired of promises. I am tired of *sadhana*s, which take all my time and energy and bring nothing. I want reality here and now. Can I have it?
+**Q:**&ensp;I am tired of promises. I am tired of *sadhana*s, which take all my time and energy and bring nothing. I want reälity here and now. Can I have it?
 
 **M:**&ensp;Of course you can, provided you are really fed up with everything, including your *sadhana*s. When you demand nothing of the world, nor of God, when you want nothing, seek nothing, expect nothing, then the Supreme State will come to you uninvited and unexpected!
 
@@ -106,13 +106,13 @@
 
 **M:**&ensp;Self-remembrance, awareness of ‘I Am’ ripens him powerfully and speedily. Give up all ideas about yourself and simply *be*.
 
-**Q:**&ensp;I am tired of all the ways and means and skills and tricks, of all these mental acrobatics. Is there a way to perceive reality directly and immediately?
+**Q:**&ensp;I am tired of all the ways and means and skills and tricks, of all these mental acrobatics. Is there a way to perceive reälity directly and immediately?
 
 **M:**&ensp;Stop making use of your mind and see what happens. Do this one thing thoroughly. That is all.
 
 **Q:**&ensp;When I was younger, I had strange experiences, short but memorable, of being nothing, just nothing, yet fully conscious. But the danger is that one has the desire to recreate from memory the moments that have passed.
 
-**M:**&ensp;This is all imagination. In the light of consciousness all sorts of things happen and one need not give special importance to any. The sight of a flower is as marvellous as the vision of God. Let them be. Why remember them and then make memory into a problem? Be bland about them; do not divide them into high and low, inner and outer, lasting and transient. Go beyond, go back to the source, go to the self that is the same whatever happens. Your weakness is due to your conviction that you were born into the world. In reality the world is ever recreated in you and by you. See everything as emanating from the light which is the source of your own being. You will find that in that light there is love and infinite energy.
+**M:**&ensp;This is all imagination. In the light of consciousness all sorts of things happen and one need not give special importance to any. The sight of a flower is as marvellous as the vision of God. Let them be. Why remember them and then make memory into a problem? Be bland about them; do not divide them into high and low, inner and outer, lasting and transient. Go beyond, go back to the source, go to the self that is the same whatever happens. Your weakness is due to your conviction that you were born into the world. In reälity the world is ever recreated in you and by you. See everything as emanating from the light which is the source of your own being. You will find that in that light there is love and infinite energy.
 
 **Q:**&ensp;If I am that light, why do I not know it?
 
@@ -120,7 +120,7 @@
 
 **Q:**&ensp;Can we say that while the sun is the cause of the shadow one cannot see the sun in the shadow. One must turn round.
 
-**M:**&ensp;Again you have introduced the trinity of the sun, the body and shadow. There is no such division in reality. What I am talking about has nothing to do with dualities and trinities. Don’t mentalise and verbalise. Just see and be.
+**M:**&ensp;Again you have introduced the trinity of the sun, the body and shadow. There is no such division in reälity. What I am talking about has nothing to do with dualities and trinities. Don’t mentalise and verbalise. Just see and be.
 
 **Q:**&ensp;Must I see, to *be*?
 

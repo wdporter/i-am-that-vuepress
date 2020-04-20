@@ -36,7 +36,7 @@
 
 **Q:**&ensp;The particular may not matter to the whole, but it does matter to the particular. The whole is an abstraction, the particular, the concrete, is real.
 
-**M:**&ensp;That is what you say. To me it may be the other way — the whole is real, the part comes and goes. The particular is born and reborn, changing name and shape; the *jnani* is the Changeless Reality, which makes the changeful possible. But he cannot give you the conviction. It must come with your own experience. With me all is one, all is equal.
+**M:**&ensp;That is what you say. To me it may be the other way — the whole is real, the part comes and goes. The particular is born and reborn, changing name and shape; the *jnani* is the Changeless Reälity, which makes the changeful possible. But he cannot give you the conviction. It must come with your own experience. With me all is one, all is equal.
 
 **Q:**&ensp;Are sin and virtue one and the same?
 
@@ -68,7 +68,7 @@
 
 **Q:**&ensp;If you would talk like this in the West, people would take you for mad.
 
-**M:**&ensp;Of course, they would! To the ignorant all that they can not understand is madness. What of it? Let them be as they are. I am as I am, for no merit of mine and they are as they are, for no fault of theirs. The Supreme Reality manifests itself in innumerable ways. Infinite in number are its names and shapes. All arise, all merge in the same ocean, the source of all is one. Looking for causes and results is but the pastime of the mind. What is, is lovable. Love is not a result, it is the very ground of being. Wherever you go, you will find being, consciousness and love. Why, and what for, make preferences?
+**M:**&ensp;Of course, they would! To the ignorant all that they can not understand is madness. What of it? Let them be as they are. I am as I am, for no merit of mine and they are as they are, for no fault of theirs. The Supreme Reälity manifests itself in innumerable ways. Infinite in number are its names and shapes. All arise, all merge in the same ocean, the source of all is one. Looking for causes and results is but the pastime of the mind. What is, is lovable. Love is not a result, it is the very ground of being. Wherever you go, you will find being, consciousness and love. Why, and what for, make preferences?
 
 **Q:**&ensp;When by natural causes thousands and millions of lives are extinguished (as it happens in floods and earthquakes), I do not grieve. But when one man dies at the hand of man, I grieve extremely. The inevitable has its own majesty, but killing is avoidable and, therefore, ugly and altogether horrible.
 

@@ -1,6 +1,6 @@
 # 3. The Living Present
 
->There is something exceptional, unique, about the present event, which the previous, or the coming do not have. There is a livingness about it, an actuality; it stands out as if illuminated. There is the ‘stamp of reality’ on the actual, which the past and the future do not have.
+>There is something exceptional, unique, about the present event, which the previous, or the coming do not have. There is a livingness about it, an actuality; it stands out as if illuminated. There is the ‘stamp of reälity’ on the actual, which the past and the future do not have.
 
 **Questioner:**&ensp;As I can see, there is nothing wrong with my body nor with my real being. Both are not of my making and need not be improved upon. What has gone wrong is the ‘inner body’, call it mind, consciousness or <span data-tippy-content="The psyche, mind. Mind in a collective sense, including intelligence (<em>buddhi</em>), ego (<em>ahamkara</em>) and mind (<em>manas</em>).">antahkarana</span>, whatever the name.
 
@@ -12,21 +12,21 @@
 
 **Q:**&ensp;Yet, between the body and the self there lies a cloud of thoughts and feelings, which neither serve the body nor the self. These thoughts and feelings are flimsy, transient and meaningless, mere mental dust that blinds and chokes, yet they are there, obscuring and destroying.
 
-**M:**&ensp;Surely, the memory of an event cannot pass for the event itself. Nor can the anticipation. There is something exceptional or unique about the present event, which the previous, or the coming, do not have. There is a livingness about it, an actuality; it stands out as if illuminated. There is the ‘stamp of reality’ on the actual, which the past and the future do not have.
+**M:**&ensp;Surely, the memory of an event cannot pass for the event itself. Nor can the anticipation. There is something exceptional or unique about the present event, which the previous, or the coming, do not have. There is a livingness about it, an actuality; it stands out as if illuminated. There is the ‘stamp of reälity’ on the actual, which the past and the future do not have.
 
-**Q:**&ensp;What gives the present that ‘stamp of reality’?
+**Q:**&ensp;What gives the present that ‘stamp of reälity’?
 
-**M:**&ensp;There is nothing peculiar in the present event to make it different from the past and future. For a moment the past was actual and the future will become so. What makes the present so different? Obviously, my presence. I am real for I am always *now*, in the present, and what is with me now shares in my reality. The past is in memory, the future — in imagination. There is nothing in the present event itself that makes it stand out as real. It may be some simple, periodical occurrence, like the striking of the clock. In spite of our knowing that the successive strokes are identical, the present stroke is quite different from the previous one and the next — as remembered, or expected. A thing focussed in the now is with me, for I am ever present; it is my own reality that I impart to the present event.
+**M:**&ensp;There is nothing peculiar in the present event to make it different from the past and future. For a moment the past was actual and the future will become so. What makes the present so different? Obviously, my presence. I am real for I am always *now*, in the present, and what is with me now shares in my reälity. The past is in memory, the future — in imagination. There is nothing in the present event itself that makes it stand out as real. It may be some simple, periodical occurrence, like the striking of the clock. In spite of our knowing that the successive strokes are identical, the present stroke is quite different from the previous one and the next — as remembered, or expected. A thing focussed in the now is with me, for I am ever present; it is my own reälity that I impart to the present event.
 
 **Q:**&ensp;But we deal with things remembered as if they were real.
 
 **M:**&ensp;We consider memories only when they come into the present. The forgotten is not counted until one is reminded — which implies bringing into the *now*.
 
-**Q:**&ensp;Yes, I can see there is in the now some unknown factor that gives momentary reality to the transient actuality.
+**Q:**&ensp;Yes, I can see there is in the now some unknown factor that gives momentary reälity to the transient actuality.
 
 **M:**&ensp;You need not say it is unknown, for you see it in constant operation. Since you were born, has it ever changed? Things and thoughts have been changing all the time. But the feeling that what is now is real has never changed, even in dream.
 
-**Q:**&ensp;In deep sleep there is no experience of the present reality.
+**Q:**&ensp;In deep sleep there is no experience of the present reälity.
 
 **M:**&ensp;The blankness of deep sleep is due entirely to the lack of specific memories. But a general memory of well-being is there. There is a difference in feeling when we say, “I was deeply asleep”, from, “I was absent”.
 

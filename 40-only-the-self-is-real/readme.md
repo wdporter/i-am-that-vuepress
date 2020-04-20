@@ -18,7 +18,7 @@
 
 **Q:**&ensp;You function nevertheless.
 
-**M:**&ensp;When you are giddy, you see the world running circles round you. Obsessed with the idea of means and end, of work and purpose, you see me apparently functioning. In reality I only look. Whatever is done, is done on the stage. Joy and sorrow, life and death, they all are real to the man in bondage; to me they are all in the show, as unreal as the show itself. 
+**M:**&ensp;When you are giddy, you see the world running circles round you. Obsessed with the idea of means and end, of work and purpose, you see me apparently functioning. In reälity I only look. Whatever is done, is done on the stage. Joy and sorrow, life and death, they all are real to the man in bondage; to me they are all in the show, as unreal as the show itself. 
 
 I may perceive the world just like you, but you believe to be in it, while I see it as an iridescent drop in the vast expanse of consciousness.
 
@@ -72,9 +72,9 @@ I may perceive the world just like you, but you believe to be in it, while I see
 
 **Q:**&ensp;Which foolishness?
 
-**M:**&ensp;Of thinking that you were born and will die, that you are a body displaying a mind and all such nonsense. In my world nobody is born and nobody dies. Some people go on a journey and come back, some never leave. What difference does it make since they travel in dream lands, each wrapped up in his own dream? Only the waking up is important. It is enough to know the ‘I Am’ as reality and also love.
+**M:**&ensp;Of thinking that you were born and will die, that you are a body displaying a mind and all such nonsense. In my world nobody is born and nobody dies. Some people go on a journey and come back, some never leave. What difference does it make since they travel in dream lands, each wrapped up in his own dream? Only the waking up is important. It is enough to know the ‘I Am’ as reälity and also love.
 
-**Q:**&ensp;My approach is not so absolute, hence my question. Throughout the West people are in search of something real. They turn to science, which tells them a lot about matter, a little about the mind and nothing about the nature and purpose of consciousness. To them reality is objective, outside the observable and describable, directly or by inference; about the subjective aspect of reality they know nothing. It is extremely important to let them know that there is reality and it is to be found in the freedom of consciousness from matter and its limitations and distortions. Most of the people in the world just do not know that there is reality which can be found and experienced in consciousness. It seems very important that they should hear the good news from somebody who has actually experienced. Such witnesses have always existed and their testimony is precious.
+**Q:**&ensp;My approach is not so absolute, hence my question. Throughout the West people are in search of something real. They turn to science, which tells them a lot about matter, a little about the mind and nothing about the nature and purpose of consciousness. To them reälity is objective, outside the observable and describable, directly or by inference; about the subjective aspect of reälity they know nothing. It is extremely important to let them know that there is reälity and it is to be found in the freedom of consciousness from matter and its limitations and distortions. Most of the people in the world just do not know that there is reälity which can be found and experienced in consciousness. It seems very important that they should hear the good news from somebody who has actually experienced. Such witnesses have always existed and their testimony is precious.
 
 **M:**&ensp;Of course. The gospel of self-realisation, once heard, will never be forgotten. Like a seed left in the ground, it will wait for the right season and sprout and grow into a mighty tree.
 

@@ -60,7 +60,7 @@
 
 **Q:**&ensp;Righteousness will set me free.
 
-**M:**&ensp;Righteousness will undoubtedly make you and your world a comfortable, even happy place. But what is the use? There is no reality in it. It cannot last.
+**M:**&ensp;Righteousness will undoubtedly make you and your world a comfortable, even happy place. But what is the use? There is no reälity in it. It cannot last.
 
 **Q:**&ensp;God will help.
 
@@ -96,7 +96,7 @@
 
 **Q:**&ensp;Life is so intelligent. How can it be unconscious?
 
-**M:**&ensp;You talk of the unconscious when there is a lapse in memory. In reality there is only consciousness. All life is conscious, all consciousness — alive.
+**M:**&ensp;You talk of the unconscious when there is a lapse in memory. In reälity there is only consciousness. All life is conscious, all consciousness — alive.
 
 **Q:**&ensp;Even stones?
 

@@ -16,7 +16,7 @@
 
 **Q:**&ensp;There is in me the conviction, “I am the body”. Granted, I am talking from unwisdom. But the state of feeling oneself the body, the body–mind, the mind–body, or even pure mind — when did it begin?
 
-**M:**&ensp;You cannot speak of a beginning of consciousness. The very ideas of beginning and time are within consciousness. To talk meaningfully of the beginning of anything, you must step out of it. And the moment you step out, you realise that there is no such thing and never was. There is only reality, in which no ‘thing’ has any being on its own. Like waves are inseparable from the ocean, so is all existence rooted in being.
+**M:**&ensp;You cannot speak of a beginning of consciousness. The very ideas of beginning and time are within consciousness. To talk meaningfully of the beginning of anything, you must step out of it. And the moment you step out, you realise that there is no such thing and never was. There is only reälity, in which no ‘thing’ has any being on its own. Like waves are inseparable from the ocean, so is all existence rooted in being.
 
 **Q:**&ensp;The fact is that here and now I am asking you: when did the feeling ‘I am the body’ arise? At my birth? or this morning?
 
@@ -76,7 +76,7 @@
 
 **Q:**&ensp;When the body idea becomes obsessive, is it not altogether wrong?
 
-**M:**&ensp;There is nothing wrong in the idea of a body, nor even in the idea ‘I am the body’. But limiting oneself to one body only is a mistake. In reality all existence, every form, is my own, within my consciousness. I cannot tell what I am because words can describe only what I am not. I am, and because I am, all is. But I am beyond consciousness and, therefore, in consciousness I cannot say what I am. Yet, I am. The question ‘Who am I?’ has no answer. No experience can answer it, for the self is beyond experience.
+**M:**&ensp;There is nothing wrong in the idea of a body, nor even in the idea ‘I am the body’. But limiting oneself to one body only is a mistake. In reälity all existence, every form, is my own, within my consciousness. I cannot tell what I am because words can describe only what I am not. I am, and because I am, all is. But I am beyond consciousness and, therefore, in consciousness I cannot say what I am. Yet, I am. The question ‘Who am I?’ has no answer. No experience can answer it, for the self is beyond experience.
 
 **Q:**&ensp;Still, the question ‘Who am I’ must be of some use.
 
@@ -148,7 +148,7 @@
 
 **Q:**&ensp;How strangely does your mind work?
 
-**M:**&ensp;You are strange, not me. I am normal. I am sane. I see things as they are, and therefore l am not afraid of them. But you are afraid of reality.
+**M:**&ensp;You are strange, not me. I am normal. I am sane. I see things as they are, and therefore l am not afraid of them. But you are afraid of reälity.
 
 **Q:**&ensp;Why should I?
 
@@ -180,7 +180,7 @@ People are afraid to die, because they do not know what is death. The *jnani* ha
 
 **M:**&ensp;When effort is needed, effort will appear. When effortlessness becomes essential, it will assert itself. You need not push life about. Just flow with it and give yourself completely to the task of the present moment, which is the dying now to the now. For living is dying. Without death life cannot be. 
 
-Get hold of the main thing that the world and the self are one and perfect. Only your attitude is faulty and needs reädjustment. This process or reädjustment is what you call *sadhana*. You come to it by putting an end to indolence and using all your energy to clear the way for clarity and charity. But in reality, these all are signs of inevitable growth. Don’t be afraid, don’t resist and don’t delay. Be what you are. There is nothing to be afraid of. Trust and try. Experiment honestly. Give your real being a chance to shape your life. You will not regret.
+Get hold of the main thing that the world and the self are one and perfect. Only your attitude is faulty and needs reädjustment. This process or reädjustment is what you call *sadhana*. You come to it by putting an end to indolence and using all your energy to clear the way for clarity and charity. But in reälity, these all are signs of inevitable growth. Don’t be afraid, don’t resist and don’t delay. Be what you are. There is nothing to be afraid of. Trust and try. Experiment honestly. Give your real being a chance to shape your life. You will not regret.
 
 <script>
 export default {

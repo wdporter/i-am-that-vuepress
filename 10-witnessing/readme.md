@@ -72,11 +72,11 @@ experiences are valid for you too. Think clearly and deeply, go into the entire 
 **M:**&ensp;You cannot renounce. You may leave your home and give trouble to your family, but
 attachments are in the mind and will not leave you until you know your mind in and out. First thing first — know yourself, all else will come with it.
 
-**Q:**&ensp;But you already told me that I am the Supreme Reality. Is it not self-knowledge?
+**Q:**&ensp;But you already told me that I am the Supreme Reälity. Is it not self-knowledge?
 
-**M:**&ensp;Of course you are the Supreme Reality! But what of it? Every grain of sand is God; to know it is important, but that is only the beginning.
+**M:**&ensp;Of course you are the Supreme Reälity! But what of it? Every grain of sand is God; to know it is important, but that is only the beginning.
 
-**Q:**&ensp;Well, you told me that I am the Supreme Reality. I believe you. What next is there for me to do?
+**Q:**&ensp;Well, you told me that I am the Supreme Reälity. I believe you. What next is there for me to do?
 
 **M:**&ensp;I told you already. Discover all you are not. Body, feelings, thoughts, ideas, time, space, being and not-being, this or that — nothing concrete or abstract you can point out to is you. A mere verbal statement will not do — you may repeat a formula endlessly without any result whatsoever. You must watch yourself continuously — particularly your mind — moment by moment, missing nothing. This witnessing is essential for the separation of the self from the not-self.
 

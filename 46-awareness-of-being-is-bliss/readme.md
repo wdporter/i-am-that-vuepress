@@ -48,13 +48,13 @@ Tell me, what steps have you taken to separate your real self, that in you which
 
 **M:**&ensp;But in the depth of your heart what is it that you want?
 
-**Q:**&ensp;I want to find reality.
+**Q:**&ensp;I want to find reälity.
 
-**M:**&ensp;What price are you willing to pay for reality? Any price?
+**M:**&ensp;What price are you willing to pay for reälity? Any price?
 
-**Q:**&ensp;While in theory I am ready to pay any price, in actual life again and again I am being prompted to behave in ways which come in between me and reality. Desire carries me away.
+**Q:**&ensp;While in theory I am ready to pay any price, in actual life again and again I am being prompted to behave in ways which come in between me and reälity. Desire carries me away.
 
-**M:**&ensp;Increase and widen your desires till nothing but reality can fulfil them. It is not desire that is wrong, but its narrowness and smallness. Desire is devotion. By all means be devoted to the real, the infinite, the eternal heart of being. Transform desire into love. All you want is to be happy. All your desires, whatever they may be, are expressions of your longing for happiness. Basically, you wish yourself well.
+**M:**&ensp;Increase and widen your desires till nothing but reälity can fulfil them. It is not desire that is wrong, but its narrowness and smallness. Desire is devotion. By all means be devoted to the real, the infinite, the eternal heart of being. Transform desire into love. All you want is to be happy. All your desires, whatever they may be, are expressions of your longing for happiness. Basically, you wish yourself well.
 
 **Q:**&ensp;I know that I should not…
 
