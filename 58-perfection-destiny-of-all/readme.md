@@ -4,11 +4,11 @@
 
 **Questioner:**&ensp;When asked about the means for self-realisation, you invariably stress the importance of the mind dwelling on the sense ‘I Am’. Where is the causal factor? Why should this particular thought result in self-realisation? How does the contemplation of ‘I Am’ affect me?
 
-**Maharaj:**&ensp;The very fact of observation alters the observer and the observed. After all, what prevents the insight into one’s true nature is the weakness and obtuseness of the mind and its tendency to skip the subtle and focus on the gross only. When you follow my advice and try to keep your mind on the notion of ‘I Am’ only, you become fully aware of your mind and its vagaries. Awareness, being lucid harmony (<span data-tippy-content="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>) in action, dissolves dullness and quiets the restlessness of the mind and gently, but steadily, changes its very substance. This change need not be spectacular; it may be hardly noticeäble — yet it is a deep and fundamental shift from darkness to light, from inadvertence to awareness.
+**Maharaj:**&ensp;The very fact of observation alters the observer and the observed. After all, what prevents the insight into one’s true nature is the weakness and obtuseness of the mind and its tendency to skip the subtle and focus on the gross only. When you follow my advice and try to keep your mind on the notion of ‘I Am’ only, you become fully aware of your mind and its vagaries. Awareness, beïng lucid harmony (<span data-tippy-content="Beïng, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>) in action, dissolves dullness and quiets the restlessness of the mind and gently, but steadily, changes its very substance. This change need not be spectacular; it may be hardly noticeäble — yet it is a deep and fundamental shift from darkness to light, from inadvertence to awareness.
 
 **Q:**&ensp;Must it be the ‘I Am’ formula? Will not any other sentence do? If I concentrate on ‘there is a table’, will it not serve the same purpose?
 
-**M:**&ensp;As an exercise in concentration — yes. But it will not take you beyond the idea of a table. You are not interested in tables — you want to know yourself. For this, keep steadily in the focus of consciousness the only clue you have: your certainty of being. Be with it, play with it, ponder over it, delve deeply into it, until the shell of ignorance breaks open and you emerge into the realm of reälity.
+**M:**&ensp;As an exercise in concentration — yes. But it will not take you beyond the idea of a table. You are not interested in tables — you want to know yourself. For this, keep steadily in the focus of consciousness the only clue you have: your certainty of beïng. Be with it, play with it, ponder over it, delve deeply into it, until the shell of ignorance breaks open and you emerge into the realm of reälity.
 
 **Q:**&ensp;Is there any causal link between my focusing the ‘I Am’ and the breaking of the shell?
 
@@ -50,7 +50,7 @@
 
 **M:**&ensp;It is like asking, “Is a mother inevitable?”. To rise in consciousness from one dimension to another, you need help. The help may not always be in the shape of a human person, it may be a subtle presence or a spark of intuition, but help must come. The inner Self is watching and waiting for the son to return to his father. At the right time he arranges everything affectionately and effectively. Where a messenger or guide is needed, he sends the *guru* to do the needful.
 
-**Q:**&ensp;There is one thing I cannot grasp. You speak of the inner self as wise and good and beautiful and in every way perfect, and of the person as mere reflection without a being of its own. On the other hand, you take so much trouble in helping the person to realise himself. If the person is so unimportant, why be so concerned with his welfare? Who cares for a shadow?
+**Q:**&ensp;There is one thing I cannot grasp. You speak of the inner self as wise and good and beautiful and in every way perfect, and of the person as mere reflection without a beïng of its own. On the other hand, you take so much trouble in helping the person to realise himself. If the person is so unimportant, why be so concerned with his welfare? Who cares for a shadow?
 
 **M:**&ensp;You have brought in duality where there is none. There is the body and there is the Self. Between them is the mind, in which the Self is reflected as ‘I Am’. Because of the imperfections of the mind, its crude and restless nature, lack of discernment and insight, it takes itself to be the body, not the Self. All that is needed is to purify the mind so that it can realise its identity with the Self. When the mind merges in the Self, the body presents no problems. It remains what it is, an instrument of cognition and action, the tool and the expression of the creätive fire within. The ultimate value of the body is that it serves to discover the cosmic body, which is the universe in its entirety. As you realise yourself in manifestation, you keep on discovering that you are ever more than what you have imagined.
 
@@ -66,9 +66,9 @@
 
 **M:**&ensp;Look at it in terms of awareness. Wider and deeper consciousness is higher. All that lives works for protecting, perpetuating and expanding consciousness. This is the world’s sole meaning and purpose. It is the very essence of <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span> — ever raising the level of consciousness, discovery of new dimensions with their properties, qualities and powers. In that sense the entire universe becomes a school of *yoga* (<span data-tippy-content="The field for <em>yoga</em>, the physical body in a philosophical sense (<em>kshetra</em>, field).">yogakshetra</span>).
 
-**Q:**&ensp;Is perfection the destiny of all human beings?
+**Q:**&ensp;Is perfection the destiny of all human beïngs?
 
-**M:**&ensp;Of all living beings — ultimately. The possibility becomes a certainty when the notion of enlightenment appears in the mind. Once a living being has heard and understood that deliverance is within his reach, he will never forget, for it is the first message from within. It will take root and grow and in due course take the blessed shape of the *guru*.
+**M:**&ensp;Of all living beïngs — ultimately. The possibility becomes a certainty when the notion of enlightenment appears in the mind. Once a living beïng has heard and understood that deliverance is within his reach, he will never forget, for it is the first message from within. It will take root and grow and in due course take the blessed shape of the *guru*.
 
 **Q:**&ensp;So all we are concerned with is the redemption of the mind?
 
