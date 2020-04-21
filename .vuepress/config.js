@@ -99,7 +99,8 @@ module.exports = {
 					"/56-consciousness-arising-world-arises/",
 					"/57-beyond-mind-there-is-no-suffering/",
 					"/58-perfection-destiny-of-all/",
-					"/59-desire-and-fear-self-centred-states/"
+					"/59-desire-and-fear-self-centred-states/",
+					"/60-live-facts-not-fancies/"
 				]
 			},
 			{

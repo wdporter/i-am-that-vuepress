@@ -70,7 +70,7 @@ pageClass: glossary-class
 
 **<em>karana:</em>**&ensp;cause, the primary cause invariably antecedent to a result, the unmanifested potential cause that in due course takes shape as the visibile effect, the material cause of the universe. *Karana* is cosmic energy in potential form.
 
-**<em>karma:</em>**&ensp;action or “the fruits of action”. *Karma* is of three kinds: *sanchita* (accumulated from previous births), *prarabdha* (portion of the past *karma* to be worked out in the present life) and *agami* (the current *karma* the result of which will fructify in future).
+**<em>karma:</em>**&ensp;action or ‘the fruits of action’. *Karma* is of three kinds: *sanchita* (accumulated from previous births), *prarabdha* (portion of the past *karma* to be worked out in the present life) and *agami* (the current *karma* the result of which will fructify in future).
 
 **<em>lila:</em>**&ensp;play, sport, the cosmos looked upon as the divine play; “effortless or playful relation between the Absolute,or Brahman, and the contingent world”.
 
