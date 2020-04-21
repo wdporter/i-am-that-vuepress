@@ -98,7 +98,8 @@ module.exports = {
 					"/55-give-up-all-and-you-gain-all/",
 					"/56-consciousness-arising-world-arises/",
 					"/57-beyond-mind-there-is-no-suffering/",
-					"/58-perfection-destiny-of-all/"
+					"/58-perfection-destiny-of-all/",
+					"/59-desire-and-fear-self-centred-states/"
 				]
 			},
 			{
