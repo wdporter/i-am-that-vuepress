@@ -24,6 +24,8 @@ pageClass: glossary-class
 
 **<em>avyakta:</em>**&ensp;unmanifest. Opposite is *vyakta*.
 
+**<em>bhajan:</em>**&ensp;devotional singing, prayer.
+
 **<em>bhakti:</em>**&ensp;devotion, adoration. Hence *bhakta*, a devotee.
 
 **<em>bhoga:</em>**&ensp;sense enjoyment, experience of worldly joys and sorrows.
@@ -129,6 +131,8 @@ pageClass: glossary-class
 **<em>pravritti:</em>**&ensp;penchant, predilection towards worldly life.
 
 **<em>premakash:</em>**&ensp;*Brahman* in its aspect of limitless love. It is another name for *chidakash*, but it lays stress on the love aspect not on the knowledge aspect. Love is the expression of the Self through the heart.
+
+**<em>puja:</em>**&ensp;worship, adoration.
 
 **<em>purna:</em>**&ensp;full, complete, absolute, infinite.
 

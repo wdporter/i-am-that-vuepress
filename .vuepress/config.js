@@ -104,6 +104,12 @@ module.exports = {
 				]
 			},
 			{
+				title: "61–70",
+				children: [
+					"/61-matter-is-consciousness-itself"
+				]
+			},
+			{
 				title: "Front Matter",
 				children: [
 					"/foreword/",
