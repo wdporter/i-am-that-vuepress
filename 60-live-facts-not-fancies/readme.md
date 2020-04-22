@@ -54,7 +54,7 @@ For instance, you complain that people are abjectly poor. Yet you do not share y
 
 **Q:**&ensp;You seem to drive me always back into myself. Is there no objective solution to the world’s problems?
 
-**M:**&ensp;The world’s problems were created by numberless people like you, each full of their own desires and fears. Who can free you of your past, personal and social, except yourself? And how will you do it unless you see the urgent need of your first beïng free of cravings born of illusion? How can you truly help as long as you need help yourself?
+**M:**&ensp;The world’s problems were creäted by numberless people like you, each full of their own desires and fears. Who can free you of your past, personal and social, except yourself? And how will you do it unless you see the urgent need of your first beïng free of cravings born of illusion? How can you truly help as long as you need help yourself?
 
 **Q:**&ensp;In what way did the ancient sages help? In what way do you help? A few individuals profit, no doubt; your guidance and example may mean a lot to them. But in what way do you affect humanity, the totality of life and consciousness? You say that you are the world and the world is you; what impact have you made on it?
 
