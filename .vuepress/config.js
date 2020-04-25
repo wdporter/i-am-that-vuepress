@@ -122,6 +122,7 @@ module.exports = {
 			{
 				title: "Back Matter",
 				children: [
+					"/highlights/",
 					"/glossary/"
 				]
 			}
