@@ -128,7 +128,7 @@
 
 **Q:**&ensp;Do you mean to say, that you have the power to do everything rightly?
 
-**M:**&ensp;There is no power as separate from me. It is inherent in my very nature. Call it creativity. Out of a lump of gold you can make many ornaments — each will remain gold. Similarly, in whatever role I may appear and whatever function I may perform — I remain what I am, the ‘I Am’, immovable, unshakable, independent. What you call the universe, nature, is my spontaneous creativity. Whatever happens — happens. But such is my nature that all ends in joy.
+**M:**&ensp;There is no power as separate from me. It is inherent in my very nature. Call it creativity. Out of a lump of gold you can make many ornaments — each will remain gold. Similarly, in whatever role I may appear and whatever function I may perform — I remain what I am, the ‘I am’, immovable, unshakable, independent. What you call the universe, nature, is my spontaneous creativity. Whatever happens — happens. But such is my nature that all ends in joy.
 
 **Q:**&ensp;I have a case of a boy gone blind because his stupid mother fed him methyl alcohol. I am requesting you to help him. You are full of compassion and, obviously, eager to help. By what power can you help him?
 

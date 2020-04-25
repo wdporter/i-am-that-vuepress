@@ -90,11 +90,11 @@ Thus runs the story. The difference with your teaching is this: you insist that 
 
 **Q:**&ensp;How does one bring to an end this sense of separateness?
 
-**M:**&ensp;By focussing the mind on ‘I Am’, on the sense of being, ‘I am so-and-so’ dissolves; ‘I am a witness only’ remains and that too submerges in ‘I am all’. Then the all becomes the One and the One — yourself, not to be separate from me. Abandon the idea of a separate ‘I’ and the question of ‘whose experience?’ will not arise.
+**M:**&ensp;By focussing the mind on ‘I am’, on the sense of being, ‘I am so-and-so’ dissolves; ‘I am a witness only’ remains and that too submerges in ‘I am all’. Then the all becomes the One and the One — yourself, not to be separate from me. Abandon the idea of a separate ‘I’ and the question of ‘whose experience?’ will not arise.
 
 **Q:**&ensp;You speak from your own experience. How can I make it mine?
 
-**M:**&ensp;You speak of my experience as different from your experience, because you believe we are separate. But we are not. On a deeper level my experience is your experience. Dive deep within yourself and you will find it easily and simply. Go in the direction of ‘I Am’.
+**M:**&ensp;You speak of my experience as different from your experience, because you believe we are separate. But we are not. On a deeper level my experience is your experience. Dive deep within yourself and you will find it easily and simply. Go in the direction of ‘I am’.
 
 <script>
 export default {

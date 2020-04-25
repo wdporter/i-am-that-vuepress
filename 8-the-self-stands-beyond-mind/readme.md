@@ -105,7 +105,7 @@ permanency. I want to create something that lasts.
 
 **M:**&ensp;Can you truly say you were not before you were born and can you possibly say when dead, “Now I am no more”? You cannot say from your own experience that you are not. You can only say, “I am”. Others too cannot tell you, “you are not”.
 
-**Q:**&ensp;There is no ‘I Am’ in sleep.
+**Q:**&ensp;There is no ‘I am’ in sleep.
 
 **M:**&ensp;Before you make such sweeping statements, examine carefully your waking state. You will soon discover that it is full of gaps, when the mind blanks out. Notice how little you remember even when fully awake. You just don’t remember. A gap in memory is not necessarily a gap in consciousness.
 

@@ -1,6 +1,6 @@
 # 25. Hold On to ‘I Am’
 
->Self-forgetting is inherent in self-knowing. Consciousness and unconsciousness are two aspects of one life. They coëxist. To know the world you forget the self — to know the self you forget the world. What is world after all? A collection of memories. Cling to one thing that matters: hold on to ‘I Am’ and let go all else. This is *sadhana*.
+>Self-forgetting is inherent in self-knowing. Consciousness and unconsciousness are two aspects of one life. They coëxist. To know the world you forget the self — to know the self you forget the world. What is world after all? A collection of memories. Cling to one thing that matters: hold on to ‘I am’ and let go all else. This is *sadhana*.
 
 **Questioner:**&ensp;Are you ever glad or sad? Do you know joy and sorrow?
 
@@ -49,7 +49,7 @@ images and thoughts, ideas and concepts.
 
 **Q:**&ensp;To forget, one must know. Did I know who I am, before I forgot it?
 
-**M:**&ensp;Of course. Self-forgetting is inherent in self-knowing. Consciousness and unconsciousness are two aspects of one life. They coëxist. To know the world you forget the self — to know the self you forget the world. What is world after all? A collection of memories. Cling to one thing that matters, hold on to ‘I Am’ and let go all else. This is <span data-tippy-content="The practice which produces success, <em>siddhi</em>.">sadhana</span>. In realisation there is nothing to hold on to and nothing to forget. Everything is known, nothing is remembered.
+**M:**&ensp;Of course. Self-forgetting is inherent in self-knowing. Consciousness and unconsciousness are two aspects of one life. They coëxist. To know the world you forget the self — to know the self you forget the world. What is world after all? A collection of memories. Cling to one thing that matters, hold on to ‘I am’ and let go all else. This is <span data-tippy-content="The practice which produces success, <em>siddhi</em>.">sadhana</span>. In realisation there is nothing to hold on to and nothing to forget. Everything is known, nothing is remembered.
 
 **Q:**&ensp;What is the cause of self-forgetting?
 
@@ -65,7 +65,7 @@ images and thoughts, ideas and concepts.
 
 **Q:**&ensp;You say at the root of the world is self-forgetfulness. To forget I must remember What did I forget to remember? I have not forgotten that I am.
 
-**M:**&ensp;This ‘I Am’ too may be a part of the illusion.
+**M:**&ensp;This ‘I am’ too may be a part of the illusion.
 
 **Q:**&ensp;How can it be? You cannot prove to me that I am not. Even when convinced that I am not — I am.
 

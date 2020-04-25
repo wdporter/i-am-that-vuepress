@@ -24,7 +24,7 @@
 
 **Q:**&ensp;Surely there must be something in common between the many points of consciousness we are.
 
-**M:**&ensp;Where are the many points? In your mind. You insist that your world is independent of your mind. How can it be? Your desire to know other people’s minds is due to your not knowing your own mind. First know your own mind and you will find that the question of other minds does not arise at all, for there are no other people. You are the common factor, the only link between the minds. Being is consciousness; ‘I Am’ applies to all.
+**M:**&ensp;Where are the many points? In your mind. You insist that your world is independent of your mind. How can it be? Your desire to know other people’s minds is due to your not knowing your own mind. First know your own mind and you will find that the question of other minds does not arise at all, for there are no other people. You are the common factor, the only link between the minds. Being is consciousness; ‘I am’ applies to all.
 
 **Q:**&ensp;The Supreme Reälity (<span data-tippy-content="The Supreme Reälity.">Parabrahman</span>) may be present in all of us. But of what use is it to us?
 

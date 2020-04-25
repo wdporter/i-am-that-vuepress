@@ -4,7 +4,7 @@
 
 **Questioner:**&ensp;There are very interesting books written by apparently very competent people, in which the illusoriness of the world is denied (though not its transitoriness). According to them, there exists a hierarchy of beings, from the lowest to the highest; on each level the complexity of the organism enables and reflects the depth, breadth and intensity of consciousness, without any visible or knowable culmination. One law supreme rules throughout: evolution of forms for the growth and enrichment of consciousness and manifestation of its infinite potentialities.
 
-**Maharaj:**&ensp;This may or may not be so. Even if it is, it is only so from the mind’s point of view, but in fact the entire universe (<span data-tippy-content="The great expanse of existence, the universe of matter and energy.">mahadakash</span>) exists only in consciousness (<span data-tippy-content="[<em>chit</em>, to perceive + <em>akash</em>, expanse, sky] Brahman in its aspect of limitless knowledge, the expanse of awareness. Variously used for consciousness, individual as well as universal.">chidakash</span>), while I have my stand in the Absolute (<span data-tippy-content="The great expanse, the timeless and spaceless reälity; the Absolute being.">paramakash</span>). In pure being consciousness arises; in consciousness the world appears and disappears. All there *is* is me, all there *is* is mine. Before all beginnings, after all endings — I am. All has its being in me, in the ‘I Am’, that shines in every living being. Even not being is unthinkable without me. Whatever happens, I must be there to witness it.
+**Maharaj:**&ensp;This may or may not be so. Even if it is, it is only so from the mind’s point of view, but in fact the entire universe (<span data-tippy-content="The great expanse of existence, the universe of matter and energy.">mahadakash</span>) exists only in consciousness (<span data-tippy-content="[<em>chit</em>, to perceive + <em>akash</em>, expanse, sky] Brahman in its aspect of limitless knowledge, the expanse of awareness. Variously used for consciousness, individual as well as universal.">chidakash</span>), while I have my stand in the Absolute (<span data-tippy-content="The great expanse, the timeless and spaceless reälity; the Absolute being.">paramakash</span>). In pure being consciousness arises; in consciousness the world appears and disappears. All there *is* is me, all there *is* is mine. Before all beginnings, after all endings — I am. All has its being in me, in the ‘I am’, that shines in every living being. Even not being is unthinkable without me. Whatever happens, I must be there to witness it.
 
 **Q:**&ensp;Why do you deny being to the world?
 
@@ -16,7 +16,7 @@
 
 **Q:**&ensp;In *your* consciousness?
 
-**M:**&ensp;All idea of ‘me’ and ‘mine’, even of ‘I Am’ is in consciousness.
+**M:**&ensp;All idea of ‘me’ and ‘mine’, even of ‘I am’ is in consciousness.
 
 **Q:**&ensp;Is then your ‘absolute being’ (*paramakash*) un-consciousness?
 

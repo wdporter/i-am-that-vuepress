@@ -24,7 +24,7 @@
 
 **Q:**&ensp;But you agree that living a life — just living the humdrum life of the world, being born to die and dying to be born — advances man by its sheer volume, just like the river finds its way to the sea by the sheer mass of the water it gathers.
 
-**M:**&ensp;Before the world was, consciousness was. In consciousness it comes into being, in consciousness it lasts and into pure consciousness it dissolves. At the root of everything, is the feeling ‘I Am’. The state of mind: ‘there is a world’ is secondary, for to be, I do not need the world, the world needs me.
+**M:**&ensp;Before the world was, consciousness was. In consciousness it comes into being, in consciousness it lasts and into pure consciousness it dissolves. At the root of everything, is the feeling ‘I am’. The state of mind: ‘there is a world’ is secondary, for to be, I do not need the world, the world needs me.
 
 **Q:**&ensp;The desire to live is a tremendous thing.
 
@@ -72,7 +72,7 @@
 
 **Q:**&ensp;I am an adopted child. My own father I do not know. My mother died when I was born. My foster father, to please my foster mother, who was childless, adopted me — almost by accident. He is a simple man — a truck owner and driver. My mother keeps the house. I am twenty-four years now. For the last two and a half years I am travelling, restless, seeking. I want to live a good life, a holy life. What am I to do?
 
-**M:**&ensp;Go home, take charge of your father’s business, look after your parents in their old age. Marry the girl who is waiting for you, be loyal, be simple, be humble. Hide your virtue, live silently. The five senses and the three qualities (<span data-tippy-content="Attributes, qualities. In <em>Samkhya</em> philosophy the three attributes of the cosmic substance (<em>prakriti</em>) are: illuminating (<em>sattva</em>), activating (<em>rajas</em>) and restraining (<em>tamas</em>).">gunas</span>) are your eight steps in *Yoga*. And ‘I Am’ is the Great Reminder (<span data-tippy-content="The great incantation (see <em>mantra</em>).">maha-mantra</span>). You can learn from them all you need to know. Be attentive, enquire ceaselessly. That is all.
+**M:**&ensp;Go home, take charge of your father’s business, look after your parents in their old age. Marry the girl who is waiting for you, be loyal, be simple, be humble. Hide your virtue, live silently. The five senses and the three qualities (<span data-tippy-content="Attributes, qualities. In <em>Samkhya</em> philosophy the three attributes of the cosmic substance (<em>prakriti</em>) are: illuminating (<em>sattva</em>), activating (<em>rajas</em>) and restraining (<em>tamas</em>).">gunas</span>) are your eight steps in *Yoga*. And ‘I am’ is the Great Reminder (<span data-tippy-content="The great incantation (see <em>mantra</em>).">maha-mantra</span>). You can learn from them all you need to know. Be attentive, enquire ceaselessly. That is all.
 
 **Q:**&ensp;If just living one's life liberates, why are not all liberated?
 

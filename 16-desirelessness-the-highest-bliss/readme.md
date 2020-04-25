@@ -30,7 +30,7 @@ By liberation I mean to be permanently in that wonderful state. What I am asking
 
 **Q:**&ensp;How is it done?
 
-**M:**&ensp;There is no ‘how’ here. Just keep in mind the feeling ‘I Am’, merge in it, until your mind and feeling become one. By repeated attempts you will stumble on the right balance of attention and affection and your mind will be firmly established in the thought-feeling ‘I Am’. Whatever you think, say or do, this sense of immutable and affectionate being remains as the ever-present background of the mind.
+**M:**&ensp;There is no ‘how’ here. Just keep in mind the feeling ‘I am’, merge in it, until your mind and feeling become one. By repeated attempts you will stumble on the right balance of attention and affection and your mind will be firmly established in the thought-feeling ‘I am’. Whatever you think, say or do, this sense of immutable and affectionate being remains as the ever-present background of the mind.
 
 **Q:**&ensp;And you call it liberation?
 
@@ -80,8 +80,8 @@ mind is not needed.
 
 **Q:**&ensp;How does one go beyond the mind?
 
-**M:**&ensp;There are many starting points — they all lead to the same goal. You may begin with selfless work, abandoning the fruits of action; you may then give up thinking and end in giving up all desires. Here, giving up (<span data-tippy-content="Renunciation. <em>Tyaga</em> is the renunciation of the fruits of all works: i.e., the <em>tyagi</em> should perform <em>karma</em> with detachment and with no desire for results.">tyaga</span>) is the operational factor. Or, you may not bother about any thing you want, or think, or do and just stay put in the thought and feeling ‘I Am’, focussing ‘I Am’ firmly in your mind. All kinds of experience may come to you — remain unmoved in the knowledge that all perceivable is
-transient, and only the ‘I Am’ endures.
+**M:**&ensp;There are many starting points — they all lead to the same goal. You may begin with selfless work, abandoning the fruits of action; you may then give up thinking and end in giving up all desires. Here, giving up (<span data-tippy-content="Renunciation. <em>Tyaga</em> is the renunciation of the fruits of all works: i.e., the <em>tyagi</em> should perform <em>karma</em> with detachment and with no desire for results.">tyaga</span>) is the operational factor. Or, you may not bother about any thing you want, or think, or do and just stay put in the thought and feeling ‘I am’, focussing ‘I am’ firmly in your mind. All kinds of experience may come to you — remain unmoved in the knowledge that all perceivable is
+transient, and only the ‘I am’ endures.
 
 **Q:**&ensp;I cannot give all my life to such practices. I have my duties to attend to.
 
@@ -157,13 +157,13 @@ transient, and only the ‘I Am’ endures.
 
 **Q:**&ensp;Please tell me which road to self-realisation is the shortest.
 
-**M:**&ensp;No way is short or long, but some people are more in earnest and some are less. I can tell you about myself. I was a simple man, but I trusted my *Guru*. What he told me to do, I did. He told me to concentrate on ‘I Am’ — I did. He told me that I am beyond all perceivables and conceivables — I believed. I gave him my heart and soul, my entire attention and the whole of my spare time (I had to work to keep my family alive). As a result of faith and earnest application, I realised my self (*svarupa*) within three years. 
+**M:**&ensp;No way is short or long, but some people are more in earnest and some are less. I can tell you about myself. I was a simple man, but I trusted my *Guru*. What he told me to do, I did. He told me to concentrate on ‘I am’ — I did. He told me that I am beyond all perceivables and conceivables — I believed. I gave him my heart and soul, my entire attention and the whole of my spare time (I had to work to keep my family alive). As a result of faith and earnest application, I realised my self (*svarupa*) within three years. 
 
 You may choose any way that suits you; your earnestness will determine the rate of progress.
 
 **Q:**&ensp;No hint for me?
 
-**M:**&ensp;Establish yourself firmly in the awareness of ‘I Am’. This is the beginning and also the end of all endeavour.
+**M:**&ensp;Establish yourself firmly in the awareness of ‘I am’. This is the beginning and also the end of all endeavour.
 
 
 <script>

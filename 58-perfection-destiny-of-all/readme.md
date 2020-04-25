@@ -2,15 +2,15 @@
 
 >The urge to find oneself is a sign that you are getting ready. The impulse always comes from within. Unless your time has come, you will have neither the desire nor the strength to go for self-enquiry whole-heartedly.
 
-**Questioner:**&ensp;When asked about the means for self-realisation, you invariably stress the importance of the mind dwelling on the sense ‘I Am’. Where is the causal factor? Why should this particular thought result in self-realisation? How does the contemplation of ‘I Am’ affect me?
+**Questioner:**&ensp;When asked about the means for self-realisation, you invariably stress the importance of the mind dwelling on the sense ‘I am’. Where is the causal factor? Why should this particular thought result in self-realisation? How does the contemplation of ‘I am’ affect me?
 
-**Maharaj:**&ensp;The very fact of observation alters the observer and the observed. After all, what prevents the insight into one’s true nature is the weakness and obtuseness of the mind and its tendency to skip the subtle and focus on the gross only. When you follow my advice and try to keep your mind on the notion of ‘I Am’ only, you become fully aware of your mind and its vagaries. Awareness, beïng lucid harmony (<span data-tippy-content="Beïng, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>) in action, dissolves dullness and quiets the restlessness of the mind and gently, but steadily, changes its very substance. This change need not be spectacular; it may be hardly noticeäble — yet it is a deep and fundamental shift from darkness to light, from inadvertence to awareness.
+**Maharaj:**&ensp;The very fact of observation alters the observer and the observed. After all, what prevents the insight into one’s true nature is the weakness and obtuseness of the mind and its tendency to skip the subtle and focus on the gross only. When you follow my advice and try to keep your mind on the notion of ‘I am’ only, you become fully aware of your mind and its vagaries. Awareness, beïng lucid harmony (<span data-tippy-content="Beïng, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>) in action, dissolves dullness and quiets the restlessness of the mind and gently, but steadily, changes its very substance. This change need not be spectacular; it may be hardly noticeäble — yet it is a deep and fundamental shift from darkness to light, from inadvertence to awareness.
 
-**Q:**&ensp;Must it be the ‘I Am’ formula? Will not any other sentence do? If I concentrate on ‘there is a table’, will it not serve the same purpose?
+**Q:**&ensp;Must it be the ‘I am’ formula? Will not any other sentence do? If I concentrate on ‘there is a table’, will it not serve the same purpose?
 
 **M:**&ensp;As an exercise in concentration — yes. But it will not take you beyond the idea of a table. You are not interested in tables — you want to know yourself. For this, keep steadily in the focus of consciousness the only clue you have: your certainty of beïng. Be with it, play with it, ponder over it, delve deeply into it, until the shell of ignorance breaks open and you emerge into the realm of reälity.
 
-**Q:**&ensp;Is there any causal link between my focusing the ‘I Am’ and the breaking of the shell?
+**Q:**&ensp;Is there any causal link between my focusing the ‘I am’ and the breaking of the shell?
 
 **M:**&ensp;The urge to find oneself is a sign that you are getting ready. The impulse always comes from within. Unless your time has come, you will have neither the desire nor the strength to go for self-enquiry whole-heartedly.
 
@@ -52,7 +52,7 @@
 
 **Q:**&ensp;There is one thing I cannot grasp. You speak of the inner self as wise and good and beautiful and in every way perfect, and of the person as mere reflection without a beïng of its own. On the other hand, you take so much trouble in helping the person to realise himself. If the person is so unimportant, why be so concerned with his welfare? Who cares for a shadow?
 
-**M:**&ensp;You have brought in duality where there is none. There is the body and there is the Self. Between them is the mind, in which the Self is reflected as ‘I Am’. Because of the imperfections of the mind, its crude and restless nature, lack of discernment and insight, it takes itself to be the body, not the Self. All that is needed is to purify the mind so that it can realise its identity with the Self. When the mind merges in the Self, the body presents no problems. It remains what it is, an instrument of cognition and action, the tool and the expression of the creätive fire within. The ultimate value of the body is that it serves to discover the cosmic body, which is the universe in its entirety. As you realise yourself in manifestation, you keep on discovering that you are ever more than what you have imagined.
+**M:**&ensp;You have brought in duality where there is none. There is the body and there is the Self. Between them is the mind, in which the Self is reflected as ‘I am’. Because of the imperfections of the mind, its crude and restless nature, lack of discernment and insight, it takes itself to be the body, not the Self. All that is needed is to purify the mind so that it can realise its identity with the Self. When the mind merges in the Self, the body presents no problems. It remains what it is, an instrument of cognition and action, the tool and the expression of the creätive fire within. The ultimate value of the body is that it serves to discover the cosmic body, which is the universe in its entirety. As you realise yourself in manifestation, you keep on discovering that you are ever more than what you have imagined.
 
 **Q:**&ensp;Is there no end to self-discovery?
 

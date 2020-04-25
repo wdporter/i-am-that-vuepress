@@ -104,7 +104,7 @@
 
 **Q:**&ensp;But what is the ripening factor?
 
-**M:**&ensp;Self-remembrance, awareness of ‘I Am’ ripens him powerfully and speedily. Give up all ideas about yourself and simply *be*.
+**M:**&ensp;Self-remembrance, awareness of ‘I am’ ripens him powerfully and speedily. Give up all ideas about yourself and simply *be*.
 
 **Q:**&ensp;I am tired of all the ways and means and skills and tricks, of all these mental acrobatics. Is there a way to perceive reälity directly and immediately?
 

@@ -72,7 +72,7 @@ If you want to sin, sin wholeheartedly and openly. Sins too have their lessons t
 
 **M:**&ensp;Do not undervalue attention. It means interest and also love. To know, to do, to discover or to create, you must give your heart to it — which means attention. All the blessings flow from it.
 
-**Q:**&ensp;You advise us to concentrate on ‘I Am’. Is this too a form of attention?
+**Q:**&ensp;You advise us to concentrate on ‘I am’. Is this too a form of attention?
 
 **M:**&ensp;What else? Give your undivided attention to the most important in your life — yourself. Of your personal universe you are the centre — without knowing the centre what else can you know?
 

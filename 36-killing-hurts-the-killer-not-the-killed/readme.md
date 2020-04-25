@@ -8,7 +8,7 @@
 
 **Q:**&ensp;Imagine a pot of *ghee* (Indian clarified butter). When the pot breaks, the *ghee* remains and can be transferred to another pot. The old pot had its own scent, the new — its own. The *ghee* will carry the scents from pot to pot. In the same way the personal identity is transferred from body to body.
 
-**M:**&ensp;It is alright. When there is the body, its peculiarities affect the person. Without the body we have the pure identity in the sense of ‘I Am’. But when you are reborn in a new body, where is the world formerly experienced?
+**M:**&ensp;It is alright. When there is the body, its peculiarities affect the person. Without the body we have the pure identity in the sense of ‘I am’. But when you are reborn in a new body, where is the world formerly experienced?
 
 **Q:**&ensp;Every body experiences its own world.
 
@@ -16,7 +16,7 @@
 
 **Q:**&ensp;An idea, of course. How can a brain remember what it has not experienced?
 
-**M:**&ensp;You have answered your own question. Why play with ideas? Be content with what you are sure of. And the only thing you can be sure of is ‘I Am’. Stay with it, and reject everything else. This is <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">Yoga</span>.
+**M:**&ensp;You have answered your own question. Why play with ideas? Be content with what you are sure of. And the only thing you can be sure of is ‘I am’. Stay with it, and reject everything else. This is <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">Yoga</span>.
 
 **Q:**&ensp;I can reject only verbally. At best I remember to repeat the formula, “This is not me, this is not mine. I am beyond all this”.
 
@@ -54,7 +54,7 @@
 
 **M:**&ensp;Who identifies them? Somebody with a memory to register and compare. Don’t you see that memory is the warp of your mental life. And identity is merely a pattern of events in time and space. Change the pattern and you have changed the man.
 
-**Q:**&ensp;The pattern is significant and important. It has its own value. By saying that a woven design is merely coloured threads you miss the most important — the beauty of it. Or by describing a book as paper with ink stains on it, you miss the meaning. Identity is valuable because it is the basis of individuality; that which makes us unique and irreplaceable. ‘I Am’ is the intuition of uniqueness.
+**Q:**&ensp;The pattern is significant and important. It has its own value. By saying that a woven design is merely coloured threads you miss the most important — the beauty of it. Or by describing a book as paper with ink stains on it, you miss the meaning. Identity is valuable because it is the basis of individuality; that which makes us unique and irreplaceable. ‘I am’ is the intuition of uniqueness.
 
 **M:**&ensp;Yes and no. Identity, individuality or uniqueness — they are the most valuable aspects of the mind, yet of the mind only. ‘I am all there is’ too is an experience equally valid. The particular and the universal are inseparable. They are the two aspects of the nameless, as seen from without and from within. Unfortunately, words only mention, but don’t convey. Try to go beyond the words.
 
@@ -64,7 +64,7 @@
 
 **Q:**&ensp;The Jains believe in a multiplicity of witnesses, forever separate.
 
-**M:**&ensp;That is their tradition based on the experience of some great people. The one witness reflects itself in the countless bodies as ‘I Am’. As long as the bodies, however subtle, last, the ‘I Am’ appears as many. Beyond the body there is only the One.
+**M:**&ensp;That is their tradition based on the experience of some great people. The one witness reflects itself in the countless bodies as ‘I am’. As long as the bodies, however subtle, last, the ‘I am’ appears as many. Beyond the body there is only the One.
 
 **Q:**&ensp;God?
 
@@ -128,7 +128,7 @@
 
 **Q:**&ensp;I am not your projection, nor are you mine. I am on my own right, not merely as your creation. This crude philosophy of imagination and projection does not appeal to me. You are depriving me of all reälity. Who is the image of whom? You are my image or am I yours. Or am I an image in my own image! No, something is wrong somewhere.
 
-**M:**&ensp;Words betray their hollowness. The real cannot be described, it must be experienced. I cannot find better words for what I am now. What I say may sound ridiculous. But what the words try to convey is the highest truth. All is one, however much we quibble. And all is done to please the one source and goal of every desire. whom we all know as the ‘I Am’.
+**M:**&ensp;Words betray their hollowness. The real cannot be described, it must be experienced. I cannot find better words for what I am now. What I say may sound ridiculous. But what the words try to convey is the highest truth. All is one, however much we quibble. And all is done to please the one source and goal of every desire. whom we all know as the ‘I am’.
 
 **Q:**&ensp;It is pain that is at the root of desire. The basic urge is to escape from pain.
 

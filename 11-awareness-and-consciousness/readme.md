@@ -52,4 +52,4 @@
 
 **Q:**&ensp;Since reälity is all the time with us, what does self-realisation consist of?
 
-**M:**&ensp;Realisation is but the opposite of ignorance. To take the world as real and one’s self as unreal is ignorance. The cause of sorrow. To know the self as the only reälity and all else as temporal and transient is freedom, peace and joy. It is all very simple. Instead of seeing things as imagined, learn to see them as they are. It is like cleansing a mirror. The same mirror that shows you the world as it is, will also show you your own face. The thought ‘I Am’ is the polishing cloth. Use it.
+**M:**&ensp;Realisation is but the opposite of ignorance. To take the world as real and one’s self as unreal is ignorance. The cause of sorrow. To know the self as the only reälity and all else as temporal and transient is freedom, peace and joy. It is all very simple. Instead of seeing things as imagined, learn to see them as they are. It is like cleansing a mirror. The same mirror that shows you the world as it is, will also show you your own face. The thought ‘I am’ is the polishing cloth. Use it.

@@ -60,7 +60,7 @@
 
 **Q:**&ensp;Everybody says, “I am”. The realised man too says, “I am”. Where is the difference?
 
-**M:**&ensp;The difference is in the meaning attached to the words ‘I Am’. With the realised man the experience ‘I am the world, the world is mine’ is supremely valid — he thinks, feels and acts integrally and in unity with all that lives. He may not even know the theory and practice of self-realisation, and be born and bred free of religious and metaphysical notions. But there will not be the least flaw in his understanding and compassion.
+**M:**&ensp;The difference is in the meaning attached to the words ‘I am’. With the realised man the experience ‘I am the world, the world is mine’ is supremely valid — he thinks, feels and acts integrally and in unity with all that lives. He may not even know the theory and practice of self-realisation, and be born and bred free of religious and metaphysical notions. But there will not be the least flaw in his understanding and compassion.
 
 **Q:**&ensp;I may come across a beggar, naked and hungry and ask him, “Who are you?”. He may answer, “I am the Supreme Self”. “Well”, I say, “suffice you are the Supreme, change your present state”. What will he do?
 

@@ -46,9 +46,9 @@
 
 **M:**&ensp;How does personality, come into being? By memory. By identifying the present with the past and projecting it into the future. Think of yourself as momentary, without past and future and your personality dissolves.
 
-**Q:**&ensp;Does not ‘I Am’ remain?
+**Q:**&ensp;Does not ‘I am’ remain?
 
-**M:**&ensp;The word ‘remain’ does not apply. ‘I Am’ is ever afresh. You do not need to remember in order to *be*. As a matter of fact, before you can experience anything, there must be the sense of being. At present your being is mixed up with experiencing. All you need is to unravel being from the tangle of experiences. Once you have known pure being, without being this or that, you will discern it among experiences and you will no longer be misled by names and forms. Self-limitation is the very essence of personality.
+**M:**&ensp;The word ‘remain’ does not apply. ‘I am’ is ever afresh. You do not need to remember in order to *be*. As a matter of fact, before you can experience anything, there must be the sense of being. At present your being is mixed up with experiencing. All you need is to unravel being from the tangle of experiences. Once you have known pure being, without being this or that, you will discern it among experiences and you will no longer be misled by names and forms. Self-limitation is the very essence of personality.
 
 **Q:**&ensp;How can I become universal?
 
@@ -72,7 +72,7 @@ What is beginningless cannot have a cause. It is not that you knew what you are 
 
 **M:**&ensp;Who was born first, you or the world? As long as you give first place to the world, you are bound by it; once you realise, beyond all trace of doubt that the world is in you and not you in the world, you are out of it. Of course your body remains in the world and of the world, but you are not deluded by it. All scriptures say that before the world was, the Creator was. Who knows the Creator? He alone who was before the Creator, your own real being, the source of all the worlds with their creators.
 
-**Q:**&ensp;All you say is held together by your assumption that the world is your own projection. You admit that you mean your personal, subjective world, the world given you through your senses and your mind. In that sense each one of us lives in a world of his own projection. These private worlds hardly touch each other and they arise from and merge into the ‘I Am’ at their centre. But surely behind these private worlds there must be a common objective world, of which the private worlds are mere shadows. Do you deny the existence of such an objective world, common to all?
+**Q:**&ensp;All you say is held together by your assumption that the world is your own projection. You admit that you mean your personal, subjective world, the world given you through your senses and your mind. In that sense each one of us lives in a world of his own projection. These private worlds hardly touch each other and they arise from and merge into the ‘I am’ at their centre. But surely behind these private worlds there must be a common objective world, of which the private worlds are mere shadows. Do you deny the existence of such an objective world, common to all?
 
 **M:**&ensp;Reälity is neither subjective nor objective, neither mind nor matter, neither time nor space. These divisions need somebody to whom to happen, a conscious separate centre. But reälity is all and nothing, the totality and the exclusion, the fullness and the emptiness, fully consistent, absolutely paradoxical. You cannot speak about it, you can only lose your self in it. When you deny reälity to anything, you come to a residue which cannot be denied. 
 

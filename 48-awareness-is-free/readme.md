@@ -110,7 +110,7 @@ The same power that makes the fire burn and the water flow, the seeds sprout and
 
 **Q:**&ensp;May I be permitted to ask how did you arrive at your present condition?
 
-**M:**&ensp;My teacher told me to hold on to the sense ‘I Am’ tenaciously and not to swerve from it even for a moment. I did my best to follow his advice and in a comparatively short time I realised within myself the truth of his teaching. All I did was to remember his teaching, his face and his words constantly. This brought an end to the mind; in the stillness of the mind I saw myself as I am — unbound.
+**M:**&ensp;My teacher told me to hold on to the sense ‘I am’ tenaciously and not to swerve from it even for a moment. I did my best to follow his advice and in a comparatively short time I realised within myself the truth of his teaching. All I did was to remember his teaching, his face and his words constantly. This brought an end to the mind; in the stillness of the mind I saw myself as I am — unbound.
 
 **Q:**&ensp;Was your realisation sudden or gradual?
 

@@ -52,7 +52,7 @@ All division is in the mind (<span data-tippy-content="Individual consciousness.
 
 **Q:**&ensp;Can’t they coëxist, as the tumult of the waves and the quiet of the deep coëxist in the ocean.
 
-**M:**&ensp;Beyond the mind there is no such thing as experience. Experience is a dual state. You cannot talk of reälity as an experience. Once this is understood, you will no longer look for being and becoming as separate and opposite. In reälity they are one and inseparable, like roots and branches of the same tree. Both can exist only in the light of consciousness, which again, arises in the wake of the sense ‘I Am’. This is the primary fact. If you miss it, you miss all.
+**M:**&ensp;Beyond the mind there is no such thing as experience. Experience is a dual state. You cannot talk of reälity as an experience. Once this is understood, you will no longer look for being and becoming as separate and opposite. In reälity they are one and inseparable, like roots and branches of the same tree. Both can exist only in the light of consciousness, which again, arises in the wake of the sense ‘I am’. This is the primary fact. If you miss it, you miss all.
 
 **Q:**&ensp;Is the sense of being a product of experience only? The great saying (<span data-tippy-content="The sublime pronouncement. Four <em>Upanishad</em>ic declarations, expressing the highest <em>Vedant</em>ic truths, are known as <em>Maha-vakya</em>s. They are: <em>Prajnanam Brahman</em> (consciousness is Brahman), <em>aham Brahmasmi</em> (I am Brahman), <em>tat tvam asi</em> (That Thou Art) and <em>ayam atma Brahma</em> (the self is Brahman).">Maha-vakya</span>), <span data-tippy-content="[<em>tat</em>, that + <em>sat</em>, truth, being, reälity] That is the truth. The sacred text is “<em>Om Tat Sat</em>” in which <em>Brahman</em> is identified by each of the three words.">“Tat-Sat”</span>, is it a mere mode of mentation?
 
@@ -60,7 +60,7 @@ All division is in the mind (<span data-tippy-content="Individual consciousness.
 
 **Q:**&ensp;Is the conviction ‘I Am That’ false?
 
-**M:**&ensp;Of course. Conviction is a mental state. In ‘That’ there is no ‘I Am’. With the sense ‘I Am’ emerging, ‘That’ is obscured, as with the sun rising the stars are wiped out. But as with the sun comes light, so with the sense of self comes bliss (*chidananda*). The cause of bliss is sought in the ‘not—I’ and thus the bondage begins.
+**M:**&ensp;Of course. Conviction is a mental state. In ‘That’ there is no ‘I am’. With the sense ‘I am’ emerging, ‘That’ is obscured, as with the sun rising the stars are wiped out. But as with the sun comes light, so with the sense of self comes bliss (*chidananda*). The cause of bliss is sought in the ‘not—I’ and thus the bondage begins.
 
 **Q:**&ensp;In your daily life are you always conscious of your real state?
 

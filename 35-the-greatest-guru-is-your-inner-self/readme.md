@@ -12,7 +12,7 @@
 
 **Q:**&ensp;Is it a matter of the known and the knower becoming one?
 
-**M:**&ensp;Both are ideas in the mind, and words that express them. There is no self in them. The self is neither, between nor beyond. To look for it on the mental level is futile. Stop searching, and see — it is here and now — it is that ‘I Am’ you know so well. All you need to do is to cease taking yourself to be within the field of consciousness. Unless you have already considered these matters carefully, listening to me once will not do. Forget your past experiences and achievements, stand naked, exposed to the winds and rains of life and you will have a chance.
+**M:**&ensp;Both are ideas in the mind, and words that express them. There is no self in them. The self is neither, between nor beyond. To look for it on the mental level is futile. Stop searching, and see — it is here and now — it is that ‘I am’ you know so well. All you need to do is to cease taking yourself to be within the field of consciousness. Unless you have already considered these matters carefully, listening to me once will not do. Forget your past experiences and achievements, stand naked, exposed to the winds and rains of life and you will have a chance.
 
 **Q:**&ensp;Has devotion (<span data-tippy-content="Devotion, adoration. Hence <em>bhakta</em>, a devotee.">bhakti</span>) any place in your teaching?
 

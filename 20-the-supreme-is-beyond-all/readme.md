@@ -6,7 +6,7 @@
 
 **Maharaj:**&ensp;Whatever you may say will be both true and false. Words do not reach beyond the mind.
 
-**Q:**&ensp;I am just trying to understand. You are telling us of the Person, the Self and the Supreme (<span data-tippy-content="Person, the outer self.">vyakti</span>, <span data-tippy-content="Manifest matter, the evolved nature. Opposite is <em>avyakta</em>.">vyakta</span>, <span data-tippy-content="Unmanifest. Opposite is <em>vyakta</em>.">avyakta</span>). The light of Pure Awareness (<span data-tippy-content="Cognitive consciousness, pure awareness, higher consciousness.">pragna</span>), focussed as ‘I Am’ in the Self (<span data-tippy-content="[<em>Atman</em> + doërship is <em>jiva</em>.] The individual soul. According to <em>Vedanta</em>, <em>jiva</em> comes into being as a result of the false identification of the <em>atman</em> with body, senses and mind.">jivatma</span>), as consciousness (<span data-tippy-content="Consciousness, inner awakening.">chetana</span>) illumines the mind (<span data-tippy-content="The psyche, mind. Mind in a collective sense, including intelligence (<em>buddhi</em>), ego (<em>ahamkara</em>) and mind (<em>manas</em>).">antahkarana</span>) and as life (<span data-tippy-content="The breath of life, vital principle.">prana</span>) vitalises the body (<span data-tippy-content="Physical body.">deha</span>). All this is fine as far as the words go. But when it comes to distinguishing in myself the person from the Self and the Self from the Supreme, I get mixed up.
+**Q:**&ensp;I am just trying to understand. You are telling us of the Person, the Self and the Supreme (<span data-tippy-content="Person, the outer self.">vyakti</span>, <span data-tippy-content="Manifest matter, the evolved nature. Opposite is <em>avyakta</em>.">vyakta</span>, <span data-tippy-content="Unmanifest. Opposite is <em>vyakta</em>.">avyakta</span>). The light of Pure Awareness (<span data-tippy-content="Cognitive consciousness, pure awareness, higher consciousness.">pragna</span>), focussed as ‘I am’ in the Self (<span data-tippy-content="[<em>Atman</em> + doërship is <em>jiva</em>.] The individual soul. According to <em>Vedanta</em>, <em>jiva</em> comes into being as a result of the false identification of the <em>atman</em> with body, senses and mind.">jivatma</span>), as consciousness (<span data-tippy-content="Consciousness, inner awakening.">chetana</span>) illumines the mind (<span data-tippy-content="The psyche, mind. Mind in a collective sense, including intelligence (<em>buddhi</em>), ego (<em>ahamkara</em>) and mind (<em>manas</em>).">antahkarana</span>) and as life (<span data-tippy-content="The breath of life, vital principle.">prana</span>) vitalises the body (<span data-tippy-content="Physical body.">deha</span>). All this is fine as far as the words go. But when it comes to distinguishing in myself the person from the Self and the Self from the Supreme, I get mixed up.
 
 **M:**&ensp;The person is never the subject. You can see a person, but you are not the person. You are always the Supreme which appears at a given point of time and space as the witness, a bridge between the pure awareness of the Supreme and the manifold consciousness of the person.
 
@@ -20,7 +20,7 @@
 
 **Q:**&ensp;Yet they all say, “I am”.
 
-**M:**&ensp;It is only because you identify yourself with them. Once you realise that whatever appears before you cannot be yourself, and cannot say, “I am”, you are free of all your ‘persons’ and their demands. The sense ‘I Am’ is your own. You cannot part with it, but you can impart it to anything, as in saying, “I am young. I am rich etc.”. But such self-identifications are patently false and the cause of bondage.
+**M:**&ensp;It is only because you identify yourself with them. Once you realise that whatever appears before you cannot be yourself, and cannot say, “I am”, you are free of all your ‘persons’ and their demands. The sense ‘I am’ is your own. You cannot part with it, but you can impart it to anything, as in saying, “I am young. I am rich etc.”. But such self-identifications are patently false and the cause of bondage.
 
 **Q:**&ensp;I can now understand that I am not the person, but that which, when reflected in the person, gives it a sense of being. Now, about the Supreme? In what way do I know myself as the Supreme?
 
@@ -56,7 +56,7 @@
 
 **Q:**&ensp;No purposeful action is then possible?
 
-**M:**&ensp;All I say is that consciousness contains all. In consciousness all is possible. You can have causes if you want them, in *your* world. Another may be content with a single cause — God’s will. The root cause is one: the sense ‘I Am’.
+**M:**&ensp;All I say is that consciousness contains all. In consciousness all is possible. You can have causes if you want them, in *your* world. Another may be content with a single cause — God’s will. The root cause is one: the sense ‘I am’.
 
 **Q:**&ensp;What is the link between the Self (*Vyakta*) and the Supreme (*Avyakta*)?
 
@@ -72,7 +72,7 @@
 
 **Q:**&ensp;The world is full of desires: Everybody wants something or other. Who is the desirer? The person or the self?
 
-**M:**&ensp;The self. All desires, holy and unholy, come from the self; they all hang on the sense ‘I Am’.
+**M:**&ensp;The self. All desires, holy and unholy, come from the self; they all hang on the sense ‘I am’.
 
 **Q:**&ensp;I can understand holy desires (<span data-tippy-content="He who longs for the sublime truth.">satyakama</span>) emanating from the self. It may be the expression of the bliss aspect of the <span data-tippy-content="The ultimate principle with the three attributes in absolute perfection (<em>sat</em>, being + <em>chit</em>, consciousness + <em>ananda</em>, bliss).">Sad-Chit-Ananda</span> (Beingness — Awareness — Happiness) of the Self. But why unholy desires?
 
@@ -130,7 +130,7 @@ Enquiry also wakes you up. You need not wait for suffering; enquiry into happine
 
 **Q:**&ensp;But is there anything beyond the Self?
 
-**M:**&ensp;Outside the Self there is nothing. All is one and all is contained in ‘I Am’. In the waking and dream states it is the person. In deep sleep and <span data-tippy-content="The superconscious state of <em>samadhi</em>, (<em>turiya</em>, fourth), the fourth state of soul in which it becomes one with <em>Brahman</em>, the highest awareness.">turiya</span> it is the Self. Beyond the alert intentness of *turiya* lies the great, silent peace of the Supreme. But in fact all is one in essence and related in appearance. In ignorance the seer becomes the seen and in wisdom he is the seeing.
+**M:**&ensp;Outside the Self there is nothing. All is one and all is contained in ‘I am’. In the waking and dream states it is the person. In deep sleep and <span data-tippy-content="The superconscious state of <em>samadhi</em>, (<em>turiya</em>, fourth), the fourth state of soul in which it becomes one with <em>Brahman</em>, the highest awareness.">turiya</span> it is the Self. Beyond the alert intentness of *turiya* lies the great, silent peace of the Supreme. But in fact all is one in essence and related in appearance. In ignorance the seer becomes the seen and in wisdom he is the seeing.
 
 But why be concerned with the Supreme? Know the knowers and all will be known. 
 

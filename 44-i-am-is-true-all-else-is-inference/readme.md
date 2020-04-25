@@ -1,6 +1,6 @@
 # 44. ‘I Am’ is True, All Else is Inference
 
->By no effort of logic or imagination can you change the ‘I Am’ into ‘I am not’. In the very denial of your being you assert it. Once you realise that the world is your own projection, you are free of it.
+>By no effort of logic or imagination can you change the ‘I am’ into ‘I am not’. In the very denial of your being you assert it. Once you realise that the world is your own projection, you are free of it.
 
 **Maharaj:**&ensp;The perceiver of the world, is he prior to the world, or does he come into being along with the world?
 
@@ -22,7 +22,7 @@
 
 **Q:**&ensp;Is the witness of ignorance separate from ignorance? Is not to say, “I am ignorant”, a part of ignorance?
 
-**M:**&ensp;Of course. All I can say truly is, “I am”; all else is inference. But the inference has become a habit. Destroy all habits of thinking and seeing. The sense ‘I Am’ is the manifestation of a deeper cause, which you may call self, God, reälity or by any other name. The ‘I Am’ is in the world; but it is the key which can open the door out of the world. The moon dancing on the water is seen in the water, but it is caused by the moon in the sky and not by the water.
+**M:**&ensp;Of course. All I can say truly is, “I am”; all else is inference. But the inference has become a habit. Destroy all habits of thinking and seeing. The sense ‘I am’ is the manifestation of a deeper cause, which you may call self, God, reälity or by any other name. The ‘I am’ is in the world; but it is the key which can open the door out of the world. The moon dancing on the water is seen in the water, but it is caused by the moon in the sky and not by the water.
 
 **Q:**&ensp;Still the main point seems to escape me. I can admit that the world in which I live and move and have my being is of my own creation, a projection of myself, of my imagination, on the unknown world, the world as it is, the world of ‘absolute matter’, whatever this matter may be. The world of my own creation may be quite unlike the ultimate, the real world, just like the cinema screen is quite unlike the pictures projected onto it. Nevertheless, this absolute world exists, quite independent of myself.
 
@@ -38,7 +38,7 @@
 
 **Q:**&ensp;How does one break the spell?
 
-**M:**&ensp;Assert your independence in thought and action. After all, all hangs on your faith in yourself, on the conviction that what you see and hear, think and feel is real. Why not question your faith? No doubt, this world is painted by you on the screen of consciousness and is entirely your own private world. Only your sense ‘I Am’, though in the world, is not of the world. By no effort of logic or imagination can you change the ‘I Am’ into ‘I am not’. In the very denial of your being you assert it. Once you realise that the world is your own projection, you are free of it. You need not free yourself of a world that does not exist, except in your own imagination! However is the picture, beautiful or ugly, you are painting it and you are not bound by it. Realise that there is nobody to force it on you, that it is due to the habit of taking the imaginary to be real. See the Imaginary as imaginary and be free of fear. 
+**M:**&ensp;Assert your independence in thought and action. After all, all hangs on your faith in yourself, on the conviction that what you see and hear, think and feel is real. Why not question your faith? No doubt, this world is painted by you on the screen of consciousness and is entirely your own private world. Only your sense ‘I am’, though in the world, is not of the world. By no effort of logic or imagination can you change the ‘I am’ into ‘I am not’. In the very denial of your being you assert it. Once you realise that the world is your own projection, you are free of it. You need not free yourself of a world that does not exist, except in your own imagination! However is the picture, beautiful or ugly, you are painting it and you are not bound by it. Realise that there is nobody to force it on you, that it is due to the habit of taking the imaginary to be real. See the Imaginary as imaginary and be free of fear. 
 
 Just as the colours in this carpet are brought out by light but light is not the colour, so is the world caused by you but you are not the world. 
 
@@ -50,7 +50,7 @@ That which creates and sustains the world, you may call it God or providence, bu
 
 Learn to look without imagination, to listen without distortion: that is all. Stop attributing names and shapes to the essentially nameless and formless, realise that every mode of perception is subjective, that what is seen or heard, touched or smelt, felt or thought, expected or imagined, is in the mind and not in reälity, and you will experience peace and freedom from fear. 
 
-Even the sense of ‘I Am’ is composed of the pure light and the sense of being. The ‘I’ is there even without the ‘am’. So is the pure light there whether you say ‘I’ or not. Become aware of that pure light and you will never lose it. The beingness in being, the awareness in consciousness, the interest in every experience — that is not describable, yet perfectly accessible, for there is nothing else.
+Even the sense of ‘I am’ is composed of the pure light and the sense of being. The ‘I’ is there even without the ‘am’. So is the pure light there whether you say ‘I’ or not. Become aware of that pure light and you will never lose it. The beingness in being, the awareness in consciousness, the interest in every experience — that is not describable, yet perfectly accessible, for there is nothing else.
 
 **Q:**&ensp;You talk of reälity directly — as the all-pervading, ever-present, eternal, all-knowing, all-energizing first cause. There are other teachers, who refuse to discuss reälity at all. They say reälity is beyond the mind while all discussions are within the realm of the mind, which is the home of the unreal. Their approach is negative; they pinpoint the unreal and thus go beyond it into the real.
 

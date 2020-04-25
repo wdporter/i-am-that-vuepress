@@ -68,7 +68,7 @@
 
 **Q:**&ensp;You mean to say that this was enough?
 
-**M:**&ensp;What more needs be done? It was quite a lot to remember the *Guru* and his words. My advice to you is even less difficult than this — just remember yourself. ‘I Am’, is enough to heal your mind and take you beyond. Just have some trust. I don’t mislead you. Why should I? Do I want anything from you? I wish you well — such is my nature. Why should I mislead you? 
+**M:**&ensp;What more needs be done? It was quite a lot to remember the *Guru* and his words. My advice to you is even less difficult than this — just remember yourself. ‘I am’, is enough to heal your mind and take you beyond. Just have some trust. I don’t mislead you. Why should I? Do I want anything from you? I wish you well — such is my nature. Why should I mislead you? 
 
 Commonsense too will tell you that to fulfil a desire you must keep your mind on it. If you want to know your true nature, you must have yourself in mind all the time, until the secret of your being stands revealed.
 
