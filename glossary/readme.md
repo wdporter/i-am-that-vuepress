@@ -18,6 +18,8 @@ pageClass: glossary-class
 
 **Atma, Atman:**&ensp;the Supreme Self, the individual soul. *Atman* is beyond all the three *gunas* of *prakriti*. It is not the *atman* that acts but only the *prakriti*.
 
+**<em>Atma-bhakti:**&ensp;worship of the Supreme.
+
 **<em>atmaram:</em>**&ensp;rejoicing in the Self.
 
 **avatara:**&ensp;incarnation.
@@ -97,6 +99,8 @@ pageClass: glossary-class
 **<em>mantra:</em>**&ensp;incantation, hymn, an instrument of thought, ideal sounds visualised as letters and vocalised as syllables. A mantra is a group of words whose constant repetition produces specific results.
 
 **<em>marga:</em>**&ensp;path.
+
+**<em>moksha-sankalpa:</em>**&ensp;determination to be free from the false.
 
 **<em>mukmukshuttva:</em>**&ensp;right desire, which consists of earnestness to know the Ultimate Principle to attain liberation. In *Vedanta*, one of the four qualifications of the seeker of the Truth: right discrimination (*viveka*), right passion (*vairagya*), right conduct (*sat-sampat*) and right desire (*mumukshattva*). *Mumukshattva* is intense longing for liberation.
 
@@ -181,6 +185,8 @@ pageClass: glossary-class
 **<em>tat–sat:</em>**&ensp;[*tat*, that + *sat*, truth, being, reälity] that is the truth. The sacred text is “*Om Tat Sat*” in which *Brahman* is identified by each of the three words.
 
 **<em>turiya:</em>**&ensp;the superconscious state of *samadhi*, (*turiya*, fourth), the fourth state of soul in which it becomes one with *Brahman*, the highest awareness.
+
+**<em>turiyatita:</em>**&ensp;beyond the highest awareness.
 
 **<em>tyaga:</em>**&ensp;renunciation. *Tyaga* is the renunciation of the fruits of all works: i.e., the *tyagi* should perform *karma* with detachment and with no desire for results.
 

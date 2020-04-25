@@ -106,7 +106,8 @@ module.exports = {
 			{
 				title: "61–70",
 				children: [
-					"/61-matter-is-consciousness-itself"
+					"/61-matter-is-consciousness-itself/",
+					"/62-in-the-supreme-the-witness-appears/"
 				]
 			},
 			{
