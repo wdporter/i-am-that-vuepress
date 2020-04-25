@@ -1,4 +1,4 @@
-# 2. Obsession with the body
+# 2. Obsession with the Body
 
 >…get rid of the tendency to define yourself. All definitions apply to your body only and to its expressions. Once this obsession with the body leaves, you will revert to your natural state spontaneously and effortlessly.
 

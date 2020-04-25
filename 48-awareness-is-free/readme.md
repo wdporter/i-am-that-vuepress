@@ -26,7 +26,7 @@
 
 **M:**&ensp;The main thing is to be free of negative emotions — desire, fear etc., the ‘six enemies’ of the mind. Once the mind is free of them, the rest will come easily. Just as cloth kept in soap water will become clean, so will the mind get purified in the stream of pure feeling. 
 
-When you sit quiet and watch yourself, all kinds of things may come to the surface. Do nothing about them, don’t react to them: as they have come so will they go, by themselves. All that matters is mindfulness, total awareness of oneself or,  rather, of one’s mind.
+When you sit quiet and watch yourself, all kinds of things may come to the surface. Do nothing about them, don’t reäct to them: as they have come so will they go, by themselves. All that matters is mindfulness, total awareness of oneself or,  rather, of one’s mind.
 
 **Q:**&ensp;By ‘oneself’ do you mean the daily self?
 
@@ -150,7 +150,7 @@ Even destiny is but an idea. Words can be put together in so many ways! Statemen
 
 **Q:**&ensp;Are you not at all concerned about the state of the world? Look at the horrors in East Pakistan [Bangladesh]. Do they not touch you at all?
 
-**M:**&ensp;I am reading newspapers, I know what is going on! But my reaction is not like yours. You are looking for a cure, while I am concerned with prevention. As long as there are causes, there must also be results. As long as people are bent on dividing and separating, as long as they are selfish and aggressive, such things will happen. If you want peace and harmony in the world, you must have peace and harmony in your hearts and minds. Such change cannot be imposed; it must come from within. Those who abhor war must get war out of their system. Without peaceful people how can you have peace in the world? As long as people are as they are, the world must be as it is. I am doing my part in trying to help people to know themselves as the only cause of their own misery. In that sense I am a useful man. But what I am in myself, what is my normal state cannot be expressed in terms of social consciousness and usefulness. 
+**M:**&ensp;I am reading newspapers, I know what is going on! But my reäction is not like yours. You are looking for a cure, while I am concerned with prevention. As long as there are causes, there must also be results. As long as people are bent on dividing and separating, as long as they are selfish and aggressive, such things will happen. If you want peace and harmony in the world, you must have peace and harmony in your hearts and minds. Such change cannot be imposed; it must come from within. Those who abhor war must get war out of their system. Without peaceful people how can you have peace in the world? As long as people are as they are, the world must be as it is. I am doing my part in trying to help people to know themselves as the only cause of their own misery. In that sense I am a useful man. But what I am in myself, what is my normal state cannot be expressed in terms of social consciousness and usefulness. 
 
 I may talk about it, use metaphors or parables, but I am acutely aware that it is just not so. Not that it cannot be experienced. It is experiencing itself! But it cannot be described in the terms of a mind that must separate and oppose in order to know. 
 

@@ -58,7 +58,7 @@ As to method, there is only one — you must come to know yourself — both what
 
 **M:**&ensp;The entire universe contributes incessantly to your existence. Hence the entire universe is your body. In that sense — I agree.
 
-**Q:**&ensp;My body influences me deeply. In more than one way my body is my destiny. My character, my moods, the nature of my reactions, my desires and fears — inborn or acquired — they are all based on the body. A little alcohol, some drug or other and all changes. Until the drug wears off I become another man.
+**Q:**&ensp;My body influences me deeply. In more than one way my body is my destiny. My character, my moods, the nature of my reäctions, my desires and fears — inborn or acquired — they are all based on the body. A little alcohol, some drug or other and all changes. Until the drug wears off I become another man.
 
 **M:**&ensp;All this happens because you think yourself to be the body. Realise your real self and even drugs will have no power over you.
 

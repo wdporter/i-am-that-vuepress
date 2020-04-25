@@ -34,7 +34,7 @@
 
 **M:**&ensp;Of course. But the idea ‘my body’, as different from other bodies, is not there. To me it is ‘*a* body’, not ‘my body’, ‘*a* mind’, not ‘my mind’. The mind looks after the body all right, I need not interfere. What needs be done is beïng done, in the normal and natural way. 
 
-You may not be quite conscious of your physiological functions, but when it comes to thoughts and feelings, desires and fears you become acutely self-conscious. To me these too are largely unconscious. I find myself talking to people, or doing things quite correctly and appropriately, without beïng very much conscious of them. It looks as if I live my physical, waking life automatically, reacting spontaneously and accurately.
+You may not be quite conscious of your physiological functions, but when it comes to thoughts and feelings, desires and fears you become acutely self-conscious. To me these too are largely unconscious. I find myself talking to people, or doing things quite correctly and appropriately, without beïng very much conscious of them. It looks as if I live my physical, waking life automatically, reäcting spontaneously and accurately.
 
 **Q:**&ensp;Does this spontaneous response come as a result of realisation, or by training?
 
@@ -42,7 +42,7 @@ You may not be quite conscious of your physiological functions, but when it come
 
 **Q:**&ensp;Don’t you have desires and fears any more?
 
-**M:**&ensp;My destiny was to be born a simple man, a commoner, a humble tradesman, with little of formal education. My life was the common kind, with common desires and fears. When, through my faith in my teacher and obedience to his words, I realised my true beïng, I left behind my human nature to look after itself, until its destiny is exhausted. Occasionally an old reaction, emotional or mental, happens in the mind, but it is at once noticed and discarded. After all, as long as one is burdened with a person, one is exposed to its idiosyncrasies and habits.
+**M:**&ensp;My destiny was to be born a simple man, a commoner, a humble tradesman, with little of formal education. My life was the common kind, with common desires and fears. When, through my faith in my teacher and obedience to his words, I realised my true beïng, I left behind my human nature to look after itself, until its destiny is exhausted. Occasionally an old reäction, emotional or mental, happens in the mind, but it is at once noticed and discarded. After all, as long as one is burdened with a person, one is exposed to its idiosyncrasies and habits.
 
 **Q:**&ensp;Are you not afraid of death?
 
