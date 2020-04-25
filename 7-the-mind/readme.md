@@ -77,4 +77,4 @@ export default {
     tippy("[data-tippy-content]", {allowHTML: true});
   }
 }
-</script>
+</script> 
