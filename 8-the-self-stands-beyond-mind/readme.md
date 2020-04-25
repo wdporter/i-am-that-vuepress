@@ -1,8 +1,8 @@
-# 8. The Self Stands Beyond Mind 
+# 8. The Self Stands Beyond Mind
 
 >Happiness comes from the self and can be found in the self only. Find your real self (*svarupa*) and all else will come with it… ideas of movement, of restlessness, of pleasure and pain are all in the mind. The Self stands beyond the mind, aware, but unconcerned.
 
-**Questioner:**&ensp;As a child fairly often I experienced states of complete happiness, verging on ecstasy. Later, they ceased, but since I came to India they reä ppeared, particularly after I met you. Yet these states, however wonderful, are not lasting. They come and go and there is no knowing when they will come back.
+**Questioner:**&ensp;As a child, fairly often I experienced states of complete happiness, verging on ecstasy. Later, they ceased. But since I came to India they reäppeared, particularly after I met you. Yet, these states, however wonderful, are not lasting. They come and go and there is no knowing when they will come back.
 
 **Maharaj:**&ensp;How can anything be steady in a mind which itself is not steady?
 
@@ -12,13 +12,13 @@
 
 **Q:**&ensp;How is it done?
 
-**M:**&ensp;Refuse all thoughts except one: the thought, “I am”. The mind will rebel in the beginning, but with patience and perseverance it will yield and keep quiet. Once you are quiet, things will begin to happen spontaneously and quite naturally without any interference on your part.
+**M:**&ensp;Refuse all thoughts except one: the thought ‘I am’. The mind will rebel in the beginning, but with patience and perseverance it will yield and keep quiet. Once you are quiet, things will begin to happen spontaneously and quite naturally, without any interference on your part.
 
 **Q:**&ensp;Can I avoid this protracted battle with my mind?
 
 **M:**&ensp;Yes, you can. Just live your life as it comes, but alertly, watchfully, allowing everything to happen as it happens, doing the natural things the natural way, suffering, rejoicing — as life brings. This also is a way.
 
-**Q:**&ensp;Well, then I can as well marry, have children, run a business… be happy.
+**Q:**&ensp;Well, then I can as well marry, have children, run a business … be happy.
 
 **M:**&ensp;Sure. You may or may not be happy, take it in your stride.
 
@@ -28,15 +28,15 @@
 
 **Q:**&ensp;If my real self is peace and love, why is it so restless?
 
-**M:**&ensp;It is not your real beïng that is restless, but its reflection in the mind appears restless because the mind is restless. It is just like the reflection of the moon in the water stirred by the wind. The wind of desire stirs the mind and the ‘me’, which is but a reflection of the Self in the mind, appears changeful. But these ideas of movement, of restlessness, of pleasure and pain are all in the mind. The Self stands beyond the mind, aware, but unconcerned.
+**M:**&ensp;It is not your real beïng that is restless, but its reflection in the mind appears restless because the mind is restless. It is just like the reflection of the moon in the water stirred by the wind. The wind of desire stirs the mind and the ‘me’, which is but a reflection of the Self in the mind, and appears changeful. But these ideas of movement, of restlessness, of pleasure and pain are all in the mind. The Self stands beyond the mind, aware, but unconcerned.
 
-**Q:**&ensp;How to reach it?
+**Q:**&ensp;How does one reach it?
 
-**M:**&ensp;You are the Self, here and now Leave the mind alone, stand aware and unconcerned and you will realise that to stand alert but detached, watching events come and go, is an aspect of your real nature.
+**M:**&ensp;You are the Self, here and now. Leave the mind alone, stand aware and unconcerned, and you will realise that to stand alert but detached, watching events come and go, is an aspect of your real nature.
 
 **Q:**&ensp;What are the other aspects?
 
-**M:**&ensp;The aspects are infinite in number. Realise one, and you will realise all.
+**M:**&ensp;The aspects are infinite in number. Realise one and you will realise all.
 
 **Q:**&ensp;Tell me some thing that would help me.
 
@@ -54,9 +54,9 @@
 
 **M:**&ensp;What makes you unhappy?
 
-**Q:**&ensp;I have what I don’t want, and want what I don’t have.
+**Q:**&ensp;I have what I don’t want, and I want what I don’t have.
 
-**M:**&ensp;Why don’t you invert it: want what you have and care not for what you don’t have?
+ **M:**&ensp;Why don’t you invert it: want what you have and care not for what you don’t have?
 
 **Q:**&ensp;I want what is pleasant and don’t want what is painful.
 
@@ -64,25 +64,23 @@
 
 **Q:**&ensp;From past experience, of course.
 
-**M:**&ensp;Guided by memory you have been pursuing the pleasant and shunning the unpleasant. Have
-you succeeded?
+**M:**&ensp;Guided by memory you have been pursuing the pleasant and shunning the unpleasant. Have you succeeded?
 
 **Q:**&ensp;No, I have not. The pleasant does not last. Pain sets in again.
 
 **M:**&ensp;Which pain?
 
-**Q:**&ensp;The desire for pleasure, the fear of pain, both are states of distress. Is there a state of unalloyed pleasure?
+**Q:**&ensp;The desire for pleasure, the fear of pain — both are states of distress. Is there a state of unalloyed pleasure?
 
-**M:**&ensp;Every pleasure, physical or mental, needs an instrument. Both the physical and mental 
-instruments are material, they get tired and worn out. The pleasure they yield is necessarily limited in intensity and duration. Pain is the background of all your pleasures. You want them because you suffer. On the other hand, the very search for pleasure is the cause of pain. It is a vicious circle.
+**M:**&ensp;Every pleasure, physical or mental, needs an instrument. Both the physical and mental instruments are material; they get tired and worn out. The pleasure they yield is necessarily limited in intensity and duration. Pain is the background of all your pleasures. You want them because you suffer. On the other hand, the very search for pleasure is the cause of pain. It is a vicious circle.
 
 **Q:**&ensp;I can see the mechanism of my confusion, but I do not see my way out of it.
 
-**M:**&ensp;The very examination of the mechanism shows the way. After all, your confusion is only in your mind, which never rebelled so far against confusion and never got to grips with it. It rebelled only against pain.
+**M:**&ensp;The very examination of the mechanism shows the way. After all, your confusion is only in your mind, which never rebelled so far against confusion and never came to grips with it. It rebelled only against pain.
 
-**Q:**&ensp;So, all I can do is to stay confused?
+**Q:**&ensp;So all I can do is remain confused?
 
-**M:**&ensp;Be alert. Question, observe, investigate, learn all you can about confusion, how it operates, what it does to you and others. By beïng clear about confusion you become clear of confusion.
+**M:**&ensp;Be alert. Question, observe, investigate; learn all you can about confusion, how it operates, what it does to you and others. By beïng clear about confusion, you become clear of confusion.
 
 **Q:**&ensp;When I look into myself, I find my strongest desire is to create a monument, to build something which will outlast me. Even when I think of a home, wife and child, it is because it is a lasting, solid testimony to myself.
 
@@ -90,12 +88,11 @@ instruments are material, they get tired and worn out. The pleasure they yield i
 
 **Q:**&ensp;It matters little what I build, as long as it is permanent.
 
-**M:**&ensp;Surely, you can see for yourself that nothing is permanent. All wears out, breaks down, dissolves. The very ground on which you build gives way. What can you build that will outlast all?
+**M:**&ensp;Surely you can see for yourself that nothing is permanent. All wears out, breaks down, dissolves. The very ground on which you build gives way. What can you build that will outlast all?
 
-**Q:**&ensp;Intellectually, verbally, I am aware that all is transient. Yet, somehow my heart wants
-permanency. I want to create something that lasts.
+**Q:**&ensp;Intellectually, verbally, I am aware that all is transient. Yet, somehow my heart wants permanency. I want to create something that lasts.
 
-**M:**&ensp;Then you must build it of something lasting. What have you that is lasting? Neither your body nor mind will last. You must look elsewhere.
+**M:**&ensp;Then you must build it of something lasting. What do you have that is lasting? Neither your body nor mind will last. You must look elsewhere.
 
 **Q:**&ensp;I long for permanency, but I find it nowhere.
 
@@ -103,17 +100,17 @@ permanency. I want to create something that lasts.
 
 **Q:**&ensp;I was born, I shall die.
 
-**M:**&ensp;Can you truly say you were not before you were born and can you possibly say when dead, “Now I am no more”? You cannot say from your own experience that you are not. You can only say, “I am”. Others too cannot tell you, “you are not”.
+**M:**&ensp;Can you truly say you were not before you were born and can you possibly say when dead, “Now I am no more”? You cannot say from your own experience that you are not. You can only say, “I am”. Others, too, cannot tell you, “you are not”.
 
 **Q:**&ensp;There is no ‘I am’ in sleep.
 
-**M:**&ensp;Before you make such sweeping statements, examine carefully your waking state. You will soon discover that it is full of gaps, when the mind blanks out. Notice how little you remember even when fully awake. You just don’t remember. A gap in memory is not necessarily a gap in consciousness.
+**M:**&ensp;Before you make such sweeping statements, examine carefully your waking state. You will soon discover that it is full of gaps when the mind goes blank. Notice how little you remember even when fully awake. You cannot say that you were not conscious during sleep. You just don’t remember. A gap in memory is not necessarily a gap in consciousness.
 
 **Q:**&ensp;Can I make myself remember my state of deep sleep?
 
-**M:**&ensp;Of course! By eliminating the intervals of inadvertence during your waking hours you will gradually eliminate the long interval of absent-mindedness, which you call sleep. You will be aware that you are asleep.
+**M:**&ensp;Of course! By eliminating the intervals of inadvertence during your waking hours you will gradually eliminate the long interval of absent-mindedness which you call sleep. You will be aware that you are asleep.
 
-**Q:**&ensp;Yet, the problem of permanency, of continuity of beïng, is not solved.
+**Q:**&ensp;Yet the problem of permanency, of continuity of beïng, is not solved.
 
 **M:**&ensp;Permanency is a mere idea, born of the action of time. Time again depends of memory. By permanency you mean unfailing memory through endless time. You want to eternalise the mind, which is not possible.
 
@@ -135,7 +132,7 @@ permanency. I want to create something that lasts.
 
 **Q:**&ensp;Surely everybody deserves peace.
 
-**M:**&ensp;Those only deserve it, who don’t disturb it.
+**M:**&ensp;Only those who don’t disturb it deserve it.
 
 **Q:**&ensp;In what way do I disturb peace?
 
@@ -143,7 +140,7 @@ permanency. I want to create something that lasts.
 
 **Q:**&ensp;Even when they are justified?
 
-**M:**&ensp;Emotional reactions, born of ignorance or inadvertence, are never justified. Seek a clear mind and a clean heart. All you need is to keep quietly alert, enquiring into the real nature of yourself. This is the only way to peace.
+**M:**&ensp;Emotional reäctions, born of ignorance or inadvertence, are never justified. Seek a clear mind and a clean heart. All you need is to keep quietly alert, enquiring into the real nature of yourself. This is the only way to peace.
 
 <script>
 export default {
