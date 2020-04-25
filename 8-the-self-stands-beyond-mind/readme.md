@@ -28,7 +28,7 @@
 
 **Q:**&ensp;If my real self is peace and love, why is it so restless?
 
-**M:**&ensp;It is not your real being that is restless, but its reflection in the mind appears restless because the mind is restless. It is just like the reflection of the moon in the water stirred by the wind. The wind of desire stirs the mind and the ‘me’, which is but a reflection of the Self in the mind, appears changeful. But these ideas of movement, of restlessness, of pleasure and pain are all in the mind. The Self stands beyond the mind, aware, but unconcerned.
+**M:**&ensp;It is not your real beïng that is restless, but its reflection in the mind appears restless because the mind is restless. It is just like the reflection of the moon in the water stirred by the wind. The wind of desire stirs the mind and the ‘me’, which is but a reflection of the Self in the mind, appears changeful. But these ideas of movement, of restlessness, of pleasure and pain are all in the mind. The Self stands beyond the mind, aware, but unconcerned.
 
 **Q:**&ensp;How to reach it?
 
@@ -82,7 +82,7 @@ instruments are material, they get tired and worn out. The pleasure they yield i
 
 **Q:**&ensp;So, all I can do is to stay confused?
 
-**M:**&ensp;Be alert. Question, observe, investigate, learn all you can about confusion, how it operates, what it does to you and others. By being clear about confusion you become clear of confusion.
+**M:**&ensp;Be alert. Question, observe, investigate, learn all you can about confusion, how it operates, what it does to you and others. By beïng clear about confusion you become clear of confusion.
 
 **Q:**&ensp;When I look into myself, I find my strongest desire is to create a monument, to build something which will outlast me. Even when I think of a home, wife and child, it is because it is a lasting, solid testimony to myself.
 
@@ -113,7 +113,7 @@ permanency. I want to create something that lasts.
 
 **M:**&ensp;Of course! By eliminating the intervals of inadvertence during your waking hours you will gradually eliminate the long interval of absent-mindedness, which you call sleep. You will be aware that you are asleep.
 
-**Q:**&ensp;Yet, the problem of permanency, of continuity of being, is not solved.
+**Q:**&ensp;Yet, the problem of permanency, of continuity of beïng, is not solved.
 
 **M:**&ensp;Permanency is a mere idea, born of the action of time. Time again depends of memory. By permanency you mean unfailing memory through endless time. You want to eternalise the mind, which is not possible.
 
@@ -139,7 +139,7 @@ permanency. I want to create something that lasts.
 
 **Q:**&ensp;In what way do I disturb peace?
 
-**M:**&ensp;By being a slave to your desires and fears.
+**M:**&ensp;By beïng a slave to your desires and fears.
 
 **Q:**&ensp;Even when they are justified?
 

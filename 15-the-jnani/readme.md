@@ -1,10 +1,10 @@
 # 15. The *Jnani*
 
->The *jnani* is the supreme and also the witness. He is both being and awareness. In relation to consciousness he is awareness. In relation to the universe he is pure being.
+>The *jnani* is the supreme and also the witness. He is both beïng and awareness. In relation to consciousness he is awareness. In relation to the universe he is pure beïng.
 
 **Questioner:**&ensp;Without God’s power nothing can be done. Even you would not be sitting here and talking to us without Him.
 
-**Maharaj:**&ensp;All is His doing, no doubt. What is it to me, since I want nothing? What can God give me, or take away from me? What is mine is mine and was mine even when God was not. Of course, it is a very tiny little thing, a speck — the sense ‘I am’, the fact of being. This is my own place, nobody gave it to me. The earth is mine; what grows on it is God’s.
+**Maharaj:**&ensp;All is His doing, no doubt. What is it to me, since I want nothing? What can God give me, or take away from me? What is mine is mine and was mine even when God was not. Of course, it is a very tiny little thing, a speck — the sense ‘I am’, the fact of beïng. This is my own place, nobody gave it to me. The earth is mine; what grows on it is God’s.
 
 **Q:**&ensp;Did God take the earth on rent from you?
 
@@ -80,11 +80,11 @@
 
 **Q:**&ensp;Who is the <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span>? The witness or the supreme?
 
-**M:**&ensp;The *jnani* is the supreme and also the witness. He is both being and awareness. In relation to consciousness he is awareness. In relation to the universe he is pure being.
+**M:**&ensp;The *jnani* is the supreme and also the witness. He is both beïng and awareness. In relation to consciousness he is awareness. In relation to the universe he is pure beïng.
 
 **Q:**&ensp;And what about the person? What comes first, the person or the knower? 
 
-**M:**&ensp;The person is a very small thing. Actually it is a composite, it cannot be said to exist by itself. Unperceived, it is just not there. It is but the shadow of the mind, the sum total of memories. Pure being is reflected in the mirror of the mind, as knowing. What is known takes the shape of a person, based on memory and habit. It is but a shadow, or a projection of the knower onto the screen of the mind.
+**M:**&ensp;The person is a very small thing. Actually it is a composite, it cannot be said to exist by itself. Unperceived, it is just not there. It is but the shadow of the mind, the sum total of memories. Pure beïng is reflected in the mirror of the mind, as knowing. What is known takes the shape of a person, based on memory and habit. It is but a shadow, or a projection of the knower onto the screen of the mind.
 
 **Q:**&ensp;The mirror is there, the reflection is there. But where is the sun?
 

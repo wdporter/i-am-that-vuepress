@@ -2,7 +2,7 @@
 
 >Life itself is the Supreme <span style=font-style:normal>Guru</span>; be attentive to its lessons and obedient to its commands. When you personalise their source, you have an outer <span style=font-style:normal>Guru</span>; when you take them from life directly, the <span style=font-style:normal>Guru</span> is within.
 
-**Questioner:**&ensp;We two came from far off countries; one of us is British, the other American. The world in which we were born is falling apart and, being young, we are concerned. The old people hope they will die their own death, but the young have no such hope. Some of us may refuse to kill, but none can refuse to be killed. Can we hope to set the world right within our lifetime?
+**Questioner:**&ensp;We two came from far off countries; one of us is British, the other American. The world in which we were born is falling apart and, beïng young, we are concerned. The old people hope they will die their own death, but the young have no such hope. Some of us may refuse to kill, but none can refuse to be killed. Can we hope to set the world right within our lifetime?
 
 **Maharaj:**&ensp;What makes you think that the world is going to perish?
 
@@ -70,7 +70,7 @@
 
 **M:**&ensp;What more needs be done? It was quite a lot to remember the *Guru* and his words. My advice to you is even less difficult than this — just remember yourself. ‘I am’, is enough to heal your mind and take you beyond. Just have some trust. I don’t mislead you. Why should I? Do I want anything from you? I wish you well — such is my nature. Why should I mislead you? 
 
-Commonsense too will tell you that to fulfil a desire you must keep your mind on it. If you want to know your true nature, you must have yourself in mind all the time, until the secret of your being stands revealed.
+Commonsense too will tell you that to fulfil a desire you must keep your mind on it. If you want to know your true nature, you must have yourself in mind all the time, until the secret of your beïng stands revealed.
 
 **Q:**&ensp;Why should self-remembrance bring one to self-realisation?
 
@@ -96,7 +96,7 @@ Commonsense too will tell you that to fulfil a desire you must keep your mind on
 
 **M:**&ensp;Writing is both a talent and a skill. Grow in talent and develop in skill. Desire what is worth desiring and desire it well. Just like you pick your way in a crowd, passing between people, so you find your way between events, without missing your general direction. It is easy, if you are earnest.
 
-**Q:**&ensp;So many times you mention the need of being earnest. But we are not men of single will. We are congeries of desires and needs, instincts and promptings. They crawl over each other, sometimes one, sometimes another dominating, but never for long.
+**Q:**&ensp;So many times you mention the need of beïng earnest. But we are not men of single will. We are congeries of desires and needs, instincts and promptings. They crawl over each other, sometimes one, sometimes another dominating, but never for long.
 
 **M:**&ensp;There are no needs, desires only.
 

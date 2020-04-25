@@ -48,27 +48,27 @@
 
 **Q:**&ensp;What remains?
 
-**M:**&ensp;You remain as pure being.
+**M:**&ensp;You remain as pure beïng.
 
 **Q:**&ensp;And what becomes of the world and of God?
 
-**M:**&ensp;Pure being (<span data-tippy-content="Unmanifest. Opposite is <em>vyakta</em>">avyakta</span>).
+**M:**&ensp;Pure beïng (<span data-tippy-content="Unmanifest. Opposite is <em>vyakta</em>">avyakta</span>).
 
-**Q:**&ensp;Is it the same as the Great Expanse (<span data-tippy-content="The great expanse, the timeless and spaceless reälity; the Absolute being.">paramakash</span>)?
+**Q:**&ensp;Is it the same as the Great Expanse (<span data-tippy-content="The great expanse, the timeless and spaceless reälity; the Absolute beïng.">paramakash</span>)?
 
 **M:**&ensp;You may call it so. Words do not matter, for they do not reach it. They turn back in utter negation.
 
 **Q:**&ensp;How can I see the world as God? What does it mean to see the world as God?
 
-**M:**&ensp;It is like entering a dark room. You see nothing — you may touch, but you do not see — no colours, no outlines. The window opens and the room is flooded with light. Colours and shapes come into being. The window is the giver of light, but not the source of it. The sun is the source. Similarly, matter is like the dark room: consciousness — the window — flooding matter with sensations and perceptions, and the Supreme is the sun the source both of matter and of light. The window may be closed, or open, the sun shines all the time. It makes all the difference to the room, but none to the sun. Yet all this is secondary to the tiny little thing which is the ‘I am’. Without the ‘I am’ there is nothing. All knowledge is about the ‘I am’. False ideas about this ‘I am’ lead to bondage, right knowledge leads to freedom and happiness.
+**M:**&ensp;It is like entering a dark room. You see nothing — you may touch, but you do not see — no colours, no outlines. The window opens and the room is flooded with light. Colours and shapes come into beïng. The window is the giver of light, but not the source of it. The sun is the source. Similarly, matter is like the dark room: consciousness — the window — flooding matter with sensations and perceptions, and the Supreme is the sun the source both of matter and of light. The window may be closed, or open, the sun shines all the time. It makes all the difference to the room, but none to the sun. Yet all this is secondary to the tiny little thing which is the ‘I am’. Without the ‘I am’ there is nothing. All knowledge is about the ‘I am’. False ideas about this ‘I am’ lead to bondage, right knowledge leads to freedom and happiness.
 
 **Q:**&ensp;Is ‘I am’ and ‘there is’ the same?
 
-**M:**&ensp;‘I am’ denotes the inner, ‘there is’ — the outer. Both are based on the sense of being.
+**M:**&ensp;‘I am’ denotes the inner, ‘there is’ — the outer. Both are based on the sense of beïng.
 
 **Q:**&ensp;Is it the same as the experience of existence?
 
-**M:**&ensp;To exist means to be something, a thing, a feeling, a thought, an idea. All existence is particular. Only being is universal, in the sense that every being is compatible with every other being. Existences clash, being — never. Existence means becoming, change, birth and death and birth again, while in being there is silent peace.
+**M:**&ensp;To exist means to be something, a thing, a feeling, a thought, an idea. All existence is particular. Only beïng is universal, in the sense that every beïng is compatible with every other beïng. Existences clash, beïng — never. Existence means becoming, change, birth and death and birth again, while in beïng there is silent peace.
 
 **Q:**&ensp;If I create the world, why have I made it bad?
 

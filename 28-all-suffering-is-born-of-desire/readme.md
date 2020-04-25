@@ -24,7 +24,7 @@
 
 **Q:**&ensp;What can I do? They come, they go. l look at them. Sometimes I see my body and my mind engaged in fulfilling them.
 
-**M:**&ensp;Whose desires are being fulfilled?
+**M:**&ensp;Whose desires are beïng fulfilled?
 
 **Q:**&ensp;They are a part of the world in which I live. They are just as trees and clouds are there.
 
@@ -46,7 +46,7 @@
 
 **M:**&ensp;Do you need to work?
 
-**Q:**&ensp;I need it for the sake of money. I like it, because it puts me in touch with living beings.
+**Q:**&ensp;I need it for the sake of money. I like it, because it puts me in touch with living beïngs.
 
 **M:**&ensp;What do you need them for?
 
@@ -100,7 +100,7 @@
 
 **Q:**&ensp;Why is life so full of contradictions?
 
-**M:**&ensp;It serves to break down mental pride. We must realise how poor and powerless we are. As long as we delude ourselves by what we imagine ourselves to be, to know, to have, to do, we are in a sad plight indeed. Only in complete self-negation there is a chance to discover our real being.
+**M:**&ensp;It serves to break down mental pride. We must realise how poor and powerless we are. As long as we delude ourselves by what we imagine ourselves to be, to know, to have, to do, we are in a sad plight indeed. Only in complete self-negation there is a chance to discover our real beïng.
 
 **Q:**&ensp;Why so much stress on self-negation?
 
@@ -108,7 +108,7 @@
 
 **Q:**&ensp;The self you choose to call false is to me most distressingly real. It is the only self I know. What you call the real self is a mere concept, a way of speaking, a creature of the mind, an attractive ghost. My daily self is not a beauty, I admit, but it is my own and only self. You say I am, or have, another self. Do you see it — is it a reälity to you, or do you want me to believe what you yourself don’t see?
 
-**M:**&ensp;Don’t jump to conclusions rashly. The concrete need not be the real, the conceived need not be false. Perceptions based on sensations and shaped by memory imply a perceiver, whose nature you never cared to examine. Give it your full attention, examine it with loving care and you will discover heights and depths of being which you did not dream of, engrossed as you are in your puny image of yourself.
+**M:**&ensp;Don’t jump to conclusions rashly. The concrete need not be the real, the conceived need not be false. Perceptions based on sensations and shaped by memory imply a perceiver, whose nature you never cared to examine. Give it your full attention, examine it with loving care and you will discover heights and depths of beïng which you did not dream of, engrossed as you are in your puny image of yourself.
 
 **Q:**&ensp;I must be in the right mood to examine myself fruitfully.
 
@@ -124,7 +124,7 @@
 
 **Q:**&ensp;What is the place of sex in love?
 
-**M:**&ensp;Love is a state of being. Sex is energy. Love is wise; sex is blind. Once the true nature of love and sex is understood there will be no conflict or confusion.
+**M:**&ensp;Love is a state of beïng. Sex is energy. Love is wise; sex is blind. Once the true nature of love and sex is understood there will be no conflict or confusion.
 
 **Q:**&ensp;There is so much sex without love.
 

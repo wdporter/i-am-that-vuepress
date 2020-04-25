@@ -8,7 +8,7 @@
 
 **Q:**&ensp;Does not a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> feel sorrow when his child dies, does he not suffer?
 
-**M:**&ensp;He suffers with those who suffer. The event itself is of little importance, but he is full of compassion for the suffering being, whether alive or dead, in the body or out of it. After all, love and compassion are his very nature. He is one with all that lives and love is that oneness in action.
+**M:**&ensp;He suffers with those who suffer. The event itself is of little importance, but he is full of compassion for the suffering beïng, whether alive or dead, in the body or out of it. After all, love and compassion are his very nature. He is one with all that lives and love is that oneness in action.
 
 **Q:**&ensp;People are very much afraid of death.
 
@@ -68,7 +68,7 @@
 
 **Q:**&ensp;If you would talk like this in the West, people would take you for mad.
 
-**M:**&ensp;Of course, they would! To the ignorant all that they can not understand is madness. What of it? Let them be as they are. I am as I am, for no merit of mine and they are as they are, for no fault of theirs. The Supreme Reälity manifests itself in innumerable ways. Infinite in number are its names and shapes. All arise, all merge in the same ocean, the source of all is one. Looking for causes and results is but the pastime of the mind. What is, is lovable. Love is not a result, it is the very ground of being. Wherever you go, you will find being, consciousness and love. Why, and what for, make preferences?
+**M:**&ensp;Of course, they would! To the ignorant all that they can not understand is madness. What of it? Let them be as they are. I am as I am, for no merit of mine and they are as they are, for no fault of theirs. The Supreme Reälity manifests itself in innumerable ways. Infinite in number are its names and shapes. All arise, all merge in the same ocean, the source of all is one. Looking for causes and results is but the pastime of the mind. What is, is lovable. Love is not a result, it is the very ground of beïng. Wherever you go, you will find beïng, consciousness and love. Why, and what for, make preferences?
 
 **Q:**&ensp;When by natural causes thousands and millions of lives are extinguished (as it happens in floods and earthquakes), I do not grieve. But when one man dies at the hand of man, I grieve extremely. The inevitable has its own majesty, but killing is avoidable and, therefore, ugly and altogether horrible.
 

@@ -16,7 +16,7 @@
 
 **Q:**&ensp;Is it not so? The *Yogi* is afraid of life and seeks peace, while the *Bhogi* is adventurous, full of spirits, forward going. The *Yogi* is bound by an ideal, while the *Bhogi* is ever ready to explore.
 
-**M:**&ensp;It is a matter of wanting much or being satisfied with little. The *Yogi* is ambitious while the *Bhogi* is merely adventurous. Your *Bhogi* seems to be richer and more interesting, but it is not so in reälity. The *Yogi* is narrow as the sharp edge of the knife. He has to be — to cut deep and smoothly, to penetrate unerringly the many layers of the false. The *Bhogi* worships at many altars; the *Yogi* serves none but his own true Self. 
+**M:**&ensp;It is a matter of wanting much or beïng satisfied with little. The *Yogi* is ambitious while the *Bhogi* is merely adventurous. Your *Bhogi* seems to be richer and more interesting, but it is not so in reälity. The *Yogi* is narrow as the sharp edge of the knife. He has to be — to cut deep and smoothly, to penetrate unerringly the many layers of the false. The *Bhogi* worships at many altars; the *Yogi* serves none but his own true Self. 
 
 There is no purpose in opposing the *Yogi* to the *Bhogi*. The way of outgoing (<span data-tippy-content="Penchant, predilection towards worldly life.">pravritti</span>) necessarily precedes the way of returning (<span data-tippy-content="Liberation from worldly existence, renunciation.">nivritti</span>). To sit in judgement and allot marks is ridiculous. Everything contributes to the ultimate perfection. Some say there are three aspects of reälity — Truth–Wisdom–Bliss. He who seeks Truth becomes a *Yogi*, he who seeks wisdom becomes a *jnani*; he who seeks happiness becomes the man of action.
 
@@ -34,7 +34,7 @@ There is no purpose in opposing the *Yogi* to the *Bhogi*. The way of outgoing (
 
 **Q:**&ensp;How do you see things?
 
-**M:**&ensp;One and all are the same to me. The same consciousness (<span data-tippy-content="Universal consciousness.">chit</span>) appears as being (<span data-tippy-content="“The ideal; pure and true essence (nature)” of an entity or existence. It can thus be concluded as “the self-existent or universal spirit, Brahman”. Opposite is ‘<em>asat</em>’.">sat</span>) and as bliss (<span data-tippy-content="Bliss, happiness.">ananda</span>): *Chit* in movement is *Ananda*; *Chit* motionless is being.
+**M:**&ensp;One and all are the same to me. The same consciousness (<span data-tippy-content="Universal consciousness.">chit</span>) appears as beïng (<span data-tippy-content="“The ideal; pure and true essence (nature)” of an entity or existence. It can thus be concluded as “the self-existent or universal spirit, Brahman”. Opposite is ‘<em>asat</em>’.">sat</span>) and as bliss (<span data-tippy-content="Bliss, happiness.">ananda</span>): *Chit* in movement is *Ananda*; *Chit* motionless is beïng.
 
 **Q:**&ensp;Still you are making a distinction between motion and motionlessness.
 
@@ -44,7 +44,7 @@ All division is in the mind (<span data-tippy-content="Individual consciousness.
 
 **Q:**&ensp;You seem to identify rest with the Supreme State?
 
-**M:**&ensp;There is rest as a state of mind (<span data-tippy-content="Joy of consciousness.">chidaram</span>) and there is rest as a state of being (<span data-tippy-content="Rejoicing in the Self.">atmaram</span>). The former comes and goes, while the true rest is the very heart of action. Unfortunately, language is a mental tool and works only in opposites.
+**M:**&ensp;There is rest as a state of mind (<span data-tippy-content="Joy of consciousness.">chidaram</span>) and there is rest as a state of beïng (<span data-tippy-content="Rejoicing in the Self.">atmaram</span>). The former comes and goes, while the true rest is the very heart of action. Unfortunately, language is a mental tool and works only in opposites.
 
 **Q:**&ensp;As a witness, you are working or at rest?
 
@@ -52,9 +52,9 @@ All division is in the mind (<span data-tippy-content="Individual consciousness.
 
 **Q:**&ensp;Can’t they coëxist, as the tumult of the waves and the quiet of the deep coëxist in the ocean.
 
-**M:**&ensp;Beyond the mind there is no such thing as experience. Experience is a dual state. You cannot talk of reälity as an experience. Once this is understood, you will no longer look for being and becoming as separate and opposite. In reälity they are one and inseparable, like roots and branches of the same tree. Both can exist only in the light of consciousness, which again, arises in the wake of the sense ‘I am’. This is the primary fact. If you miss it, you miss all.
+**M:**&ensp;Beyond the mind there is no such thing as experience. Experience is a dual state. You cannot talk of reälity as an experience. Once this is understood, you will no longer look for beïng and becoming as separate and opposite. In reälity they are one and inseparable, like roots and branches of the same tree. Both can exist only in the light of consciousness, which again, arises in the wake of the sense ‘I am’. This is the primary fact. If you miss it, you miss all.
 
-**Q:**&ensp;Is the sense of being a product of experience only? The great saying (<span data-tippy-content="The sublime pronouncement. Four <em>Upanishad</em>ic declarations, expressing the highest <em>Vedant</em>ic truths, are known as <em>Maha-vakya</em>s. They are: <em>Prajnanam Brahman</em> (consciousness is Brahman), <em>aham Brahmasmi</em> (I am Brahman), <em>tat tvam asi</em> (That Thou Art) and <em>ayam atma Brahma</em> (the self is Brahman).">Maha-vakya</span>), <span data-tippy-content="[<em>tat</em>, that + <em>sat</em>, truth, being, reälity] That is the truth. The sacred text is “<em>Om Tat Sat</em>” in which <em>Brahman</em> is identified by each of the three words.">“Tat-Sat”</span>, is it a mere mode of mentation?
+**Q:**&ensp;Is the sense of beïng a product of experience only? The great saying (<span data-tippy-content="The sublime pronouncement. Four <em>Upanishad</em>ic declarations, expressing the highest <em>Vedant</em>ic truths, are known as <em>Maha-vakya</em>s. They are: <em>Prajnanam Brahman</em> (consciousness is Brahman), <em>aham Brahmasmi</em> (I am Brahman), <em>tat tvam asi</em> (That Thou Art) and <em>ayam atma Brahma</em> (the self is Brahman).">Maha-vakya</span>), <span data-tippy-content="[<em>tat</em>, that + <em>sat</em>, truth, beïng, reälity] That is the truth. The sacred text is “<em>Om Tat Sat</em>” in which <em>Brahman</em> is identified by each of the three words.">“Tat-Sat”</span>, is it a mere mode of mentation?
 
 **M:**&ensp;Whatever is spoken is speech only. Whatever is thought is thought only. The real meaning is unexplainable, though experienceable. The *Maha-vakya* is true, but your ideas are false, for all ideas (<span data-tippy-content="Imagination, fancy.">kalpana</span>) are false.
 
@@ -68,23 +68,23 @@ All division is in the mind (<span data-tippy-content="Individual consciousness.
 
 **Q:**&ensp;But what gives you courage?
 
-**M:**&ensp;How perverted are your views! Need courage be given? Your question implies that anxiety is the normal state and courage is abnormal. It is the other way round. Anxiety and hope are born of imagination — I am free of both. I am simple *being* and I need nothing to rest on.
+**M:**&ensp;How perverted are your views! Need courage be given? Your question implies that anxiety is the normal state and courage is abnormal. It is the other way round. Anxiety and hope are born of imagination — I am free of both. I am simple *beïng* and I need nothing to rest on.
 
-**Q:**&ensp;Unless you know yourself, of what use is your being to you? To be happy with what you are, you must know what you are.
+**Q:**&ensp;Unless you know yourself, of what use is your beïng to you? To be happy with what you are, you must know what you are.
 
-**M:**&ensp;Being shines as knowing, knowing is warm in love. It is all one. You imagine separations and trouble yourself with questions. Don’t concern yourself overmuch with formulations. Pure being cannot be described.
+**M:**&ensp;Beïng shines as knowing, knowing is warm in love. It is all one. You imagine separations and trouble yourself with questions. Don’t concern yourself overmuch with formulations. Pure beïng cannot be described.
 
 **Q:**&ensp;Unless a thing is knowable and enjoyable, it is of no use to me. It must become a part of my experience, first of all.
 
-**M:**&ensp;You are dragging down reälity to the level of experience. How can reälity depend on experience, when it is the very ground (<span data-tippy-content="Support.">adhar</span>) of experience. Reälity is in the very fact of experience, not in its nature. Experience is, after all, a state of mind, while being is definitely not a state of mind.
+**M:**&ensp;You are dragging down reälity to the level of experience. How can reälity depend on experience, when it is the very ground (<span data-tippy-content="Support.">adhar</span>) of experience. Reälity is in the very fact of experience, not in its nature. Experience is, after all, a state of mind, while beïng is definitely not a state of mind.
 
-**Q:**&ensp;Again I am confused! Is being separate from knowing?
+**Q:**&ensp;Again I am confused! Is beïng separate from knowing?
 
-**M:**&ensp;The separation is an appearance. Just as the dream is not apart from the dreamer, so is knowing not apart from being. The dream is the dreamer, the knowledge is the knower, the distinction is merely verbal.
+**M:**&ensp;The separation is an appearance. Just as the dream is not apart from the dreamer, so is knowing not apart from beïng. The dream is the dreamer, the knowledge is the knower, the distinction is merely verbal.
 
-**Q:**&ensp;I can see now that *sat* and *chit* are one. But what about bliss (*ananda*)? Being and consciousness are always present together, but bliss flashes only occasionally.
+**Q:**&ensp;I can see now that *sat* and *chit* are one. But what about bliss (*ananda*)? Beïng and consciousness are always present together, but bliss flashes only occasionally.
 
-**M:**&ensp;The undisturbed state of being is bliss; the disturbed state is what appears as the world. In nonduality there is bliss; in duality — experience. What comes and goes is experience with its duality of pain and pleasure. Bliss is not to be known. One is always bliss, but never blissful. Bliss is not an attribute.
+**M:**&ensp;The undisturbed state of beïng is bliss; the disturbed state is what appears as the world. In nonduality there is bliss; in duality — experience. What comes and goes is experience with its duality of pain and pleasure. Bliss is not to be known. One is always bliss, but never blissful. Bliss is not an attribute.
 
 **Q:**&ensp;I have another question to ask: Some *Yogi*s attain their goal, but it is of no use to others. They do not know, or are not able to share. Those who can share out what they have, initiate others. Where lies the difference?
 

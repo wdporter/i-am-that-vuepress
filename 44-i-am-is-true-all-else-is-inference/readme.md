@@ -1,14 +1,14 @@
 # 44. ‘I Am’ is True, All Else is Inference
 
->By no effort of logic or imagination can you change the ‘I am’ into ‘I am not’. In the very denial of your being you assert it. Once you realise that the world is your own projection, you are free of it.
+>By no effort of logic or imagination can you change the ‘I am’ into ‘I am not’. In the very denial of your beïng you assert it. Once you realise that the world is your own projection, you are free of it.
 
-**Maharaj:**&ensp;The perceiver of the world, is he prior to the world, or does he come into being along with the world?
+**Maharaj:**&ensp;The perceiver of the world, is he prior to the world, or does he come into beïng along with the world?
 
 **Questioner:**&ensp;What a strange question! Why do you ask such questions?
 
 **M:**&ensp;Unless you know the correct answer, you will not find peace.
 
-**Q:**&ensp;When I wake up in the morning, the world is already there, waiting for me. Surely the world comes into being first. I do, but much later, at the earliest at my birth. The body mediates between me and the world. Without the body there would be neither me nor the world.
+**Q:**&ensp;When I wake up in the morning, the world is already there, waiting for me. Surely the world comes into beïng first. I do, but much later, at the earliest at my birth. The body mediates between me and the world. Without the body there would be neither me nor the world.
 
 **M:**&ensp;The body appears in your mind, your mind is the content of your consciousness; you are the motionless witness of the river of consciousness which changes eternally without changing you in any way. Your own changelessness is so obvious that you do not notice it. Have a good look at yourself and all these misapprehensions and misconceptions will dissolve. Just as all the little watery lives are in water and cannot be without water, so all the universe is in you and cannot be without you.
 
@@ -24,7 +24,7 @@
 
 **M:**&ensp;Of course. All I can say truly is, “I am”; all else is inference. But the inference has become a habit. Destroy all habits of thinking and seeing. The sense ‘I am’ is the manifestation of a deeper cause, which you may call self, God, reälity or by any other name. The ‘I am’ is in the world; but it is the key which can open the door out of the world. The moon dancing on the water is seen in the water, but it is caused by the moon in the sky and not by the water.
 
-**Q:**&ensp;Still the main point seems to escape me. I can admit that the world in which I live and move and have my being is of my own creation, a projection of myself, of my imagination, on the unknown world, the world as it is, the world of ‘absolute matter’, whatever this matter may be. The world of my own creation may be quite unlike the ultimate, the real world, just like the cinema screen is quite unlike the pictures projected onto it. Nevertheless, this absolute world exists, quite independent of myself.
+**Q:**&ensp;Still the main point seems to escape me. I can admit that the world in which I live and move and have my beïng is of my own creation, a projection of myself, of my imagination, on the unknown world, the world as it is, the world of ‘absolute matter’, whatever this matter may be. The world of my own creation may be quite unlike the ultimate, the real world, just like the cinema screen is quite unlike the pictures projected onto it. Nevertheless, this absolute world exists, quite independent of myself.
 
 **M:**&ensp;Quite so, the world of Absolute Reälity, onto which your mind has projected a world of relative unreälity is independent of yourself, for the very simple reason that it *is* yourself. 
 
@@ -38,7 +38,7 @@
 
 **Q:**&ensp;How does one break the spell?
 
-**M:**&ensp;Assert your independence in thought and action. After all, all hangs on your faith in yourself, on the conviction that what you see and hear, think and feel is real. Why not question your faith? No doubt, this world is painted by you on the screen of consciousness and is entirely your own private world. Only your sense ‘I am’, though in the world, is not of the world. By no effort of logic or imagination can you change the ‘I am’ into ‘I am not’. In the very denial of your being you assert it. Once you realise that the world is your own projection, you are free of it. You need not free yourself of a world that does not exist, except in your own imagination! However is the picture, beautiful or ugly, you are painting it and you are not bound by it. Realise that there is nobody to force it on you, that it is due to the habit of taking the imaginary to be real. See the Imaginary as imaginary and be free of fear. 
+**M:**&ensp;Assert your independence in thought and action. After all, all hangs on your faith in yourself, on the conviction that what you see and hear, think and feel is real. Why not question your faith? No doubt, this world is painted by you on the screen of consciousness and is entirely your own private world. Only your sense ‘I am’, though in the world, is not of the world. By no effort of logic or imagination can you change the ‘I am’ into ‘I am not’. In the very denial of your beïng you assert it. Once you realise that the world is your own projection, you are free of it. You need not free yourself of a world that does not exist, except in your own imagination! However is the picture, beautiful or ugly, you are painting it and you are not bound by it. Realise that there is nobody to force it on you, that it is due to the habit of taking the imaginary to be real. See the Imaginary as imaginary and be free of fear. 
 
 Just as the colours in this carpet are brought out by light but light is not the colour, so is the world caused by you but you are not the world. 
 
@@ -50,17 +50,17 @@ That which creates and sustains the world, you may call it God or providence, bu
 
 Learn to look without imagination, to listen without distortion: that is all. Stop attributing names and shapes to the essentially nameless and formless, realise that every mode of perception is subjective, that what is seen or heard, touched or smelt, felt or thought, expected or imagined, is in the mind and not in reälity, and you will experience peace and freedom from fear. 
 
-Even the sense of ‘I am’ is composed of the pure light and the sense of being. The ‘I’ is there even without the ‘am’. So is the pure light there whether you say ‘I’ or not. Become aware of that pure light and you will never lose it. The beingness in being, the awareness in consciousness, the interest in every experience — that is not describable, yet perfectly accessible, for there is nothing else.
+Even the sense of ‘I am’ is composed of the pure light and the sense of beïng. The ‘I’ is there even without the ‘am’. So is the pure light there whether you say ‘I’ or not. Become aware of that pure light and you will never lose it. The beïngness in beïng, the awareness in consciousness, the interest in every experience — that is not describable, yet perfectly accessible, for there is nothing else.
 
 **Q:**&ensp;You talk of reälity directly — as the all-pervading, ever-present, eternal, all-knowing, all-energizing first cause. There are other teachers, who refuse to discuss reälity at all. They say reälity is beyond the mind while all discussions are within the realm of the mind, which is the home of the unreal. Their approach is negative; they pinpoint the unreal and thus go beyond it into the real.
 
 **M:**&ensp;The difference lies in the words only. After all, when I talk of the real, I describe it as not-unreal, space-less, time-less, cause-less, beginning-less and end-less. It comes to the same. As long as it leads to enlightenment, what does the wording matter? Does it matter whether you pull the cart or push it, as long as it is kept rolling? You may feel attracted to reälity at one time and repelled from the false at another; these are only moods which alternate; both are needed for perfect freedom. You may go one way or another — but each time it will be the right way at the moment; just go whole-heartedly, don’t waste time on doubting or hesitating. Many kinds of food are needed to make the child grow, but the act of eating is the same. Theoretically — all approaches are good. In practice, and at a given moment, you proceed by one road only. Sooner or later you are bound to discover that if you really want to find, you must dig at one place only — within. 
 
-Neither your body nor mind can give you what you seek — the being and knowing your self and the great peace that comes with it.
+Neither your body nor mind can give you what you seek — the beïng and knowing your self and the great peace that comes with it.
 
 **Q:**&ensp;Surely there is something valid and valuable in every approach.
 
-**M:**&ensp;In each case the value lies in bringing you to the need of seeking within. Playing with various approaches may be due to resistance to going within, to the fear of having to abandon the illusion of being something or somebody in particular. To find water you do not dig small pits all over the place, but drill deep in one place only. Similarly, to find your self you have to explore yourself. When you realise that you are the light of the world, you will also realise that you are the love of it; that to know is to love and to love is to know. 
+**M:**&ensp;In each case the value lies in bringing you to the need of seeking within. Playing with various approaches may be due to resistance to going within, to the fear of having to abandon the illusion of beïng something or somebody in particular. To find water you do not dig small pits all over the place, but drill deep in one place only. Similarly, to find your self you have to explore yourself. When you realise that you are the light of the world, you will also realise that you are the love of it; that to know is to love and to love is to know. 
 
 Of all the affections the love of oneself comes first. Your love of the world is the reflection of your love of yourself, for your world is of your own creation. Light and love are impersonal, but they are reflected in your mind as knowing and wishing oneself well. We are always friendly towards ourselves, but not always wise. A <span data-tippy-content="One who practices <em>yoga</em>.">Yogi</span> is a man whose goodwill is allied to wisdom.
 

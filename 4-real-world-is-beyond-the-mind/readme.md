@@ -4,13 +4,13 @@
 
 **Questioner:**&ensp;On several occasions the question has been raised as to whether the universe is subject to the law of causation, or whether it exists and functions outside the law. You seem to hold the view that it is uncaused; that everything, however small, is uncaused, arising and disappearing for no known reason whatsoever.
 
-**Maharaj:**&ensp;Causation means succession in time of events in space, the space being physical or mental. Time, space and causation are mental categories, arising and subsiding with the mind.
+**Maharaj:**&ensp;Causation means succession in time of events in space, the space beïng physical or mental. Time, space and causation are mental categories, arising and subsiding with the mind.
 
 **Q:**&ensp;As long as the mind operates, causation is a valid law.
 
-**M:**&ensp;Like everything mental, the so-called law of causation contradicts itself. No thing in existence has a particular cause — the entire universe contributes to the existence of even the smallest thing; nothing could be as it is without the universe being what it is. When the source and ground of everything is the only cause of everything, to speak of causality as a universal law is wrong. The universe is not bound by its content because its potentialities are infinite; besides, it is a manifestation or expression of a principle fundamentally and totally free.
+**M:**&ensp;Like everything mental, the so-called law of causation contradicts itself. No thing in existence has a particular cause — the entire universe contributes to the existence of even the smallest thing; nothing could be as it is without the universe beïng what it is. When the source and ground of everything is the only cause of everything, to speak of causality as a universal law is wrong. The universe is not bound by its content because its potentialities are infinite; besides, it is a manifestation or expression of a principle fundamentally and totally free.
 
-**Q:**&ensp;Yes, one can see that ultimately to speak of one thing being the only cause of another thing is altogether wrong. Yet, in actual life we invariably initiate action with a view to a result.
+**Q:**&ensp;Yes, one can see that ultimately to speak of one thing beïng the only cause of another thing is altogether wrong. Yet, in actual life we invariably initiate action with a view to a result.
 
 **M:**&ensp;Yes, there is a lot of such activity going on because of ignorance. Would people know that nothing can happen unless the entire universe makes it happen, they would achieve much more with less expenditure of energy.
 

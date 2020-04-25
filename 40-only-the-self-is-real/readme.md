@@ -10,7 +10,7 @@
 
 **Q:**&ensp;Like a play on the stage?
 
-**M:**&ensp;The play was written, planned and rehearsed. The world just spouts into being out of nothing and returns to nothing.
+**M:**&ensp;The play was written, planned and rehearsed. The world just spouts into beïng out of nothing and returns to nothing.
 
 **Q:**&ensp;Is there no creator? Was not the world in the mind of <span data-tippy-content="One of the gods of the Hindu trinity: Brahma, the creator; Vishnu, the preserver; Shiva, the destroyer.">Brahma</span>, before it was created?
 
@@ -44,15 +44,15 @@ I may perceive the world just like you, but you believe to be in it, while I see
 
 **Q:**&ensp;Let us say you are twenty-five years old. Your marriage is arranged and performed, and the household duties crowd upon you. How would you feel?
 
-**M:**&ensp;Just as I feel now. You keep on insisting that my inner state is moulded by outer events. It is just not so. Whatever happens, I remain. At the root of my being is pure awareness, a speck of intense light. This speck, by its very nature, radiates and creates pictures in space and events in time — effortlessly and spontaneously. As long as it is merely aware there are no problems. But when the discriminative mind comes into being and creates distinctions, pleasure and pain arise. During sleep the mind is in abeyance and so are pain and pleasure. The process of creation continues, but no notice is taken. The mind is a form of consciousness, and consciousness is an aspect of life. Life creates everything but the Supreme is beyond all.
+**M:**&ensp;Just as I feel now. You keep on insisting that my inner state is moulded by outer events. It is just not so. Whatever happens, I remain. At the root of my beïng is pure awareness, a speck of intense light. This speck, by its very nature, radiates and creates pictures in space and events in time — effortlessly and spontaneously. As long as it is merely aware there are no problems. But when the discriminative mind comes into beïng and creates distinctions, pleasure and pain arise. During sleep the mind is in abeyance and so are pain and pleasure. The process of creation continues, but no notice is taken. The mind is a form of consciousness, and consciousness is an aspect of life. Life creates everything but the Supreme is beyond all.
 
 **Q:**&ensp;The Supreme is the master and consciousness — his servant.
 
 **M:**&ensp;The master is in consciousness, not beyond it. In terms of consciousness the Supreme is both creation and dissolution, concretion and abstraction, the focal and the universal. It is also neither. Words do not reach there, nor mind.
 
-**Q:**&ensp;The *jnani* seems to be a very lonely being, all by himself.
+**Q:**&ensp;The *jnani* seems to be a very lonely beïng, all by himself.
 
-**M:**&ensp;He is alone, but he is all. He is not even a being. He is the beingness of all beings. Not even that. No words apply. He is what he is, the ground from which all grows.
+**M:**&ensp;He is alone, but he is all. He is not even a beïng. He is the beïngness of all beïngs. Not even that. No words apply. He is what he is, the ground from which all grows.
 
 **Q:**&ensp;Are you not afraid to die?
 

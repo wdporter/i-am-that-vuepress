@@ -1,6 +1,6 @@
-# 46. Awareness of Being is Bliss
+# 46. Awareness of Beïng is Bliss
 
->It is a matter of actual experience that the self has being independent of mind and body. It is being–awareness–bliss. Awareness of being is bliss.
+>It is a matter of actual experience that the self has beïng independent of mind and body. It is beïng–awareness–bliss. Awareness of beïng is bliss.
 
 **Questioner:**&ensp;By profession I am a physician. I began with surgery, continued with psychiatry and also wrote some books on mental health and healing by faith. I came to you to learn the laws of spiritual health.
 
@@ -32,7 +32,7 @@
 
 **Q:**&ensp;If the self is not the body nor the mind, can it exist without the body and the mind?
 
-**M:**&ensp;Yes, it can. It is a matter of actual experience that the self has being independent of mind and body. It is being–awareness–bliss. Awareness of being is bliss.
+**M:**&ensp;Yes, it can. It is a matter of actual experience that the self has beïng independent of mind and body. It is beïng–awareness–bliss. Awareness of beïng is bliss.
 
 **Q:**&ensp;It may be a matter of actual experience to you, but it is not my case. How can I come to the same experience? What practices to follow, what exercises to take up?
 
@@ -40,7 +40,7 @@
 
 **Q:**&ensp;Dangerous!
 
-**M:**&ensp;I am not asking you to commit suicide. Nor can you. You can only kill the body, you cannot stop the mental process, nor can you put an end to the person you think you are. Just remain unaffected. This complete aloofness, unconcern with mind and body is the best proof that at the core of your being you are neither mind nor body. What happens to the body and the mind may not be within your power to change, but you can always put an end to your imagining yourself to be body and mind. Whatever happens, remind yourself that only your body and mind are affected, not yourself. The more earnest you are at remembering what needs to be remembered, the sooner will you be aware of yourself as you are, for memory will become experience. Earnestness reveals being. What is imagined and willed becomes actuality — here lies the danger as well as the way out. 
+**M:**&ensp;I am not asking you to commit suicide. Nor can you. You can only kill the body, you cannot stop the mental process, nor can you put an end to the person you think you are. Just remain unaffected. This complete aloofness, unconcern with mind and body is the best proof that at the core of your beïng you are neither mind nor body. What happens to the body and the mind may not be within your power to change, but you can always put an end to your imagining yourself to be body and mind. Whatever happens, remind yourself that only your body and mind are affected, not yourself. The more earnest you are at remembering what needs to be remembered, the sooner will you be aware of yourself as you are, for memory will become experience. Earnestness reveals beïng. What is imagined and willed becomes actuality — here lies the danger as well as the way out. 
 
 Tell me, what steps have you taken to separate your real self, that in you which is changeless, from your body and mind?
 
@@ -52,9 +52,9 @@ Tell me, what steps have you taken to separate your real self, that in you which
 
 **M:**&ensp;What price are you willing to pay for reälity? Any price?
 
-**Q:**&ensp;While in theory I am ready to pay any price, in actual life again and again I am being prompted to behave in ways which come in between me and reälity. Desire carries me away.
+**Q:**&ensp;While in theory I am ready to pay any price, in actual life again and again I am beïng prompted to behave in ways which come in between me and reälity. Desire carries me away.
 
-**M:**&ensp;Increase and widen your desires till nothing but reälity can fulfil them. It is not desire that is wrong, but its narrowness and smallness. Desire is devotion. By all means be devoted to the real, the infinite, the eternal heart of being. Transform desire into love. All you want is to be happy. All your desires, whatever they may be, are expressions of your longing for happiness. Basically, you wish yourself well.
+**M:**&ensp;Increase and widen your desires till nothing but reälity can fulfil them. It is not desire that is wrong, but its narrowness and smallness. Desire is devotion. By all means be devoted to the real, the infinite, the eternal heart of beïng. Transform desire into love. All you want is to be happy. All your desires, whatever they may be, are expressions of your longing for happiness. Basically, you wish yourself well.
 
 **Q:**&ensp;I know that I should not…
 
@@ -90,4 +90,4 @@ It is the choices you make that are wrong. To imagine that some little thing —
 
 **M:**&ensp;You are not in the body, the body is in you! The mind is in you. They happen to you. They are there because you find them interesting. Your very nature has the infinite capacity to enjoy. It is full of zest and affection. It sheds its radiance on all that comes within its focus of awareness and nothing is excluded. It does not know evil nor ugliness; it hopes, it trusts, it loves. You people do not know how much you miss by not knowing your own true self. You are neither the body nor the mind, neither the fuel nor the fire. They appear and disappear according to their own laws. 
 
-That which you are, your true self, you love it, and whatever you do, you do for your own happiness. To find it, to know it and to cherish it is your basic urge. Since time immemorial you loved yourself, but never wisely. Use your body and mind wisely in the service of the self, that is all. Be true to your own self, love your self absolutely. Do not pretend that you love others as yourself. Unless you have realised them as one with yourself, you cannot love them. Don't pretend to be what you are not, don’t refuse to be what you are. Your love of others is the result of self-knowledge, not its cause. Without self-realisation, no virtue is genuine. When you know beyond all doubting that the same life flows through all that is and you are that life, you will love all naturally and spontaneously. When you realise the depth and fullness of your love of yourself, you know that every living being and the entire universe are included in your affection. But when you look at anything as separate from you, you cannot love it for you are afraid of it. Alienation causes fear and fear deepens alienation. It is a vicious circle. Only self-realisation can break it. Go for it resolutely.
+That which you are, your true self, you love it, and whatever you do, you do for your own happiness. To find it, to know it and to cherish it is your basic urge. Since time immemorial you loved yourself, but never wisely. Use your body and mind wisely in the service of the self, that is all. Be true to your own self, love your self absolutely. Do not pretend that you love others as yourself. Unless you have realised them as one with yourself, you cannot love them. Don't pretend to be what you are not, don’t refuse to be what you are. Your love of others is the result of self-knowledge, not its cause. Without self-realisation, no virtue is genuine. When you know beyond all doubting that the same life flows through all that is and you are that life, you will love all naturally and spontaneously. When you realise the depth and fullness of your love of yourself, you know that every living beïng and the entire universe are included in your affection. But when you look at anything as separate from you, you cannot love it for you are afraid of it. Alienation causes fear and fear deepens alienation. It is a vicious circle. Only self-realisation can break it. Go for it resolutely.

@@ -60,7 +60,7 @@
 
 **Q:**&ensp;And the witness depends on the real?
 
-**M:**&ensp;The witness is the reflection of the real in all its purity. It depends on the condition of the mind. Where clarity and detachment predominate, the witness–consciousness comes into being. It is just like saying that where the water is clear and quiet, the image of the moon appears. Or like daylight that appears as sparkle in the diamond.
+**M:**&ensp;The witness is the reflection of the real in all its purity. It depends on the condition of the mind. Where clarity and detachment predominate, the witness–consciousness comes into beïng. It is just like saying that where the water is clear and quiet, the image of the moon appears. Or like daylight that appears as sparkle in the diamond.
 
 **Q:**&ensp;Can there be consciousness without the witness?
 

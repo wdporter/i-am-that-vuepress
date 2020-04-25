@@ -24,17 +24,17 @@ By liberation I mean to be permanently in that wonderful state. What I am asking
 
 **M:**&ensp;On the contrary, one is always free. You are, both conscious and free to be conscious. Nobody can take this away from you. Do you ever know yourself non-existing, or unconscious?
 
-**Q:**&ensp;I may not remember, but that does not disprove my being occasionally unconscious.
+**Q:**&ensp;I may not remember, but that does not disprove my beïng occasionally unconscious.
 
 **M:**&ensp;Why not turn away from the experience to the experiencer and realise the full import of the only true statement you can make: “I am”?
 
 **Q:**&ensp;How is it done?
 
-**M:**&ensp;There is no ‘how’ here. Just keep in mind the feeling ‘I am’, merge in it, until your mind and feeling become one. By repeated attempts you will stumble on the right balance of attention and affection and your mind will be firmly established in the thought-feeling ‘I am’. Whatever you think, say or do, this sense of immutable and affectionate being remains as the ever-present background of the mind.
+**M:**&ensp;There is no ‘how’ here. Just keep in mind the feeling ‘I am’, merge in it, until your mind and feeling become one. By repeated attempts you will stumble on the right balance of attention and affection and your mind will be firmly established in the thought-feeling ‘I am’. Whatever you think, say or do, this sense of immutable and affectionate beïng remains as the ever-present background of the mind.
 
 **Q:**&ensp;And you call it liberation?
 
-**M:**&ensp;I call it normal. What is wrong with being, knowing and acting effortlessly and happily? Why consider it so unusual as to expect the immediate destruction of the body? What is wrong with the body that it should die? Correct your attitude to your body and leave it alone. Don’t pamper, don’t torture. Just keep it going, most of the time below the threshold of conscious attention.
+**M:**&ensp;I call it normal. What is wrong with beïng, knowing and acting effortlessly and happily? Why consider it so unusual as to expect the immediate destruction of the body? What is wrong with the body that it should die? Correct your attitude to your body and leave it alone. Don’t pamper, don’t torture. Just keep it going, most of the time below the threshold of conscious attention.
 
 **Q:**&ensp;The memory of my wonderful experiences haunts me. I want them back.
 
@@ -76,7 +76,7 @@ mind is not needed.
 
 **Q:**&ensp;What shall I find beyond the mind?
 
-**M:**&ensp;The direct experience of being, knowing and loving.
+**M:**&ensp;The direct experience of beïng, knowing and loving.
 
 **Q:**&ensp;How does one go beyond the mind?
 
@@ -85,7 +85,7 @@ transient, and only the ‘I am’ endures.
 
 **Q:**&ensp;I cannot give all my life to such practices. I have my duties to attend to.
 
-**M:**&ensp;By all means attend to your duties. Action, in which you are not emotionally involved and which is beneficial and does not cause suffering will not bind you. You may be engaged in several directions and work with enormous zest, yet remain inwardly free and quiet, with a mirror-like mind, which reflects all, without being affected.
+**M:**&ensp;By all means attend to your duties. Action, in which you are not emotionally involved and which is beneficial and does not cause suffering will not bind you. You may be engaged in several directions and work with enormous zest, yet remain inwardly free and quiet, with a mirror-like mind, which reflects all, without beïng affected.
 
 **Q:**&ensp;Is such a state realisable?
 

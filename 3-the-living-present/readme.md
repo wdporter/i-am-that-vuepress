@@ -2,7 +2,7 @@
 
 >There is something exceptional, unique, about the present event, which the previous or the coming do not have. There is a livingness about it, an actuality; it stands out as if illuminated. There is the ‘stamp of reälity’ on the actual, which the past and the future do not have.
 
-**Questioner:**&ensp;As I can see, there is nothing wrong with my body or with my real being. Both are not of my making and need not be improved upon. What has gone wrong is the ‘inner body’, call it mind, consciousness, <span data-tippy-content="The psyche, mind. Mind in a collective sense, including intelligence (<em>buddhi</em>), ego (<em>ahamkara</em>) and mind (<em>manas</em>).">antahkarana</span>, whatever the name.
+**Questioner:**&ensp;As I can see, there is nothing wrong with my body or with my real beïng. Both are not of my making and need not be improved upon. What has gone wrong is the ‘inner body’, call it mind, consciousness, <span data-tippy-content="The psyche, mind. Mind in a collective sense, including intelligence (<em>buddhi</em>), ego (<em>ahamkara</em>) and mind (<em>manas</em>).">antahkarana</span>, whatever the name.
 
 **Maharaj:**&ensp;What do you consider to be wrong with your mind?
 
@@ -28,7 +28,7 @@
 
 **Q:**&ensp;In deep sleep there is no experience of the present reälity.
 
-**M:**&ensp;The blankness of deep sleep is due entirely to the lack of specific memories. But a general memory of well-being is there. There is a difference in feeling when we say, “I was deeply asleep”, from, “I was absent”.
+**M:**&ensp;The blankness of deep sleep is due entirely to the lack of specific memories. But a general memory of well-beïng is there. There is a difference in feeling when we say, “I was deeply asleep”, from, “I was absent”.
 
 **Q:**&ensp;We shall repeat the question we began with: between life’s source and life’s expression (which is the body), there is the mind and its ever-changeful states. The stream of mental states is endless, meaningless and painful. Pain is the constant factor. What we call pleasure is but a gap, an interval between two painful states. Desire and fear are the woven fabric of living, and both are made of pain. Our question is: can there be a happy mind?
 

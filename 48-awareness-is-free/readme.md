@@ -34,7 +34,7 @@ When you sit quiet and watch yourself, all kinds of things may come to the surfa
 
 **Q:**&ensp;I can always observe the observer, in endless recession.
 
-**M:**&ensp;You can observe the observation, but not the observer. You know you are the ultimate observer by direct insight, not by a logical process based on observation. You are what you are, but you know what you are not. The self is known as being, the not-self is known as transient. But in reälity all is in the mind. The observed, observation and observer are mental constructs. The self alone *is*.
+**M:**&ensp;You can observe the observation, but not the observer. You know you are the ultimate observer by direct insight, not by a logical process based on observation. You are what you are, but you know what you are not. The self is known as beïng, the not-self is known as transient. But in reälity all is in the mind. The observed, observation and observer are mental constructs. The self alone *is*.
 
 **Q:**&ensp;Why does the mind create all these divisions?
 
@@ -62,7 +62,7 @@ When you sit quiet and watch yourself, all kinds of things may come to the surfa
 
 **Q:**&ensp;To do what you tell me I must be ceaselessly aware.
 
-**M:**&ensp;To be aware is to be awake. Unaware means asleep. You are aware anyhow, you need not try to be. What you need is to be aware of being aware. Be aware deliberately and consciously, broaden and deepen the field of awareness. You are always conscious of the mind, but you are not aware of yourself as being conscious.
+**M:**&ensp;To be aware is to be awake. Unaware means asleep. You are aware anyhow, you need not try to be. What you need is to be aware of beïng aware. Be aware deliberately and consciously, broaden and deepen the field of awareness. You are always conscious of the mind, but you are not aware of yourself as beïng conscious.
 
 **Q:**&ensp;As I can make out, you give distinct meanings to the words ‘mind’, ‘consciousness’, and ‘awareness’.
 
@@ -70,13 +70,13 @@ When you sit quiet and watch yourself, all kinds of things may come to the surfa
 
 **Q:**&ensp;Everybody is conscious, but not everybody is aware.
 
-**M:**&ensp;Don’t say, “everybody is conscious”. Say, “there is consciousness”, in which everything appears and disappears. Our minds are just waves on the ocean of consciousness. As waves they come and go. As ocean they are infinite and eternal. Know yourself as the ocean of being, the womb of all existence. These are all metaphors of course; the reälity is beyond description. You can know it only by being it.
+**M:**&ensp;Don’t say, “everybody is conscious”. Say, “there is consciousness”, in which everything appears and disappears. Our minds are just waves on the ocean of consciousness. As waves they come and go. As ocean they are infinite and eternal. Know yourself as the ocean of beïng, the womb of all existence. These are all metaphors of course; the reälity is beyond description. You can know it only by beïng it.
 
 **Q:**&ensp;Is the search for it worth the trouble?
 
 **M:**&ensp;Without it all is trouble. If you want to live sanely, creätively and happily and have infinite riches to share, search for what you are. 
 
-While the mind is centred in the body and consciousness is centred in the mind, awareness is free. The body has its urges and mind its pains and pleasures. Awareness is unattached and unshaken. It is lucid, silent, peaceful, alert and unafraid, without desire or fear. Meditate on it as your true being and try to be it in your daily life, and you shall realise it in its fullness. 
+While the mind is centred in the body and consciousness is centred in the mind, awareness is free. The body has its urges and mind its pains and pleasures. Awareness is unattached and unshaken. It is lucid, silent, peaceful, alert and unafraid, without desire or fear. Meditate on it as your true beïng and try to be it in your daily life, and you shall realise it in its fullness. 
 
 Mind is interested in what happens, while awareness is interested in the mind itself. The child is after the toy, but the mother watches the child, not the toy. 
 
@@ -100,7 +100,7 @@ By looking tirelessly, I became quite empty and with that emptiness all came bac
 
 **Q:**&ensp;But who is it?
 
-**M:**&ensp;Not who, but what. I’m not a person in your sense of the word, though I may appear a person to you. I am that infinite ocean of consciousness in which all happens. I am also beyond all existence and cognition, pure bliss of being. There is nothing I feel separate from, hence I am all. No thing is me, so I am nothing. 
+**M:**&ensp;Not who, but what. I’m not a person in your sense of the word, though I may appear a person to you. I am that infinite ocean of consciousness in which all happens. I am also beyond all existence and cognition, pure bliss of beïng. There is nothing I feel separate from, hence I am all. No thing is me, so I am nothing. 
 
 The same power that makes the fire burn and the water flow, the seeds sprout and the trees grow, makes me answer your questions. There is nothing personal about me, though the language and the style may appear personal. A person is a set pattern of desires and thoughts and resulting actions; there is no such pattern in my case. There is nothing I desire or fear — how can there be a pattern?
 
@@ -118,7 +118,7 @@ The same power that makes the fire burn and the water flow, the seeds sprout and
 
 **Q:**&ensp;Even the desire for realisation?
 
-**M:**&ensp;The desire to put an end to all desires is a most peculiar desire, just like the fear of being afraid is a most peculiar fear. One stops you from grabbing and the other from running. You may use the same words, but the states are not the same. The man who seeks realisation is not addicted to desires; he is a seeker who goes against desire, not with it. A general longing for liberation is only the beginning; to find the proper means and use them is the next step. The seeker has only one goal in view: to find his own true being. Of all desires it is the most ambitious, for nothing and nobody can satisfy it; the seeker and the sought are one and the search alone matters.
+**M:**&ensp;The desire to put an end to all desires is a most peculiar desire, just like the fear of beïng afraid is a most peculiar fear. One stops you from grabbing and the other from running. You may use the same words, but the states are not the same. The man who seeks realisation is not addicted to desires; he is a seeker who goes against desire, not with it. A general longing for liberation is only the beginning; to find the proper means and use them is the next step. The seeker has only one goal in view: to find his own true beïng. Of all desires it is the most ambitious, for nothing and nobody can satisfy it; the seeker and the sought are one and the search alone matters.
 
 **Q:**&ensp;The search will come to an end. The seeker will remain.
 
@@ -126,7 +126,7 @@ The same power that makes the fire burn and the water flow, the seeds sprout and
 
 **Q:**&ensp;Search means lacking, wanting, incompleteness and imperfection.
 
-**M:**&ensp;No, it means refusal and rejection of the incomplete and the imperfect. The search for reälity is itself the movement of reälity. In a way all search is for the real bliss, or the bliss of the real. But here we mean by search the search for oneself as the root of being conscious, as the light beyond the mind. This search will never end, while the restless craving for all else must end, for real progress to take place. 
+**M:**&ensp;No, it means refusal and rejection of the incomplete and the imperfect. The search for reälity is itself the movement of reälity. In a way all search is for the real bliss, or the bliss of the real. But here we mean by search the search for oneself as the root of beïng conscious, as the light beyond the mind. This search will never end, while the restless craving for all else must end, for real progress to take place. 
 
 One has to understand that the search for reälity, or God, or <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> and the search for the self are the same; when one is found, all are found. When ‘I Am‘ and ‘God Is’ become in your mind indistinguishable, then something will happen and you will know without a trace of doubt that God is because you are, you are because God is. The two are one.
 
@@ -162,7 +162,7 @@ The world is like a sheet of paper on which something is typed. The reading and 
 
 **Q:**&ensp;It may exist without my ever knowing it.
 
-**M:**&ensp;What kind of existence would it be? Can being be divorced from knowing? All being, like all knowing, relates to you. A thing is because you know it to be either in your experience or in your being. Your body and your mind exist as long as you believe so. Cease to think that they are yours and they will just dissolve. By all means let your body and mind function, but do not let them limit you. If you notice imperfections, just keep on noticing: your very giving attention to them will set your heart and mind and body right.
+**M:**&ensp;What kind of existence would it be? Can beïng be divorced from knowing? All beïng, like all knowing, relates to you. A thing is because you know it to be either in your experience or in your beïng. Your body and your mind exist as long as you believe so. Cease to think that they are yours and they will just dissolve. By all means let your body and mind function, but do not let them limit you. If you notice imperfections, just keep on noticing: your very giving attention to them will set your heart and mind and body right.
 
 **Q:**&ensp;Can I cure myself of a serious illness by merely taking cognisance of it?
 

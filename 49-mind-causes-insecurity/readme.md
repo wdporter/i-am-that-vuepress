@@ -8,7 +8,7 @@
 
 **Q:**&ensp;And how do you know that your answer is right?
 
-**M:**&ensp;Once I know the true source of the answers, I need not doubt them. From a pure source only pure water will flow. I am not concerned with people’s desires and fears. I am in tune with facts, not with opinions. Man takes his name and shape to be himself, while I take nothing to be myself. Were I to think myself to be a body known by its name, I would not have been able to answer your questions. Were I to take you to be a mere body, there would be no benefit to you from my answers. No true teacher indulges in opinions. He sees things as they are and shows them as they are. If you take people to be what they think themselves to be, you will only hurt them, as they hurt themselves so grievously all the time. But if you see them as they are in reälity, it will do them enormous good. If they ask you what to do, what practices to adopt or which way of life to follow, answer “Do nothing, just be. In being all happens naturally”.
+**M:**&ensp;Once I know the true source of the answers, I need not doubt them. From a pure source only pure water will flow. I am not concerned with people’s desires and fears. I am in tune with facts, not with opinions. Man takes his name and shape to be himself, while I take nothing to be myself. Were I to think myself to be a body known by its name, I would not have been able to answer your questions. Were I to take you to be a mere body, there would be no benefit to you from my answers. No true teacher indulges in opinions. He sees things as they are and shows them as they are. If you take people to be what they think themselves to be, you will only hurt them, as they hurt themselves so grievously all the time. But if you see them as they are in reälity, it will do them enormous good. If they ask you what to do, what practices to adopt or which way of life to follow, answer “Do nothing, just be. In beïng all happens naturally”.
 
 **Q:**&ensp;It seems to me that in your talks you use the words ‘naturally’ and ‘accidentally’ indiscriminately. I feel there is a deep difference in the meaning of the two words. The natural is orderly, subject to law — one can trust nature; the accidental is chaotic, unexpected and unpredictable. One could plead that everything is natural, subject to nature’s laws; to maintain that everything is accidental, without any cause, is surely an exaggeration.
 
@@ -36,7 +36,7 @@
 
 **Q:**&ensp;But you seem to say that all is chaos, accidental, unpredictable.
 
-**M:**&ensp;Yes, in the sense that not all the laws of being are known and not all events are predictable. The more you are able to understand, the more the universe becomes satisfactory, emotionally and mentally. Reälity is good and beautiful; we create the chaos.
+**M:**&ensp;Yes, in the sense that not all the laws of beïng are known and not all events are predictable. The more you are able to understand, the more the universe becomes satisfactory, emotionally and mentally. Reälity is good and beautiful; we create the chaos.
 
 **Q:**&ensp;If you mean to say that it is the free will of man that causes accidents, I would agree. But we have not yet discussed free will.
 
@@ -48,7 +48,7 @@
 
 **Q:**&ensp;I behave as an individual. I function on my own. I consider myself primarily, and others only in relation to myself. In short, I am busy with myself.
 
-**M:**&ensp;Well, go on being busy with yourself. On what business have you come here?
+**M:**&ensp;Well, go on beïng busy with yourself. On what business have you come here?
 
 **Q:**&ensp;On my old business of making myself safe and happy. I confess I have not been too successful. I am neither safe nor happy. Therefore, you find me here. This place is new to me, but my reason for coming here is old: the search for safe happiness, happy safety. So far I did not find it. Can you help me?
 
@@ -60,7 +60,7 @@
 
 But let us go back to what is accidental and what is spontaneous, or natural. You said nature is orderly while accident is a sign of chaos. I denied the difference and said that we call an event accidental when its causes are untraceable. There is no place for chaos in nature. Only in the mind of man there is chaos. The mind does not grasp the whole — its focus is very narrow. It sees fragments only and fails to perceive the picture. Just as a man who hears sounds, but does not understand the language, may accuse the speaker of meaningless jabbering, and be altogether wrong. What to one is a chaotic stream of sounds is a beautiful poem to another. 
 
-King Janaka once dreamt that he was a beggar. On waking up he asked his <span data-tippy-content="Spiritual teacher, preceptor.">Guru</span>, Vasishta, “Am I a king dreaming of being a beggar, or a beggar dreaming of being a king?”. 
+King Janaka once dreamt that he was a beggar. On waking up he asked his <span data-tippy-content="Spiritual teacher, preceptor.">Guru</span>, Vasishta, “Am I a king dreaming of beïng a beggar, or a beggar dreaming of beïng a king?”. 
 
 The *Guru* answered, “You are neither, you are both. You are, and yet you are not what you think yourself to be. You are because you behave accordingly; you are not because it does not last. Can you be a king or a beggar for ever? All must change. You are what does not change. What are you?”. 
 
@@ -70,7 +70,7 @@ The *Guru* said, “This is your last illusion that you are a <span data-tippy-c
 
 **Q:**&ensp;Once the Supreme State is reached, can it be shared with others?
 
-**M:**&ensp;The Supreme State is universal, here and now; everybody already shares in it. It is the state of being — knowing and liking. Who does not like to be, or does not know his own existence? But we take no advantage of this joy of being conscious, we do not go into it and purify it of all that is foreign to it. This work of mental self-purification, the cleansing of the psyche, is essential. Just as a speck in the eye, by causing inflammation, may wipe out the world, so the mistaken idea ‘I am the body–mind’ causes the self-concern, which obscures the universe. It is useless to fight the sense of being a limited and separate person unless the roots of it are laid bare. Selfishness is rooted in the mistaken ideas of oneself. Clarification of the mind is <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">Yoga</span>.
+**M:**&ensp;The Supreme State is universal, here and now; everybody already shares in it. It is the state of beïng — knowing and liking. Who does not like to be, or does not know his own existence? But we take no advantage of this joy of beïng conscious, we do not go into it and purify it of all that is foreign to it. This work of mental self-purification, the cleansing of the psyche, is essential. Just as a speck in the eye, by causing inflammation, may wipe out the world, so the mistaken idea ‘I am the body–mind’ causes the self-concern, which obscures the universe. It is useless to fight the sense of beïng a limited and separate person unless the roots of it are laid bare. Selfishness is rooted in the mistaken ideas of oneself. Clarification of the mind is <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">Yoga</span>.
 
 <script>
 export default {

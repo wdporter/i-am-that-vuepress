@@ -1,7 +1,14 @@
 # Highlights
 
+## [7. The Mind](/7-the-mind/)
 
+**Q:**&ensp;Is your world full of things and people as is mine?
 
+**M:**&ensp;No, it is full of myself.
+
+**Q:**&ensp;But do you see and hear as we do?
+
+**M:**&ensp;Yes, I appear to hear and see and talk and act, but to me it just happens, as to you digestion or perspiration happens. The body–mind machine looks after it, but leaves me out of it. Just as you do not need to worry about growing hair, so I need not worry about words and actions. They just happen and leave me unconcerned, for in my world nothing ever goes wrong.
 
 
 ## [62. In the Supreme, the Witness Appears](/62-in-the-supreme-the-witness-appears/)

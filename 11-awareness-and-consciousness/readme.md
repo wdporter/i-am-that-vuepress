@@ -4,19 +4,19 @@
 
 **Questioner:**&ensp;What do you do when asleep?
 
-**Maharaj:**&ensp;I am aware of being asleep.
+**Maharaj:**&ensp;I am aware of beïng asleep.
 
 **Q:**&ensp;Is not sleep a state of unconsciousness?
 
-**M:**&ensp;Yes, I am aware of being unconscious.
+**M:**&ensp;Yes, I am aware of beïng unconscious.
 
 **Q:**&ensp;And when awake, or dreaming?
 
-**M:**&ensp;I am aware of being awake or dreaming.
+**M:**&ensp;I am aware of beïng awake or dreaming.
 
-**Q:**&ensp;I do not catch you. What exactly do you mean? Let me make my terms clear: by being asleep I mean unconscious, by being awake I mean conscious, by dreaming I mean conscious of one’s mind, but not of the surroundings.
+**Q:**&ensp;I do not catch you. What exactly do you mean? Let me make my terms clear: by beïng asleep I mean unconscious, by beïng awake I mean conscious, by dreaming I mean conscious of one’s mind, but not of the surroundings.
 
-**M:**&ensp;Well, it is about the same with me, Yet, there seems to be a difference. In each state you forget the other two, while to me, there is but one state of being, including and transcending the three mental states of waking, dreaming and sleeping.
+**M:**&ensp;Well, it is about the same with me, Yet, there seems to be a difference. In each state you forget the other two, while to me, there is but one state of beïng, including and transcending the three mental states of waking, dreaming and sleeping.
 
 **Q:**&ensp;Do you see in the world a direction and a purpose?
 
@@ -48,7 +48,7 @@
 
 **Q:**&ensp;How does one go beyond consciousness into awareness?
 
-**M:**&ensp;Since it is awareness that makes consciousness possible, there is awareness in every state of consciousness. Therefore the very consciousness of being conscious is already a movement in awareness. Interest in your stream of consciousness takes you to awareness. It is not a new state. It is at once recognised as the original, basic existence, which is life itself, and also love and joy.
+**M:**&ensp;Since it is awareness that makes consciousness possible, there is awareness in every state of consciousness. Therefore the very consciousness of beïng conscious is already a movement in awareness. Interest in your stream of consciousness takes you to awareness. It is not a new state. It is at once recognised as the original, basic existence, which is life itself, and also love and joy.
 
 **Q:**&ensp;Since reälity is all the time with us, what does self-realisation consist of?
 

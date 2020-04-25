@@ -10,7 +10,7 @@
 
 **M:**&ensp;Are you fully and constantly aware of the difference between the habitual and the spiritual? What is the attitude of the new self to the old?
 
-**Q:**&ensp;The new just looks at the old. It is neither friendly nor inimical. It just accepts the old self along with everything else. It does not deny its being, but does not accept its value and validity.
+**Q:**&ensp;The new just looks at the old. It is neither friendly nor inimical. It just accepts the old self along with everything else. It does not deny its beïng, but does not accept its value and validity.
 
 **M:**&ensp;The new is the total denial of the old. The permissive new is not really new. It is but a new attitude of the old. The really new obliterates the old completely. The two cannot be together. Is there a process of self-denudation, a constant refusal to accept the old ideas and values, or is there just a mutual tolerance? What is their relation?
 
@@ -28,11 +28,11 @@
 
 **Q:**&ensp;I cannot say that I am now a different man. But I did discover new things about myself, states so unlike what I knew before that I feel justified in calling them new.
 
-**M:**&ensp;The old self is your own self. The state which sprouts suddenly and without cause, carries no stain of self; you may call it ‘god’. What is seedless and rootless, what does not sprout and grow, flower and fruit, what comes into being suddenly and in full glory, mysteriously and marvellously, you may call that ‘god’. It is entirely unexpected yet inevitable, infinitely familiar yet most surprising, beyond all hope yet absolutely certain. Because it is without cause, it is without hindrance. It obeys one law only; the law of freedom. Anything that implies a continuity, a sequence or a passing from stage to stage, cannot be the real. There is no progress in reälity, it is final, perfect and unrelated.
+**M:**&ensp;The old self is your own self. The state which sprouts suddenly and without cause, carries no stain of self; you may call it ‘god’. What is seedless and rootless, what does not sprout and grow, flower and fruit, what comes into beïng suddenly and in full glory, mysteriously and marvellously, you may call that ‘god’. It is entirely unexpected yet inevitable, infinitely familiar yet most surprising, beyond all hope yet absolutely certain. Because it is without cause, it is without hindrance. It obeys one law only; the law of freedom. Anything that implies a continuity, a sequence or a passing from stage to stage, cannot be the real. There is no progress in reälity, it is final, perfect and unrelated.
 
 **Q:**&ensp;How can I bring it about?
 
-**M:**&ensp;You can do nothing to bring it about, but you can avoid creating obstacles. Watch your mind, how it comes into being and how it operates. As you watch your mind, you discover your self as the watcher. When you stand motionless, only watching, you discover your self as the light behind the watcher. The source of light is dark, unknown is the source of knowledge. That source alone is. Go back to that source and abide there. It is not in the sky nor in the all-pervading ether. God is all that is great and wonderful; I am nothing, have nothing, can do nothing. Yet all comes out of me — the source is me; the root, the origin is me. 
+**M:**&ensp;You can do nothing to bring it about, but you can avoid creating obstacles. Watch your mind, how it comes into beïng and how it operates. As you watch your mind, you discover your self as the watcher. When you stand motionless, only watching, you discover your self as the light behind the watcher. The source of light is dark, unknown is the source of knowledge. That source alone is. Go back to that source and abide there. It is not in the sky nor in the all-pervading ether. God is all that is great and wonderful; I am nothing, have nothing, can do nothing. Yet all comes out of me — the source is me; the root, the origin is me. 
 
 When reälity explodes in you, you may call it experience of God. Or, rather, it is God experiencing you. God knows you when you know yourself. Reälity is not the result of a process; it is an explosion. It is definitely beyond the mind, but all you can do is to know your mind well. Not that the mind will help you, but by knowing your mind you may avoid your mind disabling you. You have to be very alert, or else your mind will play false with you. It is like watching a thief — not that you expect anything from a thief, but you do not want to be robbed. In the same way you give a lot of attention to the mind without expecting anything from it. 
 
@@ -52,7 +52,7 @@ Or, take another example. We wake and we sleep. After a day’s work sleep comes
 
 **Q:**&ensp;How does one get established in the higher state, the state of pure witnessing?
 
-**M:**&ensp;Consciousness does not shine by itself. It shines by a light beyond it. Having seen the dream-like quality of consciousness, look for the light in which it appears, which gives it being. There is the content of consciousness as well as the awareness of it.
+**M:**&ensp;Consciousness does not shine by itself. It shines by a light beyond it. Having seen the dream-like quality of consciousness, look for the light in which it appears, which gives it beïng. There is the content of consciousness as well as the awareness of it.
 
 **Q:**&ensp;I know and I know that I know.
 
@@ -72,7 +72,7 @@ Or, take another example. We wake and we sleep. After a day’s work sleep comes
 
 **Q:**&ensp;Were you always like this from the first moment of enlightenment?
 
-**M:**&ensp;The three states rotate as usual — there is waking and sleeping and waking again, but they do not happen to me. They just happen. To me nothing ever happens. There is something changeless, motionless, immovable, rocklike and unassailable; a solid mass of pure being–consciousness–bliss. I am never out of it. Nothing can take me out of it, no torture, no calamity.
+**M:**&ensp;The three states rotate as usual — there is waking and sleeping and waking again, but they do not happen to me. They just happen. To me nothing ever happens. There is something changeless, motionless, immovable, rocklike and unassailable; a solid mass of pure beïng–consciousness–bliss. I am never out of it. Nothing can take me out of it, no torture, no calamity.
 
 **Q:**&ensp;Yet, you are conscious!
 
@@ -80,7 +80,7 @@ Or, take another example. We wake and we sleep. After a day’s work sleep comes
 
 **Q:**&ensp;If I understand you rightly, this state did not come by cultivation.
 
-**M:**&ensp;There was no coming. It was so — always. There was discovery and it was sudden. Just as at birth you discover the world suddenly, as suddenly I discovered my real being.
+**M:**&ensp;There was no coming. It was so — always. There was discovery and it was sudden. Just as at birth you discover the world suddenly, as suddenly I discovered my real beïng.
 
 **Q:**&ensp;Was it clouded over and your <span data-tippy-content="The practice which produces success, <em>siddhi</em>.">sadhana</span> dissolved the mist? When your true state became clear to you, did it remain clear, or did it get obscured again? Is your condition permanent or intermittent?
 

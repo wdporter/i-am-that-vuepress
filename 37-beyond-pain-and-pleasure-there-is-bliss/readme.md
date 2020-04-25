@@ -2,11 +2,11 @@
 
 >Pain and pleasure happen, but pain is the price of pleasure, pleasure is the reward of pain. In life too you often please by hurting and hurt by pleasing. To know that pain and pleasure are one is peace.
 
-**Maharaj:**&ensp;You must realise first of all that you are the proof of everything, including yourself. None can prove your existence, because his existence must be confirmed by you first. Your being and knowing you owe nobody. Remember, you are entirely on your own. You do not come from somewhere, you do not go anywhere. You are timeless being and awareness.
+**Maharaj:**&ensp;You must realise first of all that you are the proof of everything, including yourself. None can prove your existence, because his existence must be confirmed by you first. Your beïng and knowing you owe nobody. Remember, you are entirely on your own. You do not come from somewhere, you do not go anywhere. You are timeless beïng and awareness.
 
 **Questioner:**&ensp;There is a basic difference between us. You know the real while I know only the workings of my mind. Therefore what you say is one thing, what I hear is another. What you say is true; what I understand is false, though the words are the same. There is a gap between us. How to close the gap?
 
-**M:**&ensp;Give up the idea of being what you think yourself to be and there will be no gap. By imagining yourself as separate you have created the gap. You need not cross it. Just don’t create it. All is you and yours. There is nobody else. This is a fact.
+**M:**&ensp;Give up the idea of beïng what you think yourself to be and there will be no gap. By imagining yourself as separate you have created the gap. You need not cross it. Just don’t create it. All is you and yours. There is nobody else. This is a fact.
 
 **Q:**&ensp;How strange! The very same words which to you are true, to me are false. “There is nobody else”. How obviously untrue!
 
@@ -26,7 +26,7 @@
 
 **Q:**&ensp;If reälity is my real nature, how can I ever be unready?
 
-**M:**&ensp;Unready means afraid. You are afraid of what you are. Your destination is the whole. But you are afraid that you will lose your identity. This is childishness, clinging to the toys, to your desires and fears, opinions and ideas. Give it all up and be ready for the real to assert itself. This self-assertion is best expressed in words: ‘I am’. Nothing else has being. Of this you are absolutely certain.
+**M:**&ensp;Unready means afraid. You are afraid of what you are. Your destination is the whole. But you are afraid that you will lose your identity. This is childishness, clinging to the toys, to your desires and fears, opinions and ideas. Give it all up and be ready for the real to assert itself. This self-assertion is best expressed in words: ‘I am’. Nothing else has beïng. Of this you are absolutely certain.
 
 **Q:**&ensp;‘I am’, of course, but ‘I know’ also. And I know that I am so and so, the owner of the body, in manifold relations with other owners.
 
@@ -56,31 +56,31 @@
 
 **M:**&ensp;To know that you are ill must you not be well initially?
 
-**Q:**&ensp;Oh, no. I know by comparison. If I am blind from birth and you tell me that you know things without touching them, while I must touch to know, I am aware that I am blind without knowing what does it mean to see. Similarly, I know that I am lacking something when you assert things which I cannot grasp. You are telling me such wonderful things about myself; according to you I am eternal, omnipresent, omniscient, supremely happy, creator, preserver and destroyer of all there is, the source of all life, the heart of being, the lord and the beloved of every creature. You equate me with the Ultimate Reälity, the source and the goal of all existence. I just blink, for I know myself to be a tiny little bundle of desires and fears, a bubble of suffering, a transient flash of consciousness in an ocean of darkness.
+**Q:**&ensp;Oh, no. I know by comparison. If I am blind from birth and you tell me that you know things without touching them, while I must touch to know, I am aware that I am blind without knowing what does it mean to see. Similarly, I know that I am lacking something when you assert things which I cannot grasp. You are telling me such wonderful things about myself; according to you I am eternal, omnipresent, omniscient, supremely happy, creator, preserver and destroyer of all there is, the source of all life, the heart of beïng, the lord and the beloved of every creature. You equate me with the Ultimate Reälity, the source and the goal of all existence. I just blink, for I know myself to be a tiny little bundle of desires and fears, a bubble of suffering, a transient flash of consciousness in an ocean of darkness.
 
 **M:**&ensp;Before pain was, you were. After pain had gone, you remained. Pain is transient, you are not.
 
-**Q:**&ensp;I am sorry, but I do not see what you see. From the day I was born till the day I die, pain and pleasure will weave the pattern of my life. Of being before birth and after death I know nothing. I neither accept nor deny you. I hear what you say, but I do not *know* it.
+**Q:**&ensp;I am sorry, but I do not see what you see. From the day I was born till the day I die, pain and pleasure will weave the pattern of my life. Of beïng before birth and after death I know nothing. I neither accept nor deny you. I hear what you say, but I do not *know* it.
 
 **M:**&ensp;Now you are conscious, are you not?
 
 **Q:**&ensp;Please do not ask me about before and after. I just know only what is now.
 
-**M:**&ensp;Good enough. You are conscious. Hold on to it. There are states when you are not conscious. Call it unconscious being.
+**M:**&ensp;Good enough. You are conscious. Hold on to it. There are states when you are not conscious. Call it unconscious beïng.
 
-**Q:**&ensp;Being unconscious?
+**Q:**&ensp;Beïng unconscious?
 
 **M:**&ensp;Consciousness and unconsciousness do not apply here. Existence is in consciousness, essence is independent of consciousness.
 
 **Q:**&ensp;It is void? Is it silence?
 
-**M:**&ensp;Why elaborate? Being pervades and transcends consciousness. Objective consciousness is a part of pure consciousness, not beyond it.
+**M:**&ensp;Why elaborate? Beïng pervades and transcends consciousness. Objective consciousness is a part of pure consciousness, not beyond it.
 
-**Q:**&ensp;How do you come to know a state of pure being which is neither conscious nor unconscious? All knowledge is in consciousness only. There may be such a state as the abeyance of the mind. Does consciousness then appear as the witness?
+**Q:**&ensp;How do you come to know a state of pure beïng which is neither conscious nor unconscious? All knowledge is in consciousness only. There may be such a state as the abeyance of the mind. Does consciousness then appear as the witness?
 
 **M:**&ensp;The witness only registers events. In the abeyance of the mind even the sense ‘I am’ dissolves. There is no ‘I am’ without the mind.
 
-**Q:**&ensp;Without the mind means without thoughts. ‘I am’ as a thought subsides. ‘I am’ as the sense of being remains.
+**Q:**&ensp;Without the mind means without thoughts. ‘I am’ as a thought subsides. ‘I am’ as the sense of beïng remains.
 
 **M:**&ensp;All experience subsides with the mind. Without the mind there can be no experiencer nor experience.
 
@@ -90,7 +90,7 @@
 
 **Q:**&ensp;All I know is that sometimes the mind works and sometimes it stops. The experience of mental silence I call the abeyance of the mind.
 
-**M:**&ensp;Call it silence, or void, or abeyance, the fact is that the three — experiencer, experiencing, experience — are not. In witnessing, in awareness, self-consciousness, the sense of being this or that, is not. Unidentified being remains.
+**M:**&ensp;Call it silence, or void, or abeyance, the fact is that the three — experiencer, experiencing, experience — are not. In witnessing, in awareness, self-consciousness, the sense of beïng this or that, is not. Unidentified beïng remains.
 
 **Q:**&ensp;As a state of unconsciousness?
 
@@ -112,7 +112,7 @@
 
 **M:**&ensp;All consciousness is limited and therefore painful. At the root of consciousness lies desire, the urge to experience.
 
-**Q:**&ensp;Do you mean to say that without desire there can be no consciousness? And what is the advantage of being unconscious? If I have to forego pleasure for the freedom from pain, I better keep both.
+**Q:**&ensp;Do you mean to say that without desire there can be no consciousness? And what is the advantage of beïng unconscious? If I have to forego pleasure for the freedom from pain, I better keep both.
 
 **M:**&ensp;Beyond pain and pleasure there is bliss.
 
@@ -124,7 +124,7 @@
 
 **M:**&ensp;It is a burden. Body means burden. Sensations, desires, thoughts — these are all burdens. All consciousness is of conflict.
 
-**Q:**&ensp;Reälity is described as true being, pure consciousness, infinite bliss. What has pain to do with it?
+**Q:**&ensp;Reälity is described as true beïng, pure consciousness, infinite bliss. What has pain to do with it?
 
 **M:**&ensp;Pain and pleasure happen, but pain is the price of pleasure, pleasure is the reward of pain. In life too you often please by hurting and hurt by pleasing. To know that pain and pleasure are one is peace.
 
@@ -154,7 +154,7 @@
 
 **Q:**&ensp;How inadequate are words for understanding!
 
-**M:**&ensp;Without words, what is there to understand? The need for understanding arises from misunderstanding. What I say is true, but to you it is only a theory. How will you come to know that it is true? Listen, remember, ponder, visualise and experience. Also apply it in your daily life. Have patience with me and, above all have patience with yourself, for you are your only obstacle. The way leads through yourself beyond yourself. As long as you believe only the particular to be real, conscious and happy and reject the non-dual reälity as something imagined, an abstract concept, you will find me doling out concepts and abstractions. But once you have touched the real within your own being, you will find me describing what for you is the nearest and the dearest.
+**M:**&ensp;Without words, what is there to understand? The need for understanding arises from misunderstanding. What I say is true, but to you it is only a theory. How will you come to know that it is true? Listen, remember, ponder, visualise and experience. Also apply it in your daily life. Have patience with me and, above all have patience with yourself, for you are your only obstacle. The way leads through yourself beyond yourself. As long as you believe only the particular to be real, conscious and happy and reject the non-dual reälity as something imagined, an abstract concept, you will find me doling out concepts and abstractions. But once you have touched the real within your own beïng, you will find me describing what for you is the nearest and the dearest.
 
 <script>
 export default {

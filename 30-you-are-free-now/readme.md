@@ -9,7 +9,7 @@ inexhaustible possibility. Because you <span style=font-style:normal>are</span>,
 
 **Q:**&ensp;You seem to favour the dream theory.
 
-**M:**&ensp;These are all ways of putting words together. Some favour one way, some favour another. Theories are neither right nor wrong. They are attempts at explaining the inexplicable. It is not the theory that matters, but the way it is being tested. It is the testing of the theory that makes it fruitful. Experiment with any theory you like — if you are truly earnest and honest, the attainment of reälity will be yours. As a living being you are caught in an untenable and painful situation and you are seeking a way out. You are being offered several plans of your prison, none quite true. But they all are of some value, only if you are in dead earnest. It is the earnestness that liberates and not the theory.
+**M:**&ensp;These are all ways of putting words together. Some favour one way, some favour another. Theories are neither right nor wrong. They are attempts at explaining the inexplicable. It is not the theory that matters, but the way it is beïng tested. It is the testing of the theory that makes it fruitful. Experiment with any theory you like — if you are truly earnest and honest, the attainment of reälity will be yours. As a living beïng you are caught in an untenable and painful situation and you are seeking a way out. You are beïng offered several plans of your prison, none quite true. But they all are of some value, only if you are in dead earnest. It is the earnestness that liberates and not the theory.
 
 **Q:**&ensp;Theory may be misleading and earnestness, blind.
 
@@ -21,7 +21,7 @@ inexhaustible possibility. Because you <span style=font-style:normal>are</span>,
 
 **Q:**&ensp;I feel the *Yogi* did not mean mere steadiness of purpose, resulting in ceaseless pursuit and application. He meant that with will fixed on the goal no pursuit or application are needed. The mere fact of willing attracts its object.
 
-**M:**&ensp;Whatever name you give it: will, or steady purpose, or onepointedness of the mind, you come back to earnestness, sincerity and honesty. When you are in dead earnest, you bend every incident, every second of your life to your purpose. You do not waste time and energy on other things. You are totally dedicated, call it will, or love, or plain honesty. We are complex beings, at war within and without. We contradict ourselves all the time, undoing today the work of yesterday. No wonder we are stuck. A little of integrity would make a lot of difference.
+**M:**&ensp;Whatever name you give it: will, or steady purpose, or onepointedness of the mind, you come back to earnestness, sincerity and honesty. When you are in dead earnest, you bend every incident, every second of your life to your purpose. You do not waste time and energy on other things. You are totally dedicated, call it will, or love, or plain honesty. We are complex beïngs, at war within and without. We contradict ourselves all the time, undoing today the work of yesterday. No wonder we are stuck. A little of integrity would make a lot of difference.
 
 **Q:**&ensp;What is more powerful, desire or destiny?
 
@@ -49,7 +49,7 @@ inexhaustible possibility. Because you <span style=font-style:normal>are</span>,
 
 **Q:**&ensp;But what *can* I do here and now?
 
-**M:**&ensp;You can be aware of your being — here and now.
+**M:**&ensp;You can be aware of your beïng — here and now.
 
 **Q:**&ensp;That is all?
 
@@ -57,7 +57,7 @@ inexhaustible possibility. Because you <span style=font-style:normal>are</span>,
 
 **Q:**&ensp;All my waking and dreaming I am conscious of myself. It does not help me much.
 
-**M:**&ensp;You were aware of thinking, feeling and doing. You were not aware of your *being*.
+**M:**&ensp;You were aware of thinking, feeling and doing. You were not aware of your *beïng*.
 
 **Q:**&ensp;What is the new factor you want me to bring in?
 
@@ -93,7 +93,7 @@ inexhaustible possibility. Because you <span style=font-style:normal>are</span>,
 
 **Q:**&ensp;People die willingly quite often.
 
-**M:**&ensp;Only when the alternative is worse than death. But such readiness to die flows from the same source as the will to live, a source deeper even than life itself. To be a living being is not the ultimate state; there is something beyond, much more wonderful, which is neither being nor non-being, neither living nor not-living. It is a state of pure awareness, beyond the limitations of space and time. Once the illusion that the body–mind is oneself is abandoned, death loses its terror, it becomes a part of living.
+**M:**&ensp;Only when the alternative is worse than death. But such readiness to die flows from the same source as the will to live, a source deeper even than life itself. To be a living beïng is not the ultimate state; there is something beyond, much more wonderful, which is neither beïng nor non-beïng, neither living nor not-living. It is a state of pure awareness, beyond the limitations of space and time. Once the illusion that the body–mind is oneself is abandoned, death loses its terror, it becomes a part of living.
 
 <script>
 export default {

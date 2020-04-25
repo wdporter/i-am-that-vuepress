@@ -64,7 +64,7 @@ pageClass: glossary-class
 
 **<em>jagrit-sushupti:</em>**&ensp;awakened-sleep, attentive sleep.
 
-**<em>jiva, jivatman:</em>**&ensp;[*Atman* + doërship is *jiva*.] the individual soul. According to Vedanta, *jiva* comes into being as a result of the false identification of the atman with body, senses and mind.
+**<em>jiva, jivatman:</em>**&ensp;[*Atman* + doërship is *jiva*.] the individual soul. According to Vedanta, *jiva* comes into beïng as a result of the false identification of the atman with body, senses and mind.
 
 **<em>jnana:</em>**&ensp;knowledge, especially the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”. (*jna*, to know; *jnani*, the knower).
 
@@ -82,7 +82,7 @@ pageClass: glossary-class
 
 **<em>mahakarta:</em>**&ensp;the great doër. Mind is the great doer, for it is every busy, ever engaged in something or the other.
 
-**<em>Mahatma:</em>**&ensp;enlightened being.
+**<em>Mahatma:</em>**&ensp;enlightened beïng.
 
 **<em>maha-mantra:</em>**&ensp;the great incantation (see *mantra*).
 
@@ -118,7 +118,7 @@ pageClass: glossary-class
 
 **Parabrahman:**&ensp;the Supreme Reälity.
 
-**<em>paramakash:</em>**&ensp;the great expanse, the timeless and spaceless reälity; the Absolute being.
+**<em>paramakash:</em>**&ensp;the great expanse, the timeless and spaceless reälity; the Absolute beïng.
 
 **<em>paramartha:</em>**&ensp;the sublime truth.
 
@@ -144,7 +144,7 @@ pageClass: glossary-class
 
 **<em>rajas:</em>**&ensp;motivity, activity, energy. One of the three *gunas* or qualities of matter: *sattva*, *rajas* and *tamas*. In *yoga*, egoism.
 
-**<em>sadchitananda:</em>**&ensp;the ultimate principle with the three attributes in absolute perfection (*sat*, being + *chit*, consciousness + *ananda*, bliss).
+**<em>sadchitananda:</em>**&ensp;the ultimate principle with the three attributes in absolute perfection (*sat*, beïng + *chit*, consciousness + *ananda*, bliss).
 
 **<em>sadguru:</em>**&ensp;the true spiritual teacher.
 
@@ -162,7 +162,7 @@ pageClass: glossary-class
 
 **<em>satsang:</em>**&ensp;association with the true and the wise people.
 
-**<em>sattva:</em>**&ensp;being, existence, true essence. In *yoga* the quality of purity or goodness; *sattvic* — pure, true.
+**<em>sattva:</em>**&ensp;beïng, existence, true essence. In *yoga* the quality of purity or goodness; *sattvic* — pure, true.
 
 **<em>satyakama:</em>**&ensp;he who longs for the sublime truth.
 
@@ -176,13 +176,13 @@ pageClass: glossary-class
 
 **<em>soham:</em>**&ensp;‘I Am He’.
 
-**<em>sutratma:</em>**&ensp;the connecting link between all beings. The string-like supporter of the manifested worlds, hence the pure consciousness which is the substratum of all beings. *Maharaj* uses the word for the accumulated *karma* from life to life.
+**<em>sutratma:</em>**&ensp;the connecting link between all beïngs. The string-like supporter of the manifested worlds, hence the pure consciousness which is the substratum of all beïngs. *Maharaj* uses the word for the accumulated *karma* from life to life.
 
 **<em>svarupa:</em>**&ensp;one’s own form, nature, character.
 
 **<em>tamas:</em>**&ensp;darkness, inertia, passivity. One of the three constituents (*gunas*) of the cosmic substance: *sattava*, *rajas* and *tamas*.
 
-**<em>tat–sat:</em>**&ensp;[*tat*, that + *sat*, truth, being, reälity] that is the truth. The sacred text is “*Om Tat Sat*” in which *Brahman* is identified by each of the three words.
+**<em>tat–sat:</em>**&ensp;[*tat*, that + *sat*, truth, beïng, reälity] that is the truth. The sacred text is “*Om Tat Sat*” in which *Brahman* is identified by each of the three words.
 
 **<em>turiya:</em>**&ensp;the superconscious state of *samadhi*, (*turiya*, fourth), the fourth state of soul in which it becomes one with *Brahman*, the highest awareness.
 

@@ -20,7 +20,7 @@
 
 **Q:**&ensp;And nothing remains?
 
-**M:**&ensp;Life remains. Consciousness needs a vehicle and an instrument for its manifestation. When life produces another body, another knower comes into being.
+**M:**&ensp;Life remains. Consciousness needs a vehicle and an instrument for its manifestation. When life produces another body, another knower comes into beïng.
 
 **Q:**&ensp;Is there a causal link between the successive body-knowers or body-minds?
 

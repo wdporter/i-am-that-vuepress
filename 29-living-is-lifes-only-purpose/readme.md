@@ -12,7 +12,7 @@
 
 **Q:**&ensp;What am I to learn?
 
-**M:**&ensp;To live without self-concern. For this you must know your own true being (<span data-tippy-content="One’s own form, nature, character.">svarupa</span>) as indomitable, fearless and ever victorious. Once you know with absolute certainty that nothing can trouble you but your own imagination, you come to disregard your desires, fears, concepts and ideas, and live by truth alone.
+**M:**&ensp;To live without self-concern. For this you must know your own true beïng (<span data-tippy-content="One’s own form, nature, character.">svarupa</span>) as indomitable, fearless and ever victorious. Once you know with absolute certainty that nothing can trouble you but your own imagination, you come to disregard your desires, fears, concepts and ideas, and live by truth alone.
 
 **Q:**&ensp;What may be the reason that some people succeed and others fail in *Yoga*? Is it destiny or character, or just accident?
 
@@ -38,7 +38,7 @@ Yet, all this is so in the mind only. As I see it, there is really nothing of th
 
 **Q:**&ensp;I was told that a realised man will never do anything unseemly. He will always behave in an exemplary way.
 
-**M:**&ensp;Who sets the example? Why should a liberated man necessarily follow conventions? The moment he becomes predictable, he cannot be free. His freedom lies in his being free to fulfil the need of the moment, to obey the necessity of the situation. Freedom to do what one likes is really bondage, while being free to do what one must or what is right, is real freedom.
+**M:**&ensp;Who sets the example? Why should a liberated man necessarily follow conventions? The moment he becomes predictable, he cannot be free. His freedom lies in his beïng free to fulfil the need of the moment, to obey the necessity of the situation. Freedom to do what one likes is really bondage, while beïng free to do what one must or what is right, is real freedom.
 
 **Q:**&ensp;Still there must be some way of making out who has realised and who has not. If one is indistinguishable from the other, of what use is he?
 

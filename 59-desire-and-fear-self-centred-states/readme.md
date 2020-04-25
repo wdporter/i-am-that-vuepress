@@ -2,7 +2,7 @@
 
 >Desire and fear — both are self-centred states. Between desire and fear. anger arises; with anger, hatred; and with hatred, passion for destruction. War is hatred in action, organised and equipped with all the instruments of death.
 
-**Questioner:**&ensp;I would like to go again into the question of pleasure and pain, desire and fear. I understand fear, which is memory and anticipation of pain. It is essential for the preservation of the organism and its living pattern. Needs, when felt, are painful and their anticipation is full of fear; we are rightly afraid of not being able to meet our basic needs. The relief experienced when a need is met or an anxiety allayed is entirely due to the ending of pain. We may give it positive names like pleasure, joy or happiness, but essentially it is relief from pain. It is this fear of pain that holds together our social, economic and political institutions.
+**Questioner:**&ensp;I would like to go again into the question of pleasure and pain, desire and fear. I understand fear, which is memory and anticipation of pain. It is essential for the preservation of the organism and its living pattern. Needs, when felt, are painful and their anticipation is full of fear; we are rightly afraid of not beïng able to meet our basic needs. The relief experienced when a need is met or an anxiety allayed is entirely due to the ending of pain. We may give it positive names like pleasure, joy or happiness, but essentially it is relief from pain. It is this fear of pain that holds together our social, economic and political institutions.
 
 What puzzles me is that we derive pleasure from things and states of mind which have nothing to do with survival. On the contrary, our pleasures are usually destructive. They damage or destroy the object, the instrument, and also the subject of pleasure. Otherwise, pleasure and pursuit of pleasure would be no problem. This brings me to the core of my question: Why is pleasure destructive? Why, in spite of its destructiveness, is it wanted? 
 
@@ -40,7 +40,7 @@ If you look at yourself in your moments of pleasure or pain, you will invariably
 
 **Q:**&ensp;How can I set right a tangle which is entirely below the level of my consciousness?
 
-**M:**&ensp;By being with yourself, the ‘I am’; by watching yourself in your daily life with alert interest, with the intention to understand rather than to judge, in full acceptance of whatever may emerge, because it is there you encourage the deep to come to the surface and enrich your life and consciousness with its captive energies. This is the great work of awareness: it removes obstacles and releases energies by understanding the nature of life and mind. Intelligence is the door to freedom and alert attention is the mother of intelligence.
+**M:**&ensp;By beïng with yourself, the ‘I am’; by watching yourself in your daily life with alert interest, with the intention to understand rather than to judge, in full acceptance of whatever may emerge, because it is there you encourage the deep to come to the surface and enrich your life and consciousness with its captive energies. This is the great work of awareness: it removes obstacles and releases energies by understanding the nature of life and mind. Intelligence is the door to freedom and alert attention is the mother of intelligence.
 
 **Q:**&ensp;One more question. Why does pleasure end in pain?
 

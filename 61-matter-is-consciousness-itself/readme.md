@@ -48,7 +48,7 @@
 
 **Q:**&ensp;Does your world affect mine?
 
-**M:**&ensp;At one point only — at the point of the *now*. It gives it momentary being, a fleeting sense of reälity. In full awareness the contact is established. It needs effortless, unself-conscious attention.
+**M:**&ensp;At one point only — at the point of the *now*. It gives it momentary beïng, a fleeting sense of reälity. In full awareness the contact is established. It needs effortless, unself-conscious attention.
 
 **Q:**&ensp;Is not attention an attitude of mind?
 

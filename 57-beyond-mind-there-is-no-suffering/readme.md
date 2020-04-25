@@ -12,7 +12,7 @@ I see as you see, hear as you hear, taste as you taste, eat as you eat. I also f
 
 **M:**&ensp;And what about you? Do you shape your life or are you shaped by it?
 
-**Q:**&ensp;Yes, you are right. A life story unrolls itself of which I am one of the actors. I have no being outside it, as it has no being without me. I am merely a character, not a person.
+**Q:**&ensp;Yes, you are right. A life story unrolls itself of which I am one of the actors. I have no beïng outside it, as it has no beïng without me. I am merely a character, not a person.
 
 **M:**&ensp;The character will become a person, when he begins to shape his life instead of accepting it as it comes, and identifying himself with it.
 
@@ -36,7 +36,7 @@ I see as you see, hear as you hear, taste as you taste, eat as you eat. I also f
 
 **M:**&ensp;You ask and the answer comes. I watch myself — I watch the answer and see no contradiction. It is clear to me that I am telling you the truth. It is all very simple. Only you must trust me that I mean what I say, that I am quite serious. As I told you already, my *Guru* showed me my true nature — and the true nature of the world. Having realised that I am one with, and yet beyond the world, I became free from all desire and fear. I did not reason out that I should be free. I found myself free — unexpectedly, without the least effort. This freedom from desire and fear remained with me since then. Another thing I noticed was that I do not need to make an effort; the deed follows the thought, without delay and friction. I have also found that thoughts become self-fulfilling; things would fall in place smoothly and rightly. The main change was in the mind; it became motionless and silent, responding quickly, but not perpetuäting the response. Spontaneity became a way of life, the real became natural and the natural became real. And above all, infinite affection, love, dark and quiet, radiating in all directions, embracing all, making all interesting and beautiful, significant and auspicious.
 
-**Q:**&ensp;We are told that various <span data-tippy-content="One who practices <em>yoga</em>.">Yogi</span>c powers arise spontaneously in a man who has realised his own true being. What is your experience in these matters?
+**Q:**&ensp;We are told that various <span data-tippy-content="One who practices <em>yoga</em>.">Yogi</span>c powers arise spontaneously in a man who has realised his own true beïng. What is your experience in these matters?
 
 **M:**&ensp;Man’s fivefold body (physical etc.) has potential powers beyond our wildest dreams. Not only is the entire universe reflected in man, but also the power to control the universe is waiting to be used by him. The wise man is not anxious to use such powers, except when the situation calls for them. He finds the abilities and skills of the human personality quite adequate for the business of daily living. Some of the powers can be developed by specialised training, but the man who flaunts such powers is still in bondage. The wise man counts nothing as his own. When at some time and place some miracle is attributed to some person, he will not establish any causal link between events and people, nor will he allow any conclusions to be drawn. All happened as it happened because it had to happen. Everything happens as it does, because the universe is as it is.
 

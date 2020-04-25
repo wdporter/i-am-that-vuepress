@@ -110,9 +110,9 @@
 
 **M:**&ensp;Stop making use of your mind and see what happens. Do this one thing thoroughly. That is all.
 
-**Q:**&ensp;When I was younger, I had strange experiences, short but memorable, of being nothing, just nothing, yet fully conscious. But the danger is that one has the desire to recreate from memory the moments that have passed.
+**Q:**&ensp;When I was younger, I had strange experiences, short but memorable, of beïng nothing, just nothing, yet fully conscious. But the danger is that one has the desire to recreate from memory the moments that have passed.
 
-**M:**&ensp;This is all imagination. In the light of consciousness all sorts of things happen and one need not give special importance to any. The sight of a flower is as marvellous as the vision of God. Let them be. Why remember them and then make memory into a problem? Be bland about them; do not divide them into high and low, inner and outer, lasting and transient. Go beyond, go back to the source, go to the self that is the same whatever happens. Your weakness is due to your conviction that you were born into the world. In reälity the world is ever recreated in you and by you. See everything as emanating from the light which is the source of your own being. You will find that in that light there is love and infinite energy.
+**M:**&ensp;This is all imagination. In the light of consciousness all sorts of things happen and one need not give special importance to any. The sight of a flower is as marvellous as the vision of God. Let them be. Why remember them and then make memory into a problem? Be bland about them; do not divide them into high and low, inner and outer, lasting and transient. Go beyond, go back to the source, go to the self that is the same whatever happens. Your weakness is due to your conviction that you were born into the world. In reälity the world is ever recreated in you and by you. See everything as emanating from the light which is the source of your own beïng. You will find that in that light there is love and infinite energy.
 
 **Q:**&ensp;If I am that light, why do I not know it?
 

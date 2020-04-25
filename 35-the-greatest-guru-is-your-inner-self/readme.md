@@ -92,7 +92,7 @@ The greatest *Guru* is your inner self. Truly, he is the supreme teacher. He alo
 
 **Q:**&ensp;I agree that the world I live in and the God I believe in are both creatures of imagination. But in what way are they created by desire? Why do I imagine a world so painful and a God so indifferent? What is wrong with me that I should torture myself so cruelly? The enlightened man comes and tells me, “it is but a dream to put an end to”, but is he not himself a part of the dream? I find myself trapped and see no way out. You say you are free. Of what are you free? For heaven’s sake, don’t feed me on words, enlighten me, help me to wake up, since it is you who sees me tossing in my sleep.
 
-**M:**&ensp;When I say I am free, I merely state a fact. If you are an adult, you are free from infancy. I am free from all description and identification. Whatever you may hear, see, or think of, I am not that. I am free from being a percept, or a concept.
+**M:**&ensp;When I say I am free, I merely state a fact. If you are an adult, you are free from infancy. I am free from all description and identification. Whatever you may hear, see, or think of, I am not that. I am free from beïng a percept, or a concept.
 
 **Q:**&ensp;Still, you have a body and you depend on it.
 

@@ -14,7 +14,7 @@
 
 **M:**&ensp;Once you create for yourself a world in time and space, governed by causality, you are bound to search for and find causes for everything. You put the question and impose an answer.
 
-**Q:**&ensp;My question is very simple: I see all kinds of things and I understand that each must have a cause, or a number of causes. You say they are uncaused — from your point of view. But, to you nothing has being and, therefore, the question of causation does not arise. Yet you seem to admit the existence of things, but deny them causation. This is what I cannot grasp. Once you accept the existence of things, why reject their causes?
+**Q:**&ensp;My question is very simple: I see all kinds of things and I understand that each must have a cause, or a number of causes. You say they are uncaused — from your point of view. But, to you nothing has beïng and, therefore, the question of causation does not arise. Yet you seem to admit the existence of things, but deny them causation. This is what I cannot grasp. Once you accept the existence of things, why reject their causes?
 
 **M:**&ensp;I see only consciousness, and know everything to be but consciousness, as you know the 
 picture on the cinema screen to be but light.
@@ -77,7 +77,7 @@ poverty, hatred and wars — continue unabated. My questions are concerning the 
 
 **Q:**&ensp;All I want to know is how to deal with the world’s sorrows.
 
-**M:**&ensp;You have created them out of your own desires and fears, you deal with them. All is due to your having forgotten your own being. Having given reälity to the picture on the screen, you love its people and suffer for them and seek to save them. It is just not so. You must begin with yourself. There is no other way. Work, of course. There is no harm in working.
+**M:**&ensp;You have created them out of your own desires and fears, you deal with them. All is due to your having forgotten your own beïng. Having given reälity to the picture on the screen, you love its people and suffer for them and seek to save them. It is just not so. You must begin with yourself. There is no other way. Work, of course. There is no harm in working.
 
 **Q:**&ensp;Your universe seems to contain every possible experience. The individual traces a line through it and experiences pleasant and unpleasant states. This gives rise to questioning and seeking, which broaden the outlook and enable the individual to go beyond his narrow and self-created world, limited and self-centred. This personal world can be changed — in time. The universe is timeless and perfect.
 

@@ -1,6 +1,6 @@
 # 23. Discrimination Leads to Detachment
 
->See your world as it is, not as you imagine it to be. Discrimination will lead to detachment; detachment will ensure right action; right action will build the inner bridge to your real being.
+>See your world as it is, not as you imagine it to be. Discrimination will lead to detachment; detachment will ensure right action; right action will build the inner bridge to your real beïng.
 
 **Maharaj:**&ensp;You are all drenched for it is raining hard. In my world it is always fine weather. There is no night or day, no heat or cold. No worries beset me there, nor regrets. My mind is free of thoughts, for there are no desires to slave for.
 
@@ -22,7 +22,7 @@
 
 **Q:**&ensp;The very fact of your experiencing your own world implies duality inherent in all experience.
 
-**M:**&ensp;Verbally — yes. But your words do not reach me. Mine is a non-verbal world. In your world the unspoken has no existence. In mine — the words and their contents have no being. In your world nothing stays, in mine — nothing changes. My world is real, while yours is made of dreams.
+**M:**&ensp;Verbally — yes. But your words do not reach me. Mine is a non-verbal world. In your world the unspoken has no existence. In mine — the words and their contents have no beïng. In your world nothing stays, in mine — nothing changes. My world is real, while yours is made of dreams.
 
 **Q:**&ensp;Yet we are talking.
 
@@ -42,7 +42,7 @@
 
 **Q:**&ensp;What do we gain by it?
 
-**M:**&ensp;You gain nothing. You leave behind what is not your own and find what you have never lost — your own being.
+**M:**&ensp;You gain nothing. You leave behind what is not your own and find what you have never lost — your own beïng.
 
 **Q:**&ensp;Who is the ruler of your world?
 
@@ -50,7 +50,7 @@
 
 **Q:**&ensp;Still you have a name and shape, display consciousness and activity.
 
-**M:**&ensp;In your world I appear so. In mine I have being only. Nothing else. You people are rich with your ideas of possession, of quantity and quality. I am completely without ideas.
+**M:**&ensp;In your world I appear so. In mine I have beïng only. Nothing else. You people are rich with your ideas of possession, of quantity and quality. I am completely without ideas.
 
 **Q:**&ensp;In my world there is disturbance, distress and despair. You seem to be living on some hidden income, while I must slave for a living.
 
@@ -58,7 +58,7 @@
 
 **Q:**&ensp;How is the crossing done?
 
-**M:**&ensp;See your world as it is, not as you imagine it to be. Discrimination will lead to detachment; detachment will ensure right action; right action will build the inner bridge to your real being. Action is a proof of earnestness. Do what you are told diligently and faithfully and all obstacles will dissolve.
+**M:**&ensp;See your world as it is, not as you imagine it to be. Discrimination will lead to detachment; detachment will ensure right action; right action will build the inner bridge to your real beïng. Action is a proof of earnestness. Do what you are told diligently and faithfully and all obstacles will dissolve.
 
 **Q:**&ensp;Are you happy?
 
@@ -126,7 +126,7 @@
 
 **Q:**&ensp;The world is, I am. These are facts.
 
-**M:**&ensp;Why do you worry about the world before taking care of yourself? You want to save the world, don’t you? Can you save the world before saving yourself? And what means being saved? Saved from what? From illusion. Salvation is to see things as they are. I really do not see myself related to anybody and anything. Not even to a self, whatever that self may be. I remain forever — undefined. I am — within and beyond — intimate and unapproachable.
+**M:**&ensp;Why do you worry about the world before taking care of yourself? You want to save the world, don’t you? Can you save the world before saving yourself? And what means beïng saved? Saved from what? From illusion. Salvation is to see things as they are. I really do not see myself related to anybody and anything. Not even to a self, whatever that self may be. I remain forever — undefined. I am — within and beyond — intimate and unapproachable.
 
 **Q:**&ensp;How did you come to it?
 
@@ -134,7 +134,7 @@
 
 **Q:**&ensp;Conviction by repetition?
 
-**M:**&ensp;By self-realisation. I found that I am conscious and happy absolutely and only by mistake I thought I owed being-consciousness-bliss to the body and the world of bodies.
+**M:**&ensp;By self-realisation. I found that I am conscious and happy absolutely and only by mistake I thought I owed beïng-consciousness-bliss to the body and the world of bodies.
 
 **Q:**&ensp;You are not a learned man. You have not read much and what you read, or heard did perhaps not contradict itself. I am fairly well educated and have read a lot and I found that books and teachers contradict each other hopelessly. Hence whatever I read or hear, I take it in a state of doubt. “It may be so, it may not be so”, is my first reaction. And as my mind is unable to decide what is true and what is not, I am left high and dry with my doubts. In <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">Yoga</span> a doubting mind is at a tremendous disadvantage.
 

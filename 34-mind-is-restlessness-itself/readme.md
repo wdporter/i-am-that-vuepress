@@ -26,7 +26,7 @@
 
 **M:**&ensp;No doubt it is very pleasant to feel fit. Is pleasure all you expected from *Yoga*?
 
-**Q:**&ensp;The joy of well-being is the reward of *Hatha Yoga*. But *Yoga* in general yields more than that. It answers many questions.
+**Q:**&ensp;The joy of well-beïng is the reward of *Hatha Yoga*. But *Yoga* in general yields more than that. It answers many questions.
 
 **M:**&ensp;What do you mean by *Yoga*?
 
@@ -70,7 +70,7 @@ You say you want to pacify your mind. Is he, who wants to pacify the mind, himse
 
 **Q:**&ensp;I am trying to rejoin the personality back to the real self.
 
-**M:**&ensp;The personality (<span data-tippy-content="Person, the outer self.">vyakti</span>) is but a product of imagination. The self (<span data-tippy-content="Manifest matter, the evolved nature. Opposite is <em>avyakta</em>.">vyakta</span>) is the victim of this imagination. It is the taking yourself to be what you are not that binds you. The person cannot be said to exist on its own rights; it is the self that believes there is a person and is conscious of being it. Beyond the self (*vyakta*) lies the unmanifested (<span data-tippy-content="Unmanifest. Opposite is <em>vyakta</em>.">avyakta</span>), the causeless cause of everything. Even to talk of reüniting the person with the self is not right, because there is no person, only a mental picture given a false reälity by conviction. Nothing was divided and there is nothing to unite.
+**M:**&ensp;The personality (<span data-tippy-content="Person, the outer self.">vyakti</span>) is but a product of imagination. The self (<span data-tippy-content="Manifest matter, the evolved nature. Opposite is <em>avyakta</em>.">vyakta</span>) is the victim of this imagination. It is the taking yourself to be what you are not that binds you. The person cannot be said to exist on its own rights; it is the self that believes there is a person and is conscious of beïng it. Beyond the self (*vyakta*) lies the unmanifested (<span data-tippy-content="Unmanifest. Opposite is <em>vyakta</em>.">avyakta</span>), the causeless cause of everything. Even to talk of reüniting the person with the self is not right, because there is no person, only a mental picture given a false reälity by conviction. Nothing was divided and there is nothing to unite.
 
 **Q:**&ensp;*Yoga* helps in the search for and the finding of the self.
 
@@ -82,7 +82,7 @@ You say you want to pacify your mind. Is he, who wants to pacify the mind, himse
 
 **Q:**&ensp;The true knowledge of the self.
 
-**M:**&ensp;The true knowledge of the self is not a knowledge. It is not something that you find by searching, by looking everywhere. It is not to be found in space or time. Knowledge is but a memory, a pattern of thought, a mental habit. All these are motivated by pleasure and pain. It is because you are goaded by pleasure and pain that you are in search of knowledge. Being oneself is completely beyond all motivation. You cannot be yourself for some reason. You *are* yourself, and no reason is needed.
+**M:**&ensp;The true knowledge of the self is not a knowledge. It is not something that you find by searching, by looking everywhere. It is not to be found in space or time. Knowledge is but a memory, a pattern of thought, a mental habit. All these are motivated by pleasure and pain. It is because you are goaded by pleasure and pain that you are in search of knowledge. Beïng oneself is completely beyond all motivation. You cannot be yourself for some reason. You *are* yourself, and no reason is needed.
 
 **Q:**&ensp;By doing *Yoga* I shall find peace.
 
@@ -94,7 +94,7 @@ You say you want to pacify your mind. Is he, who wants to pacify the mind, himse
 
 **Q:**&ensp;What are the means to such perception?
 
-**M:**&ensp;In life nothing can be had without overcoming obstacles. The obstacles to the clear perception of one’s true being are desire for pleasure and fear of pain. It is the pleasure–pain motivation that stands in the way. The very freedom from all motivation, the state in which no desire arises is the natural state.
+**M:**&ensp;In life nothing can be had without overcoming obstacles. The obstacles to the clear perception of one’s true beïng are desire for pleasure and fear of pain. It is the pleasure–pain motivation that stands in the way. The very freedom from all motivation, the state in which no desire arises is the natural state.
 
 **Q:**&ensp;Such giving up of desires, does it need time?
 
@@ -104,17 +104,17 @@ You say you want to pacify your mind. Is he, who wants to pacify the mind, himse
 
 **M:**&ensp;The happiness you can think of and long for, is mere physical or mental satisfaction. Such sensory or mental pleasure is not the real, the absolute happiness.
 
-**Q:**&ensp;Even sensory and mental pleasures and the general sense of well-being which arises with physical and mental health, must have their roots in reälity.
+**Q:**&ensp;Even sensory and mental pleasures and the general sense of well-beïng which arises with physical and mental health, must have their roots in reälity.
 
 **M:**&ensp;They have their roots in imagination. A man who is given a stone and assured that it is a priceless diamond will be mightily pleased until he realises his mistake; in the same way pleasures lose their tang and pains their barb when the self is known. Both are seen as they are — conditional responses, mere reäctions, plain attractions and repulsions, based on memories or preconceptions. Usually pleasure and pain are experienced when expected. It is all a matter of acquired habits and convictions.
 
 **Q:**&ensp;Well, pleasure may be imaginary. But pain is real.
 
-**M:**&ensp;Pain and pleasure go always together. Freedom from one means freedom from both. If you do not care for pleasure, you will not be afraid of pain. But there is happiness which is neither, which is completely beyond. The happiness you know is describable and measurable. It is objective, so to say. But the objective cannot be your own. It would be a grievous mistake to identify yourself with something external. This churning up of levels leads nowhere. Reälity is beyond the subjective and objective, beyond all levels, beyond every distinction. Most definitely it is not their origin, source or root. These come from ignorance of reälity, not from reälity itself, which is indescribable, beyond being and not-being.
+**M:**&ensp;Pain and pleasure go always together. Freedom from one means freedom from both. If you do not care for pleasure, you will not be afraid of pain. But there is happiness which is neither, which is completely beyond. The happiness you know is describable and measurable. It is objective, so to say. But the objective cannot be your own. It would be a grievous mistake to identify yourself with something external. This churning up of levels leads nowhere. Reälity is beyond the subjective and objective, beyond all levels, beyond every distinction. Most definitely it is not their origin, source or root. These come from ignorance of reälity, not from reälity itself, which is indescribable, beyond beïng and not-beïng.
 
 **Q:**&ensp;Many teachers have I followed and studied many doctrines, yet none gave me what I wanted.
 
-**M:**&ensp;The desire to find the self will be surely fulfilled, provided you want nothing else. But you must be honest with yourself and really want nothing else. If in the meantime you want many other things and are engaged in their pursuit, your main purpose may be delayed until you grow wiser and cease being torn between contradictory urges. Go within, without swerving, without ever looking outward.
+**M:**&ensp;The desire to find the self will be surely fulfilled, provided you want nothing else. But you must be honest with yourself and really want nothing else. If in the meantime you want many other things and are engaged in their pursuit, your main purpose may be delayed until you grow wiser and cease beïng torn between contradictory urges. Go within, without swerving, without ever looking outward.
 
 **Q:**&ensp;But my desires and fears are still there.
 
@@ -134,7 +134,7 @@ You say you want to pacify your mind. Is he, who wants to pacify the mind, himse
 
 **Q:**&ensp;How does one go beyond the need of help? And can one help another to do so?
 
-**M:**&ensp;When you have understood that all existence, in separation and limitation, is painful, and when you are willing and able to live integrally, in oneness with all life, as pure being, you have gone beyond all need of help. You can help another by precept and example and, above all, by your being. You cannot give what you do not have and you don’t have what you are not. You can only give what you are — and of that you can give limitlessly.
+**M:**&ensp;When you have understood that all existence, in separation and limitation, is painful, and when you are willing and able to live integrally, in oneness with all life, as pure beïng, you have gone beyond all need of help. You can help another by precept and example and, above all, by your beïng. You cannot give what you do not have and you don’t have what you are not. You can only give what you are — and of that you can give limitlessly.
 
 **Q:**&ensp;But, is it true that all existence is painful?
 
@@ -154,9 +154,9 @@ You say you want to pacify your mind. Is he, who wants to pacify the mind, himse
 
 **Q:**&ensp;My knowledge is limited, my power negligible.
 
-**M:**&ensp;Being the source of both. The self is beyond both knowledge and power. The observable is in the mind. The nature of the self is pure awareness, pure witnessing, unaffected by the presence or absence of knowledge or liking. 
+**M:**&ensp;Beïng the source of both. The self is beyond both knowledge and power. The observable is in the mind. The nature of the self is pure awareness, pure witnessing, unaffected by the presence or absence of knowledge or liking. 
 
-Have your being outside this body of birth and death and all your problems will be solved. They exist because you believe yourself born to die. Undeceive yourself and be free. You are not a person.
+Have your beïng outside this body of birth and death and all your problems will be solved. They exist because you believe yourself born to die. Undeceive yourself and be free. You are not a person.
 
 <script>
 export default {

@@ -10,7 +10,7 @@
 
 **M:**&ensp;I am experiencing these in consciousness, but I am neither consciousness, nor its content.
 
-**Q:**&ensp;You say that in our real being we are all equal. How is it that your experience is so different from ours?
+**Q:**&ensp;You say that in our real beïng we are all equal. How is it that your experience is so different from ours?
 
 **M:**&ensp;My actual experience is not different. It is my evaluation and attitude that differ. I see the same world as you do, but not the same way. There is nothing mysterious about it. Everybody sees the world through the idea he has of himself. As you think yourself to be, so you think the world to be. If you imagine yourself as separate from the world, the world will appear as separate from you and you will experience desire and fear. I do not see the world as separate from me and so there is nothing for me to desire, or fear.
 
@@ -62,11 +62,11 @@ If you want to sin, sin wholeheartedly and openly. Sins too have their lessons t
 
 **Q:**&ensp;I may go on telling myself, “I am not the mind, I am not concerned with its problems”, but the mind remains and its problems remain just as they were. Now, please do not tell me that it is because I am not earnest enough and I should be more earnest! I know it and admit it and only ask you — how is it done?
 
-**M:**&ensp;At least you are asking! Good enough, for a start. Go on pondering, wondering and being anxious to find a way. Be conscious of yourself, watch your mind and give it your full attention. Don’t look for quick results; there may be none within your noticing. Unknown to you, your psyche will undergo a change, there will be more clarity in your thinking, charity in your feeling and purity in your behaviour. You need not aim at these — you will witness the change all the same. For, what you are now is the result of inattention and what you become will be the fruit of attention.
+**M:**&ensp;At least you are asking! Good enough, for a start. Go on pondering, wondering and beïng anxious to find a way. Be conscious of yourself, watch your mind and give it your full attention. Don’t look for quick results; there may be none within your noticing. Unknown to you, your psyche will undergo a change, there will be more clarity in your thinking, charity in your feeling and purity in your behaviour. You need not aim at these — you will witness the change all the same. For, what you are now is the result of inattention and what you become will be the fruit of attention.
 
 **Q:**&ensp;Why should mere attention make all the difference?
 
-**M:**&ensp;So far your life was dark and restless (<span data-tippy-content="Darkness, inertia, passivity. One of the three constituents (<em>guna</em>s) of the cosmic substance: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>.">tamas</span> and <span data-tippy-content="Motivity, activity, energy. One of the three <em>guna</em>s or qualities of matter: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</span>). Attention, alertness, awareness, clarity, liveliness and vitality, are all manifestations of integrity, oneness with your true nature (<span data-tippy-content="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>). It is in the nature of *sattva* to reconcile and neutralise *tamas* and *rajas* and rebuild the personality in accordance with the true nature of the self. *Sattva* is the faithful servant of the self; ever attentive and obedient.
+**M:**&ensp;So far your life was dark and restless (<span data-tippy-content="Darkness, inertia, passivity. One of the three constituents (<em>guna</em>s) of the cosmic substance: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>.">tamas</span> and <span data-tippy-content="Motivity, activity, energy. One of the three <em>guna</em>s or qualities of matter: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</span>). Attention, alertness, awareness, clarity, liveliness and vitality, are all manifestations of integrity, oneness with your true nature (<span data-tippy-content="Beïng, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>). It is in the nature of *sattva* to reconcile and neutralise *tamas* and *rajas* and rebuild the personality in accordance with the true nature of the self. *Sattva* is the faithful servant of the self; ever attentive and obedient.
 
 **Q:**&ensp;And I shall come to it through mere attention?
 
@@ -100,7 +100,7 @@ If you want to sin, sin wholeheartedly and openly. Sins too have their lessons t
 
 **M:**&ensp;It is of tremendous value. By going beyond it you realise yourself.
 
-**Q:**&ensp;But why did it come into being in the first instance?
+**Q:**&ensp;But why did it come into beïng in the first instance?
 
 **M:**&ensp;You will know it when it ends.
 

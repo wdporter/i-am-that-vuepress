@@ -57,7 +57,7 @@ experiences are valid for you too. Think clearly and deeply, go into the entire 
 
 **Q:**&ensp;How can I get rid of this idea?
 
-**M:**&ensp;If you trust me, believe when I tell you that you are the pure awareness that illuminates consciousness and its infinite content. Realise this and live accordingly. If you do not believe me, then go within, enquiring, “What am I?” or, focus your mind on ‘I am’, which is pure and simple being.
+**M:**&ensp;If you trust me, believe when I tell you that you are the pure awareness that illuminates consciousness and its infinite content. Realise this and live accordingly. If you do not believe me, then go within, enquiring, “What am I?” or, focus your mind on ‘I am’, which is pure and simple beïng.
 
 **Q:**&ensp;On what my faith in you depends?
 
@@ -78,7 +78,7 @@ attachments are in the mind and will not leave you until you know your mind in a
 
 **Q:**&ensp;Well, you told me that I am the Supreme Reälity. I believe you. What next is there for me to do?
 
-**M:**&ensp;I told you already. Discover all you are not. Body, feelings, thoughts, ideas, time, space, being and not-being, this or that — nothing concrete or abstract you can point out to is you. A mere verbal statement will not do — you may repeat a formula endlessly without any result whatsoever. You must watch yourself continuously — particularly your mind — moment by moment, missing nothing. This witnessing is essential for the separation of the self from the not-self.
+**M:**&ensp;I told you already. Discover all you are not. Body, feelings, thoughts, ideas, time, space, beïng and not-beïng, this or that — nothing concrete or abstract you can point out to is you. A mere verbal statement will not do — you may repeat a formula endlessly without any result whatsoever. You must watch yourself continuously — particularly your mind — moment by moment, missing nothing. This witnessing is essential for the separation of the self from the not-self.
 
 **Q:**&ensp;The witnessing — is it not my real nature?
 

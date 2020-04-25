@@ -6,7 +6,7 @@
 
 **Maharaj:**&ensp;Whatever you may say will be both true and false. Words do not reach beyond the mind.
 
-**Q:**&ensp;I am just trying to understand. You are telling us of the Person, the Self and the Supreme (<span data-tippy-content="Person, the outer self.">vyakti</span>, <span data-tippy-content="Manifest matter, the evolved nature. Opposite is <em>avyakta</em>.">vyakta</span>, <span data-tippy-content="Unmanifest. Opposite is <em>vyakta</em>.">avyakta</span>). The light of Pure Awareness (<span data-tippy-content="Cognitive consciousness, pure awareness, higher consciousness.">pragna</span>), focussed as ‘I am’ in the Self (<span data-tippy-content="[<em>Atman</em> + doërship is <em>jiva</em>.] The individual soul. According to <em>Vedanta</em>, <em>jiva</em> comes into being as a result of the false identification of the <em>atman</em> with body, senses and mind.">jivatma</span>), as consciousness (<span data-tippy-content="Consciousness, inner awakening.">chetana</span>) illumines the mind (<span data-tippy-content="The psyche, mind. Mind in a collective sense, including intelligence (<em>buddhi</em>), ego (<em>ahamkara</em>) and mind (<em>manas</em>).">antahkarana</span>) and as life (<span data-tippy-content="The breath of life, vital principle.">prana</span>) vitalises the body (<span data-tippy-content="Physical body.">deha</span>). All this is fine as far as the words go. But when it comes to distinguishing in myself the person from the Self and the Self from the Supreme, I get mixed up.
+**Q:**&ensp;I am just trying to understand. You are telling us of the Person, the Self and the Supreme (<span data-tippy-content="Person, the outer self.">vyakti</span>, <span data-tippy-content="Manifest matter, the evolved nature. Opposite is <em>avyakta</em>.">vyakta</span>, <span data-tippy-content="Unmanifest. Opposite is <em>vyakta</em>.">avyakta</span>). The light of Pure Awareness (<span data-tippy-content="Cognitive consciousness, pure awareness, higher consciousness.">pragna</span>), focussed as ‘I am’ in the Self (<span data-tippy-content="[<em>Atman</em> + doërship is <em>jiva</em>.] The individual soul. According to <em>Vedanta</em>, <em>jiva</em> comes into beïng as a result of the false identification of the <em>atman</em> with body, senses and mind.">jivatma</span>), as consciousness (<span data-tippy-content="Consciousness, inner awakening.">chetana</span>) illumines the mind (<span data-tippy-content="The psyche, mind. Mind in a collective sense, including intelligence (<em>buddhi</em>), ego (<em>ahamkara</em>) and mind (<em>manas</em>).">antahkarana</span>) and as life (<span data-tippy-content="The breath of life, vital principle.">prana</span>) vitalises the body (<span data-tippy-content="Physical body.">deha</span>). All this is fine as far as the words go. But when it comes to distinguishing in myself the person from the Self and the Self from the Supreme, I get mixed up.
 
 **M:**&ensp;The person is never the subject. You can see a person, but you are not the person. You are always the Supreme which appears at a given point of time and space as the witness, a bridge between the pure awareness of the Supreme and the manifold consciousness of the person.
 
@@ -22,9 +22,9 @@
 
 **M:**&ensp;It is only because you identify yourself with them. Once you realise that whatever appears before you cannot be yourself, and cannot say, “I am”, you are free of all your ‘persons’ and their demands. The sense ‘I am’ is your own. You cannot part with it, but you can impart it to anything, as in saying, “I am young. I am rich etc.”. But such self-identifications are patently false and the cause of bondage.
 
-**Q:**&ensp;I can now understand that I am not the person, but that which, when reflected in the person, gives it a sense of being. Now, about the Supreme? In what way do I know myself as the Supreme?
+**Q:**&ensp;I can now understand that I am not the person, but that which, when reflected in the person, gives it a sense of beïng. Now, about the Supreme? In what way do I know myself as the Supreme?
 
-**M:**&ensp;The source of consciousness cannot be an object in consciousness. To know the source is to *be* the source. When you realise that you are not the person, but the pure and calm witness, and that fearless awareness is your very being, *you* are the being. It is the source, the Inexhaustible Possibility.
+**M:**&ensp;The source of consciousness cannot be an object in consciousness. To know the source is to *be* the source. When you realise that you are not the person, but the pure and calm witness, and that fearless awareness is your very beïng, *you* are the beïng. It is the source, the Inexhaustible Possibility.
 
 **Q:**&ensp;Are there many sources or one for all?
 
@@ -36,7 +36,7 @@
 
 **Q:**&ensp;How is the Absolute experienced?
 
-**M:**&ensp;It is not an object to be recognised and stored up in memory. It is in the present and in feeling rather. It has more to do with the ‘how’ than with the ‘what’. It is in the quality, in the value; being the source of everything, it is in everything.
+**M:**&ensp;It is not an object to be recognised and stored up in memory. It is in the present and in feeling rather. It has more to do with the ‘how’ than with the ‘what’. It is in the quality, in the value; beïng the source of everything, it is in everything.
 
 **Q:**&ensp;If it is the source, why and how does it manifest itself?
 
@@ -64,7 +64,7 @@
 
 **Q:**&ensp;Does it mean that the Unknown is inaccessible?
 
-**M:**&ensp;Oh, no. The Supreme is the easiest to reach for it is your very being. It is enough to stop thinking and desiring anything, but the Supreme.
+**M:**&ensp;Oh, no. The Supreme is the easiest to reach for it is your very beïng. It is enough to stop thinking and desiring anything, but the Supreme.
 
 **Q:**&ensp;And if I desire nothing, not even the Supreme?
 
@@ -74,9 +74,9 @@
 
 **M:**&ensp;The self. All desires, holy and unholy, come from the self; they all hang on the sense ‘I am’.
 
-**Q:**&ensp;I can understand holy desires (<span data-tippy-content="He who longs for the sublime truth.">satyakama</span>) emanating from the self. It may be the expression of the bliss aspect of the <span data-tippy-content="The ultimate principle with the three attributes in absolute perfection (<em>sat</em>, being + <em>chit</em>, consciousness + <em>ananda</em>, bliss).">Sad-Chit-Ananda</span> (Beingness — Awareness — Happiness) of the Self. But why unholy desires?
+**Q:**&ensp;I can understand holy desires (<span data-tippy-content="He who longs for the sublime truth.">satyakama</span>) emanating from the self. It may be the expression of the bliss aspect of the <span data-tippy-content="The ultimate principle with the three attributes in absolute perfection (<em>sat</em>, beïng + <em>chit</em>, consciousness + <em>ananda</em>, bliss).">Sad-Chit-Ananda</span> (Beïngness — Awareness — Happiness) of the Self. But why unholy desires?
 
-**M:**&ensp;All desires aim at happiness. Their shape and quality depend on the psyche (*antahkarana*). Where inertia (<span data-tippy-content="Darkness, inertia, passivity. One of the three constituents (<em>gunas</em>) of the cosmic substance: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>.">tamas</span>) predominates, we find perversions. With energy (<span data-tippy-content="Motivity, activity, energy. One of the three <em>gunas</em> or qualities of matter: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</span>), passions arise. With lucidity (<span data-tippy-content="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>) the motive behind the desire is goodwill, compassion, the urge to make happy rather than be happy. But the Supreme is beyond all, yet because of its infinite permeability all cogent desires can be fulfilled.
+**M:**&ensp;All desires aim at happiness. Their shape and quality depend on the psyche (*antahkarana*). Where inertia (<span data-tippy-content="Darkness, inertia, passivity. One of the three constituents (<em>gunas</em>) of the cosmic substance: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>.">tamas</span>) predominates, we find perversions. With energy (<span data-tippy-content="Motivity, activity, energy. One of the three <em>gunas</em> or qualities of matter: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</span>), passions arise. With lucidity (<span data-tippy-content="Beïng, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>) the motive behind the desire is goodwill, compassion, the urge to make happy rather than be happy. But the Supreme is beyond all, yet because of its infinite permeability all cogent desires can be fulfilled.
 
 **Q:**&ensp;Which desires are cogent?
 
@@ -114,7 +114,7 @@
 
 **M:**&ensp;Because you imagine that you were born, and that you will die if you do not take care of your body. Desire for embodied existence is the root cause of trouble.
 
-**Q:**&ensp;Yet, so many <span data-tippy-content="[<em>Atman</em> + doërship is <em>jiva</em>.] The individual soul. According to <em>Vedanta</em>, <em>jiva</em> comes into being as a result of the false identification of the <em>atman</em> with body, senses and mind.">jiva</span>s get into bodies. Surely it cannot be some error of judgement. There must be a purpose. What could it be?
+**Q:**&ensp;Yet, so many <span data-tippy-content="[<em>Atman</em> + doërship is <em>jiva</em>.] The individual soul. According to <em>Vedanta</em>, <em>jiva</em> comes into beïng as a result of the false identification of the <em>atman</em> with body, senses and mind.">jiva</span>s get into bodies. Surely it cannot be some error of judgement. There must be a purpose. What could it be?
 
 **M:**&ensp;To know itself the self must be faced with its opposite — the not-self. Desire leads to experience. Experience leads to discrimination, detachment, self-knowledge — liberation. And what is liberation after all? To know that you are beyond birth and death. By forgetting who you are and imagining yourself a mortal creature, you created so much trouble for yourself that you have to wake up, like from a bad dream.
 

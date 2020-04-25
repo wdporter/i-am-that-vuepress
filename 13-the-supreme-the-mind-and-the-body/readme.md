@@ -6,7 +6,7 @@
 
 **Maharaj:**&ensp;It is all a matter of focus. Your mind is focussed in the world, mine is focussed in reälity. It is like the moon in daylight — when the sun shines, the moon is hardly visible. Or, watch how you take your food. As long as it is in your mouth, you are conscious of it; once swallowed, it does not concern you any longer. It would be troublesome to have it constantly in mind until it is eliminated. The mind should be normally in abeyance — incessant activity is a morbid state. The universe works by itself — that I know. What else do I need to know?
 
-**Q:**&ensp;So a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> knows what he is doing only when he turns his mind to it; otherwise he just acts, without being concerned.
+**Q:**&ensp;So a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> knows what he is doing only when he turns his mind to it; otherwise he just acts, without beïng concerned.
 
 **M:**&ensp;The average man is not conscious of his body as such. He is conscious of his sensations, feelings and thoughts. Even these, once detachment sets in, move away from the centre of consciousness and happen spontaneously and effortlessly.
 
@@ -44,7 +44,7 @@
 
 **Q:**&ensp;The fully realised man, spontaneously abiding in the supreme state, appears to eat, drink and so on. Is he aware of it, or not?
 
-**M:**&ensp;That in which consciousness happens, the universal consciousness or mind, we call the ether of consciousness. All the objects of consciousness form the universe. What is beyond both, supporting both, is the supreme state, a state of utter stillness and silence. Whoever goes there, disappears. It is unreachable by words, or mind. You may call it God, or <span data-tippy-content="The Supreme Reälity.">Parabrahman</span>, or Supreme Reälity, but these are names given by the mind. It is the nameless, contentless, effortless and spontaneous state, beyond being and not being.
+**M:**&ensp;That in which consciousness happens, the universal consciousness or mind, we call the ether of consciousness. All the objects of consciousness form the universe. What is beyond both, supporting both, is the supreme state, a state of utter stillness and silence. Whoever goes there, disappears. It is unreachable by words, or mind. You may call it God, or <span data-tippy-content="The Supreme Reälity.">Parabrahman</span>, or Supreme Reälity, but these are names given by the mind. It is the nameless, contentless, effortless and spontaneous state, beyond beïng and not beïng.
 
 **Q:**&ensp;But does one remain conscious?
 
@@ -64,7 +64,7 @@
 
 **Q:**&ensp;There is the witnessed consciousness and there is the witnessing consciousness. Is the second the supreme?
 
-**M:**&ensp;There are the two — the person and the witness, the observer. When you see them as one, and go beyond, you are in the supreme state. It is not perceivable, because it is what makes perception possible. It is beyond being and not being. It is neither the mirror nor the image in the mirror. It is what is — the timeless reälity, unbelievably hard and solid.
+**M:**&ensp;There are the two — the person and the witness, the observer. When you see them as one, and go beyond, you are in the supreme state. It is not perceivable, because it is what makes perception possible. It is beyond beïng and not beïng. It is neither the mirror nor the image in the mirror. It is what is — the timeless reälity, unbelievably hard and solid.
 
 **Q:**&ensp;The *jnani* — is he the witness or the Supreme?
 
@@ -72,7 +72,7 @@
 
 **Q:**&ensp;But he remains a person?
 
-**M:**&ensp;When you believe yourself to be a person, you see persons everywhere. In reälity there are no persons, only threads of memories and habits. At the moment of realisation the person ceases. Identity remains, but identity is not a person, it is inherent in the reälity itself. The person has no being in itself; it is a reflection in the mind of the witness, the ‘I am’, which again is a mode of being.
+**M:**&ensp;When you believe yourself to be a person, you see persons everywhere. In reälity there are no persons, only threads of memories and habits. At the moment of realisation the person ceases. Identity remains, but identity is not a person, it is inherent in the reälity itself. The person has no beïng in itself; it is a reflection in the mind of the witness, the ‘I am’, which again is a mode of beïng.
 
 **Q:**&ensp;Is the Supreme conscious?
 
@@ -108,7 +108,7 @@
 
 **Q:**&ensp;In putting the question about the weather in New York, where did I make the mistake?
 
-**M:**&ensp;The world and the mind are states of being. The supreme is not a state. It pervades, all states, but it is not a state of something else. It is entirely uncaused, independent, complete in itself, beyond time and space, mind and matter.
+**M:**&ensp;The world and the mind are states of beïng. The supreme is not a state. It pervades, all states, but it is not a state of something else. It is entirely uncaused, independent, complete in itself, beyond time and space, mind and matter.
 
 **Q:**&ensp;By what sign do you recognise it?
 

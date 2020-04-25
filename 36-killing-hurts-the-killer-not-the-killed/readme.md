@@ -92,7 +92,7 @@
 
 **Q:**&ensp;Taking advantage of other people’s cruelty is cruelty by proxy.
 
-**M:**&ensp;If you look into living process closely, you will find cruelty everywhere, for life feeds on life. This is a fact, but it does not make you feel guilty of being alive. You began a life of cruelty by giving your mother endless trouble. To the last day of your life you will compete for food, clothing, shelter, holding on to your body, fighting for its needs, wanting it to be secure, in a world of insecurity and death. From the animal’s point of view being killed is not the worst form of dying; surely preferable to sickness and senile decay. The cruelty lies in the motive, not in the fact. Killing hurts the killer, not the killed.
+**M:**&ensp;If you look into living process closely, you will find cruelty everywhere, for life feeds on life. This is a fact, but it does not make you feel guilty of beïng alive. You began a life of cruelty by giving your mother endless trouble. To the last day of your life you will compete for food, clothing, shelter, holding on to your body, fighting for its needs, wanting it to be secure, in a world of insecurity and death. From the animal’s point of view beïng killed is not the worst form of dying; surely preferable to sickness and senile decay. The cruelty lies in the motive, not in the fact. Killing hurts the killer, not the killed.
 
 **Q:**&ensp;Agreed; then one must not accept the services of hunters and butchers.
 
@@ -104,7 +104,7 @@
 
 **Q:**&ensp;A man like you should set an example.
 
-**M:**&ensp;Are you ready to follow my example? I am dead to the world, I want nothing, not even to live. Be as I am, do as I do. You are judging me by my clothes and food; while I only look at your motives; if you believe yourself to be the body and the mind and act on it you are guilty of the greatest cruelty — cruelty to your own real being. Compared to it all other cruelties do not count.
+**M:**&ensp;Are you ready to follow my example? I am dead to the world, I want nothing, not even to live. Be as I am, do as I do. You are judging me by my clothes and food; while I only look at your motives; if you believe yourself to be the body and the mind and act on it you are guilty of the greatest cruelty — cruelty to your own real beïng. Compared to it all other cruelties do not count.
 
 **Q:**&ensp;You are taking refuge in the claim that you are not the body. But you are in control of the body and responsible for all it does. To allow the body full autonomy would be imbecility, madness!
 
@@ -116,7 +116,7 @@
 
 **Q:**&ensp;The faith you have in yourself, is not that too a shape of a desire?
 
-**M:**&ensp;When I say, “I Am”, I do not mean a separate entity with a body as its nucleus. I mean the totality of being, the ocean of consciousness, the entire universe of all that is and knows. I have nothing to desire for I am complete forever.
+**M:**&ensp;When I say, “I Am”, I do not mean a separate entity with a body as its nucleus. I mean the totality of beïng, the ocean of consciousness, the entire universe of all that is and knows. I have nothing to desire for I am complete forever.
 
 **Q:**&ensp;Can you touch the inner life of other people?
 
@@ -124,7 +124,7 @@
 
 **Q:**&ensp;I do not mean identity of essence or substance, nor similarity of form. I mean the actual entering into the minds and hearts of others and participating in their personal experiences. Can you suffer and rejoice with me, or you only infer what I feel from observation and analogy?
 
-**M:**&ensp;All beings are in me. But bringing down into the brain the content of another brain requires special training. There is nothing that cannot be achieved by training.
+**M:**&ensp;All beïngs are in me. But bringing down into the brain the content of another brain requires special training. There is nothing that cannot be achieved by training.
 
 **Q:**&ensp;I am not your projection, nor are you mine. I am on my own right, not merely as your creation. This crude philosophy of imagination and projection does not appeal to me. You are depriving me of all reälity. Who is the image of whom? You are my image or am I yours. Or am I an image in my own image! No, something is wrong somewhere.
 

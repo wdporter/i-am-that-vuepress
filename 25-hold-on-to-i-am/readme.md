@@ -24,7 +24,7 @@
 
 **Q:**&ensp;Surely there is a difference between the living and the dead. You speak of the living as dead and of the dead as living.
 
-**M:**&ensp;Why do you fret at one man dying and care little for the millions dying every day? Entire universes are imploding and exploding every moment — am I to cry over them? One thing is quite clear to me: all that is, lives and moves and has its being in consciousness, and I am in and beyond that consciousness. I am in it as the witness. I am beyond it as Being.
+**M:**&ensp;Why do you fret at one man dying and care little for the millions dying every day? Entire universes are imploding and exploding every moment — am I to cry over them? One thing is quite clear to me: all that is, lives and moves and has its beïng in consciousness, and I am in and beyond that consciousness. I am in it as the witness. I am beyond it as Beïng.
 
 **Q:**&ensp;Surely, you care when your child is ill, don’t you?
 
@@ -32,7 +32,7 @@
 
 **Q:**&ensp;Surely, you are aware of many things and behave according to their nature. You treat a child as a child and an adult as an adult.
 
-**M:**&ensp;Just as the taste of salt pervades the great ocean and every single drop of sea-water carries the same flavour, so every experience gives me the touch of reälity, the ever fresh realisation of my own being.
+**M:**&ensp;Just as the taste of salt pervades the great ocean and every single drop of sea-water carries the same flavour, so every experience gives me the touch of reälity, the ever fresh realisation of my own beïng.
 
 **Q:**&ensp;Do I exist in your world, as you exist in mine?
 
@@ -61,7 +61,7 @@ images and thoughts, ideas and concepts.
 
 **Q:**&ensp;Is it not a calamity to forget oneself?
 
-**M:**&ensp;As bad as to remember oneself continuously. There is a state beyond forgetting and not forgetting — the natural state. To remember, to forget — these are all states of mind, thought-bound, word-bound. Take for example, the idea of being born. I am told I was born. I do not remember. I am told I shall die I do not expect it. You tell me I have forgotten, or I lack imagination. But I just cannot remember what never happened, nor expect the patently impossible. Bodies are born and bodies die, but what is it to me? Bodies come and go in consciousness and consciousness itself has its roots in me. I am life and mine are mind and body.
+**M:**&ensp;As bad as to remember oneself continuously. There is a state beyond forgetting and not forgetting — the natural state. To remember, to forget — these are all states of mind, thought-bound, word-bound. Take for example, the idea of beïng born. I am told I was born. I do not remember. I am told I shall die I do not expect it. You tell me I have forgotten, or I lack imagination. But I just cannot remember what never happened, nor expect the patently impossible. Bodies are born and bodies die, but what is it to me? Bodies come and go in consciousness and consciousness itself has its roots in me. I am life and mine are mind and body.
 
 **Q:**&ensp;You say at the root of the world is self-forgetfulness. To forget I must remember What did I forget to remember? I have not forgotten that I am.
 
@@ -97,7 +97,7 @@ images and thoughts, ideas and concepts.
 
 **Q:**&ensp;How do you view it?
 
-**M:**&ensp;It is a stage on which a world drama is being played. The quality of the performance is all that matters; not what the actors say and do, but how they say and do it.
+**M:**&ensp;It is a stage on which a world drama is beïng played. The quality of the performance is all that matters; not what the actors say and do, but how they say and do it.
 
 **Q:**&ensp;I do not like this <span data-tippy-content="Play, sport, the cosmos looked upon as the divine play; “effortless or playful relation between the Absolute,or Brahman, and the contingent world”.">lila</span> idea I would rather compare the world to a work-yard in which we are the builders.
 
@@ -117,7 +117,7 @@ images and thoughts, ideas and concepts.
 
 **Q:**&ensp;You speak of <span data-tippy-content="“The ideal; pure and true essence (nature)” of an entity or existence. It can thus be concluded as “the self-existent or universal spirit, Brahman”. Opposite is ‘<em>asat</em>’.">Sat</span>–<span data-tippy-content="Universal consciousness.">Chit</span>–<span data-tippy-content="Bliss, happiness.">Ananda</span>. That I Am is obvious. That I know is obvious. That I am happy is not at all obvious. Where has my happiness gone?
 
-**M:**&ensp;Be fully aware of your own being and you will be in bliss consciously. Because you take your mind off yourself and make it dwell on what you are not, you lose your sense of well-being of being well.
+**M:**&ensp;Be fully aware of your own beïng and you will be in bliss consciously. Because you take your mind off yourself and make it dwell on what you are not, you lose your sense of well-beïng of beïng well.
 
 **Q:**&ensp;There are two paths before us — the path of effort (<span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). Yoga teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span> <span data-tippy-content="Path">marga</span>), and the path of ease (<span data-tippy-content="Sense enjoyment, experience of worldly joys and sorrows.">bhoga</span> *marga*). Both lead to the same goal — liberation.
 
@@ -131,7 +131,7 @@ images and thoughts, ideas and concepts.
 
 **M:**&ensp;What is your happiness worth when you have to strive and labour for it? True happiness is spontaneous and effortless.
 
-**Q:**&ensp;All beings seek happiness. The means only differ. Some seek it within and are therefore called *Yogi*s; some seek it without and are condemned as *Bhogi*s. Yet they need each other.
+**Q:**&ensp;All beïngs seek happiness. The means only differ. Some seek it within and are therefore called *Yogi*s; some seek it without and are condemned as *Bhogi*s. Yet they need each other.
 
 **M:**&ensp;Pleasure and pain alternate. Happiness is unshakable. What you can seek and find is not the real thing. Find what you have never lost, find the inalienable.
 

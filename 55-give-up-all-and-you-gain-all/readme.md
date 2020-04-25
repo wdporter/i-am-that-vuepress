@@ -24,19 +24,19 @@
 
 **Q:**&ensp;Surely there must be something in common between the many points of consciousness we are.
 
-**M:**&ensp;Where are the many points? In your mind. You insist that your world is independent of your mind. How can it be? Your desire to know other people’s minds is due to your not knowing your own mind. First know your own mind and you will find that the question of other minds does not arise at all, for there are no other people. You are the common factor, the only link between the minds. Being is consciousness; ‘I am’ applies to all.
+**M:**&ensp;Where are the many points? In your mind. You insist that your world is independent of your mind. How can it be? Your desire to know other people’s minds is due to your not knowing your own mind. First know your own mind and you will find that the question of other minds does not arise at all, for there are no other people. You are the common factor, the only link between the minds. Beïng is consciousness; ‘I am’ applies to all.
 
 **Q:**&ensp;The Supreme Reälity (<span data-tippy-content="The Supreme Reälity.">Parabrahman</span>) may be present in all of us. But of what use is it to us?
 
-**M:**&ensp;You are like a man who says, “I need a place where to keep my things, but of what use is space to me?”, or “I need milk, tea, coffee or soda, but for water I have no use”. Don’t you see that the Supreme Reälity is what makes everything possible? But if you ask of what use is it to you, I must answer, “None”. In matters of daily life the knower of the real has no advantage: he may be at a disadvantage rather — being free from greed and fear, he does not protect himself. The very idea of profit is foreign to him; he abhors accretions; his life is constant divesting oneself, sharing, giving.
+**M:**&ensp;You are like a man who says, “I need a place where to keep my things, but of what use is space to me?”, or “I need milk, tea, coffee or soda, but for water I have no use”. Don’t you see that the Supreme Reälity is what makes everything possible? But if you ask of what use is it to you, I must answer, “None”. In matters of daily life the knower of the real has no advantage: he may be at a disadvantage rather — beïng free from greed and fear, he does not protect himself. The very idea of profit is foreign to him; he abhors accretions; his life is constant divesting oneself, sharing, giving.
 
 **Q:**&ensp;If there is no advantage in gaining the Supreme, then why take the trouble?
 
 **M:**&ensp;There is trouble only when you cling to something. When you hold on to nothing, no trouble arises. The relinquishing of the lesser is the gaining of the greater. Give up all and you gain all. Then life becomes what it was meant to be: pure radiation from an inexhaustible source. In that light the world appears dimly like a dream.
 
-**Q:**&ensp;If my world is merely a dream and you are a part of it, what can you do for me? If the dream is not real, having no being, how can reälity affect it?
+**Q:**&ensp;If my world is merely a dream and you are a part of it, what can you do for me? If the dream is not real, having no beïng, how can reälity affect it?
 
-**M:**&ensp;While it lasts, the dream has temporary being. It is your desire to hold on to it, that creates the problem. Let go. Stop imagining that the dream is yours.
+**M:**&ensp;While it lasts, the dream has temporary beïng. It is your desire to hold on to it, that creates the problem. Let go. Stop imagining that the dream is yours.
 
 **Q:**&ensp;You seem to take for granted that there can be a dream without a dreamer and that I identify myself with the dream of my own sweet will. But I am the dreamer and the dream too. Who is to stop dreaming?
 
@@ -60,7 +60,7 @@
 
 **Q:**&ensp;You are aware of eternity, therefore you are not concerned with survival.
 
-**M:**&ensp;It is the other way round. Freedom from all desire is eternity. All attachment implies fear, for all things are transient. And fear makes one a slave. This freedom from attachment does not come with practice: it is natural, when one knows one’s true being. Love does not cling; clinging is not love.
+**M:**&ensp;It is the other way round. Freedom from all desire is eternity. All attachment implies fear, for all things are transient. And fear makes one a slave. This freedom from attachment does not come with practice: it is natural, when one knows one’s true beïng. Love does not cling; clinging is not love.
 
 **Q:**&ensp;So there is no way to gain detachment?
 
@@ -72,11 +72,11 @@
 
 **Q:**&ensp;It will take much time if I just wait for self-realisation.
 
-**M:**&ensp;What have you to wait for when it is already here and now? You have only to look and see. Look at your self, at your own being. You know that you are and you like it. Abandon all imagining, that is all. Do not rely on time. Time is death. Who waits — dies. Life is now only. Do not talk to me about past and future — they exist only in your mind.
+**M:**&ensp;What have you to wait for when it is already here and now? You have only to look and see. Look at your self, at your own beïng. You know that you are and you like it. Abandon all imagining, that is all. Do not rely on time. Time is death. Who waits — dies. Life is now only. Do not talk to me about past and future — they exist only in your mind.
 
 **Q:**&ensp;You too will die.
 
-**M:**&ensp;I am dead already. Physical death will make no difference in my case. I am timeless being. I am free of desire or fear, because I do not remember the past, or imagine the future. Where there are no names and shapes, how can there be desire and fear? With desirelessness comes timelessness. I am safe, because what is not, cannot touch what is. You feel unsafe, because you imagine danger. Of course, your body as such is complex and vulnerable and needs protection. But not you. Once you realise your own unassailable being, you will be at peace.
+**M:**&ensp;I am dead already. Physical death will make no difference in my case. I am timeless beïng. I am free of desire or fear, because I do not remember the past, or imagine the future. Where there are no names and shapes, how can there be desire and fear? With desirelessness comes timelessness. I am safe, because what is not, cannot touch what is. You feel unsafe, because you imagine danger. Of course, your body as such is complex and vulnerable and needs protection. But not you. Once you realise your own unassailable beïng, you will be at peace.
 
 **Q:**&ensp;How can I find peace when the world suffers?
 

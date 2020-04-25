@@ -24,7 +24,7 @@
 
 **Q:**&ensp;Is there no such thing as immortality?
 
-**M:**&ensp;When life and death are seen as essential to each other, as two aspects of one being, *that* is immortality. To see the end in the beginning and beginning in the end is the intimation of eternity. Definitely, immortality is not continuity. Only the process of change continues. Nothing lasts.
+**M:**&ensp;When life and death are seen as essential to each other, as two aspects of one beïng, *that* is immortality. To see the end in the beginning and beginning in the end is the intimation of eternity. Definitely, immortality is not continuity. Only the process of change continues. Nothing lasts.
 
 **Q:**&ensp;Awareness lasts?
 
@@ -32,9 +32,9 @@
 
 **Q:**&ensp;Within the field of your consciousness there is *your* body also.
 
-**M:**&ensp;Of course. But the idea ‘my body’, as different from other bodies, is not there. To me it is ‘*a* body’, not ‘my body’, ‘*a* mind’, not ‘my mind’. The mind looks after the body all right, I need not interfere. What needs be done is being done, in the normal and natural way. 
+**M:**&ensp;Of course. But the idea ‘my body’, as different from other bodies, is not there. To me it is ‘*a* body’, not ‘my body’, ‘*a* mind’, not ‘my mind’. The mind looks after the body all right, I need not interfere. What needs be done is beïng done, in the normal and natural way. 
 
-You may not be quite conscious of your physiological functions, but when it comes to thoughts and feelings, desires and fears you become acutely self-conscious. To me these too are largely unconscious. I find myself talking to people, or doing things quite correctly and appropriately, without being very much conscious of them. It looks as if I live my physical, waking life automatically, reacting spontaneously and accurately.
+You may not be quite conscious of your physiological functions, but when it comes to thoughts and feelings, desires and fears you become acutely self-conscious. To me these too are largely unconscious. I find myself talking to people, or doing things quite correctly and appropriately, without beïng very much conscious of them. It looks as if I live my physical, waking life automatically, reacting spontaneously and accurately.
 
 **Q:**&ensp;Does this spontaneous response come as a result of realisation, or by training?
 
@@ -42,7 +42,7 @@ You may not be quite conscious of your physiological functions, but when it come
 
 **Q:**&ensp;Don’t you have desires and fears any more?
 
-**M:**&ensp;My destiny was to be born a simple man, a commoner, a humble tradesman, with little of formal education. My life was the common kind, with common desires and fears. When, through my faith in my teacher and obedience to his words, I realised my true being, I left behind my human nature to look after itself, until its destiny is exhausted. Occasionally an old reaction, emotional or mental, happens in the mind, but it is at once noticed and discarded. After all, as long as one is burdened with a person, one is exposed to its idiosyncrasies and habits.
+**M:**&ensp;My destiny was to be born a simple man, a commoner, a humble tradesman, with little of formal education. My life was the common kind, with common desires and fears. When, through my faith in my teacher and obedience to his words, I realised my true beïng, I left behind my human nature to look after itself, until its destiny is exhausted. Occasionally an old reaction, emotional or mental, happens in the mind, but it is at once noticed and discarded. After all, as long as one is burdened with a person, one is exposed to its idiosyncrasies and habits.
 
 **Q:**&ensp;Are you not afraid of death?
 

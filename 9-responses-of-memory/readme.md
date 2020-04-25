@@ -2,7 +2,7 @@
 
 >Perception, imagination, expectation, anticipation, illusion — all are based on memory. There are hardly any border lines between them. They just merge into each other. All are responses of memory.
 
-**Questioner:**&ensp;Some say the universe was created. Others say that it always existed and is for ever undergoing transformation. Some say it is subject to eternal laws. Others deny even causality. Some say the world is real. Others — that it has no being whatsoever. 
+**Questioner:**&ensp;Some say the universe was created. Others say that it always existed and is for ever undergoing transformation. Some say it is subject to eternal laws. Others deny even causality. Some say the world is real. Others — that it has no beïng whatsoever. 
 
 **Maharaj:**&ensp;Which world are you enquiring about?
 
@@ -37,7 +37,7 @@ and doing on the 30th of the last month.
 
 **Q:**&ensp;Admitted that the world in which I live is subjective and partial. What about you? In what kind of world do *you* live?
 
-**M:**&ensp;My world is just like yours. I see, I hear, I feel, I think, I speak and act in a world I perceive, just like you. But with you it is all, with me it is nothing. Knowing the world to be a part of myself, I pay it no more attention than you pay to the food you have eaten. While being prepared and eaten, the food is separate from you and your mind is on it; once swallowed, you become totally unconscious of it. I have eaten up the world and I need not think of it any more.
+**M:**&ensp;My world is just like yours. I see, I hear, I feel, I think, I speak and act in a world I perceive, just like you. But with you it is all, with me it is nothing. Knowing the world to be a part of myself, I pay it no more attention than you pay to the food you have eaten. While beïng prepared and eaten, the food is separate from you and your mind is on it; once swallowed, you become totally unconscious of it. I have eaten up the world and I need not think of it any more.
 
 **Q:**&ensp;Don’t you become completely irresponsible?
 
