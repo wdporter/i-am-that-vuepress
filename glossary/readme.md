@@ -122,7 +122,7 @@ pageClass: glossary-class
 
 **<em>paramartha:</em>**&ensp;the sublime truth.
 
-**<em>pragna:</em>**&ensp;cognitive consciousness, pure awareness, higher consciousness.
+**<em>prajna:</em>**&ensp;cognitive consciousness, pure awareness, higher consciousness.
 
 **<em>prakriti:</em>**&ensp;the cosmic substance, the original uncaused cause of phenomenal existence, which is formless, limitless, immobile, eternal and all-pervasive, also called *avyakta*.
 
