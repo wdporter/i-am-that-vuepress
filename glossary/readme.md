@@ -80,7 +80,7 @@ pageClass: glossary-class
 
 **<em>mahadakash:</em>**&ensp;the great expanse of existence, the universe of matter and energy.
 
-**<em>mahakarta:</em>**&ensp;the great doër. Mind is the great doer, for it is every busy, ever engaged in something or the other.
+**<em>mahakarta:</em>**&ensp;the great doër. Mind is the great doër, for it is every busy, ever engaged in something or the other.
 
 **<em>Mahatma:</em>**&ensp;enlightened beïng.
 
@@ -151,6 +151,8 @@ pageClass: glossary-class
 **<em>sadhaka:</em>**&ensp;spiritual aspirant.
 
 **<em>sadhana:</em>**&ensp;the practice which produces success, *siddhi*.
+
+**<em>sadhu:</em>**&ensp;an ascetic.
 
 **<em>saguna:</em>**&ensp;manifested condition with the three *gunas*, qualities — *sattva*, *rajas* and *tamas*. The Supreme Absolute conceived of as possessing qualities like love, mercy etc., as distinguished from the undifferentiated Absolute of the *Advaita Vedanta*.
 

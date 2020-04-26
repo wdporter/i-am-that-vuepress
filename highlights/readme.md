@@ -69,8 +69,27 @@
 **M:**&ensp;Emotional reäctions, born of ignorance or inadvertence, are never justified. Seek a clear mind and a clean heart. All you need is to keep quietly alert, enquiring into the real nature of yourself. This is the only way to peace.
 
 
+## [10. Witnessing](/10-witnessing)
+
+**M:**&ensp;You discover that there is nothing to discover. You are what you are and that is all.
+
+**Q:**&ensp;I do not understand!
+
+**M:**&ensp;It is your fixed idea that you must be something or other that blinds you.
+
+**Q:**&ensp;How can I get rid of this idea?
+
+**M:**&ensp;If you trust me, believe when I tell you that you are the pure awareness that illuminates consciousness and its infinite content. Realise this and live accordingly. If you do not believe me, then go within, inquiring “What am I?”, or, focus your mind on ‘I am’, which is pure and simple beïng.
+
+
 ## [62. In the Supreme, the Witness Appears](/62-in-the-supreme-the-witness-appears/)
 
 **Q:**&ensp;How is it that here, my mind is engaged in high topics and finds dwelling on them easy and pleasant, but when I return home I find myself forgetting all l have learnt here, worrying and fretting, unable to remember my real nature even for a moment. What may be the cause?
 
 **M:**&ensp;It is your childishness you are returning to. You are not fully grown up; there are levels left undeveloped because unattended. Just give full attention to what in you is crude and primitive, unreasonable and unkind, altogether childish, and you will ripen. It is the maturity of heart and mind that is essential. It comes effortlessly when the main obstacles — inattention and unawareness — are removed. In awareness you grow.
+
+## [63. The Notion of Doërship Is Bondage](/63-the-notion-of-doership-is-bondage/)
+
+**M:**&ensp;Contemplate life as infinite, undivided, ever present, ever active, until you realise yourself as one with it. It is not even very difficult, for you will only be returning to your own natural condition.
+
+Once you realise that all comes from within, that the world in which you live has not been projected onto you, but by you, your fear comes to an end. Without this realisation you identify yourself with the externals, like the body, mind, society, nation, humanity, even God or the Absolute. But these are all escapes from fear. It is only when you fully accept your responsibility for the little world in which you live and watch the process of its creation, preservation and destruction that you may be free from your imaginary bondage.

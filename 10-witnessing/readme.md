@@ -1,10 +1,10 @@
 # 10. Witnessing
 
->You must watch yourself continuously — particularly your mind — moment by moment, missing nothing. This witnessing is essential for the separation of the self from the not-self.
+>…You must watch yourself continuously — particularly your mind — moment by moment, missing nothing. This witnessing is essential for the separation of the self from the not-self.
 
 **Questioner:**&ensp;I am full of desires and want them fulfilled. How am I to get what I want?
 
-**Maharaj:**&ensp;Do you deserve what you desire? In some way or other you have to work for the fulfilment of your desires. Put in energy and wait for the results.
+**Maharaj:**&ensp;Do you deserve what you desire? In some way or other you have to work for the fulfillment of your desires. Put in energy and wait for the results.
 
 **Q:**&ensp;Where am I to get the energy?
 
@@ -30,14 +30,13 @@
 
 **M:**&ensp;Desires are right or wrong according to circumstances; it depends on how you look at them. It is only for the individual that a distinction between right and wrong is valid.
 
-**Q:**&ensp;What are the guide-lines for such distinction? How am I to know which of my desires are right and which are wrong?
+**Q:**&ensp;What are the guidelines for such distinction? How am I to know which of my desires are right and which are wrong?
 
-**M:**&ensp;In your case desires that lead to sorrow are wrong and those which lead to happiness are right. But you must not forget others. Their sorrow and happiness also count.
+**M:**&ensp;In your case, desires that lead to sorrow are wrong and those that lead to happiness are right. But you must not forget others. Their sorrow and happiness also count.
 
 **Q:**&ensp;Results are in the future. How can I know what they will be?
 
-**M:**&ensp;Use your mind. Remember. Observe. You are not different from others. Most of their
-experiences are valid for you too. Think clearly and deeply, go into the entire structure of your desires and their ramifications. They are a most important part of your mental and emotional makeup and powerfully affect your actions. Remember, you cannot abandon what you do not know. To go beyond yourself, you must know yourself.
+**M:**&ensp;Use your mind. Remember. Observe. You are not different from others. Most of their experiences are valid for you too. Think clearly and deeply; go into the entire structure of your desires and their ramifications. They are a most important part of your mental and emotional makeüp and powerfully affect your actions. Remember: you cannot abandon what you do not know. To go beyond yourself, you must know yourself.
 
 **Q:**&ensp;What does it mean to know myself? By knowing myself what exactly do I come to know?
 
@@ -53,13 +52,13 @@ experiences are valid for you too. Think clearly and deeply, go into the entire 
 
 **Q:**&ensp;I do not understand!
 
-**M:**&ensp;It is your fixed idea that you must be something or other, that blinds you.
+**M:**&ensp;It is your fixed idea that you must be something or other that blinds you.
 
 **Q:**&ensp;How can I get rid of this idea?
 
-**M:**&ensp;If you trust me, believe when I tell you that you are the pure awareness that illuminates consciousness and its infinite content. Realise this and live accordingly. If you do not believe me, then go within, enquiring, “What am I?” or, focus your mind on ‘I am’, which is pure and simple beïng.
+**M:**&ensp;If you trust me, believe when I tell you that you are the pure awareness that illuminates consciousness and its infinite content. Realise this and live accordingly. If you do not believe me, then go within, inquiring “What am I?”, or, focus your mind on ‘I am’, which is pure and simple beïng.
 
-**Q:**&ensp;On what my faith in you depends?
+**Q:**&ensp;What does my faith in you depend on?
 
 **M:**&ensp;On your insight into other people’s hearts. If you cannot look into my heart, look into your own.
 
@@ -67,18 +66,17 @@ experiences are valid for you too. Think clearly and deeply, go into the entire 
 
 **M:**&ensp;Purify yourself by a well-ordered and useful life. Watch over your thoughts, feelings, words and actions. This will clear your vision.
 
-**Q:**&ensp;Must I not renounce every thing first, and live a homeless life?
+**Q:**&ensp;Must I not renounce everything first and live a homeless life?
 
-**M:**&ensp;You cannot renounce. You may leave your home and give trouble to your family, but
-attachments are in the mind and will not leave you until you know your mind in and out. First thing first — know yourself, all else will come with it.
+**M:**&ensp;You cannot renounce. You may leave your home and give trouble to your family, but attachments are in the mind and will not leave you until you know your mind inside and out. First thing first — know yourself; all else will come with it.
 
 **Q:**&ensp;But you already told me that I am the Supreme Reälity. Is it not self-knowledge?
 
 **M:**&ensp;Of course you are the Supreme Reälity! But what of it? Every grain of sand is God; to know it is important, but that is only the beginning.
 
-**Q:**&ensp;Well, you told me that I am the Supreme Reälity. I believe you. What next is there for me to do?
+**Q:**&ensp;You told me that I am the Supreme Reälity. I believe you. What next is there for me to do?
 
-**M:**&ensp;I told you already. Discover all you are not. Body, feelings, thoughts, ideas, time, space, beïng and not-beïng, this or that — nothing concrete or abstract you can point out to is you. A mere verbal statement will not do — you may repeat a formula endlessly without any result whatsoever. You must watch yourself continuously — particularly your mind — moment by moment, missing nothing. This witnessing is essential for the separation of the self from the not-self.
+**M:**&ensp;I told you already. Discover all you are not. Body, feelings, thoughts, ideas, time, space, beïng and not-beïng, this or that — nothing concrete or abstract you can point to is you. A mere verbal statement will not do — you may repeat a formula endlessly without any result whatsoëver. You must watch yourself continuöusly — particularly your mind — moment by moment, missing nothing. This witnessing is essential for the separation of the self from the not-self.
 
 **Q:**&ensp;The witnessing — is it not my real nature?
 

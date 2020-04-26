@@ -107,7 +107,8 @@ module.exports = {
 				title: "61–70",
 				children: [
 					"/61-matter-is-consciousness-itself/",
-					"/62-in-the-supreme-the-witness-appears/"
+					"/62-in-the-supreme-the-witness-appears/",
+					"/63-the-notion-of-doership-is-bondage/"
 				]
 			},
 			{

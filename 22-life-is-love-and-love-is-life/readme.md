@@ -36,9 +36,9 @@
 
 **Q:**&ensp;In what shape does He come?
 
-**M:**&ensp;According to your expectations. If you happen to be unlucky and some saintly soul gives you a mantra for good luck and you repeat it with faith and devotion, your bad luck is bound to turn. Steady faith is stronger than destiny. Destiny is the result of causes, mostly accidental, and is therefore loosely woven. Confidence and good hope will overcome it easily.
+**M:**&ensp;According to your expectations. If you happen to be unlucky and some saintly soul gives you a <span data-tippy-content="Incantation, hymn, an instrument of thought, ideal sounds visualised as letters and vocalised as syllables. A <em>mantra</em> is a group of words whose constant repetition produces specific results.">mantra</span> for good luck and you repeat it with faith and devotion, your bad luck is bound to turn. Steady faith is stronger than destiny. Destiny is the result of causes, mostly accidental, and is therefore loosely woven. Confidence and good hope will overcome it easily.
 
-**Q:**&ensp;When a <span data-tippy-content="Incantation, hymn, an instrument of thought, ideal sounds visualised as letters and vocalised as syllables. A <em>mantra</em> is a group of words whose constant repetition produces specific results.">mantra</span> is chanted, what exactly happens?
+**Q:**&ensp;When a *mantra* is chanted, what exactly happens?
 
 **M:**&ensp;The sound of *mantra* creates the shape which will embody the Self. The Self can embody any shape — and operate through it. After all, the Self is expressing itself in action — and a *mantra* is primarily energy in action. It acts on you, it acts on your surroundings.
 
