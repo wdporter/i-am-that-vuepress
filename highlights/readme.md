@@ -93,3 +93,21 @@
 **M:**&ensp;Contemplate life as infinite, undivided, ever present, ever active, until you realise yourself as one with it. It is not even very difficult, for you will only be returning to your own natural condition.
 
 Once you realise that all comes from within, that the world in which you live has not been projected onto you, but by you, your fear comes to an end. Without this realisation you identify yourself with the externals, like the body, mind, society, nation, humanity, even God or the Absolute. But these are all escapes from fear. It is only when you fully accept your responsibility for the little world in which you live and watch the process of its creation, preservation and destruction that you may be free from your imaginary bondage.
+
+
+## [64. Whatever Pleases You Keeps You Back](/64-whatever-pleases-you-keeps-you-back/)
+
+**Q:**&ensp;How does one come to know the knower?
+
+**M:**&ensp;I can only tell you what I know from my own experience. When I met my *guru*, he told me, “You are not what you take yourself to be. Find out what you are. Watch the sense ‘I am’, find your real self”. I obeyed him because I trusted him. I did as he told me. All my spare time I would spend looking at myself in silence. And what a difference it made, and how soon! It took me only three years to realise my true nature. My *guru* died soon after I met him, but it made no difference. I remembered what he told me and persevered. The fruit of it is here with me.
+
+…
+
+**M:**&ensp;The witness attitude is also faith — it is faith in oneself. You believe that you are not what you experience and you look at everything as if from a distance. There is no effort in witnessing. You understand that you are the witness only and the understanding acts. You need nothing more — just remember that you are the witness only. If in the state of witnessing you ask yourself, “Who am I?”, the answer comes at once, though it is wordless and silent. Cease to be the object and become the
+subject of all that happens; once having turned within, you will find yourself beyond the subject. When you have found yourself, you will find that you are also beyond the object, that both the subject and the object exist in you, but you are neither.
+
+…
+
+**Q:**&ensp;How does one reach the Supreme State?
+
+**M:**&ensp;By renouncing all lesser desires. As long as you are pleased with the lesser, you cannot have the highest. Whatever pleases you keeps you back. Until you realise the unsatisfactoriness of everything, its transiency and limitation, and collect your energies in one great longing, even the first step is not made. On the other hand, the integrity of the desire for the Supreme is by itself a call from the Supreme. Nothing, physical or mental, can give you freedom. You are free once you understand that your bondage is of your own making and you cease forging the chains that bind you.
