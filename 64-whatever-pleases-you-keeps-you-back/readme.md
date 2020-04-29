@@ -99,3 +99,13 @@ However, you must not think that faith itself is enough. Faith expressed in acti
 **Q:**&ensp;Must we not suffer to grow?
 
 **M:**&ensp;It is enough to know that there is suffering, that the world suffers. By themselves neither pleasure nor pain enlightens. Only understanding does. Once you have grasped the truth that the world is full of suffering, that to be born is a calamity, you will find the urge and the energy to go beyond it. Pleasure puts you to sleep and pain wakes you up. If you do not want to suffer, don’t go to sleep. You cannot know yourself through bliss alone, for bliss is your very nature. You must face the opposite, what you are not, to find enlightenment.
+
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>
