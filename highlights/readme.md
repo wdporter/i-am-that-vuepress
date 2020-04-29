@@ -115,3 +115,10 @@ subject of all that happens; once having turned within, you will find yourself b
 **Q:**&ensp;How does one reach the Supreme State?
 
 **M:**&ensp;By renouncing all lesser desires. As long as you are pleased with the lesser, you cannot have the highest. Whatever pleases you keeps you back. Until you realise the unsatisfactoriness of everything, its transiency and limitation, and collect your energies in one great longing, even the first step is not made. On the other hand, the integrity of the desire for the Supreme is by itself a call from the Supreme. Nothing, physical or mental, can give you freedom. You are free once you understand that your bondage is of your own making and you cease forging the chains that bind you.
+
+
+## [65. A Quiet Mind Is All You Need](/65-a-quiet-mind-is-all-you-need/)
+
+**Q:**&ensp;It is all very tempting, but how am I to proceed to realise my universal being?
+
+**M:**&ensp;You have two ways: you can give your heart and mind to self-discovery, or you accept my words on trust and act accordingly. In other words, either you become totally self-concerned, or totally unself-concerned. It is the word ‘totally’ that is important. You must be extreme to reach the Supreme.
