@@ -70,7 +70,7 @@ You say you want to pacify your mind. Is he, who wants to pacify the mind, himse
 
 **Q:**&ensp;I am trying to rejoin the personality back to the real self.
 
-**M:**&ensp;The personality (<span data-tippy-content="Person, the outer self.">vyakti</span>) is but a product of imagination. The self (<span data-tippy-content="Manifest matter, the evolved nature. Opposite is <em>avyakta</em>.">vyakta</span>) is the victim of this imagination. It is the taking yourself to be what you are not that binds you. The person cannot be said to exist on its own rights; it is the self that believes there is a person and is conscious of beïng it. Beyond the self (*vyakta*) lies the unmanifested (<span data-tippy-content="Unmanifest. Opposite is <em>vyakta</em>.">avyakta</span>), the causeless cause of everything. Even to talk of reüniting the person with the self is not right, because there is no person, only a mental picture given a false reälity by conviction. Nothing was divided and there is nothing to unite.
+**M:**&ensp;The personality (<span data-tippy-content="Person, the outer self.">vyakti</span>) is but a product of imagination. The self (<span data-tippy-content="Manifest matter, the evolved nature. Opposite is <em>avyakta</em>.">vyakta</span>) is the victim of this imagination. It is the taking yourself to be what you are not that binds you. The person cannot be said to exist on its own rights; it is the self that believes there is a person and is conscious of beïng it. Beyond the self (*vyakta*) lies the unmanifested (<span data-tippy-content="Unmanifest. Opposite is <em>vyakta</em>.">avyakta</span>), the causeless cause of everything. Even to talk of reüniting the person with the self is not right, because there is no person, only a mental picture given a false reality by conviction. Nothing was divided and there is nothing to unite.
 
 **Q:**&ensp;*Yoga* helps in the search for and the finding of the self.
 
@@ -104,13 +104,13 @@ You say you want to pacify your mind. Is he, who wants to pacify the mind, himse
 
 **M:**&ensp;The happiness you can think of and long for, is mere physical or mental satisfaction. Such sensory or mental pleasure is not the real, the absolute happiness.
 
-**Q:**&ensp;Even sensory and mental pleasures and the general sense of well-beïng which arises with physical and mental health, must have their roots in reälity.
+**Q:**&ensp;Even sensory and mental pleasures and the general sense of well-beïng which arises with physical and mental health, must have their roots in reality.
 
 **M:**&ensp;They have their roots in imagination. A man who is given a stone and assured that it is a priceless diamond will be mightily pleased until he realises his mistake; in the same way pleasures lose their tang and pains their barb when the self is known. Both are seen as they are — conditional responses, mere reäctions, plain attractions and repulsions, based on memories or preconceptions. Usually pleasure and pain are experienced when expected. It is all a matter of acquired habits and convictions.
 
 **Q:**&ensp;Well, pleasure may be imaginary. But pain is real.
 
-**M:**&ensp;Pain and pleasure go always together. Freedom from one means freedom from both. If you do not care for pleasure, you will not be afraid of pain. But there is happiness which is neither, which is completely beyond. The happiness you know is describable and measurable. It is objective, so to say. But the objective cannot be your own. It would be a grievous mistake to identify yourself with something external. This churning up of levels leads nowhere. Reälity is beyond the subjective and objective, beyond all levels, beyond every distinction. Most definitely it is not their origin, source or root. These come from ignorance of reälity, not from reälity itself, which is indescribable, beyond beïng and not-beïng.
+**M:**&ensp;Pain and pleasure go always together. Freedom from one means freedom from both. If you do not care for pleasure, you will not be afraid of pain. But there is happiness which is neither, which is completely beyond. The happiness you know is describable and measurable. It is objective, so to say. But the objective cannot be your own. It would be a grievous mistake to identify yourself with something external. This churning up of levels leads nowhere. Reality is beyond the subjective and objective, beyond all levels, beyond every distinction. Most definitely it is not their origin, source or root. These come from ignorance of reality, not from reality itself, which is indescribable, beyond beïng and not-beïng.
 
 **Q:**&ensp;Many teachers have I followed and studied many doctrines, yet none gave me what I wanted.
 

@@ -38,7 +38,7 @@ pageClass: glossary-class
 
 **Brahma:**&ensp;one of the gods of the Hindu trinity: Brahma, the creator; Vishnu, the preserver; Shiva, the destroyer.
 
-**Brahman:**&ensp;the Absolute, the Ultimate Reälity, whose characteristics are absolute existence (*sat*), absolute consciousness (*chit*) and absolute bliss (*ananda*). According to Shankaracharya, Brahman, the Absolute has five different phases: *Hiranyagarbha*, the Cosmic Self; *Ishvara*, the personal god in the form of an avatar; *jiva*, the individual soul; *prakriti*, the perishable nature and *shakti*, the creätive power.
+**Brahman:**&ensp;the Absolute, the Ultimate Reality, whose characteristics are absolute existence (*sat*), absolute consciousness (*chit*) and absolute bliss (*ananda*). According to Shankaracharya, Brahman, the Absolute has five different phases: *Hiranyagarbha*, the Cosmic Self; *Ishvara*, the personal god in the form of an avatar; *jiva*, the individual soul; *prakriti*, the perishable nature and *shakti*, the creätive power.
 
 **<em>Brahmasmi:</em>**&ensp;(Brahman, the Supreme + *asmi*, I am, as, to be] I am the Supreme. ‘I am’ (*asmi*) represents the pure awareness of self-existence and is therefore the expression of pure consciousness or the *Purusha*. When this pure consciousness gets involved in matter, the pure ‘I am’ changes into ‘I am that’, ‘I am so-and-so’.
 
@@ -88,7 +88,7 @@ pageClass: glossary-class
 
 **<em>maha-sattva:</em>**&ensp;the supreme harmony, harmonious existence.
 
-**<em>maha-tattva:</em>**&ensp;the great reälity, supreme consciousness.
+**<em>maha-tattva:</em>**&ensp;the great reality, supreme consciousness.
 
 **<em>maha-vakya:</em>**&ensp;the sublime pronouncement. Four Upanishadic declarations, expressing the highest Vedantic truths, are known as *Mahavakya*s. They are: *Prajnanam Brahman* (consciousness is *Brahman*), *aham Brahmasmi* (I am *Brahman*), *tat tvam asi* (That Thou Art) and *ayam atma Brahma* (the self is Brahman).
 
@@ -116,9 +116,9 @@ pageClass: glossary-class
 
 **<em>nivritti:</em>**&ensp;liberation from worldly existence, renunciation.
 
-**Parabrahman:**&ensp;the Supreme Reälity.
+**Parabrahman:**&ensp;the Supreme Reality.
 
-**<em>paramakash:</em>**&ensp;the great expanse, the timeless and spaceless reälity; the Absolute beïng.
+**<em>paramakash:</em>**&ensp;the great expanse, the timeless and spaceless reality; the Absolute beïng.
 
 **<em>paramartha:</em>**&ensp;the sublime truth.
 
@@ -126,7 +126,7 @@ pageClass: glossary-class
 
 **<em>prakriti:</em>**&ensp;the cosmic substance, the original uncaused cause of phenomenal existence, which is formless, limitless, immobile, eternal and all-pervasive, also called *avyakta*.
 
-**<em>pralaya:</em>**&ensp;complete dissolution, merger of the cosmos with the unmanifested Absolute — the Supreme Reälity.
+**<em>pralaya:</em>**&ensp;complete dissolution, merger of the cosmos with the unmanifested Absolute — the Supreme Reality.
 
 **<em>prana:</em>**&ensp;the breath of life, vital principle.
 
@@ -184,7 +184,7 @@ pageClass: glossary-class
 
 **<em>tamas:</em>**&ensp;darkness, inertia, passivity. One of the three constituents (*gunas*) of the cosmic substance: *sattava*, *rajas* and *tamas*.
 
-**<em>tat–sat:</em>**&ensp;[*tat*, that + *sat*, truth, beïng, reälity] that is the truth. The sacred text is “*Om Tat Sat*” in which *Brahman* is identified by each of the three words.
+**<em>tat–sat:</em>**&ensp;[*tat*, that + *sat*, truth, beïng, reality] that is the truth. The sacred text is “*Om Tat Sat*” in which *Brahman* is identified by each of the three words.
 
 **<em>turiya:</em>**&ensp;the superconscious state of *samadhi*, (*turiya*, fourth), the fourth state of soul in which it becomes one with *Brahman*, the highest awareness.
 

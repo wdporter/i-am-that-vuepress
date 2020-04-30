@@ -32,4 +32,4 @@
 
 **Q:**&ensp;To what extent is desire a causal factor?
 
-**M:**&ensp;One of the many. For everything there are innumerable causal factors. But the source of all that is, is the Infinite Possibility, the Supreme Reälity, which is in you and which throws its power and light and love on every experience. But this source is not a cause and no cause is a source. Because of that, I say everything is uncaused. You may try to trace how a thing happens, but you cannot find out why a thing *is* as it is. A thing is as it is, because the universe is as it is.
+**M:**&ensp;One of the many. For everything there are innumerable causal factors. But the source of all that is, is the Infinite Possibility, the Supreme Reality, which is in you and which throws its power and light and love on every experience. But this source is not a cause and no cause is a source. Because of that, I say everything is uncaused. You may try to trace how a thing happens, but you cannot find out why a thing *is* as it is. A thing is as it is, because the universe is as it is.

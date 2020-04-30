@@ -24,7 +24,7 @@
 
 **Q:**&ensp;God made a most diversified world.
 
-**M:**&ensp;The diversity is in you only. See yourself as you are and you will see the world as it is — a single block of reälity, indivisible and indescribable. Your own creätive power projects upon it a picture and all your questions refer to the picture.
+**M:**&ensp;The diversity is in you only. See yourself as you are and you will see the world as it is — a single block of reality, indivisible and indescribable. Your own creätive power projects upon it a picture and all your questions refer to the picture.
 
 **Q:**&ensp;A Tibetan <span data-tippy-content="One who practices <em>yoga</em>.">Yogi</span> wrote that God creates the world for a purpose and runs it according to a plan. The purpose is good and the plan is most wise.
 
@@ -40,13 +40,13 @@
 
 **Q:**&ensp;How does the personal emerge from the impersonal?
 
-**M:**&ensp;The two are but aspects of one Reälity. It is not correct to talk of one preceding the other. All these ideas belong to the waking state.
+**M:**&ensp;The two are but aspects of one Reality. It is not correct to talk of one preceding the other. All these ideas belong to the waking state.
 
 **Q:**&ensp;What brings in the waking state?
 
 **M:**&ensp;At the root of all creation lies desire. Desire and imagination foster and reïnforce each other. The fourth state (<span data-tippy-content="The superconscious state of <em>samadhi</em>, (<em>turiya</em>, fourth), the fourth state of soul in which it becomes one with Brahman, the highest awareness.">turiya</span>) is a state of pure witnessing, detached awareness, passionless and wordless. It is like space, unaffected by whatever it contains. Bodily and mental troubles do not reach it — they are outside, ‘there’, while the witness is always ‘here’.
 
-**Q:**&ensp;What is real, the subjective or the objective? I am inclined to believe that the objective universe is the real one and my subjective psyche is changeful and transient. You seem to claim reälity for your inner, subjective states and deny all reälity to the concrete, external world.
+**Q:**&ensp;What is real, the subjective or the objective? I am inclined to believe that the objective universe is the real one and my subjective psyche is changeful and transient. You seem to claim reality for your inner, subjective states and deny all reality to the concrete, external world.
 
 **M:**&ensp;Both the subjective and the objective are changeful and transient. There is nothing real about them. Find the permanent in the fleeting, the one constant factor in every experience.
 

@@ -4,7 +4,7 @@
 
 **Questioner:**&ensp;From what you told us, it appears that you are not quite conscious of your surroundings. To us you seem extremely alert and active. We cannot possibly believe that you are in a kind of hypnotic state which leaves no memory behind. On the contrary, your memory seems excellent. How are we to understand your statement that as far as you are concerned, the world and all it includes does not exist.
 
-**Maharaj:**&ensp;It is all a matter of focus. Your mind is focussed on the world; mine is focussed on reälity. It is like the moon in daylight — when the sun shines, the moon is hardly visible. Or watch how you take your food. As long as it is in your mouth, you are conscious of it; once swallowed, it does not concern you any longer. It would be troublesome to have it constantly in mind until it is eliminated. The mind should normally be in abeyance — incessant activity is a morbid state. The universe works by itself — that I know. What else do I need to know?
+**Maharaj:**&ensp;It is all a matter of focus. Your mind is focussed on the world; mine is focussed on reality. It is like the moon in daylight — when the sun shines, the moon is hardly visible. Or watch how you take your food. As long as it is in your mouth, you are conscious of it; once swallowed, it does not concern you any longer. It would be troublesome to have it constantly in mind until it is eliminated. The mind should normally be in abeyance — incessant activity is a morbid state. The universe works by itself — that I know. What else do I need to know?
 
 **Q:**&ensp;So a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> knows what he is doing only when he turns his mind to it; otherwise he just acts, without beïng concerned.
 
@@ -36,7 +36,7 @@
 
 **Q:**&ensp;I am asking you a question and you are answering. Are you conscious of the question and the answer?
 
-**M:**&ensp;In reälity I am neither hearing nor answering. In the world of events the question happens and the answer happens. Nothing happens to me. Everything just happens.
+**M:**&ensp;In reality I am neither hearing nor answering. In the world of events the question happens and the answer happens. Nothing happens to me. Everything just happens.
 
 **Q:**&ensp;And you are the witness?
 
@@ -44,7 +44,7 @@
 
 **Q:**&ensp;The fully realised man, spontaneously abiding in the supreme state, appears to eat, drink and so on. Is he aware of it or not?
 
-**M:**&ensp;That in which consciousness happens, the universal consciousness or mind, we call the ‘ether’ of consciousness. All the objects of consciousness form the universe. What is beyond both, supporting both, is the supreme state, a state of utter stillness and silence. Whoëver goes there disappears. It is unreachable by words or mind. You may call it God or <span data-tippy-content="The Supreme Reälity.">Parabrahman</span> or Supreme Reälity, but these are names given by the mind. It is the nameless, contentless, effortless and spontaneous state, beyond beïng and not beïng.
+**M:**&ensp;That in which consciousness happens, the universal consciousness or mind, we call the ‘ether’ of consciousness. All the objects of consciousness form the universe. What is beyond both, supporting both, is the supreme state, a state of utter stillness and silence. Whoëver goes there disappears. It is unreachable by words or mind. You may call it God or <span data-tippy-content="The Supreme Reality.">Parabrahman</span> or Supreme Reality, but these are names given by the mind. It is the nameless, contentless, effortless and spontaneous state, beyond beïng and not beïng.
 
 **Q:**&ensp;But does one remain conscious?
 
@@ -52,7 +52,7 @@
 
 **Q:**&ensp;In my daily actions much goes by habit, automatically. I am aware of the general purpose, but not of each movement in detail. As my consciousness broadens and deepens, details tend to recede, leaving me free for the general trends. Does not the same happen to a *jnani*, but more so?
 
-**M:**&ensp;On the level of consciousness, yes; in the supreme state, no. This state is entirely one and indivisible, a single solid block of reälity. The only way of knowing it is to *be* it. The mind cannot reach it. To perceive it does not require the senses; to know it does not require the mind.
+**M:**&ensp;On the level of consciousness, yes; in the supreme state, no. This state is entirely one and indivisible, a single solid block of reality. The only way of knowing it is to *be* it. The mind cannot reach it. To perceive it does not require the senses; to know it does not require the mind.
 
 **Q:**&ensp;That is how God runs the world.
 
@@ -64,7 +64,7 @@
 
 **Q:**&ensp;There is the witnessed consciousness and there is the witnessing consciousness. Is the second the supreme?
 
-**M:**&ensp;There are the two — the person and the witness, the observer. When you see them as one and go beyond, you are in the supreme state. It is not perceivable because it is what makes perception possible. It is beyond beïng and not beïng. It is neither the mirror nor the image in the mirror. It is what *is* — the timeless reälity, unbelievably hard and solid.
+**M:**&ensp;There are the two — the person and the witness, the observer. When you see them as one and go beyond, you are in the supreme state. It is not perceivable because it is what makes perception possible. It is beyond beïng and not beïng. It is neither the mirror nor the image in the mirror. It is what *is* — the timeless reality, unbelievably hard and solid.
 
 **Q:**&ensp;The *jnani* — is he the witness or the Supreme?
 
@@ -72,7 +72,7 @@
 
 **Q:**&ensp;But he remains a person?
 
-**M:**&ensp;When you believe yourself to be a person, you see persons everywhere. In reälity there are no persons, only threads of memories and habits. At the moment of realisation, the person ceases. Identity remains, but identity is not a person — it is inherent in the reälity itself. The person has no beïng in itself; it is a reflection in the mind of the witness, the ‘I am’, which again is a mode of beïng.
+**M:**&ensp;When you believe yourself to be a person, you see persons everywhere. In reality there are no persons, only threads of memories and habits. At the moment of realisation, the person ceases. Identity remains, but identity is not a person — it is inherent in the reality itself. The person has no beïng in itself; it is a reflection in the mind of the witness, the ‘I am’, which again is a mode of beïng.
 
 **Q:**&ensp;Is the Supreme conscious?
 
@@ -84,7 +84,7 @@
 
 **Q:**&ensp;Is it vitality, the energy of life, livingness?
 
-**M:**&ensp;Energy comes first. For everything is a form of energy. Consciousness is most differentiated in the waking state. Less so in dreaming. Still less in sleep. Homogeneous in the fourth state. Beyond is the inexpressible monolithic reälity, the abode of the *jnani*.
+**M:**&ensp;Energy comes first. For everything is a form of energy. Consciousness is most differentiated in the waking state. Less so in dreaming. Still less in sleep. Homogeneous in the fourth state. Beyond is the inexpressible monolithic reality, the abode of the *jnani*.
 
 **Q:**&ensp;I have cut my hand. It healed. By what power did it heal?
 
@@ -100,7 +100,7 @@
 
 **Q:**&ensp;Can there be life without consciousness?
 
-**M:**&ensp;No, nor consciousness without life. They are both one. But in reälity only the Ultimate *is*. The rest is a matter of name and form. And as long as you cling to the idea that only what has name and shape exists, the Supreme will appear to you nonexistent. When you understand that names and shapes are hollow shells without any content whatsoëver and what is real is nameless and formless, pure energy of life and light of consciousness, you will be at peace — immersed in the deep silence of reälity.
+**M:**&ensp;No, nor consciousness without life. They are both one. But in reality only the Ultimate *is*. The rest is a matter of name and form. And as long as you cling to the idea that only what has name and shape exists, the Supreme will appear to you nonexistent. When you understand that names and shapes are hollow shells without any content whatsoëver and what is real is nameless and formless, pure energy of life and light of consciousness, you will be at peace — immersed in the deep silence of reality.
 
 **Q:**&ensp;If time and space are mere illusions and you are beyond, please tell me — what is the weather in New York? Is it hot or raining there?
 
@@ -112,9 +112,9 @@
 
 **Q:**&ensp;By what sign do you recognise it?
 
-**M:**&ensp;That’s the point: it leaves no traces. There is nothing to recognise it by. It must be seen directly, by giving up all search for signs and approaches. When all names and forms have been given up, the real is with you. You need not seek it. Plurality and diversity are the play of the mind only. Reälity is one.
+**M:**&ensp;That’s the point: it leaves no traces. There is nothing to recognise it by. It must be seen directly, by giving up all search for signs and approaches. When all names and forms have been given up, the real is with you. You need not seek it. Plurality and diversity are the play of the mind only. Reality is one.
 
-**Q:**&ensp;If reälity leaves no evidence, there is no speaking about it.
+**Q:**&ensp;If reality leaves no evidence, there is no speaking about it.
 
 **M:**&ensp;It *is*. It cannot be denied. It is deep and dark, mystery beyond mystery. But it *is*, while all else merely happens.
 

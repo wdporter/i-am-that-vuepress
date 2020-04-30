@@ -16,7 +16,7 @@
 
 **Q:**&ensp;Why then should we pay tribute to *Yogi*s and speak slightingly of *Bhogi*s? All are *Yogi*s, in a way.
 
-**M:**&ensp;On the human scale of values deliberate effort is considered praiseworthy. In reälity both the *Yogi* and *Bhogi* follow their own nature, according to circumstances and opportunities. The *Yogi*’s life is governed by a single desire — to find the Truth; the *Bhogi* serves many masters. But the *Bhogi* becomes a *Yogi* and the *Yogi* may get a rounding up in a bout of *Bhoga*. The final result is the same.
+**M:**&ensp;On the human scale of values deliberate effort is considered praiseworthy. In reality both the *Yogi* and *Bhogi* follow their own nature, according to circumstances and opportunities. The *Yogi*’s life is governed by a single desire — to find the Truth; the *Bhogi* serves many masters. But the *Bhogi* becomes a *Yogi* and the *Yogi* may get a rounding up in a bout of *Bhoga*. The final result is the same.
 
 **Q:**&ensp;Buddha is reported to have said that it is tremendously important to have heard that there is enlightenment, a complete reversal and transformation in consciousness. The good news is compared to a spark in a shipload of cotton; slowly but relentlessly the whole of it will turn to ashes. Similarly the good news of enlightenment will, sooner or later, bring about a transformation.
 

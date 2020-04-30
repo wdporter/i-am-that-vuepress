@@ -12,7 +12,7 @@
 
 **Q:**&ensp;The Absolute or Life you talk about, is it real, or a mere theory to cover up our ignorance?
 
-**M:**&ensp;Both. To the mind, a theory; in itself — a reälity. It is reälity in its spontaneous and total rejection of the false. Just as light destroys darkness by its very presence, so does the absolute destroy imagination. To see that all knowledge is a form of ignorance is itself a movement of reälity. The witness is not a person. The person comes into beïng when there is a basis for it, an organism, a body. In it the absolute is reflected as awareness. Pure awareness becomes self-awareness. When there is a self, self-awareness is the witness. When there is no self to witness, there is no witnessing either. It is all very simple; it is the presence of the person that complicates. See that there is no such thing as a permanently separate person and all becomes clear. Awareness–mind–matter: they are one reälity in its two aspects as immovable and movable, and the three attributes of inertia, energy and harmony.
+**M:**&ensp;Both. To the mind, a theory; in itself — a reality. It is reality in its spontaneous and total rejection of the false. Just as light destroys darkness by its very presence, so does the absolute destroy imagination. To see that all knowledge is a form of ignorance is itself a movement of reality. The witness is not a person. The person comes into beïng when there is a basis for it, an organism, a body. In it the absolute is reflected as awareness. Pure awareness becomes self-awareness. When there is a self, self-awareness is the witness. When there is no self to witness, there is no witnessing either. It is all very simple; it is the presence of the person that complicates. See that there is no such thing as a permanently separate person and all becomes clear. Awareness–mind–matter: they are one reality in its two aspects as immovable and movable, and the three attributes of inertia, energy and harmony.
 
 **Q:**&ensp;What comes first: consciousness or awareness?
 
@@ -34,9 +34,9 @@ Imagine a big building collapsing. Some rooms are in ruins, some are intact. But
 
 **Q:**&ensp;It is not death that I rebel against. It is the manner of dying.
 
-**M:**&ensp;Death is natural, the manner of dying is man-made. Separateness causes fear and aggression, which again cause violence. Do away with man-made separations and all this horror of people killing each other will surely end. But in reälity there is no killing and no dying. The real does not die, the unreal never lived. Set your mind right and all will be right. When you know that the world is one, that humanity is one, you will act accordingly. But first of all you must attend to the way you feel, think and live. Unless there is order in yourself, there can be no order in the world. 
+**M:**&ensp;Death is natural, the manner of dying is man-made. Separateness causes fear and aggression, which again cause violence. Do away with man-made separations and all this horror of people killing each other will surely end. But in reality there is no killing and no dying. The real does not die, the unreal never lived. Set your mind right and all will be right. When you know that the world is one, that humanity is one, you will act accordingly. But first of all you must attend to the way you feel, think and live. Unless there is order in yourself, there can be no order in the world. 
 
-In reälity nothing happens. Onto the screen of the mind destiny forever projects its pictures, memories of former projections and thus illusion constantly renews itself. The pictures come and go — light intercepted by ignorance. See the light and disregard the picture.
+In reality nothing happens. Onto the screen of the mind destiny forever projects its pictures, memories of former projections and thus illusion constantly renews itself. The pictures come and go — light intercepted by ignorance. See the light and disregard the picture.
 
 **Q:**&ensp;What a callous way of looking at things! People are killing and getting killed and here you talk of pictures.
 
@@ -44,7 +44,7 @@ In reälity nothing happens. Onto the screen of the mind destiny forever project
 
 **Q:**&ensp;What you say I understand, but emotionally I cannot accept it. This merely idealistic view of life repels me deeply. I just cannot think myself to be permanently in a state of dream.
 
-**M:**&ensp;How can anybody be permanently in a state caused by an impermanent body? The misunderstanding is based on your idea that you are the body. Examine the idea, see its inherent contradictions, realise that your present existence is like a shower of sparks, each spark lasting a second and the shower itself — a minute or two. Surely a thing of which the beginning is the end, can have no middle. Respect your terms. Reälity cannot be momentary. It is timeless, but timelessness is not duration.
+**M:**&ensp;How can anybody be permanently in a state caused by an impermanent body? The misunderstanding is based on your idea that you are the body. Examine the idea, see its inherent contradictions, realise that your present existence is like a shower of sparks, each spark lasting a second and the shower itself — a minute or two. Surely a thing of which the beginning is the end, can have no middle. Respect your terms. Reality cannot be momentary. It is timeless, but timelessness is not duration.
 
 **Q:**&ensp;I admit that the world in which I live is not the real world. But there is a real world, of which I see a distorted picture. The distortion may be due to some blemish in my body or mind. But when you say there is no real world, only a dream world in my mind, I just cannot take it. I wish I could believe that all horrors of existence are due to my having a body. Suicide would be the way out.
 

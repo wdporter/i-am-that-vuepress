@@ -116,7 +116,7 @@
 
 **M:**&ensp;Well, if you think so, act on it. Feed your God, by all means.
 
-**Q:**&ensp;A child goes to school and learns many things, which will be of no use to it later. But in the course of learning it grows. So do we pass through experiences without number and forget them all, but in the meantime we grow all the time. And what is a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> but a man with a genius for reälity! This world of mine cannot be an accident. It makes sense, there must be a plan behind it. My God has a plan.
+**Q:**&ensp;A child goes to school and learns many things, which will be of no use to it later. But in the course of learning it grows. So do we pass through experiences without number and forget them all, but in the meantime we grow all the time. And what is a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> but a man with a genius for reality! This world of mine cannot be an accident. It makes sense, there must be a plan behind it. My God has a plan.
 
 **M:**&ensp;If the world is false, then the plan and its creator are also false.
 
@@ -150,7 +150,7 @@
 
 **Q:**&ensp;To be a superman one must be a man first. Manhood is the fruit of innumerable experiences: Desire drives to experience. Hence at its own time and level desire is right.
 
-**M:**&ensp;All this is true in a way. But a day comes when you have amassed enough and must begin to build. Then sorting out and discarding (<span data-tippy-content="Discrimination; discrimination between the true and the false, the real and the unreal. <em>Viveka</em> is an expression of the spiritual consciousness hidden behind the mind. It leads to <em>vairagya</em>.">viveka</span>–<span data-tippy-content="Dispassion, indifference to the pains and pleasures of the material world.">vairagya</span>) are absolutely necessary. Everything must be scrutinised and the unnecessary ruthlessly destroyed. Believe me, there cannot be too much destruction. For in reälity nothing is of value. Be passionately dispassionate — that is all. 
+**M:**&ensp;All this is true in a way. But a day comes when you have amassed enough and must begin to build. Then sorting out and discarding (<span data-tippy-content="Discrimination; discrimination between the true and the false, the real and the unreal. <em>Viveka</em> is an expression of the spiritual consciousness hidden behind the mind. It leads to <em>vairagya</em>.">viveka</span>–<span data-tippy-content="Dispassion, indifference to the pains and pleasures of the material world.">vairagya</span>) are absolutely necessary. Everything must be scrutinised and the unnecessary ruthlessly destroyed. Believe me, there cannot be too much destruction. For in reality nothing is of value. Be passionately dispassionate — that is all. 
 
 <script>
 export default {

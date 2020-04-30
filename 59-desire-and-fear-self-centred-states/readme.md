@@ -12,9 +12,9 @@ Of course, not every activity of man must be utilitarian, designed to meet a nee
 
 **Maharaj:**&ensp;In short, you do not object to pleasure, but only to its price in pain and sorrow.
 
-**Q:**&ensp;If reälity itself is bliss, then pleasure in some way must be related to it.
+**Q:**&ensp;If reality itself is bliss, then pleasure in some way must be related to it.
 
-**M:**&ensp;Let us not proceed by verbal logic. The bliss of reälity does not exclude suffering. Besides, you know only pleasure, not the bliss of pure beïng. So let us examine pleasure at its own level. 
+**M:**&ensp;Let us not proceed by verbal logic. The bliss of reality does not exclude suffering. Besides, you know only pleasure, not the bliss of pure beïng. So let us examine pleasure at its own level. 
 
 If you look at yourself in your moments of pleasure or pain, you will invariably find that it is not the thing in itself that is pleasant or painful, but the situation of which it is a part. Pleasure lies in the relationship between the enjoyer and the enjoyed. And the essence of it is acceptance. Whatever may be the situation, if it is acceptable, it is pleasant. If it is not acceptable, it is painful. What makes it acceptable is not important; the cause may be physical, psychological or untraceäble; acceptance is the decisive factor. Obversely, suffering is due to non-acceptance.
 

@@ -4,7 +4,7 @@
 
 **Questioner:**&ensp;The Westerners who occasionally come to see you are faced with a peculiar difficulty. The very notion of a liberated man, a realised man, a self-knower, a God-knower, a man beyond the world, is unknown to them. All they have in their Christian culture is the idea of a saint: a pious man, law-abiding, God-fearing, fellow-loving, prayerful, sometimes prone to ecstasies and confirmed by a few miracles. The very idea of a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> is foreign to Western culture, something exotic and rather unbelievable. Even when his existence is accepted, he is looked at with suspicion, as a case of self-induced euphoria caused by strange physical postures and mental attitudes. The very idea of a new dimension in consciousness seems to them implausible and improbable. 
 
-What will help them is the opportunity of hearing a *jnani* relate his own experience of realisation, its causes and beginnings, its progress and attainments and its actual practice in daily life. Much of what he says may remain strange, even meaningless, yet there will remain a feeling of reälity, an atmosphere of actual experiencing — ineffable, yet very real, a centre from which an exemplary life
+What will help them is the opportunity of hearing a *jnani* relate his own experience of realisation, its causes and beginnings, its progress and attainments and its actual practice in daily life. Much of what he says may remain strange, even meaningless, yet there will remain a feeling of reality, an atmosphere of actual experiencing — ineffable, yet very real, a centre from which an exemplary life
 can be lived.
 
 **Maharaj:**&ensp;The experience may be incommunicable. Can one communicate an experience?
@@ -41,7 +41,7 @@ You seem to want instant insight, forgetting that the instant is always preceded
 
 After all, when I talk of trusting me, it is only for a short time, just enough time to start you moving. The more earnest you are, the less belief you need, for soon you will find your faith in me justified. You want me to prove to you that I am trustworthy! How can I and why should I? After all, what I am offering you is the operational approach, so current in Western science. When a scientist describes an experiment and its results, usually you accept his statements on trust and repeat his experiment as he describes it. Once you get the same or similar results, you need not trust him any more; you trust your own experience. Encouraged, you proceed and arrive in the end at substantially identical results.
 
-**Q:**&ensp;The Indian mind was made ready for metaphysical experiments by culture and nurture. To the Indian words like ‘direct perception of the Supreme Reälity’ make sense and bring out responses from the very depths of his beïng. They mean little to a Westerner; even when brought up in his own variety of Christianity, he does not think beyond conformity with God’s commandments and Christ’s injunctions. First-hand knowledge of reälity is not only beyond ambition, but also beyond conceiving. Some Indians tell me, “Hopeless. The Westerner will not, for he cannot. Tell him nothing about self-realisation; let him live a useful life and earn a rebirth in India. Then only will he have a chance”. Some say, “Reälity is for all equally, but not all are equally endowed with the capacity to grasp it. The capacity will come with desire, which will grow into devotion and ultimately into total self-dedication. With integrity and earnestness and iron determination to overcome all obstacles, the Westerner has the same chance as the Oriental man. All he needs is the rousing of interest”. To rouse his interest in self-knowledge he needs to be convinced about its advantages.
+**Q:**&ensp;The Indian mind was made ready for metaphysical experiments by culture and nurture. To the Indian words like ‘direct perception of the Supreme Reality’ make sense and bring out responses from the very depths of his beïng. They mean little to a Westerner; even when brought up in his own variety of Christianity, he does not think beyond conformity with God’s commandments and Christ’s injunctions. First-hand knowledge of reality is not only beyond ambition, but also beyond conceiving. Some Indians tell me, “Hopeless. The Westerner will not, for he cannot. Tell him nothing about self-realisation; let him live a useful life and earn a rebirth in India. Then only will he have a chance”. Some say, “Reality is for all equally, but not all are equally endowed with the capacity to grasp it. The capacity will come with desire, which will grow into devotion and ultimately into total self-dedication. With integrity and earnestness and iron determination to overcome all obstacles, the Westerner has the same chance as the Oriental man. All he needs is the rousing of interest”. To rouse his interest in self-knowledge he needs to be convinced about its advantages.
 
 **M:**&ensp;You believe it is possible to transmit a personal experience?
 
@@ -63,11 +63,11 @@ After all, when I talk of trusting me, it is only for a short time, just enough 
 
 **Q:**&ensp;What you cannot give is not your own.
 
-**M:**&ensp;I claim nothing as my own. When the ‘I’ is not, where is the ‘mine’?. Two people look at a tree. One sees the fruit hidden among the leaves and the other does not. Otherwise there is no difference between the two. The one that sees knows that with a little attention the other will also see, but the question of sharing does not arise. Believe me, I am not close-fisted, holding back your share of reälity. On the contrary, I am all yours, eat me and drink me. But while you repeat verbally, “give, give”, you do nothing to take what is offered. I am showing you a short and easy way to beïng able to see what I see, but you cling to your old habits of thought, feeling and action and put all the blame on me. I have nothing which you do not have. Self-knowledge is not a piece of property to be offered and accepted. It is a new dimension altogether, where there is nothing to give or take.
+**M:**&ensp;I claim nothing as my own. When the ‘I’ is not, where is the ‘mine’?. Two people look at a tree. One sees the fruit hidden among the leaves and the other does not. Otherwise there is no difference between the two. The one that sees knows that with a little attention the other will also see, but the question of sharing does not arise. Believe me, I am not close-fisted, holding back your share of reality. On the contrary, I am all yours, eat me and drink me. But while you repeat verbally, “give, give”, you do nothing to take what is offered. I am showing you a short and easy way to beïng able to see what I see, but you cling to your old habits of thought, feeling and action and put all the blame on me. I have nothing which you do not have. Self-knowledge is not a piece of property to be offered and accepted. It is a new dimension altogether, where there is nothing to give or take.
 
 **Q:**&ensp;Give us at least some insight into the content of your mind while you live your daily life. To eat, to drink, to talk, to sleep — how does it feel at your end?
 
-**M:**&ensp;The common things of life: I experience them just as you do. The difference lies in what I do not experience. I do not experience fear or greed, hate or anger. I ask nothing, refuse nothing, keep nothing. In these matters I do not compromise. Maybe this is the outstanding difference between us. I will not compromise, I am true to myself, while you are afraid of reälity.
+**M:**&ensp;The common things of life: I experience them just as you do. The difference lies in what I do not experience. I do not experience fear or greed, hate or anger. I ask nothing, refuse nothing, keep nothing. In these matters I do not compromise. Maybe this is the outstanding difference between us. I will not compromise, I am true to myself, while you are afraid of reality.
 
 **Q:**&ensp;From the Westerner’s point of view there is something disturbing in your ways. To sit in a corner all by oneself and keep on repeating, “I am God, God I am”, appears to be plain madness. How to convince a Westerner that such practices lead to supreme sanity?
 
@@ -77,7 +77,7 @@ After all, when I talk of trusting me, it is only for a short time, just enough 
 
 **M:**&ensp;How to describe the waking state in dreamland language? Words do not describe, they are only symbols.
 
-**Q:**&ensp;Again the same excuse that words cannot convey reälity.
+**Q:**&ensp;Again the same excuse that words cannot convey reality.
 
 **M:**&ensp;If you want words, I shall give you some of the ancient words of power. Repeat any of them ceaselessly; they can work wonders.
 
@@ -97,7 +97,7 @@ After all, when I talk of trusting me, it is only for a short time, just enough 
 
 **M:**&ensp;The very facts of repetition, of struggling on and on and of endurance and perseverance, in spite of boredom and despair and complete lack of conviction are really crucial. They are not important by themselves, but the sincerity behind them is all-important. There must be a push from within and pull from without.
 
-**Q:**&ensp;My questions are typical of the West. There, people think in terms of cause and effect, means and goals. They do not see what causal connection can there be between a particular word and the Absolute Reälity.
+**Q:**&ensp;My questions are typical of the West. There, people think in terms of cause and effect, means and goals. They do not see what causal connection can there be between a particular word and the Absolute Reality.
 
 **M:**&ensp;None whatsoever. But there is a connection between the word and its meaning, between the action and its motive. Spiritual practice is will asserted and reässerted. Who has not the daring will not accept the real even when offered. Unwillingness born out of fear is the only obstacle.
 

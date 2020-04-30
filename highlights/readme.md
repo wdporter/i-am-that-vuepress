@@ -22,7 +22,7 @@
 
 …
 
-**M:**&ensp;[Desire is] one of the many [causal factors]. For everything there are innumerable causal factors. But the source of all that is, is the Infinite Possibility, the Supreme Reälity, which is in you and which throws its power and light and love on every experience. But this source is not a cause and no cause is a source. Because of that, I say everything is uncaused. You may try to trace how a thing happens, but you cannot find out why a thing *is* as it is. A thing is as it is, because the universe is as it is.
+**M:**&ensp;[Desire is] one of the many [causal factors]. For everything there are innumerable causal factors. But the source of all that is, is the Infinite Possibility, the Supreme Reality, which is in you and which throws its power and light and love on every experience. But this source is not a cause and no cause is a source. Because of that, I say everything is uncaused. You may try to trace how a thing happens, but you cannot find out why a thing *is* as it is. A thing is as it is, because the universe is as it is.
 
 
 ## [7. The Mind](/7-the-mind/)
@@ -81,9 +81,9 @@
 
 **M:**&ensp;If you trust me, believe when I tell you that you are the pure awareness that illuminates consciousness and its infinite content. Realise this and live accordingly. If you do not believe me, then go within, inquiring “What am I?”, or, focus your mind on ‘I am’, which is pure and simple beïng.
 
-# [14. Appearances and the Reälity](/14-appearances-and-the-reality/)
+# [14. Appearances and the Reality](/14-appearances-and-the-reality/)
 
-**M:**&ensp;Of course, everything is interlinked. And therefore everything has numberless causes. The entire universe contributes to the least thing. A thing is as it is because the world is as it is. You see, you deal in gold ornaments and I — in gold. Between the different ornaments there is no causal relation. When you melt down an ornament to make another, there is no causal relation between the two. The common factor is the gold. But you cannot say gold is the cause. It cannot be called a cause, for it causes nothing by itself. It is reflected in the mind as ‘I am’, as the ornament’s particular name and shape. Yet all is only gold. In the same way reälity makes everything possible and yet, nothing that makes a thing what it is, its name and form, comes from reälity. 
+**M:**&ensp;Of course, everything is interlinked. And therefore everything has numberless causes. The entire universe contributes to the least thing. A thing is as it is because the world is as it is. You see, you deal in gold ornaments and I — in gold. Between the different ornaments there is no causal relation. When you melt down an ornament to make another, there is no causal relation between the two. The common factor is the gold. But you cannot say gold is the cause. It cannot be called a cause, for it causes nothing by itself. It is reflected in the mind as ‘I am’, as the ornament’s particular name and shape. Yet all is only gold. In the same way reality makes everything possible and yet, nothing that makes a thing what it is, its name and form, comes from reality. 
 
 
 ## [62. In the Supreme, the Witness Appears](/62-in-the-supreme-the-witness-appears/)

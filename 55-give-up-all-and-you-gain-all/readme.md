@@ -26,21 +26,21 @@
 
 **M:**&ensp;Where are the many points? In your mind. You insist that your world is independent of your mind. How can it be? Your desire to know other people’s minds is due to your not knowing your own mind. First know your own mind and you will find that the question of other minds does not arise at all, for there are no other people. You are the common factor, the only link between the minds. Beïng is consciousness; ‘I am’ applies to all.
 
-**Q:**&ensp;The Supreme Reälity (<span data-tippy-content="The Supreme Reälity.">Parabrahman</span>) may be present in all of us. But of what use is it to us?
+**Q:**&ensp;The Supreme Reality (<span data-tippy-content="The Supreme Reality.">Parabrahman</span>) may be present in all of us. But of what use is it to us?
 
-**M:**&ensp;You are like a man who says, “I need a place where to keep my things, but of what use is space to me?”, or “I need milk, tea, coffee or soda, but for water I have no use”. Don’t you see that the Supreme Reälity is what makes everything possible? But if you ask of what use is it to you, I must answer, “None”. In matters of daily life the knower of the real has no advantage: he may be at a disadvantage rather — beïng free from greed and fear, he does not protect himself. The very idea of profit is foreign to him; he abhors accretions; his life is constant divesting oneself, sharing, giving.
+**M:**&ensp;You are like a man who says, “I need a place where to keep my things, but of what use is space to me?”, or “I need milk, tea, coffee or soda, but for water I have no use”. Don’t you see that the Supreme Reality is what makes everything possible? But if you ask of what use is it to you, I must answer, “None”. In matters of daily life the knower of the real has no advantage: he may be at a disadvantage rather — beïng free from greed and fear, he does not protect himself. The very idea of profit is foreign to him; he abhors accretions; his life is constant divesting oneself, sharing, giving.
 
 **Q:**&ensp;If there is no advantage in gaining the Supreme, then why take the trouble?
 
 **M:**&ensp;There is trouble only when you cling to something. When you hold on to nothing, no trouble arises. The relinquishing of the lesser is the gaining of the greater. Give up all and you gain all. Then life becomes what it was meant to be: pure radiation from an inexhaustible source. In that light the world appears dimly like a dream.
 
-**Q:**&ensp;If my world is merely a dream and you are a part of it, what can you do for me? If the dream is not real, having no beïng, how can reälity affect it?
+**Q:**&ensp;If my world is merely a dream and you are a part of it, what can you do for me? If the dream is not real, having no beïng, how can reality affect it?
 
 **M:**&ensp;While it lasts, the dream has temporary beïng. It is your desire to hold on to it, that creates the problem. Let go. Stop imagining that the dream is yours.
 
 **Q:**&ensp;You seem to take for granted that there can be a dream without a dreamer and that I identify myself with the dream of my own sweet will. But I am the dreamer and the dream too. Who is to stop dreaming?
 
-**M:**&ensp;Let the dream unroll itself to its very end. You cannot help it. But you can look at the dream as a dream, refuse it the stamp of reälity.
+**M:**&ensp;Let the dream unroll itself to its very end. You cannot help it. But you can look at the dream as a dream, refuse it the stamp of reality.
 
 **Q:**&ensp;Here am I, sitting before you. I am dreaming and you are watching me talking in my dream. What is the link between us?
 
@@ -84,7 +84,7 @@
 
 **Q:**&ensp;How can non-action be of use where action is needed?
 
-**M:**&ensp;Where action is needed, action happens. Man is not the actor. His is to be aware of what is going on. His very presence is action. The window is the absence of the wall and it gives air and light because it is empty. Be empty of all mental content, of all imagination and effort, and the very absence of obstacles will cause reälity to rush in. If you really want to help a person, keep away. If you are emotionally committed to helping, you will fail to help. You may be very busy and be very pleased with your charitable nature, but not much will be done. A man is really helped when he is no longer in need of help. All else is just futility.
+**M:**&ensp;Where action is needed, action happens. Man is not the actor. His is to be aware of what is going on. His very presence is action. The window is the absence of the wall and it gives air and light because it is empty. Be empty of all mental content, of all imagination and effort, and the very absence of obstacles will cause reality to rush in. If you really want to help a person, keep away. If you are emotionally committed to helping, you will fail to help. You may be very busy and be very pleased with your charitable nature, but not much will be done. A man is really helped when he is no longer in need of help. All else is just futility.
 
 **Q:**&ensp;There is not enough time to sit and wait for help to happen. One must do something.
 

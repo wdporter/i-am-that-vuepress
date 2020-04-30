@@ -26,7 +26,7 @@
 
 **M:**&ensp;Perception, imagination, expectation, anticipation, illusion — all are based on memory. There are hardly any border lines between them. They just merge into each other. All are responses of memory.
 
-**Q:**&ensp;Still, memory is there to prove the reälity of my world.
+**Q:**&ensp;Still, memory is there to prove the reality of my world.
 
 **M:**&ensp;How much do you remember? Try to write down from memory what you were thinking, saying and doing on the 30th of last month.
 

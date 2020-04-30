@@ -8,7 +8,7 @@
 
 **Q:**&ensp;Must it be the ‘I am’ formula? Will not any other sentence do? If I concentrate on ‘there is a table’, will it not serve the same purpose?
 
-**M:**&ensp;As an exercise in concentration — yes. But it will not take you beyond the idea of a table. You are not interested in tables — you want to know yourself. For this, keep steadily in the focus of consciousness the only clue you have: your certainty of beïng. Be with it, play with it, ponder over it, delve deeply into it, until the shell of ignorance breaks open and you emerge into the realm of reälity.
+**M:**&ensp;As an exercise in concentration — yes. But it will not take you beyond the idea of a table. You are not interested in tables — you want to know yourself. For this, keep steadily in the focus of consciousness the only clue you have: your certainty of beïng. Be with it, play with it, ponder over it, delve deeply into it, until the shell of ignorance breaks open and you emerge into the realm of reality.
 
 **Q:**&ensp;Is there any causal link between my focusing the ‘I am’ and the breaking of the shell?
 

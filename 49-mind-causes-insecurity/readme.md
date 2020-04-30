@@ -8,7 +8,7 @@
 
 **Q:**&ensp;And how do you know that your answer is right?
 
-**M:**&ensp;Once I know the true source of the answers, I need not doubt them. From a pure source only pure water will flow. I am not concerned with people’s desires and fears. I am in tune with facts, not with opinions. Man takes his name and shape to be himself, while I take nothing to be myself. Were I to think myself to be a body known by its name, I would not have been able to answer your questions. Were I to take you to be a mere body, there would be no benefit to you from my answers. No true teacher indulges in opinions. He sees things as they are and shows them as they are. If you take people to be what they think themselves to be, you will only hurt them, as they hurt themselves so grievously all the time. But if you see them as they are in reälity, it will do them enormous good. If they ask you what to do, what practices to adopt or which way of life to follow, answer “Do nothing, just be. In beïng all happens naturally”.
+**M:**&ensp;Once I know the true source of the answers, I need not doubt them. From a pure source only pure water will flow. I am not concerned with people’s desires and fears. I am in tune with facts, not with opinions. Man takes his name and shape to be himself, while I take nothing to be myself. Were I to think myself to be a body known by its name, I would not have been able to answer your questions. Were I to take you to be a mere body, there would be no benefit to you from my answers. No true teacher indulges in opinions. He sees things as they are and shows them as they are. If you take people to be what they think themselves to be, you will only hurt them, as they hurt themselves so grievously all the time. But if you see them as they are in reality, it will do them enormous good. If they ask you what to do, what practices to adopt or which way of life to follow, answer “Do nothing, just be. In beïng all happens naturally”.
 
 **Q:**&ensp;It seems to me that in your talks you use the words ‘naturally’ and ‘accidentally’ indiscriminately. I feel there is a deep difference in the meaning of the two words. The natural is orderly, subject to law — one can trust nature; the accidental is chaotic, unexpected and unpredictable. One could plead that everything is natural, subject to nature’s laws; to maintain that everything is accidental, without any cause, is surely an exaggeration.
 
@@ -36,7 +36,7 @@
 
 **Q:**&ensp;But you seem to say that all is chaos, accidental, unpredictable.
 
-**M:**&ensp;Yes, in the sense that not all the laws of beïng are known and not all events are predictable. The more you are able to understand, the more the universe becomes satisfactory, emotionally and mentally. Reälity is good and beautiful; we create the chaos.
+**M:**&ensp;Yes, in the sense that not all the laws of beïng are known and not all events are predictable. The more you are able to understand, the more the universe becomes satisfactory, emotionally and mentally. Reality is good and beautiful; we create the chaos.
 
 **Q:**&ensp;If you mean to say that it is the free will of man that causes accidents, I would agree. But we have not yet discussed free will.
 
@@ -66,7 +66,7 @@ The *Guru* answered, “You are neither, you are both. You are, and yet you are 
 
 Janaka said, “Yes, I am neither king nor beggar, I am the dispassionate witness”. 
 
-The *Guru* said, “This is your last illusion that you are a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span>, that you are different from, and superior to, the common man”. Again you identify yourself with your mind, in this case a well-behaved and in every way an exemplary mind. As long as you see the least difference, you are a stranger to reälity. You are on the level of the mind. When the ‘I am myself’ goes, the ‘I am all’ comes. When the ‘I am all’ goes, ‘I am’ comes. When even ‘I am’ goes, reälity alone *is* and in it every ‘I am’ is preserved and glorified. Diversity without separateness is the Ultimate that the mind can touch. Beyond that all activity ceases, because in it all goals are reached and all purposes fulfilled.
+The *Guru* said, “This is your last illusion that you are a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span>, that you are different from, and superior to, the common man”. Again you identify yourself with your mind, in this case a well-behaved and in every way an exemplary mind. As long as you see the least difference, you are a stranger to reality. You are on the level of the mind. When the ‘I am myself’ goes, the ‘I am all’ comes. When the ‘I am all’ goes, ‘I am’ comes. When even ‘I am’ goes, reality alone *is* and in it every ‘I am’ is preserved and glorified. Diversity without separateness is the Ultimate that the mind can touch. Beyond that all activity ceases, because in it all goals are reached and all purposes fulfilled.
 
 **Q:**&ensp;Once the Supreme State is reached, can it be shared with others?
 

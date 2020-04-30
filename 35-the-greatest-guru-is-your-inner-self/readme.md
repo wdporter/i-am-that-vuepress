@@ -48,11 +48,11 @@ The greatest *Guru* is your inner self. Truly, he is the supreme teacher. He alo
 
 **Q:**&ensp;The urge to return to the source is very rare. Is it at all natural?
 
-**M:**&ensp;Outgoing is natural in the beginning, ingoing — in the end. But in reälity the two are one, just like breathing in and out are one.
+**M:**&ensp;Outgoing is natural in the beginning, ingoing — in the end. But in reality the two are one, just like breathing in and out are one.
 
 **Q:**&ensp;In the same way are not the body and the dweller in the body one?
 
-**M:**&ensp;Events in time and space — birth and death, cause and effect — these may be taken as one; but the body and the embodied are not of the same order of reälity. The body exists in time and space, transient and limited, while the dweller is timeless and spaceless, eternal and all-pervading. To identify the two is a grievous mistake and the cause of endless suffering. You can speak of the mind and body as one, but the body–mind is not the underlying reälity.
+**M:**&ensp;Events in time and space — birth and death, cause and effect — these may be taken as one; but the body and the embodied are not of the same order of reality. The body exists in time and space, transient and limited, while the dweller is timeless and spaceless, eternal and all-pervading. To identify the two is a grievous mistake and the cause of endless suffering. You can speak of the mind and body as one, but the body–mind is not the underlying reality.
 
 **Q:**&ensp;Whoever he may be, the dweller is in control of the body and, therefore, responsible for it.
 
@@ -60,7 +60,7 @@ The greatest *Guru* is your inner self. Truly, he is the supreme teacher. He alo
 
 **Q:**&ensp;And so, I can do as I like and put the blame on some universal power? How easy!
 
-**M:**&ensp;Yes, very easy. Just realise the One Mover behind all that moves and leave all to Him. If you do not hesitate, or cheat, this is the shortest way to reälity. Stand without desire and fear, relinquishing all control and all responsibility.
+**M:**&ensp;Yes, very easy. Just realise the One Mover behind all that moves and leave all to Him. If you do not hesitate, or cheat, this is the shortest way to reality. Stand without desire and fear, relinquishing all control and all responsibility.
 
 **Q:**&ensp;What madness!
 
@@ -82,7 +82,7 @@ The greatest *Guru* is your inner self. Truly, he is the supreme teacher. He alo
 
 **M:**&ensp;Only in matters pertaining to the body. This I do not mind. It is like enduring the seasons of the year. They come, they go — they hardly affect me. In the same way body–minds come and go — life is forever in search of new expressions.
 
-**Q:**&ensp;As long as you do not put all the burden of evil on God, I am satisfied. There may be a God for all I know, but to me he is a concept projected by the human mind. He may be a reälity to you, but to me society is more real than God, for I am both its creature and its prisoner. Your values are wisdom and compassion; society’s sagacious selfishness. I live in a world quite different from yours.
+**Q:**&ensp;As long as you do not put all the burden of evil on God, I am satisfied. There may be a God for all I know, but to me he is a concept projected by the human mind. He may be a reality to you, but to me society is more real than God, for I am both its creature and its prisoner. Your values are wisdom and compassion; society’s sagacious selfishness. I live in a world quite different from yours.
 
 **M:**&ensp;None compels.
 
@@ -120,7 +120,7 @@ The greatest *Guru* is your inner self. Truly, he is the supreme teacher. He alo
 
 **Q:**&ensp;Take me over.
 
-**M:**&ensp;I am doing it, but you resist. You give reälity to concepts, while concepts are distortions of reälity. Abandon all conceptualisation and stay silent and attentive. Be earnest about it and all will be well with you.
+**M:**&ensp;I am doing it, but you resist. You give reality to concepts, while concepts are distortions of reality. Abandon all conceptualisation and stay silent and attentive. Be earnest about it and all will be well with you.
 
 <script>
 export default {

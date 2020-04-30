@@ -4,9 +4,9 @@
 
 **Questioner:**&ensp;I am a retired chartered accountant and my wife is engaged in social work for poor women. Our son is leaving for the United States and we came to see him off. We are Punjabis but we live in Delhi. We have a <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> of the Radha-Soami faith and we value <span data-tippy-content="Association with the true and the wise people.">satsang</span> highly. We feel very fortunate to be brought here. We have met many holy people and we are glad to meet one more.
 
-**Maharaj:**&ensp;You have met many anchorites and ascetics, but a fully realised man conscious of his divinity (<span data-tippy-content="One’s own form, nature, character.">svarupa</span>) is hard to find. The saints and <span data-tippy-content="One who practices <em>yoga</em>.">yogi</span>s, by immense efforts and sacrifices, acquire many miraculous powers and can do much good in the way of helping people and inspiring faith, yet it does not make them perfect. It is not a way to reälity, but merely an enrichment of the false. All effort leads to more effort: whatever was built up must be maintained, whatever was acquired must be protected against decay or loss. Whatever can be lost is not really one’s own: and what is not your own, of what use can it be to you? In my world nothing is pushed about — all happens by itself. All existence is in space and time, limited and temporary. He who experiences existence is also limited and temporary. I am not concerned either with ‘what exists’ or with ‘who exists’. I take my stand beyond, where I am both and neither. 
+**Maharaj:**&ensp;You have met many anchorites and ascetics, but a fully realised man conscious of his divinity (<span data-tippy-content="One’s own form, nature, character.">svarupa</span>) is hard to find. The saints and <span data-tippy-content="One who practices <em>yoga</em>.">yogi</span>s, by immense efforts and sacrifices, acquire many miraculous powers and can do much good in the way of helping people and inspiring faith, yet it does not make them perfect. It is not a way to reality, but merely an enrichment of the false. All effort leads to more effort: whatever was built up must be maintained, whatever was acquired must be protected against decay or loss. Whatever can be lost is not really one’s own: and what is not your own, of what use can it be to you? In my world nothing is pushed about — all happens by itself. All existence is in space and time, limited and temporary. He who experiences existence is also limited and temporary. I am not concerned either with ‘what exists’ or with ‘who exists’. I take my stand beyond, where I am both and neither. 
 
-The persons who, after much effort and penance, have fulfilled their ambitions and secured higher levels of experience and action are usually acutely conscious of their standing; they grade people into hiërarchies ranging from the lowest non-achiever to the highest achiever. To me all are equal. Differences in appearance and expression are there, but they do not matter. Just as the shape of a gold ornament does not affect the gold, so does man’s essence remain unaffected. Where this sense of equality is lacking, it means that reälity had not been touched. 
+The persons who, after much effort and penance, have fulfilled their ambitions and secured higher levels of experience and action are usually acutely conscious of their standing; they grade people into hiërarchies ranging from the lowest non-achiever to the highest achiever. To me all are equal. Differences in appearance and expression are there, but they do not matter. Just as the shape of a gold ornament does not affect the gold, so does man’s essence remain unaffected. Where this sense of equality is lacking, it means that reality had not been touched. 
 
 Mere knowledge is not enough; the knower must be known. The *pandit*s and the *yogi*s may know many things, but of what use is mere knowledge when the self is not known? It will be certainly misused. Without the knowledge of the knower there can be no peace.
 
@@ -16,7 +16,7 @@ Mere knowledge is not enough; the knower must be known. The *pandit*s and the *y
 
 **Q:**&ensp;What is it?
 
-**M:**&ensp;I know myself as I am in reälity. I am neither the body, nor the mind, nor the mental faculties. I am beyond all these.
+**M:**&ensp;I know myself as I am in reality. I am neither the body, nor the mind, nor the mental faculties. I am beyond all these.
 
 **Q:**&ensp;Are you just nothing?
 
@@ -38,11 +38,11 @@ However, you must not think that faith itself is enough. Faith expressed in acti
 
 **Q:**&ensp;You speak of the mind, of the witnessing consciousness beyond the mind and of the Supreme, which is beyond awareness. Do you mean to say that even awareness is not real? 
 
-**M:**&ensp;As long as you deal in terms like ‘real’ and ‘unreal’, awareness is the only reälity that can be. But the Supreme is beyond all distinctions and the term ‘real’ does not apply to it, for in it all is real and, therefore, need not be labelled as such. It is the very source of reälity — it imparts reälity to whatever it touches. It just cannot be understood through words. Even a direct experience, however sublime, merely bears testimony, nothing more.
+**M:**&ensp;As long as you deal in terms like ‘real’ and ‘unreal’, awareness is the only reality that can be. But the Supreme is beyond all distinctions and the term ‘real’ does not apply to it, for in it all is real and, therefore, need not be labelled as such. It is the very source of reality — it imparts reality to whatever it touches. It just cannot be understood through words. Even a direct experience, however sublime, merely bears testimony, nothing more.
 
 **Q:**&ensp;But who creätes the world?
 
-**M:**&ensp;The Universal Mind (<span data-tippy-content="[<em>chit</em>, to perceive + <em>akash</em>, expanse, sky] <em>Brahman</em> in its aspect of limitless knowledge, the expanse of awareness. Variously used for consciousness, individual as well as universal.">chidakash</span>) makes and unmakes everything. The Supreme (<span data-tippy-content="The great expanse, the timeless and spaceless reälity; the Absolute beïng.">paramakash</span>) imparts reälity to whatever comes into beïng. To say that it is the universal love may be the nearest we can come to it in words. Just like love, it makes everything real, beautiful, desirable.
+**M:**&ensp;The Universal Mind (<span data-tippy-content="[<em>chit</em>, to perceive + <em>akash</em>, expanse, sky] <em>Brahman</em> in its aspect of limitless knowledge, the expanse of awareness. Variously used for consciousness, individual as well as universal.">chidakash</span>) makes and unmakes everything. The Supreme (<span data-tippy-content="The great expanse, the timeless and spaceless reality; the Absolute beïng.">paramakash</span>) imparts reality to whatever comes into beïng. To say that it is the universal love may be the nearest we can come to it in words. Just like love, it makes everything real, beautiful, desirable.
 
 **Q:**&ensp;Why desirable?
 
@@ -82,11 +82,11 @@ However, you must not think that faith itself is enough. Faith expressed in acti
 
 **Q:**&ensp;How can I come to see myself as you see me?
 
-**M:**&ensp;It is enough if you do not imagine yourself to be the body. It is the ‘I-am-the-body’ idea that is so calamitous. It blinds you completely to your real nature. Even for a moment do not think that you are the body. Give yourself no name, no shape. In the darkness and the silence, reälity is found.
+**M:**&ensp;It is enough if you do not imagine yourself to be the body. It is the ‘I-am-the-body’ idea that is so calamitous. It blinds you completely to your real nature. Even for a moment do not think that you are the body. Give yourself no name, no shape. In the darkness and the silence, reality is found.
 
 **Q:**&ensp;Must not I think with some conviction that I am not the body? Where am I to find such conviction?
 
-**M:**&ensp;Behave as if you were fully convinced and the confidence will come. What is the use of mere words? A formula, a mental pattern will not help you. But unselfish action, free from all concern with the body and its interests, will carry you into the very heart of Reälity.
+**M:**&ensp;Behave as if you were fully convinced and the confidence will come. What is the use of mere words? A formula, a mental pattern will not help you. But unselfish action, free from all concern with the body and its interests, will carry you into the very heart of Reality.
 
 **Q:**&ensp;Where am I to get the courage to act without conviction?
 

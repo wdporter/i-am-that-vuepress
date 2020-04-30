@@ -1,8 +1,8 @@
 # 21. Who Am I?
 
->Give up all questions except one: “Who am I?”. After all, the only fact you are sure of is that you are. The ‘I am’ is certain. The ‘I am this’ is not. Struggle to find out what you are in reälity.
+>Give up all questions except one: “Who am I?”. After all, the only fact you are sure of is that you are. The ‘I am’ is certain. The ‘I am this’ is not. Struggle to find out what you are in reality.
 
-**Questioner:**&ensp;We are advised to worship reälity personified as God, or as the Perfect Man. We are told not to attempt the worship of the Absolute, as it is much too difficult for a brain-centred consciousness.
+**Questioner:**&ensp;We are advised to worship reality personified as God, or as the Perfect Man. We are told not to attempt the worship of the Absolute, as it is much too difficult for a brain-centred consciousness.
 
 **Maharaj:**&ensp;Truth is simple and open to all. Why do you complicate? Truth is loving and lovable. It includes all, accepts all, purifies all. It is untruth that is difficult and a source of trouble. It always wants, expects, demands. Beïng false, it is empty, always in search of confirmation and reässurance. It is afraid of and avoids enquiry. It identifies itself with any support, however weak and momentary. Whatever it gets, it loses and asks for more. Therefore put no faith in the conscious. Nothing you can see, feel or think is so. Even sin and virtue, merit and demerit are not what they appear. Usually the bad and the good are a matter of convention and custom and are shunned or welcomed, according to how the words are used.
 
@@ -32,7 +32,7 @@
 
 **Q:**&ensp;My question is: How to find the way to one’s own beïng?
 
-**M:**&ensp;Give up all questions except one: “Who am I?”. After all, the only fact you are sure of is that you are. The ‘I am’ is certain. The ‘I am this’ is not. Struggle to find out what you are in reälity.
+**M:**&ensp;Give up all questions except one: “Who am I?”. After all, the only fact you are sure of is that you are. The ‘I am’ is certain. The ‘I am this’ is not. Struggle to find out what you are in reality.
 
 **Q:**&ensp;I am doing nothing else for the last sixty years.
 
@@ -98,7 +98,7 @@
 
 **M:**&ensp;Remembering your self is virtue, forgetting your self is sin. It all boils down to the mental or psychological link between the spirit and matter. We may call the link psyche (<span data-tippy-content="The psyche, mind. Mind in a collective sense, including intelligence (<em>buddhi</em>), ego (<em>ahamkara</em>) and mind (<em>manas</em>).">antahkarana</span>). When the psyche is raw, undeveloped, quite primitive, it is subject to gross illusions. As it grows in breadth and sensitivity, it becomes a perfect link between pure matter and pure spirit and gives meaning to matter and expression to spirit.
 
-There is the material world (<span data-tippy-content="The great expanse of existence, the universe of matter and energy.">mahadakash</span>) and the spiritual (<span data-tippy-content="The great expanse, the timeless and spaceless reälity; the Absolute beïng.">paramakash</span>). Between lies the universal mind (<span data-tippy-content="[<em>chit</em>, to perceive + <em>akash</em>, expanse, sky] <em>Brahman</em> in its aspect of limitless knowledge, the expanse of awareness. Variously used for consciousness, individual as well as universal.">chidakash</span>) which is also the universal heart (<span data-tippy-content="<em>Brahman</em> in its aspect of limitless love. It is another name for <em>chidakash</em>, but it lays stress on the love aspect not on the knowledge aspect. Love is the expression of the Self through the heart.">premakash</span>). It is wise love that makes the two one.
+There is the material world (<span data-tippy-content="The great expanse of existence, the universe of matter and energy.">mahadakash</span>) and the spiritual (<span data-tippy-content="The great expanse, the timeless and spaceless reality; the Absolute beïng.">paramakash</span>). Between lies the universal mind (<span data-tippy-content="[<em>chit</em>, to perceive + <em>akash</em>, expanse, sky] <em>Brahman</em> in its aspect of limitless knowledge, the expanse of awareness. Variously used for consciousness, individual as well as universal.">chidakash</span>) which is also the universal heart (<span data-tippy-content="<em>Brahman</em> in its aspect of limitless love. It is another name for <em>chidakash</em>, but it lays stress on the love aspect not on the knowledge aspect. Love is the expression of the Self through the heart.">premakash</span>). It is wise love that makes the two one.
 
 **Q:**&ensp;Some people are stupid, some are intelligent. The difference is in their psyche. The ripe ones had more experience behind them. Just like a child grows by eating and drinking, sleeping and playing, so is man’s psyche shaped by all he thinks and feels and does, until it is perfect enough to serve as a bridge between the spirit and the body. As a bridge permits the traffic; between the banks, so does the psyche bring together the source and its expression.
 
@@ -118,7 +118,7 @@ There is the material world (<span data-tippy-content="The great expanse of exis
 
 **Q:**&ensp;Surely, the mere possession of mind and body does not compel to sin. There must be a third factor at the root of it. I come back again and again to this question of sin and virtue, because now-days young people keep on saying that there is no such thing as sin, that one need not be squeamish and should follow the moment’s desire readily. They will accept neither tradition nor authority and can be influenced only by solid and honest thought. If they refrain from certain actions, it is through fear of police rather than by conviction. Undoubtedly there is something in what they say, for we can see how our values change from place to place and time to time. For instance — killing in war is great virtue today and may be considered a horrible crime next century.
 
-**M:**&ensp;A man who moves with the earth will necessarily experience days and nights. He who stays with the sun will know no darkness. My world is not yours. As I see it, you all are on a stage performing. There is no reälity about your comings and goings. And your problems are so unreal!
+**M:**&ensp;A man who moves with the earth will necessarily experience days and nights. He who stays with the sun will know no darkness. My world is not yours. As I see it, you all are on a stage performing. There is no reality about your comings and goings. And your problems are so unreal!
 
 **Q:**&ensp;We may be sleep-walkers, or subject to nightmares. Is there nothing you can do?
 

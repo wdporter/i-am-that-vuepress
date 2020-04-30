@@ -8,7 +8,7 @@
 
 **Q:**&ensp;Who fails? The person (<span data-tippy-content="Person, the outer self.">vyakti</span>) or the self (<span data-tippy-content="Manifest matter, the evolved nature. Opposite is <em>avyakta</em>.">vyakta</span>)?
 
-**M:**&ensp;The question is wrongly put. There is no question of failure, neither in the short run nor in the long. It is like travelling a long and arduous road in an unknown country. Of all the innumerable steps there is only the last which brings you to your destination. Yet you will not consider all previous steps as failures. Each brought you nearer to your goal, even when you had to turn back to bypass an obstacle. In reälity each step brings you to your goal, because to be always on the move, learning, discovering, unfolding, is your eternal destiny. Living is life’s only purpose. The self does not identify itself with success or failure — the very idea of becoming this or that is unthinkable. The self understands that success and failure are relative and related, that they are the very warp and weft of life. Learn from both and go beyond. If you have not learnt, repeat.
+**M:**&ensp;The question is wrongly put. There is no question of failure, neither in the short run nor in the long. It is like travelling a long and arduous road in an unknown country. Of all the innumerable steps there is only the last which brings you to your destination. Yet you will not consider all previous steps as failures. Each brought you nearer to your goal, even when you had to turn back to bypass an obstacle. In reality each step brings you to your goal, because to be always on the move, learning, discovering, unfolding, is your eternal destiny. Living is life’s only purpose. The self does not identify itself with success or failure — the very idea of becoming this or that is unthinkable. The self understands that success and failure are relative and related, that they are the very warp and weft of life. Learn from both and go beyond. If you have not learnt, repeat.
 
 **Q:**&ensp;What am I to learn?
 
@@ -22,7 +22,7 @@ Yet, all this is so in the mind only. As I see it, there is really nothing of th
 
 **Q:**&ensp;Just as a child cannot help growing, so does a man, compelled by nature, make progress. Why exert oneself? Where is the need of *Yoga*?
 
-**M:**&ensp;There is progress all the time. Everything contributes to progress. But this is the progress of ignorance. The circles of ignorance may be ever widening, yet it remains a bondage all the same. In due course a <span data-tippy-content="Spiritual teacher, preceptor.">Guru</span> appears to teach and inspire us to practise *Yoga* and a ripening takes place as a result of which the immemorial night of ignorance dissolves before the rising sun of wisdom. But in reälity nothing happened. The sun is always there, there is no night to it; the mind, blinded by the ‘I am the body’ idea, spins out endlessly its thread of illusion.
+**M:**&ensp;There is progress all the time. Everything contributes to progress. But this is the progress of ignorance. The circles of ignorance may be ever widening, yet it remains a bondage all the same. In due course a <span data-tippy-content="Spiritual teacher, preceptor.">Guru</span> appears to teach and inspire us to practise *Yoga* and a ripening takes place as a result of which the immemorial night of ignorance dissolves before the rising sun of wisdom. But in reality nothing happened. The sun is always there, there is no night to it; the mind, blinded by the ‘I am the body’ idea, spins out endlessly its thread of illusion.
 
 **Q:**&ensp;If all is a part of a natural process, where is the need of effort?
 
@@ -58,7 +58,7 @@ Yet, all this is so in the mind only. As I see it, there is really nothing of th
 
 **Q:**&ensp;But past and future exist?
 
-**M:**&ensp;In the mind only. Time is in the mind, space is in the mind. The law of cause and effect is also a way of thinking. In reälity all is here and now and all is one. Multiplicity and diversity are in the mind only.
+**M:**&ensp;In the mind only. Time is in the mind, space is in the mind. The law of cause and effect is also a way of thinking. In reality all is here and now and all is one. Multiplicity and diversity are in the mind only.
 
 **Q:**&ensp;Still, you are in favour of relieving suffering, even through destruction of the incurably diseased body.
 
@@ -94,11 +94,11 @@ Yet, all this is so in the mind only. As I see it, there is really nothing of th
 
 **Q:**&ensp;A message in print may be paper and ink only. It is the text that matters. By analysing the world into elements and qualities we miss the most important — its meaning. Your reduction of everything to dream disregards the difference between the dream of an insect and the dream of a poet. All is dream, granted. But not all are equal.
 
-**M:**&ensp;The dreams are not equal, but the dreamer is one. I am the insect. I am the poet — in dream. But in reälity I am neither. I am beyond all dreams. I am the light in which all dreams appear and disappear. I am both inside and outside the dream. Just as a man having headache knows the ache and also knows that he is not the ache, so do I know the dream, myself dreaming and myself not dreaming — all at the same time. I am what I am before, during and after the dream. But what I see in dream, I am not.
+**M:**&ensp;The dreams are not equal, but the dreamer is one. I am the insect. I am the poet — in dream. But in reality I am neither. I am beyond all dreams. I am the light in which all dreams appear and disappear. I am both inside and outside the dream. Just as a man having headache knows the ache and also knows that he is not the ache, so do I know the dream, myself dreaming and myself not dreaming — all at the same time. I am what I am before, during and after the dream. But what I see in dream, I am not.
 
 **Q:**&ensp;It is all a matter of imagination. One imagines that one is dreaming, another imagines one is not dreaming. Are not both the same?
 
-**M:**&ensp;The same and not the same. Not dreaming, as an interval between two dreams, is of course, a part of dreaming. Not dreaming as a steady hold on, and timeless abidance in reälity has nothing to do with dreaming. In that sense I never dream, nor ever shall.
+**M:**&ensp;The same and not the same. Not dreaming, as an interval between two dreams, is of course, a part of dreaming. Not dreaming as a steady hold on, and timeless abidance in reality has nothing to do with dreaming. In that sense I never dream, nor ever shall.
 
 **Q:**&ensp;If both dream and escape from dream are imaginings, what is the way out?
 

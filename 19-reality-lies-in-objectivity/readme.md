@@ -1,6 +1,6 @@
-# 19. Reälity Lies in Objectivity
+# 19. Reality Lies in Objectivity
 
->… [your world] is illusory as long as it is subjective and to that extent only. Reälity lies in objectivity.
+>… [your world] is illusory as long as it is subjective and to that extent only. Reality lies in objectivity.
 
 **Questioner:**&ensp;I am a painter and I earn by painting pictures. Has it any value from the spiritual point of view?
 
@@ -54,7 +54,7 @@
 
 **M:**&ensp;Pure beïng (<span data-tippy-content="Unmanifest. Opposite is <em>vyakta</em>">avyakta</span>).
 
-**Q:**&ensp;Is it the same as the Great Expanse (<span data-tippy-content="The great expanse, the timeless and spaceless reälity; the Absolute beïng.">paramakash</span>)?
+**Q:**&ensp;Is it the same as the Great Expanse (<span data-tippy-content="The great expanse, the timeless and spaceless reality; the Absolute beïng.">paramakash</span>)?
 
 **M:**&ensp;You may call it so. Words do not matter, for they do not reach it. They turn back in utter negation.
 
@@ -80,7 +80,7 @@
 
 **Q:**&ensp;I can see that my world is subjective. Does it make it also illusory?
 
-**M:**&ensp;It is illusory as long as it is subjective and to that extent only. Reälity lies in objectivity.
+**M:**&ensp;It is illusory as long as it is subjective and to that extent only. Reality lies in objectivity.
 
 **Q:**&ensp;What does objectivity mean? You said the world is subjective and now you talk of objectivity. Is not everything subjective?
 

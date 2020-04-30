@@ -106,7 +106,7 @@
 
 **M:**&ensp;As much as on self-realisation. The false self must be abandoned before the real self can be found.
 
-**Q:**&ensp;The self you choose to call false is to me most distressingly real. It is the only self I know. What you call the real self is a mere concept, a way of speaking, a creature of the mind, an attractive ghost. My daily self is not a beauty, I admit, but it is my own and only self. You say I am, or have, another self. Do you see it — is it a reälity to you, or do you want me to believe what you yourself don’t see?
+**Q:**&ensp;The self you choose to call false is to me most distressingly real. It is the only self I know. What you call the real self is a mere concept, a way of speaking, a creature of the mind, an attractive ghost. My daily self is not a beauty, I admit, but it is my own and only self. You say I am, or have, another self. Do you see it — is it a reality to you, or do you want me to believe what you yourself don’t see?
 
 **M:**&ensp;Don’t jump to conclusions rashly. The concrete need not be the real, the conceived need not be false. Perceptions based on sensations and shaped by memory imply a perceiver, whose nature you never cared to examine. Give it your full attention, examine it with loving care and you will discover heights and depths of beïng which you did not dream of, engrossed as you are in your puny image of yourself.
 

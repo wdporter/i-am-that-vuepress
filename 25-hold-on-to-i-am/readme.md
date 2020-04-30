@@ -28,11 +28,11 @@
 
 **Q:**&ensp;Surely, you care when your child is ill, don’t you?
 
-**M:**&ensp;I don’t get flustered. I just do the needful. I do not worry about the future. A right response to every situation is in my nature. I do not stop to think what to do. I act and move on. Results do not affect me. I do not even care, whether they are good or bad. Whatever they are, they are — if they come back to me, I deal with them afresh. Or, rather, I happen to deal with them afresh. There is no sense of purpose in my doing anything. Things happens as they happen — not because I make them happen, but it is because I *am* that they happen. In reälity nothing ever happens. When the mind is restless, it makes <span data-tippy-content="One of the gods of the Hindu trinity — Brahma, the creator; Vishnu, the preserver; and Shiva, the destroyer. Shiva actually means auspicious, propitious. Destruction ofthe cosmos by the god Shiva is a propitious act, for destruction precedes creation. Shiva is absolute love of the ‘I-principle’ in a man. As a destroyer, he brings about the total annihilation of the human ego.">Shiva</span> dance, like the restless waters of the lake make the moon dance. It is all appearance, due to wrong ideas.
+**M:**&ensp;I don’t get flustered. I just do the needful. I do not worry about the future. A right response to every situation is in my nature. I do not stop to think what to do. I act and move on. Results do not affect me. I do not even care, whether they are good or bad. Whatever they are, they are — if they come back to me, I deal with them afresh. Or, rather, I happen to deal with them afresh. There is no sense of purpose in my doing anything. Things happens as they happen — not because I make them happen, but it is because I *am* that they happen. In reality nothing ever happens. When the mind is restless, it makes <span data-tippy-content="One of the gods of the Hindu trinity — Brahma, the creator; Vishnu, the preserver; and Shiva, the destroyer. Shiva actually means auspicious, propitious. Destruction ofthe cosmos by the god Shiva is a propitious act, for destruction precedes creation. Shiva is absolute love of the ‘I-principle’ in a man. As a destroyer, he brings about the total annihilation of the human ego.">Shiva</span> dance, like the restless waters of the lake make the moon dance. It is all appearance, due to wrong ideas.
 
 **Q:**&ensp;Surely, you are aware of many things and behave according to their nature. You treat a child as a child and an adult as an adult.
 
-**M:**&ensp;Just as the taste of salt pervades the great ocean and every single drop of sea-water carries the same flavour, so every experience gives me the touch of reälity, the ever fresh realisation of my own beïng.
+**M:**&ensp;Just as the taste of salt pervades the great ocean and every single drop of sea-water carries the same flavour, so every experience gives me the touch of reality, the ever fresh realisation of my own beïng.
 
 **Q:**&ensp;Do I exist in your world, as you exist in mine?
 
@@ -53,7 +53,7 @@ images and thoughts, ideas and concepts.
 
 **Q:**&ensp;What is the cause of self-forgetting?
 
-**M:**&ensp;There is no cause, because there is no forgetting. Mental states succeed one another, and each obliterates the previous one. Self-remembering is a mental state and self-forgetting is another. They alternate like day and night. Reälity is beyond both.
+**M:**&ensp;There is no cause, because there is no forgetting. Mental states succeed one another, and each obliterates the previous one. Self-remembering is a mental state and self-forgetting is another. They alternate like day and night. Reality is beyond both.
 
 **Q:**&ensp;Surely there must be a difference between forgetting and not knowing. Not knowing needs no cause. Forgetting presupposes previous knowledge and also the tendency or ability to forget. I admit I cannot enquire into the reason for not-knowing, but forgetting must have some ground.
 
@@ -69,7 +69,7 @@ images and thoughts, ideas and concepts.
 
 **Q:**&ensp;How can it be? You cannot prove to me that I am not. Even when convinced that I am not — I am.
 
-**M:**&ensp;Reälity can neither be proved nor disproved. Within the mind you cannot, beyond the mind you need not. In the real, the question ‘what is real?’ does not arise. The manifested (<span data-tippy-content="Manifested condition with the three <em>guna</em>s, qualities — <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. The Supreme Absolute conceived of as possessing qualities like love, mercy etc., as distinguished from the undifferentiated Absolute of the <em>Advaita Vedanta</em>.">saguna</span>) and unmanifested (<span data-tippy-content="The unconditioned, without form, qualities and attributes.">nirguna</span>) are not different.
+**M:**&ensp;Reality can neither be proved nor disproved. Within the mind you cannot, beyond the mind you need not. In the real, the question ‘what is real?’ does not arise. The manifested (<span data-tippy-content="Manifested condition with the three <em>guna</em>s, qualities — <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. The Supreme Absolute conceived of as possessing qualities like love, mercy etc., as distinguished from the undifferentiated Absolute of the <em>Advaita Vedanta</em>.">saguna</span>) and unmanifested (<span data-tippy-content="The unconditioned, without form, qualities and attributes.">nirguna</span>) are not different.
 
 **Q:**&ensp;In that case all is real.
 
@@ -123,7 +123,7 @@ images and thoughts, ideas and concepts.
 
 **M:**&ensp;Why do you call *bhoga* a path? How can ease bring you perfection?
 
-**Q:**&ensp;The perfect renouncer (<span data-tippy-content="One who practices <em>yoga</em>.">yogi</span>) will find reälity. The perfect enjoyer (<span data-tippy-content="A <em>bhogi</em> is one involved in worldly joys and sorrows. <em>Bhoga marga</em>, is the path of worldly pursuits — joys and sorrows.">bhogi</span>) also will come to it.
+**Q:**&ensp;The perfect renouncer (<span data-tippy-content="One who practices <em>yoga</em>.">yogi</span>) will find reality. The perfect enjoyer (<span data-tippy-content="A <em>bhogi</em> is one involved in worldly joys and sorrows. <em>Bhoga marga</em>, is the path of worldly pursuits — joys and sorrows.">bhogi</span>) also will come to it.
 
 **M:**&ensp;How can it be? Aren’t they contradictory?
 

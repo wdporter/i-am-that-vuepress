@@ -6,7 +6,7 @@
 
 **Maharaj:**&ensp;It depends what you make of it.
 
-**Q:**&ensp;I was told that the liberating action of <span data-tippy-content="Association with the true and the wise people.">satsang</span> is automatic. Just like a river carries one to the estuary, so the subtle and silent influence of good people will take me to reälity.
+**Q:**&ensp;I was told that the liberating action of <span data-tippy-content="Association with the true and the wise people.">satsang</span> is automatic. Just like a river carries one to the estuary, so the subtle and silent influence of good people will take me to reality.
 
 **M:**&ensp;It will take you to the river, but the crossing is your own. Freedom cannot be gained nor kept without will-to-freedom. You must strive for liberation; the least you can do is uncover and remove the obstacles diligently. If you want peace you must strive for it. You will not find peace simply by keeping quiet.
 
@@ -22,7 +22,7 @@
 
 **M:**&ensp;Yes, but how different it is when you can see it as it is, not through the screen of desire and fear.
 
-**Q:**&ensp;What are all these distinctions for — reälity and illusion, wisdom and ignorance, saint and sinner? Everyone is in search of happiness; everyone strives desperately; everyone is a <span data-tippy-content="One who practices <em>yoga</em>.">yogi</span> and his life a school of wisdom. Each learns in his own way the lessons he needs. Society approves of some, disapproves of others; there are no rules that apply everywhere and for all time.
+**Q:**&ensp;What are all these distinctions for — reality and illusion, wisdom and ignorance, saint and sinner? Everyone is in search of happiness; everyone strives desperately; everyone is a <span data-tippy-content="One who practices <em>yoga</em>.">yogi</span> and his life a school of wisdom. Each learns in his own way the lessons he needs. Society approves of some, disapproves of others; there are no rules that apply everywhere and for all time.
 
 **M:**&ensp;In my world, love is the only law. I do not ask for love, I give it. Such is my nature.
 
@@ -40,7 +40,7 @@
 
 **Q:**&ensp;There is a long life behind me and I often wonder whether its many events took place by accident, or whether there was a plan. Was there a pattern laid down before I was born by which I had to live my life? If so, who made the plans and who enforced them? Can there be deviations and mistakes? Some say destiny is immutable and every second of life is predetermined; others say that pure accident decides everything.
 
-**M:**&ensp;You can have it as you like. You can distinguish a pattern in your life or see merely a chain of accidents. Explanations are meant to please the mind. They need not be true. Reälity is indefinable and indescribable.
+**M:**&ensp;You can have it as you like. You can distinguish a pattern in your life or see merely a chain of accidents. Explanations are meant to please the mind. They need not be true. Reality is indefinable and indescribable.
 
 **Q:**&ensp;Sir, you are evading my question! I want to know how *you* look at it. Wherever we look we find a structure of unbelievable intelligence and beauty. How can I believe that the universe is formless and chaotic? Your world, the world in which you live, may be formless, but it need not be chaotic.
 
@@ -48,7 +48,7 @@
 
 **Q:**&ensp;Does your world affect mine?
 
-**M:**&ensp;At one point only — at the point of the *now*. It gives it momentary beïng, a fleeting sense of reälity. In full awareness the contact is established. It needs effortless, unself-conscious attention.
+**M:**&ensp;At one point only — at the point of the *now*. It gives it momentary beïng, a fleeting sense of reality. In full awareness the contact is established. It needs effortless, unself-conscious attention.
 
 **Q:**&ensp;Is not attention an attitude of mind?
 

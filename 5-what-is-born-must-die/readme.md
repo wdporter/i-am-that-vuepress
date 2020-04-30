@@ -28,11 +28,11 @@
 
 **Q:**&ensp;What is this sense of a separate existence?
 
-**M:**&ensp;It is a reflection in a separate body of the one reälity. In this reflection the unlimited and the limited are confused and taken to be the same. To undo this confusion is the purpose of <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span>.
+**M:**&ensp;It is a reflection in a separate body of the one reality. In this reflection the unlimited and the limited are confused and taken to be the same. To undo this confusion is the purpose of <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span>.
 
 **Q:**&ensp;Does not death undo this confusion?
 
-**M:**&ensp;In death only the body dies. Life does not, consciousness does not, reälity does not. And the life is never so alive as after death.
+**M:**&ensp;In death only the body dies. Life does not, consciousness does not, reality does not. And the life is never so alive as after death.
 
 **Q:**&ensp;But does one get reborn?
 

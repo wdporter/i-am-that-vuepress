@@ -50,6 +50,6 @@
 
 **M:**&ensp;Since it is awareness that makes consciousness possible, there is awareness in every state of consciousness. Therefore, the very consciousness of beïng conscious is already a movement in awareness. Interest in your stream of consciousness takes you to awareness. It is not a new state. It is at once recognised as the original, basic existence, which is life itself, and also love and joy.
 
-**Q:**&ensp;Since reälity is with us all the time, what does self-realisation consist of?
+**Q:**&ensp;Since reality is with us all the time, what does self-realisation consist of?
 
-**M:**&ensp;Realisation is but the opposite of ignorance. To take the world as real and one’s self as unreal is ignorance, the cause of sorrow. To know the self as the only reälity and all else as temporal and transient is freedom, peace and joy. It is all very simple. Instead of seeïng things as imagined, learn to see them as they are. When you can see everything as it is, you will also see yourself as you are. It is like cleansing a mirror. The same mirror that shows you the world as it is will also show you your own face. The thought ‘I am’ is the polishing cloth. Use it.
+**M:**&ensp;Realisation is but the opposite of ignorance. To take the world as real and one’s self as unreal is ignorance, the cause of sorrow. To know the self as the only reality and all else as temporal and transient is freedom, peace and joy. It is all very simple. Instead of seeïng things as imagined, learn to see them as they are. When you can see everything as it is, you will also see yourself as you are. It is like cleansing a mirror. The same mirror that shows you the world as it is will also show you your own face. The thought ‘I am’ is the polishing cloth. Use it.

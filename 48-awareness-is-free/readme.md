@@ -34,11 +34,11 @@ When you sit quiet and watch yourself, all kinds of things may come to the surfa
 
 **Q:**&ensp;I can always observe the observer, in endless recession.
 
-**M:**&ensp;You can observe the observation, but not the observer. You know you are the ultimate observer by direct insight, not by a logical process based on observation. You are what you are, but you know what you are not. The self is known as beïng, the not-self is known as transient. But in reälity all is in the mind. The observed, observation and observer are mental constructs. The self alone *is*.
+**M:**&ensp;You can observe the observation, but not the observer. You know you are the ultimate observer by direct insight, not by a logical process based on observation. You are what you are, but you know what you are not. The self is known as beïng, the not-self is known as transient. But in reality all is in the mind. The observed, observation and observer are mental constructs. The self alone *is*.
 
 **Q:**&ensp;Why does the mind create all these divisions?
 
-**M:**&ensp;To divide and particularise is in the mind’s very nature. There is no harm in dividing. But separation goes against fact. Things and people are different, but they are not separate. Nature is one, reälity is one. There are opposites, but no opposition.
+**M:**&ensp;To divide and particularise is in the mind’s very nature. There is no harm in dividing. But separation goes against fact. Things and people are different, but they are not separate. Nature is one, reality is one. There are opposites, but no opposition.
 
 **Q:**&ensp;I find that by nature I am very active. Here I am advised to avoid activity. The more I try to remain inactive, the greater the urge to do something. This makes me not only active outwardly, but also struggling inwardly to be what by nature I am not. Is there a remedy against longing for work?
 
@@ -70,7 +70,7 @@ When you sit quiet and watch yourself, all kinds of things may come to the surfa
 
 **Q:**&ensp;Everybody is conscious, but not everybody is aware.
 
-**M:**&ensp;Don’t say, “everybody is conscious”. Say, “there is consciousness”, in which everything appears and disappears. Our minds are just waves on the ocean of consciousness. As waves they come and go. As ocean they are infinite and eternal. Know yourself as the ocean of beïng, the womb of all existence. These are all metaphors of course; the reälity is beyond description. You can know it only by beïng it.
+**M:**&ensp;Don’t say, “everybody is conscious”. Say, “there is consciousness”, in which everything appears and disappears. Our minds are just waves on the ocean of consciousness. As waves they come and go. As ocean they are infinite and eternal. Know yourself as the ocean of beïng, the womb of all existence. These are all metaphors of course; the reality is beyond description. You can know it only by beïng it.
 
 **Q:**&ensp;Is the search for it worth the trouble?
 
@@ -122,13 +122,13 @@ The same power that makes the fire burn and the water flow, the seeds sprout and
 
 **Q:**&ensp;The search will come to an end. The seeker will remain.
 
-**M:**&ensp;No, the seeker will dissolve, the search will remain. The search is the ultimate and timeless reälity.
+**M:**&ensp;No, the seeker will dissolve, the search will remain. The search is the ultimate and timeless reality.
 
 **Q:**&ensp;Search means lacking, wanting, incompleteness and imperfection.
 
-**M:**&ensp;No, it means refusal and rejection of the incomplete and the imperfect. The search for reälity is itself the movement of reälity. In a way all search is for the real bliss, or the bliss of the real. But here we mean by search the search for oneself as the root of beïng conscious, as the light beyond the mind. This search will never end, while the restless craving for all else must end, for real progress to take place. 
+**M:**&ensp;No, it means refusal and rejection of the incomplete and the imperfect. The search for reality is itself the movement of reality. In a way all search is for the real bliss, or the bliss of the real. But here we mean by search the search for oneself as the root of beïng conscious, as the light beyond the mind. This search will never end, while the restless craving for all else must end, for real progress to take place. 
 
-One has to understand that the search for reälity, or God, or <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> and the search for the self are the same; when one is found, all are found. When ‘I Am‘ and ‘God Is’ become in your mind indistinguishable, then something will happen and you will know without a trace of doubt that God is because you are, you are because God is. The two are one.
+One has to understand that the search for reality, or God, or <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> and the search for the self are the same; when one is found, all are found. When ‘I Am‘ and ‘God Is’ become in your mind indistinguishable, then something will happen and you will know without a trace of doubt that God is because you are, you are because God is. The two are one.
 
 **Q:**&ensp;Since all is preördained, is our self-realisation also preördained? Or are we free there at least?
 
@@ -138,7 +138,7 @@ Even destiny is but an idea. Words can be put together in so many ways! Statemen
 
 **Q:**&ensp;What is meditation and what are its uses?
 
-**M:**&ensp;As long as you are a beginner certain formalised meditations, or prayers may be good for you. But for a seeker for reälity there is only one meditation — the rigorous refusal to harbour thoughts. To be free from thoughts is itself meditation.
+**M:**&ensp;As long as you are a beginner certain formalised meditations, or prayers may be good for you. But for a seeker for reality there is only one meditation — the rigorous refusal to harbour thoughts. To be free from thoughts is itself meditation.
 
 **Q:**&ensp;How is it done?
 
@@ -170,7 +170,7 @@ The world is like a sheet of paper on which something is typed. The reading and 
 
 Man becomes what he believes himself to be. Abandon all ideas about yourself and you will find yourself to be the pure witness, beyond all that can happen to the body or the mind.
 
-**Q:**&ensp;If I become anything I think myself to be, and I start thinking that I am the Supreme Reälity, will not my Supreme Reälity remain a mere idea?
+**Q:**&ensp;If I become anything I think myself to be, and I start thinking that I am the Supreme Reality, will not my Supreme Reality remain a mere idea?
 
 **M:**&ensp;First reach that state and then ask the question.
 
