@@ -9,7 +9,7 @@ inexhaustible possibility. Because you <span style=font-style:normal>are</span>,
 
 **Q:**&ensp;You seem to favour the dream theory.
 
-**M:**&ensp;These are all ways of putting words together. Some favour one way, some favour another. Theories are neither right nor wrong. They are attempts at explaining the inexplicable. It is not the theory that matters, but the way it is beïng tested. It is the testing of the theory that makes it fruitful. Experiment with any theory you like — if you are truly earnest and honest, the attainment of reality will be yours. As a living beïng you are caught in an untenable and painful situation and you are seeking a way out. You are beïng offered several plans of your prison, none quite true. But they all are of some value, only if you are in dead earnest. It is the earnestness that liberates and not the theory.
+**M:**&ensp;These are all ways of putting words together. Some favour one way, some favour another. Theories are neither right nor wrong. They are attempts at explaining the inexplicable. It is not the theory that matters, but the way it is beïng tested. It is the testing of the theory that makes it fruitful. Experiment with any theory you like — if you are truly earnest and honest, the attainment of reality will be yours. As a living beïng you are caught in an untenable and painful situätion and you are seeking a way out. You are beïng offered several plans of your prison, none quite true. But they all are of some value, only if you are in dead earnest. It is the earnestness that liberates and not the theory.
 
 **Q:**&ensp;Theory may be misleading and earnestness, blind.
 

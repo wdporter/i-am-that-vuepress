@@ -30,7 +30,7 @@
 
 **M:**&ensp;Science deals with names and shapes, quantities and qualities, patterns and laws; it is alright in its own place. But life is to be lived; there is no time for analysis. The response must be instantaneous — hence the importance of the spontaneous, the timeless. It is in the unknown that we live and move. The known is the past.
 
-**Q:**&ensp;I can take my stand on what I feel I am. I am an individual, a person among persons. Some people are integrated and harmonised, and some are not. Some live effortlessly, respond spontaneously to every situation correctly, doing full justice to the need of the moment, while others fumble, err and generally make a nuisance of themselves. The harmonised people may be called natural, ruled by law, while the disintegrated are chaotic and subject to accidents.
+**Q:**&ensp;I can take my stand on what I feel I am. I am an individual, a person among persons. Some people are integrated and harmonised, and some are not. Some live effortlessly, respond spontaneously to every situätion correctly, doing full justice to the need of the moment, while others fumble, err and generally make a nuisance of themselves. The harmonised people may be called natural, ruled by law, while the disintegrated are chaotic and subject to accidents.
 
 **M:**&ensp;The very idea of chaos presupposes the sense of the orderly, the organic, the interrelated. Chaos and cosmos: are they not two aspects of the same state?
 

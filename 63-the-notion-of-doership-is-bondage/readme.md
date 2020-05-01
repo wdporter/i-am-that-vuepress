@@ -53,7 +53,7 @@ It is because the ‘I am’ is false that it wants to continue. Reality does no
 
 **Q:**&ensp;You are sure of yourself. But when people come to me for advice, how am I to be sure that my advice is right?
 
-**M:**&ensp;Watch in what state you are, from what level you talk. If you talk from the mind, you may be wrong. If you talk from full insight into the situation, with your own mental habits in abeyance, your advice may be a true response. The main point is to be fully aware that neither you nor the man in front of you are mere bodies; if your awareness is clear and full, a mistake is less likely.
+**M:**&ensp;Watch in what state you are, from what level you talk. If you talk from the mind, you may be wrong. If you talk from full insight into the situätion, with your own mental habits in abeyance, your advice may be a true response. The main point is to be fully aware that neither you nor the man in front of you are mere bodies; if your awareness is clear and full, a mistake is less likely.
 
 <script>
 export default {

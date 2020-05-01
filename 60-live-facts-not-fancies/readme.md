@@ -46,11 +46,11 @@ For instance, you complain that people are abjectly poor. Yet you do not share y
 
 **Q:**&ensp;Do you mean to say that between good and evil there is no wall?
 
-**M:**&ensp;There is no wall because there is no good and no evil. In every concrete situation, there is only the necessary and the unnecessary. The needful is right, the needless is wrong.
+**M:**&ensp;There is no wall because there is no good and no evil. In every concrete situätion, there is only the necessary and the unnecessary. The needful is right, the needless is wrong.
 
 **Q:**&ensp;Who decides?
 
-**M:**&ensp;The situation decides. Every situation is a challenge which demands the right response. When the response is right, the challenge is met and the problem ceases. If the response is wrong, the challenge is not met and the problem remains unsolved. Your unsolved problems — that is what constitutes your <span data-tippy-content="Action or ‘the fruits of action’. <em>Karma</em> is of three kinds: <em>sanchita</em> (accumulated from previous births), <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the present life) and <em>agami</em> (the current <em>karma</em> the result of which will fructify in future).">karma</span>. Solve them rightly and be free.
+**M:**&ensp;The situätion decides. Every situätion is a challenge which demands the right response. When the response is right, the challenge is met and the problem ceases. If the response is wrong, the challenge is not met and the problem remains unsolved. Your unsolved problems — that is what constitutes your <span data-tippy-content="Action or ‘the fruits of action’. <em>Karma</em> is of three kinds: <em>sanchita</em> (accumulated from previous births), <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the present life) and <em>agami</em> (the current <em>karma</em> the result of which will fructify in future).">karma</span>. Solve them rightly and be free.
 
 **Q:**&ensp;You seem to drive me always back into myself. Is there no objective solution to the world’s problems?
 

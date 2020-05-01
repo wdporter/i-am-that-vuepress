@@ -38,7 +38,7 @@ Yet, all this is so in the mind only. As I see it, there is really nothing of th
 
 **Q:**&ensp;I was told that a realised man will never do anything unseemly. He will always behave in an exemplary way.
 
-**M:**&ensp;Who sets the example? Why should a liberated man necessarily follow conventions? The moment he becomes predictable, he cannot be free. His freedom lies in his beïng free to fulfil the need of the moment, to obey the necessity of the situation. Freedom to do what one likes is really bondage, while beïng free to do what one must or what is right, is real freedom.
+**M:**&ensp;Who sets the example? Why should a liberated man necessarily follow conventions? The moment he becomes predictable, he cannot be free. His freedom lies in his beïng free to fulfil the need of the moment, to obey the necessity of the situätion. Freedom to do what one likes is really bondage, while beïng free to do what one must or what is right, is real freedom.
 
 **Q:**&ensp;Still there must be some way of making out who has realised and who has not. If one is indistinguishable from the other, of what use is he?
 

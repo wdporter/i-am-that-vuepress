@@ -36,7 +36,7 @@
 
 **Q:**&ensp;What is wrong with purposeful action?
 
-**M:**&ensp;It does not apply. In these matters there is no question of purpose, nor of action. All you need is to listen, remember and ponder. It is like taking food. All you can do is to bite off, chew and swallow. All else is unconscious and automatic. Listen, remember and understand — the mind is both the actor and the stage. All is of the mind and you are not the mind. The mind is born and reborn, not you. The mind creates the world and all the wonderful variety of it. Just like in a good play you have all sorts of characters and situations, so you need a little of everything to make a world.
+**M:**&ensp;It does not apply. In these matters there is no question of purpose, nor of action. All you need is to listen, remember and ponder. It is like taking food. All you can do is to bite off, chew and swallow. All else is unconscious and automatic. Listen, remember and understand — the mind is both the actor and the stage. All is of the mind and you are not the mind. The mind is born and reborn, not you. The mind creates the world and all the wonderful variety of it. Just like in a good play you have all sorts of characters and situätions, so you need a little of everything to make a world.
 
 **Q:**&ensp;Nobody suffers in a play.
 

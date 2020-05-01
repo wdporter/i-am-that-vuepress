@@ -122,7 +122,7 @@ You say you want to pacify your mind. Is he, who wants to pacify the mind, himse
 
 **Q:**&ensp;I have understood very well that social service is an endless task, because improvement and decay, progress and regress, go side by side. We can see it on all sides and on every level. What remains?
 
-**M:**&ensp;Whatever work you have undertaken — complete it. Do not take up new tasks, unless it is called for by a concrete situation of suffering and relief from suffering. Find yourself first, and endless blessings will follow. Nothing profits the world as much as the abandoning of profits. A man who no longer thinks in terms of loss and gain is the truly non-violent man, for he is beyond all conflict.
+**M:**&ensp;Whatever work you have undertaken — complete it. Do not take up new tasks, unless it is called for by a concrete situätion of suffering and relief from suffering. Find yourself first, and endless blessings will follow. Nothing profits the world as much as the abandoning of profits. A man who no longer thinks in terms of loss and gain is the truly non-violent man, for he is beyond all conflict.
 
 **Q:**&ensp;Yes, I was always attracted by the idea of <span data-tippy-content="Non-violence; abstaining from hurting others in thought, words or deed.">ahimsa</span> (non-violence).
 

@@ -8,7 +8,7 @@
 
 **Q:**&ensp;The instruments of destruction have become unbelievably potent. Also, our very productivity has become destructive of nature and of our cultural and social values.
 
-**M:**&ensp;You are talking of the present times. It has been so everywhere and always. But the distressing situation may be temporary and local. Once over, it will be forgotten.
+**M:**&ensp;You are talking of the present times. It has been so everywhere and always. But the distressing situätion may be temporary and local. Once over, it will be forgotten.
 
 **Q:**&ensp;The scale of the impending catastrophe is unbelievably big. We live in the midst of an explosion.
 

@@ -106,7 +106,7 @@ It does not mean that you must be brainless and foolhardy, improvident or indiff
 
 **Q:**&ensp;University education is most useful.
 
-**M:**&ensp;No doubt it helps you to earn a living. But it does not teach you how to live. You are a student of psychology. It may help you in certain situations. But can you live by psychology? Life is worthy of the name only when it reflects Reality in action. No university will teach you how to live so that when the time of dying comes, you can say, “I lived well – I do not need to live again”. Most of us die wishing we could live again. So many mistakes committed, so much left undone. Most people vegetate, but do not live. They merely gather experience and enrich their memory. But experience is the denial of Reality, which is neither sensory nor conceptual, neither of the body, nor of the mind, though it includes and transcends both.
+**M:**&ensp;No doubt it helps you to earn a living. But it does not teach you how to live. You are a student of psychology. It may help you in certain situätions. But can you live by psychology? Life is worthy of the name only when it reflects Reality in action. No university will teach you how to live so that when the time of dying comes, you can say, “I lived well – I do not need to live again”. Most of us die wishing we could live again. So many mistakes committed, so much left undone. Most people vegetate, but do not live. They merely gather experience and enrich their memory. But experience is the denial of Reality, which is neither sensory nor conceptual, neither of the body, nor of the mind, though it includes and transcends both.
 
 **Q:**&ensp;But experience is most useful. By experience you learn not to touch a flame.
 

@@ -56,7 +56,7 @@
 
 **Q:**&ensp;In what way does it affect the world?
 
-**M:**&ensp;When you are free of the world, you can do something about it. As long as you are a prisoner of it, you are helpless to change it. On the contrary, whatever you do will aggravate the situation.
+**M:**&ensp;When you are free of the world, you can do something about it. As long as you are a prisoner of it, you are helpless to change it. On the contrary, whatever you do will aggravate the situätion.
 
 **Q:**&ensp;Righteousness will set me free.
 

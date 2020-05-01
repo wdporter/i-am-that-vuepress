@@ -2,7 +2,7 @@
 
 >…desires fulfilled breed more desires. Keeping away from all desires and contentment in what comes by itself is a very fruitful state — a precondition to the state of fullness. Don’t distrust its apparent sterility and emptiness. Believe me, it is the satisfaction of desires that breeds misery. Freedom from desires is bliss.
 
-**Questioner:**&ensp;I must confess I came today in a rebellious mood. I got a raw deal at the airlines office. When faced with such situations everything seems doubtful, everything seems useless.
+**Questioner:**&ensp;I must confess I came today in a rebellious mood. I got a raw deal at the airlines office. When faced with such situätions everything seems doubtful, everything seems useless.
 
 **Maharaj:**&ensp;This is a very useful mood. Doubting all, refusing all, unwilling to learn through another. It is the fruit of your long <span data-tippy-content="The practice which produces success, <em>siddhi</em>.">sadhana</span>. After all one does not study for ever.
 
@@ -58,7 +58,7 @@ If you are angry or in pain, separate yourself from anger and pain and watch the
 
 **Q:**&ensp;The Buddhas rule: to remember what needs to be remembered. But I find it so difficult to remember the right thing at the right moment. With me forgetting seems to be the rule!
 
-**M:**&ensp;It is not easy to remember when every situation brings up a storm of desires and fears. Craving born of memory is also the destroyer of memory.
+**M:**&ensp;It is not easy to remember when every situätion brings up a storm of desires and fears. Craving born of memory is also the destroyer of memory.
 
 **Q:**&ensp;How am I to fight desire? There is nothing stronger.
 
