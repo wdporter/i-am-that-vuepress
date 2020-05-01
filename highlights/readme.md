@@ -86,6 +86,11 @@
 **M:**&ensp;Of course, everything is interlinked. And therefore everything has numberless causes. The entire universe contributes to the least thing. A thing is as it is because the world is as it is. You see, you deal in gold ornaments and I — in gold. Between the different ornaments there is no causal relation. When you melt down an ornament to make another, there is no causal relation between the two. The common factor is the gold. But you cannot say gold is the cause. It cannot be called a cause, for it causes nothing by itself. It is reflected in the mind as ‘I am’, as the ornament’s particular name and shape. Yet all is only gold. In the same way reality makes everything possible and yet, nothing that makes a thing what it is, its name and form, comes from reality. 
 
 
+## [18. To Know What You Are, Find What You Are Not](/18-to-know-what-you-are-find-out-what-you-are-not/)
+
+**M:**&ensp;All I know is that whatever depends is not real. The real is truly independent. Since the existence of the person depends on the existence of the world and it is circumscribed and defined by the world, it cannot be real.
+
+
 ## [62. In the Supreme, the Witness Appears](/62-in-the-supreme-the-witness-appears/)
 
 **Q:**&ensp;How is it that here, my mind is engaged in high topics and finds dwelling on them easy and pleasant, but when I return home I find myself forgetting all l have learnt here, worrying and fretting, unable to remember my real nature even for a moment. What may be the cause?
