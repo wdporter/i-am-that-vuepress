@@ -111,7 +111,8 @@ module.exports = {
 					"/63-the-notion-of-doership-is-bondage/",
 					"/64-whatever-pleases-you-keeps-you-back/",
 					"/65-a-quiet-mind-is-all-you-need/",
-					"/66-all-search-for-happiness-is-misery/"
+					"/66-all-search-for-happiness-is-misery/",
+					"/67-experience-is-not-the-real-thing/"
 				]
 			},
 			{

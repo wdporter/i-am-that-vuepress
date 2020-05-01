@@ -132,3 +132,15 @@ subject of all that happens; once having turned within, you will find yourself b
 
 **M:**&ensp;I have told you already that knowledge is most useful in dealing with things. But it does not tell you how to deal with people and yourself, how to live a life. We are not talking of driving a car or earning money. For this you need experience. But for beïng a light unto yourself, material knowledge will not help you. You need something much more intimate and deeper than material knowledge, to be your self in the true sense of the word. Your outer life is unimportant. You can become a night watchman and live happily. It is what you are inwardly that matters. Your inner peace and joy you have to earn. It is much more difficult than earning money. No university can teach you to be yourself. The only way to learn is by practice. Right away begin to be yourself. Discard all you are not and go ever deeper. Just as a man digging a well discards what is not water until he reaches the water-bearing strata, so must you discard what is not your own until nothing is left which you can disown. You will find that what is left is nothing which the mind can hook on to. You are not even a human beïng. You just *are* — a point of awareness, coëxtensive with time and space and beyond both, the ultimate cause, itself uncaused. If you ask me, “Who are you?”, my answer would be, “Nothing in particular. Yet, I am”.
 
+
+## [67. Experience Is Not The Real Thing](/67-experience-is-not-the-real-thing/)
+
+**M:**&ensp;Experience, however sublime, is not the real thing. By its very nature it comes and goes. Self-realisation is not an acquisition. It is more in the nature of understanding. Once arrived at, it cannot be lost. On the other hand, consciousness is changeful, flowing, undergoïng transformation from moment to moment. Do not hold on to consciousness and its contents. Consciousness held, ceases. To try to perpetuate a flash of insight or a burst of happiness is destructive to what it wants to preserve. What comes must go. The permanent is beyond all comings and goïngs. Go to the root of all experience, to the sense of beïng. Beyond beïng and not-beïng lies the immensity of the real. Try and try again.
+
+…
+
+**M:**&ensp;There is such a way, open to all, on every level, in every walk of life. Everybody is aware of himself. The deepening and broadening of self-awareness is the royal way. Call it mindfulness, or witnessing, or just attention — it is for all. None is unripe for it and none can fail. 
+
+But, of course, you must not be merely alert. Your mindfulness must include the mind also. Witnessing is primarily awareness of consciousness and its movements.
+
+
