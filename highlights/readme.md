@@ -155,3 +155,8 @@ subject of all that happens; once having turned within, you will find yourself b
 But, of course, you must not be merely alert. Your mindfulness must include the mind also. Witnessing is primarily awareness of consciousness and its movements.
 
 
+## [68. Seek the Source of Consciousness](/68-seek-the-source-of-consciousness/)
+
+**M:**&ensp;It is you that need my body to talk to you. I am not my body, nor do I need it. I am the witness only. I have no shape of my own. 
+
+You are so accustomed to think of yourselves as bodies having consciousness that you just cannot imagine consciousness as having bodies. Once you realise that bodily existence is but a state of mind, a movement in consciousness, that the ocean of consciousness is infinite and eternal, and that, when in touch with consciousness, you are the witness only, you will be able to withdraw beyond consciousness altogether.

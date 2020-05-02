@@ -180,6 +180,8 @@ pageClass: glossary-class
 
 **<em>sutratma:</em>**&ensp;the connecting link between all beïngs. The string-like supporter of the manifested worlds, hence the pure consciousness which is the substratum of all beïngs. *Maharaj* uses the word for the accumulated *karma* from life to life.
 
+**<em>svarga:</em>**&ensp;the celestial regions.
+
 **<em>svarupa:</em>**&ensp;one’s own form, nature, character.
 
 **<em>tamas:</em>**&ensp;darkness, inertia, passivity. One of the three constituents (*gunas*) of the cosmic substance: *sattava*, *rajas* and *tamas*.
