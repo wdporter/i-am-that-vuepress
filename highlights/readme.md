@@ -91,6 +91,12 @@
 **M:**&ensp;All I know is that whatever depends is not real. The real is truly independent. Since the existence of the person depends on the existence of the world and it is circumscribed and defined by the world, it cannot be real.
 
 
+## [20. The Supreme is Beyond All](/20-the-supreme-is-beyond-all/)
+
+**M:**&ensp;The source of consciousness cannot be an object in consciousness. To know the source is to *be* the source. When you realise that you are not the person, but the pure and calm witness, and that fearless awareness is your very beïng, you *are* the beïng. It is the source, the Inexhaustible Possibility.
+
+
+
 ## [62. In the Supreme, the Witness Appears](/62-in-the-supreme-the-witness-appears/)
 
 **Q:**&ensp;How is it that here, my mind is engaged in high topics and finds dwelling on them easy and pleasant, but when I return home I find myself forgetting all l have learnt here, worrying and fretting, unable to remember my real nature even for a moment. What may be the cause?
