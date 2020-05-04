@@ -114,7 +114,8 @@ module.exports = {
 					"/66-all-search-for-happiness-is-misery/",
 					"/67-experience-is-not-the-real-thing/",
 					"/68-seek-the-source-of-consciousness/",
-					"/69-transiency-is-proof-of-unreality/"
+					"/69-transiency-is-proof-of-unreality/",
+					"/70-god-is-the-end-of-all-desire-and-knowledge/"
 				]
 			},
 			{

@@ -96,6 +96,11 @@
 **M:**&ensp;The source of consciousness cannot be an object in consciousness. To know the source is to *be* the source. When you realise that you are not the person, but the pure and calm witness, and that fearless awareness is your very beïng, you *are* the beïng. It is the source, the Inexhaustible Possibility.
 
 
+## [26. Personality, an Obstacle](/26-personality-an-obstacle/)
+
+**M:**&ensp;Go home, take charge of your father’s business, look after your parents in their old age. Marry the girl who is waiting for you, be loyal, be simple and be humble. Hide your virtue, live silently. The five senses and the three qualities (<span data-tippy-content="Attributes, qualities. In <em>Samkhya</em> philosophy the three attributes of the cosmic substance (<em>prakriti</em>) are: illuminating (<em>sattva</em>), activating (<em>rajas</em>) and restraining (<em>tamas</em>).">gunas</span>) are your eight steps in *yoga*. And ‘I am’ is the Great Reminder (<span data-tippy-content="The great incantation (see <em>mantra</em>).">mahamantra</span>). You can learn from them all you need to know. Be attentive, enquire ceaselessly. That is all.
+
+
 
 ## [62. In the Supreme, the Witness Appears](/62-in-the-supreme-the-witness-appears/)
 
@@ -160,3 +165,8 @@ But, of course, you must not be merely alert. Your mindfulness must include the 
 **M:**&ensp;It is you that need my body to talk to you. I am not my body, nor do I need it. I am the witness only. I have no shape of my own. 
 
 You are so accustomed to think of yourselves as bodies having consciousness that you just cannot imagine consciousness as having bodies. Once you realise that bodily existence is but a state of mind, a movement in consciousness, that the ocean of consciousness is infinite and eternal, and that, when in touch with consciousness, you are the witness only, you will be able to withdraw beyond consciousness altogether.
+
+
+## [70. God Is the End of All Desire and Knowledge](/70-god-is-the-end-of-all-desire-and-knowledge/)
+
+**M:**&ensp;Merely hearing will not help you much. You must keep it in mind and ponder it and try to understand the state of mind which makes me say what I say. I speak from truth; stretch your hand and take it. You are not what you think yourself to be, I assure you. The image you have of yourself is made up from memories and is purely accidental.
