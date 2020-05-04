@@ -144,6 +144,8 @@ pageClass: glossary-class
 
 **<em>rajas:</em>**&ensp;motivity, activity, energy. One of the three *gunas* or qualities of matter: *sattva*, *rajas* and *tamas*. In *yoga*, egoism.
 
+**<em>sadanubhava:</em>**&ensp;experience of the everlasting reality.
+
 **<em>sadchitananda:</em>**&ensp;the ultimate principle with the three attributes in absolute perfection (*sat*, beïng + *chit*, consciousness + *ananda*, bliss).
 
 **<em>sadguru:</em>**&ensp;the true spiritual teacher.
@@ -165,6 +167,8 @@ pageClass: glossary-class
 **<em>satsang:</em>**&ensp;association with the true and the wise people.
 
 **<em>sattva:</em>**&ensp;beïng, existence, true essence. In *yoga* the quality of purity or goodness; *sattvic* — pure, true.
+
+**<em>sattvanubhava:</em>**&ensp;experience (<em>anubhava</em>) of the true harmony of the universe (<em>sattva</em>, being).
 
 **<em>satyakama:</em>**&ensp;he who longs for the sublime truth.
 
