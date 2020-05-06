@@ -119,6 +119,12 @@ module.exports = {
 				]
 			},
 			{
+				title: "71–80",
+				children: [
+					"/71-in-self-awareness-you-learn-about-yourself/"
+				]
+			},
+			{
 				title: "Front Matter",
 				children: [
 					"/foreword/",
