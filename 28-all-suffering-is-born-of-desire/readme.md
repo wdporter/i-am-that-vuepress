@@ -1,4 +1,4 @@
-# 28. All Suffering is Born of Desire
+# 28. All Suffering Is Born of Desire
 
 >All suffering is born of desire. True love is never frustrated. How can the sense of unity be frustrated? What can be frustrated is the desire for expression. Such desire is of the mind. As with all things mental, frustration is inevitable.
 
