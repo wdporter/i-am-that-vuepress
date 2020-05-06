@@ -170,3 +170,8 @@ You are so accustomed to think of yourselves as bodies having consciousness that
 ## [70. God Is the End of All Desire and Knowledge](/70-god-is-the-end-of-all-desire-and-knowledge/)
 
 **M:**&ensp;Merely hearing will not help you much. You must keep it in mind and ponder it and try to understand the state of mind which makes me say what I say. I speak from truth; stretch your hand and take it. You are not what you think yourself to be, I assure you. The image you have of yourself is made up from memories and is purely accidental.
+
+
+## [# 71. In Self-Awareness You Learn About Yourself](/71-in-self-awareness-you-learn-about-yourself/)
+
+**M:**&ensp;The person is merely the result of a misunderstanding. In reality, there is no such thing. Feelings, thoughts and actions race before the watcher in endless succession, leaving traces in the brain and creating an illusion of continuïty. A reflection of the watcher in the mind creates the sense of ‘I’ and the person acquires an apparently independent existence. In reality there is no person — only the watcher identifying himself with the ‘I’ and the ‘mine’. The teacher tells the watcher, “You are not this — there is nothing of yours in this except the little point of ‘I am’, which is the bridge between the watcher and his dream. ‘I am this, I am that’ is dream, while pure ‘I am’ has the stamp of reality on it. You have tasted so many things — all came to naught. Only the sense ‘I am’ persisted unchanged. Stay with the changeless among the changeful, until you are able to go beyond”.
