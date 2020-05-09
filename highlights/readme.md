@@ -3,17 +3,54 @@
 
 ## [1. The Sense of ‘I Am’](/1-the-sense-of-i-am/)
 
-**M:**&ensp;Even to say that you are not the body is not quite true. In a way you are all the bodies, hearts and minds, and much more. Go deep into the sense of ‘I am’ and you will find it. How do you find a thing that you have mislaid or forgotten? You keep it in your mind until you recall it. The sense of beïng, of ‘I am’, is the first to emerge. Ask yourself whence it comes or just watch it quietly. When the mind stays in the ‘I am’ without moving, you enter a state which cannot be verbalised, but can be experienced. All you need to do is to try and try again. After all, the sense ‘I am’ is always with you, only you have attached all kinds of things to it: body, feelings, thoughts, ideas, possessions etc. All of these self-identifications are misleading. Because of them, you take yourself to be what you are not.
+&ensp;Even to say that you are not the body is not quite true. In a way you 
+are all the bodies, hearts and minds, and much more. Go deep into the sense of 
+‘I am’ and you will find it. How do you find a thing that you have mislaid or 
+forgotten? You keep it in your mind until you recall it. The sense of beïng, 
+of ‘I am’, is the first to emerge. Ask yourself whence it comes or just watch 
+it quietly. When the mind stays in the ‘I am’ without moving, you enter a 
+state which cannot be verbalised, but can be experienced. All you need to do 
+is to try and try again. After all, the sense ‘I am’ is always with you, only 
+you have attached all kinds of things to it: body, feelings, thoughts, ideas, 
+possessions etc. All of these self-identifications are misleading. Because of 
+them, you take yourself to be what you are not.
 
 
 ## [2. Obsession with the Body](/2-obsession-with-the-body/)
 
-**M:**&ensp;I see what you too could see, here and now, but for the wrong focus of your attention. You give no attention to your self. Your mind is all with things, people and ideas, never with your self. Bring your self into focus, become aware of your own existence. See how you function, watch the motives and the results of your actions. Study the prison you have inadvertantly built around yourself. By knowing what you are not, you come to know yourself. The way back to your self is through refusal and rejection. One thing is certain: the real is not imaginary; it is not a product of the mind. Even the sense ‘I am’ is not continuous, though it is a useful pointer, it shows where to seek but not what to seek. Just have a good look at it. Once you are convinced that you cannot say truthfully about your self anything except, “I Am” and that nothing that can be pointed at can be your self, the need for the ‘I am’ is over — you are no longer intent on verbalising what you are. All you need is to get rid of the tendency to define yourself. All definitions apply to your body only and to its expressions. Once this obsession with the body leaves, you will revert to your natural state spontaneously and effortlessly. The only difference between us is that I am aware of my natural state, while you are bemused. Just like gold made into ornaments has no advantage over gold dust except when the mind makes it so, so are we one in beïng — we differ only in appearance. We discover it by beïng earnest, by searching, enquiring, questioning daily and hourly, by giving one’s life to this discovery.
+&ensp;I see what you too could see, here and now, but for the wrong focus of 
+your attention. You give no attention to your self. Your mind is all with 
+things, people and ideas, never with your self. Bring your self into focus, 
+become aware of your own existence. See how you function, watch the motives 
+and the results of your actions. Study the prison you have inadvertantly built 
+around yourself. By knowing what you are not, you come to know yourself. The 
+way back to your self is through refusal and rejection. One thing is certain: 
+the real is not imaginary; it is not a product of the mind. Even the sense ‘I 
+am’ is not continuous, though it is a useful pointer, it shows where to seek 
+but not what to seek. Just have a good look at it. Once you are convinced that 
+you cannot say truthfully about your self anything except, “I Am” and that 
+nothing that can be pointed at can be your self, the need for the ‘I am’ is 
+over — you are no longer intent on verbalising what you are. All you need is 
+to get rid of the tendency to define yourself. All definitions apply to your 
+body only and to its expressions. Once this obsession with the body leaves, 
+you will revert to your natural state spontaneously and effortlessly. The only 
+difference between us is that I am aware of my natural state, while you are 
+bemused. Just like gold made into ornaments has no advantage over gold dust 
+except when the mind makes it so, so are we one in beïng — we differ only in 
+appearance. We discover it by beïng earnest, by searching, enquiring, 
+questioning daily and hourly, by giving one’s life to this discovery.
 
 
 ## [3. The Living Present](/3-the-living-present/)
 
-**M:**&ensp;What is wrong with its seeking the pleasant and shirking the unpleasant? Between the banks of pain and pleasure the river of life flows. It is only when the mind refuses to flow with life and gets stuck at the banks that it becomes a problem. By flowing with life I mean acceptance — letting come what comes and go what goes. Desire not, fear not, observe the actual, as and when it happens, for you are not what happens, you are to whom it happens. Ultimately even the observer you are not. You are the ultimate potentiality of which the all-embracing consciousness is the manifestation and expression.
+&ensp;What is wrong with its seeking the pleasant and shirking the unpleasant? 
+Between the banks of pain and pleasure the river of life flows. It is only 
+when the mind refuses to flow with life and gets stuck at the banks that it 
+becomes a problem. By flowing with life I mean acceptance — letting come what 
+comes and go what goes. Desire not, fear not, observe the actual, as and when 
+it happens, for you are not what happens, you are to whom it happens. 
+Ultimately even the observer you are not. You are the ultimate potentiality of 
+which the all-embracing consciousness is the manifestation and expression.
 
 
 ## [4. Real World Is Beyond the Mind](/4-real-world-is-beyond-the-mind/)
@@ -99,6 +136,90 @@
 ## [26. Personality, an Obstacle](/26-personality-an-obstacle/)
 
 **M:**&ensp;Go home, take charge of your father’s business, look after your parents in their old age. Marry the girl who is waiting for you, be loyal, be simple and be humble. Hide your virtue, live silently. The five senses and the three qualities (<span data-tippy-content="Attributes, qualities. In <em>Samkhya</em> philosophy the three attributes of the cosmic substance (<em>prakriti</em>) are: illuminating (<em>sattva</em>), activating (<em>rajas</em>) and restraining (<em>tamas</em>).">gunas</span>) are your eight steps in *yoga*. And ‘I am’ is the Great Reminder (<span data-tippy-content="The great incantation (see <em>mantra</em>).">mahamantra</span>). You can learn from them all you need to know. Be attentive, enquire ceaselessly. That is all.
+
+
+## [29. Living is Life’s Only Purpose](/29-living-is-lifes-only-purpose/)
+
+Yet, all this is so in the mind only. As I see it, there is really nothing of 
+the kind. In the great mirror of consciousness images arise and disappear and 
+only memory gives them continuity. And memory is material — destructible, 
+perishable and transient. On such flimsy foundations we build a sense of 
+personal existence — vague, intermittent, dreamlike. This vague persuasion, ‘I 
+am so-and-so’ obscures the changeless state of pure awareness and makes us 
+believe that we are born to suffer and to die.
+
+…
+
+Wherever it [the practice of dismissing everything as a dream] leads you, it 
+will be a dream. The very idea of going beyond the dream is illusory. Why go 
+anywhere? Just realise that you are dreaming a dream you call the world, and 
+stop looking for ways out. The dream is not your problem. Your problem is that 
+you like one part of your dream and not another. Love all or none of it, and 
+stop complaining. When you have seen the dream as a dream, you have done all 
+that needs be done.
+
+
+## [30. You are Free NOW](/30-you-are-free-now/)
+
+**Q:**&ensp;But what *can* I do here and now?
+
+**M:**&ensp;You can be aware of your beïng — here and now.
+
+**Q:**&ensp;That is all?
+
+**M:**&ensp;That is all. There is nothing more to it.
+
+
+## [31. Do Not Undervalue Attention](/31-do-not-undervalue-attention/)
+
+&ensp;My actual experience is not different [from others’ experience]. It is 
+my evaluation and attitude that differ. I see the same world as you do, but not 
+the same way. There is nothing mysterious about it. Everybody sees the world 
+through the idea he has of himself. As you think yourself to be, so you think 
+the world to be. If you imagine yourself as separate from the world, the world 
+will appear as separate from you and you will experience desire and fear. I do 
+not see the world as separate from me and so there is nothing for me to desire 
+or fear.
+
+…
+
+&ensp;At the root of all creation lies desire. Desire and imagination 
+foster and reïnforce each other. The fourth state (<span 
+data-tippy-content="The superconscious state of <em>samadhi</em>, 
+(<em>turiya</em>, fourth), the fourth state of soul in which it becomes one 
+with Brahman, the highest awareness.">turiya</span>) is a state of pure 
+witnessing, detached awareness — passionless and wordless. It is like space, 
+unaffected by whatever it contains. Bodily and mental troubles do not reach it 
+— they are outside, ‘there’, while the witness is always ‘here’.
+
+…
+
+&ensp;Go on pondering, wondering, beïng anxious to find a way. Be conscious of 
+yourself, watch your mind, give it your full attention. Don’t look for quick 
+results; there may be none within your noticing. Unknown to you, your psyche 
+will undergo a change: there will be more clarity in your thinking, charity in 
+your feeling and purity in your behaviour. You need not aim at these — you 
+will witness the change all the same. For, what you are now is the result of 
+inattention and what you become will be the fruit of attention.
+
+
+## [33. To See the Unreal Is Wisdom](/33-to-see-the-unreal-is-wisdom/)
+
+**M:**&ensp;When effort is needed, effort will appear. When effortlessness 
+becomes essential, it will assert itself. You need not push life about. Just 
+flow with it and give yourself completely to the task of the present moment, 
+which is the dying now to the now. For living is dying. Without death life 
+cannot be. 
+
+Get hold of the main thing: that the world and the self are one and perfect. 
+Only your attitude is faulty and needs reädjustment. This process or 
+reädjustment is what you call *sadhana*. You come to it by putting an end to 
+indolence and using all your energy to clear the way for clarity and charity. 
+But in reälity, these all are signs of inevitable growth. Don’t be afraid, 
+don’t resist, don’t delay. Be what you are. There is nothing to be afraid of. 
+Trust and try. Experiment honestly. Give your real beïng a chance to shape 
+your life. You will not regret it.
+
 
 
 

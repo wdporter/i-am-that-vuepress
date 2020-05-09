@@ -20,6 +20,8 @@ pageClass: glossary-class
 
 **<em>Atma-bhakti:**&ensp;worship of the Supreme.
 
+**<em>Atma-prakash:**&ensp;the light of the Self.
+
 **<em>atmaram:</em>**&ensp;rejoicing in the Self.
 
 **avatara:**&ensp;incarnation.
@@ -142,7 +144,7 @@ pageClass: glossary-class
 
 **<em>purusha:</em>**&ensp;the cosmic spirit, the eternal and efficient cause of the universe that gives appearance of consciousness to all manifestations of matter (*prakriti*). The bondage of *purusha* in matter is due to ‘I’-consciousness born of *chitta–vrittis*, which gives rise to innuumerable desires.
 
-**<em>rajas:</em>**&ensp;motivity, activity, energy. One of the three *gunas* or qualities of matter: *sattva*, *rajas* and *tamas*. In *yoga*, egoism.
+**<em>rajas:</em>**&ensp;motivity, activity, energy. One of the three *gunas* or qualities of matter: *sattva*, *rajas* and *tamas*. In *yoga*, egoïsm.
 
 **<em>sadanubhava:</em>**&ensp;experience of the everlasting reality.
 

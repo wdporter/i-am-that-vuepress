@@ -2,7 +2,7 @@
 
 >All suffering is born of desire. True love is never frustrated. How can the sense of unity be frustrated? What can be frustrated is the desire for expression. Such desire is of the mind. As with all things mental, frustration is inevitable.
 
-**Questioner:**&ensp;I come from a far-off country. I had some inner experiences on my own and I would like to compare notes. 
+**Questioner:**&ensp;I come from a far off country. I had some inner experiences on my own and I would like to compare notes. 
 
 **Maharaj:**&ensp;By all means. Do you know yourself?
 
@@ -10,7 +10,7 @@
 
 **M:**&ensp;What makes you say so?
 
-**Q:**&ensp;I do not feel I am in the body. I seem to be all over the place everywhere. As to the mind, I can switch it on and off, so to say. This makes me feel I am not the mind.
+**Q:**&ensp;I do not feel I am in the body. I seem to be all over the place, everywhere. As to the mind, I can switch it on and off, so to speak. This makes me feel I am not the mind.
 
 **M:**&ensp;When you feel yourself everywhere in the world, do you remain separate from the world? Or, are you the world?
 
@@ -54,11 +54,11 @@
 
 **M:**&ensp;How did you come to your present state?
 
-**Q:**&ensp;Sri Ramana Maharshi’s teachings have put me on my way. Then I met one Douglas Harding who helped me by showing me how to work on the ‘Who Am I ?’
+**Q:**&ensp;Sri Ramana Maharshi’s teachings have put me on my way. Then I met one Douglas Harding, who helped me by showing me how to work on the ‘Who am I?’.
 
 **M:**&ensp;Was it sudden or gradual?
 
-**Q:**&ensp;It was quite sudden. Like something quite forgotten, coming back into one’s mind. Or, like a sudden flash of understanding. “How simple”, I said, “How simple. I’m not what I thought I am! I’m neither the perceived nor the perceiver; I‘m the perceiving only”.
+**Q:**&ensp;It was quite sudden. Like something quite forgotten, coming back into one’s mind. Or, like a sudden flash of understanding. “How simple”, I said. “How simple; I’m not what I thought I am! I’m neither the perceived nor the perceiver; I’m the perceiving only”.
 
 **M:**&ensp;Not even the perceiving, but that which makes all this possible.
 
@@ -72,19 +72,19 @@
 
 **Q:**&ensp;Is it not so in all love?
 
-**M:**&ensp;Not necessarily. Love may cause pain. You call it then compassion.
+**M:**&ensp;Not necessarily. Love may cause pain. You then call it then compassion.
 
 **Q:**&ensp;What is happiness?
 
-**M:**&ensp;Harmony between the inner and the outer is happiness. On the other hand, self-identification with the outer causes is suffering.
+**M:**&ensp;Harmony between the inner and the outer is happiness. On the other hand, self-identification with the outer is suffering.
 
 **Q:**&ensp;How does self-identification happen?
 
-**M:**&ensp;The self by its nature knows itself only. For lack of experience whatever it perceives it takes to be itself. Battered, it learns to look out (<span data-tippy-content="Discrimination; discrimination between the true and the false, the real and the unreal. <em>Viveka</em> is an expression of the spiritual consciousness hidden behind the mind. It leads to <em>vairagya</em>.">viveka</span>) and to live alone (<span data-tippy-content="Dispassion, indifference to the pains and pleasures of the material world.">vairagya</span>). When right behaviour (<span data-tippy-content="Rest, repose, tolerance and renunciation of all sectarian observances. In <em>Vedanta</em> one of the six acquirements (<em>sat-sampat</em>): <em>sama</em>, tranquility; <em>dama</em>, self-restraint; <em>uprati</em>, tolerance; <em>titiksha</em>, endurance; <em>sraddha</em>, faith; and <em>samadhana</em>, equipoise.">uparati</span>), becomes normal, a powerful inner urge (<span data-tippy-content="Right desire, which consists of earnestness to know the Ultimate Principle to attain liberation. In <em>Vedanta</em>, one of the four qualifications of the seeker of the Truth: right discrimination (<em>viveka</em>), right passion (<em>vairagya</em>), right conduct (<em>sat-sampat</em>) and right desire (<em>mumukshattva</em>). <em>Mumukshattva</em> is intense longing for liberation.">mukmukshattva</span>) makes it seek its source. The candle of the body is lighted and all becomes clear and bright.
+**M:**&ensp;The self by its nature knows itself only. For lack of experience whatever it perceives it takes to be itself. Battered, it learns to look out (<span data-tippy-content="Discrimination; discrimination between the true and the false, the real and the unreal. <em>Viveka</em> is an expression of the spiritual consciousness hidden behind the mind. It leads to <em>vairagya</em>.">viveka</span>) and to live alone (<span data-tippy-content="Dispassion, indifference to the pains and pleasures of the material world.">vairagya</span>). When right behaviour (<span data-tippy-content="Rest, repose, tolerance and renunciation of all sectarian observances. In <em>Vedanta</em> one of the six acquirements (<em>sat-sampat</em>): <em>sama</em>, tranquility; <em>dama</em>, self-restraint; <em>uprati</em>, tolerance; <em>titiksha</em>, endurance; <em>sraddha</em>, faith; and <em>samadhana</em>, equipoise.">uparati</span>), becomes normal, a powerful inner urge (<span data-tippy-content="Right desire, which consists of earnestness to know the Ultimate Principle to attain liberation. In <em>Vedanta</em>, one of the four qualifications of the seeker of the Truth: right discrimination (<em>viveka</em>), right passion (<em>vairagya</em>), right conduct (<em>sat-sampat</em>) and right desire (<em>mumukshattva</em>). <em>Mumukshattva</em> is intense longing for liberation.">mukmukshattva</span>) makes it seek its source. The candle of the body is lighted and all becomes clear and bright (<span data-tippy-content="The light of the Self.">atmaprakash</span>).
 
 **Q:**&ensp;What is the real cause of suffering?
 
-**M:**&ensp;Self-identification with the limited (<span data-tippy-content="Personality, limited self-identification with the body.">vyaktitva</span>). Sensations as such, however strong, do not cause suffering. It is the mind bewildered by wrong ideas, addicted to thinking, “I am this”, “I am that”, that fears loss and craves gain and suffers when frustrated.
+**M:**&ensp;Self-identification with the limited (<span data-tippy-content="Personality, limited self-identification with the body.">vyaktitva</span>). Sensations as such, however strong, do not cause suffering. It is the mind, bewildered by wrong ideas, addicted to thinking, “I am this, I am that”, that fears loss and craves gain and suffers when frustrated.
 
 **Q:**&ensp;A friend of mine used to have horrible dreams night after night. Going to sleep would terrorise him. Nothing could help him.
 
@@ -108,15 +108,15 @@
 
 **Q:**&ensp;The self you choose to call false is to me most distressingly real. It is the only self I know. What you call the real self is a mere concept, a way of speaking, a creature of the mind, an attractive ghost. My daily self is not a beauty, I admit, but it is my own and only self. You say I am, or have, another self. Do you see it — is it a reality to you, or do you want me to believe what you yourself don’t see?
 
-**M:**&ensp;Don’t jump to conclusions rashly. The concrete need not be the real, the conceived need not be false. Perceptions based on sensations and shaped by memory imply a perceiver, whose nature you never cared to examine. Give it your full attention, examine it with loving care and you will discover heights and depths of beïng which you did not dream of, engrossed as you are in your puny image of yourself.
+**M:**&ensp;Don’t jump to conclusions rashly. The concrete need not be the real, the conceived need not be false. Perceptions based on sensations and shaped by memory imply a perceiver whose nature you never cared to examine. Give it your full attention, examine it with loving care and you will discover heights and depths of beïng which you did not dream of, engrossed as you are in your puny image of yourself.
 
 **Q:**&ensp;I must be in the right mood to examine myself fruitfully.
 
-**M:**&ensp;You must be serious, intent, truly interested. You must be full of goodwill for yourself.
+**M:**&ensp;You must be serious, intent, truly interested. You must be full of good will for yourself.
 
-**Q:**&ensp;I am selfish alright.
+**Q:**&ensp;I am selfish, all right.
 
-**M:**&ensp;You are not. You are all the time destroying yourself, and your own, by serving strange gods, inimical and false. By all means be selfish — the right way. Wish yourself well, labour at what is good for you. Destroy all that stands between you and happiness. Be all — love all; be happy — make happy. No happiness is greater.
+**M:**&ensp;You are not. You are all the time, destroying yourself, and your own, by serving strange gods, inimical and false. By all means be selfish — the right way. Wish yourself well, labour at what is good for you. Destroy all that stands between you and happiness. Be all — love all, be happy — make happy. No happiness is greater.
 
 **Q:**&ensp;Why is there so much suffering in love?
 
@@ -124,7 +124,7 @@
 
 **Q:**&ensp;What is the place of sex in love?
 
-**M:**&ensp;Love is a state of beïng. Sex is energy. Love is wise; sex is blind. Once the true nature of love and sex is understood there will be no conflict or confusion.
+**M:**&ensp;Love is a state of beïng. Sex is energy. Love is wise, sex is blind. Once the true nature of love and sex is understood there will be no conflict or confusion.
 
 **Q:**&ensp;There is so much sex without love.
 
