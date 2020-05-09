@@ -174,7 +174,7 @@ People are afraid to die, because they do not know what is death. The *jnani* ha
 
 **Q:**&ensp;The great obstacle to inner effort is boredom. The disciple gets bored.
 
-**M:**&ensp;Inertia and restlessness (<span data-tippy-content="Darkness, inertia, passivity. One of the three constituents (<em>guna</em>s) of the cosmic substance: <em>sattava</em>, <em>rajas</em> and <em>tamas</em>.">tamas</span> and <span data-tippy-content="Motivity, activity, energy. One of the three <em>guna</em>s or qualities of matter: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</span>) work together and keep clarity and harmony (<span data-tippy-content="Beïng, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>) down. *Tamas* and *rajas* must be conquered before *sattva* can appear. It will all come in due course, quite spontaneously.
+**M:**&ensp;Inertia and restlessness (<span data-tippy-content="Darkness, inertia, passivity. One of the three constituents (<em>guna</em>s) of the cosmic substance: <em>sattava</em>, <em>rajas</em> and <em>tamas</em>.">tamas</span> and <span data-tippy-content="Motivity, activity, energy. One of the three <em>guna</em>s or qualities of matter: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, egoïsm.">rajas</span>) work together and keep clarity and harmony (<span data-tippy-content="Beïng, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>) down. *Tamas* and *rajas* must be conquered before *sattva* can appear. It will all come in due course, quite spontaneously.
 
 **Q:**&ensp;Is there no need of effort then?
 
