@@ -56,7 +56,7 @@
 
 **Q:**&ensp;How can I get rid of this idea?
 
-**M:**&ensp;If you trust me, believe when I tell you that you are the pure awareness that illuminates consciousness and its infinite content. Realise this and live accordingly. If you do not believe me, then go within, inquiring “What am I?”, or, focus your mind on ‘I am’, which is pure and simple beïng.
+**M:**&ensp;If you trust me, believe when I tell you that you are the pure awareness that illuminates consciousness and its infinite content. Realise this and live accordingly. If you do not believe me, then go within, enquiring “What am I?”, or, focus your mind on ‘I am’, which is pure and simple beïng.
 
 **Q:**&ensp;What does my faith in you depend on?
 

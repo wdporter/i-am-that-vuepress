@@ -199,7 +199,7 @@ on it.
 **M:**&ensp;Not wrong, of course. In its own place and time nothing is wrong. 
 But when you are concerned with truth, with reälity, you must question every 
 thing, your very life. By asserting the necessity of sensory and intellectual 
-experience you narrow down your enquiry to search for comfort.
+experience you narrow down your inquiry to search for comfort.
 
 **Q:**&ensp;I seek happiness, not comfort.
 
