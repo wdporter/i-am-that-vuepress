@@ -88,6 +88,8 @@ pageClass: glossary-class
 
 **<em>maha-mantra:</em>**&ensp;the great incantation (see *mantra*).
 
+**<em>maha-maya:</em>**&ensp;the great illusion, unreälity. *Maya* is the illusive power that veils the reälity. *Maya* is the totality of all mental projections.
+
 **<em>maha-sattva:</em>**&ensp;the supreme harmony, harmonious existence.
 
 **<em>maha-tattva:</em>**&ensp;the great reality, supreme consciousness.
