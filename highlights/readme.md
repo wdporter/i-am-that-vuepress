@@ -221,6 +221,9 @@ Trust and try. Experiment honestly. Give your real beïng a chance to shape
 your life. You will not regret it.
 
 
+## [Killing Hurts the Killer, Not the Killed](/36-killing-hurts-the-killer-not-the-killed/)
+
+&ensp;The difficulty lies in our differing points of view. You speak from the body–mind’s. Mine is of the witness. The difference is basic.
 
 
 ## [62. In the Supreme, the Witness Appears](/62-in-the-supreme-the-witness-appears/)

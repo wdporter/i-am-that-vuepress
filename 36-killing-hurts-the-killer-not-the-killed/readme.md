@@ -1,4 +1,4 @@
-# 36. Killing Hurts the Killer, not the Killed
+# 36. Killing Hurts the Killer, Not the Killed
 
 >The cruelty lies in the motive, not in the fact. Killing hurts the killer, not the killed.
 
@@ -6,17 +6,17 @@
 
 **Maharaj:**&ensp;How do you know that the same person reäppeared in the new body? A new body may mean a new person altogether.
 
-**Q:**&ensp;Imagine a pot of *ghee* (Indian clarified butter). When the pot breaks, the *ghee* remains and can be transferred to another pot. The old pot had its own scent, the new — its own. The *ghee* will carry the scents from pot to pot. In the same way the personal identity is transferred from body to body.
+**Q:**&ensp;Imagine a pot of *ghee* (Indian clarified butter). When the pot breaks, the *ghee* remains and can be transferred to another pot. The old pot had its own scent; the new has its own. The *ghee* will carry the scents from pot to pot. In the same way, the personal identity is transferred from body to body.
 
 **M:**&ensp;It is alright. When there is the body, its peculiarities affect the person. Without the body we have the pure identity in the sense of ‘I am’. But when you are reborn in a new body, where is the world formerly experienced?
 
 **Q:**&ensp;Every body experiences its own world.
 
-**M:**&ensp;In the present body the old body — is it merely an idea, or is it a memory?
+**M:**&ensp;In the present body, the old body — is it merely an idea, or is it a memory?
 
 **Q:**&ensp;An idea, of course. How can a brain remember what it has not experienced?
 
-**M:**&ensp;You have answered your own question. Why play with ideas? Be content with what you are sure of. And the only thing you can be sure of is ‘I am’. Stay with it, and reject everything else. This is <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">Yoga</span>.
+**M:**&ensp;You have answered your own question. Why play with ideas? Be content with what you are sure of. And the only thing you can be sure of is ‘I am’. Stay with it and reject everything else. This is <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span>.
 
 **Q:**&ensp;I can reject only verbally. At best I remember to repeat the formula, “This is not me, this is not mine. I am beyond all this”.
 
@@ -24,11 +24,11 @@
 
 **Q:**&ensp;How can the absolute be the result of a process?
 
-**M:**&ensp;You are right, the relative cannot result in the absolute. But the relative can block the absolute, just as the non-churning of the cream may prevent the butter from separating. It is the real that creates the urge; the inner prompts the outer and the outer responds in interest and effort. But ultimately there is no inner, nor outer; the light of consciousness is both the creator and the creature, the experiencer and the experience, the body and the embodied. Take care of the power that projects all this and your problems will come to an end.
+**M:**&ensp;You are right — the relative cannot result in the absolute. But the relative can block the absolute, just as the non-churning of the cream may prevent the butter from separating. It is the real that creätes the urge; the inner prompts the outer, and the outer responds with interest and effort. But ultimately there is no inner nor outer: the light of consciousness is both the creätor and the creature, the experiencer and the experience, the body and the embodied. Take care of the power that projects all this and your problems will come to an end.
 
 **Q:**&ensp;Which is the projecting power?
 
-**M:**&ensp;It is imagination prompted by desire.
+**M:**&ensp;It is imagination, prompted by desire.
 
 **Q:**&ensp;I know all this, but have no power over it.
 
@@ -36,7 +36,7 @@
 
 **Q:**&ensp;What is wrong with purposeful action?
 
-**M:**&ensp;It does not apply. In these matters there is no question of purpose, nor of action. All you need is to listen, remember and ponder. It is like taking food. All you can do is to bite off, chew and swallow. All else is unconscious and automatic. Listen, remember and understand — the mind is both the actor and the stage. All is of the mind and you are not the mind. The mind is born and reborn, not you. The mind creates the world and all the wonderful variety of it. Just like in a good play you have all sorts of characters and situätions, so you need a little of everything to make a world.
+**M:**&ensp;It does not apply. In these matters there is no question of purpose or of action. All you need is to listen, remember and ponder. It is like taking food. All you can do is to bite off, chew and swallow. All else is unconscious and automatic. Listen, remember and understand — the mind is both the actor and the stage. All is of the mind and you are not the mind. The mind is born and reborn, not you. The mind creätes the world and all the wonderful variety of it. Just like in a good play you have all sorts of characters and situätions, so do you need a little of everything to make a world.
 
 **Q:**&ensp;Nobody suffers in a play.
 
@@ -44,19 +44,19 @@
 
 **Q:**&ensp;Others will.
 
-**M:**&ensp;Then make your world perfect, by all means. If you believe in God, work with Him. It you do not, become one. Either see the world as a play or work at it with all your might. Or both.
+**M:**&ensp;Then make your world perfect, by all means. If you believe in God, work with Him. It you do not, become one. Either see the world as a play or work at it with all your might or both.
 
 **Q:**&ensp;What about the identity of the dying man? What happens to it when he is dead? Do you agree that it continues in another body?
 
-**M:**&ensp;It continues and yet it does not. All depends how you look at it. What is identity, after all? Continuity in memory? Can you talk of identity without memory?
+**M:**&ensp;It continues and yet it does not. All depends on how you look at it. What is identity, after all? Continuïty in memory? Can you talk of identity without memory?
 
 **Q:**&ensp;Yes, I can. The child may not know its parents, yet the hereditary characteristics will be there.
 
-**M:**&ensp;Who identifies them? Somebody with a memory to register and compare. Don’t you see that memory is the warp of your mental life. And identity is merely a pattern of events in time and space. Change the pattern and you have changed the man.
+**M:**&ensp;Who identifies them? Somebody with a memory to register and compare. Don’t you see that memory is the fabric of your mental life? And identity is merely a pattern of events in time and space. Change the pattern and you have changed the man.
 
-**Q:**&ensp;The pattern is significant and important. It has its own value. By saying that a woven design is merely coloured threads you miss the most important — the beauty of it. Or by describing a book as paper with ink stains on it, you miss the meaning. Identity is valuable because it is the basis of individuality; that which makes us unique and irreplaceable. ‘I am’ is the intuition of uniqueness.
+**Q:**&ensp;The pattern is significant and important. It has its own value. By saying that a woven design is merely coloured threads you miss the most important thing — the beauty of it. Or by describing a book as paper with ink stains on it, you miss the meaning. Identity is valuable because it is the basis of individuality; that which makes us unique and irreplaceable. ‘I am’ is the intuition of uniqueness.
 
-**M:**&ensp;Yes and no. Identity, individuality or uniqueness — they are the most valuable aspects of the mind, yet of the mind only. ‘I am all there is’ too is an experience equally valid. The particular and the universal are inseparable. They are the two aspects of the nameless, as seen from without and from within. Unfortunately, words only mention, but don’t convey. Try to go beyond the words.
+**M:**&ensp;Yes and no. Identity, individuality, uniqueness — they are the most valuable aspects of the mind, yet of the mind only. ‘I am all there is’ too, is an experience equally valid. The particular and the universal are inseparable. They are the two aspects of the nameless, as seen from without and from within. Unfortunately, words only mention, but don’t convey. Try to go beyond the words.
 
 **Q:**&ensp;What dies with death?
 
@@ -64,11 +64,11 @@
 
 **Q:**&ensp;The Jains believe in a multiplicity of witnesses, forever separate.
 
-**M:**&ensp;That is their tradition based on the experience of some great people. The one witness reflects itself in the countless bodies as ‘I am’. As long as the bodies, however subtle, last, the ‘I am’ appears as many. Beyond the body there is only the One.
+**M:**&ensp;That is their tradition, based on the experience of some great people. The one witness reflects itself in the countless bodies as ‘I am’. As long as the bodies, however subtle, last, the ‘I am’ appears as many. Beyond the body there is only the One.
 
 **Q:**&ensp;God?
 
-**M:**&ensp;The Creator is a person whose body is the world. The Nameless one is beyond all gods.
+**M:**&ensp;The Creätor is a person whose body is the world. The Nameless one is beyond all gods.
 
 **Q:**&ensp;Sri Ramana Maharshi died. What difference did it make to him?
 
@@ -78,9 +78,9 @@
 
 **M:**&ensp;What he thinks himself to be before death he continues to be after death. His self-image survives.
 
-**Q:**&ensp;The other day there was a talk about the use by the <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> of animal skins for meditation etc. I was not convinced. It is easy to justify everything by referring to custom and tradition. Customs may be cruel and tradition corrupt. They explain, but do not justify.
+**Q:**&ensp;The other day there was talk about the use by the <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> of animal skins for meditation. I was not convinced. It is easy to justify everything by referring to custom and tradition. Customs may be cruel and tradition corrupt. They explain, but do not justify.
 
-**M:**&ensp;I never meant to say that lawlessness follows self-realisation. A liberated man is extremely law-abiding. But his laws are the laws of his real self, not of his society. These he observes, or breaks according to circumstances and necessity. But he will never be fanciful and disorderly.
+**M:**&ensp;I never meant to say that lawlessness follows self-realisation. A liberated man is extremely law-abiding. But his laws are the laws of his real self, not of his society. These he observes or breaks according to circumstances and necessity. But he will never be fanciful and disorderly.
 
 **Q:**&ensp;What I cannot accept is justification by custom and habit.
 
@@ -88,11 +88,11 @@
 
 **Q:**&ensp;Still, cruelty is cruelty.
 
-**M:**&ensp;None compels you to be cruel.
+**M:**&ensp;No one compels you to be cruel.
 
 **Q:**&ensp;Taking advantage of other people’s cruelty is cruelty by proxy.
 
-**M:**&ensp;If you look into living process closely, you will find cruelty everywhere, for life feeds on life. This is a fact, but it does not make you feel guilty of beïng alive. You began a life of cruelty by giving your mother endless trouble. To the last day of your life you will compete for food, clothing, shelter, holding on to your body, fighting for its needs, wanting it to be secure, in a world of insecurity and death. From the animal’s point of view beïng killed is not the worst form of dying; surely preferable to sickness and senile decay. The cruelty lies in the motive, not in the fact. Killing hurts the killer, not the killed.
+**M:**&ensp;If you look into living process closely, you will find cruelty everywhere, for life feeds on life. This is a fact, but it does not make you feel guilty of beïng alive. You began a life of cruelty by giving your mother endless trouble. To the last day of your life you will compete for food, clothing, shelter, holding on to your body, fighting for its needs and wanting it to be secure, in a world of insecurity and death. From the animal’s point of view beïng killed is not the worst form of dying; it is surely preferable to sickness and senile decay. The cruelty lies in the motive, not in the fact. Killing hurts the killer, not the killed.
 
 **Q:**&ensp;Agreed; then one must not accept the services of hunters and butchers.
 
@@ -104,7 +104,7 @@
 
 **Q:**&ensp;A man like you should set an example.
 
-**M:**&ensp;Are you ready to follow my example? I am dead to the world, I want nothing, not even to live. Be as I am, do as I do. You are judging me by my clothes and food; while I only look at your motives; if you believe yourself to be the body and the mind and act on it you are guilty of the greatest cruelty — cruelty to your own real beïng. Compared to it all other cruelties do not count.
+**M:**&ensp;Are you ready to follow my example? I am dead to the world: I want nothing, not even to live. Be as I am, do as I do. You are judging me by my clothes and food, while I only look at your motives. If you believe yourself to be the body and the mind and act on it you are guilty of the greatest cruelty — cruelty to your own real beïng. Compared to it, all other cruelties do not count.
 
 **Q:**&ensp;You are taking refuge in the claim that you are not the body. But you are in control of the body and responsible for all it does. To allow the body full autonomy would be imbecility, madness!
 
@@ -122,17 +122,17 @@
 
 **M:**&ensp;I am the people.
 
-**Q:**&ensp;I do not mean identity of essence or substance, nor similarity of form. I mean the actual entering into the minds and hearts of others and participating in their personal experiences. Can you suffer and rejoice with me, or you only infer what I feel from observation and analogy?
+**Q:**&ensp;I do not mean identity of essence or substance or similarity of form. I mean the actual entering into the minds and hearts of others and participating in their personal experiences. Can you suffer and rejoice with me, or can you only infer what I feel from observation and analogy?
 
 **M:**&ensp;All beïngs are in me. But bringing down into the brain the content of another brain requires special training. There is nothing that cannot be achieved by training.
 
-**Q:**&ensp;I am not your projection, nor are you mine. I am on my own right, not merely as your creation. This crude philosophy of imagination and projection does not appeal to me. You are depriving me of all reality. Who is the image of whom? You are my image or am I yours. Or am I an image in my own image! No, something is wrong somewhere.
+**Q:**&ensp;I am not your projection, nor are you mine. I am in my own right, not merely as your creätion. This crude philosophy of imagination and projection does not appeal to me. You are depriving me of all reälity. Who is the image of whom? Are you my image or am I yours? Or am I an image in my own image?! No, something is wrong somewhere.
 
-**M:**&ensp;Words betray their hollowness. The real cannot be described, it must be experienced. I cannot find better words for what I am now. What I say may sound ridiculous. But what the words try to convey is the highest truth. All is one, however much we quibble. And all is done to please the one source and goal of every desire. whom we all know as the ‘I am’.
+**M:**&ensp;Words betray their hollowness. The real cannot be described — it must be experienced. I cannot find better words for what I know. What I say may sound ridiculous. But what the words try to convey is the highest truth. All is one, however much we quibble. And all is done to please the one source and goal of every desire, who we all know as the ‘I am’.
 
 **Q:**&ensp;It is pain that is at the root of desire. The basic urge is to escape from pain.
 
-**M:**&ensp;What is the root of pain? Ignorance of yourself. What is the root of desire? The urge to find yourself. All creation toils for its self and will not rest until it returns to it.
+**M:**&ensp;What is the root of pain? Ignorance of your self. What is the root of desire? The urge to find your self. All creätion toils for its self and will not rest until it returns to it.
 
 **Q:**&ensp;When will it return?
 
