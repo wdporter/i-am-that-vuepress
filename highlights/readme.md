@@ -211,7 +211,7 @@ flow with it and give yourself completely to the task of the present moment,
 which is the dying now to the now. For living is dying. Without death life 
 cannot be. 
 
-Get hold of the main thing: that the world and the self are one and perfect. 
+&ensp;Get hold of the main thing: that the world and the self are one and perfect. 
 Only your attitude is faulty and needs reädjustment. This process or 
 reädjustment is what you call *sadhana*. You come to it by putting an end to 
 indolence and using all your energy to clear the way for clarity and charity. 
@@ -221,9 +221,14 @@ Trust and try. Experiment honestly. Give your real beïng a chance to shape
 your life. You will not regret it.
 
 
-## [Killing Hurts the Killer, Not the Killed](/36-killing-hurts-the-killer-not-the-killed/)
+## [36. Killing Hurts the Killer, Not the Killed](/36-killing-hurts-the-killer-not-the-killed/)
 
 &ensp;The difficulty lies in our differing points of view. You speak from the body–mind’s. Mine is of the witness. The difference is basic.
+
+
+## [38. Spiritual Practice Is Will Asserted and Reässerted](/38-spiritual-practice-is-will-asserted-and-reasserted/)
+
+&ensp;The common things of life — I experience them just as you do. The difference lies in what I do not experience. I do not experience fear or greed, hate or anger. I ask nothing, refuse nothing, keep nothing. In these matters I do not compromise. Maybe this is the outstanding difference between us: I will not compromise and am true to myself, while you are afraid of reälity.
 
 
 ## [62. In the Supreme, the Witness Appears](/62-in-the-supreme-the-witness-appears/)
