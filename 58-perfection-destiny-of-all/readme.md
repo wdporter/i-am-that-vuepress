@@ -12,8 +12,7 @@ How does the contemplation of ‘I am’ affect me?
 **Maharaj:**&ensp;The very fact of observation alters the observer and the observed. 
 After all, what prevents the insight into one’s true nature is the weakness and obtuseness of the mind and its tendency to skip the subtle and focus on the gross only. 
 When you follow my advice and try to keep your mind on the notion of ‘I am’ only, you become fully aware of your mind and its vagaries. 
-Awareness, beïng lucid harmony (<span data-tippy-content="Beïng, existence, true essence. 
-In <em>yoga</em> the quality of purity or goodness.">sattva</span>) in action, dissolves dullness and quiets the restlessness of the mind and gently, but steadily, changes its very substance. 
+Awareness, beïng lucid harmony (<span data-tippy-content="Beïng, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>) in action, dissolves dullness and quiets the restlessness of the mind and gently, but steadily, changes its very substance. 
 This change need not be spectacular; it may be hardly noticeäble — yet it is a deep and fundamental shift from darkness to light, from inadvertence to awareness.
 
 **Q:**&ensp;Must it be the ‘I am’ formula? 
@@ -66,7 +65,7 @@ A *guru* can show the way back home, to your real self.
 What has this to do with the character or temperament of the person he appears to be? 
 Does he not clearly tell you that he is not the person? 
 The only way you can judge is by the change in yourself when you are in his company. 
-If you feel more at peace and happy, if you understand yourself with more than usual clarity and depth, it means you have met the right man. 
+If you feel more at peace and happy, if you understand yourself with more than usual clarity and depth, it means you have met the right person. 
 Take your time, but once you have made up your mind to trust him, trust him absolutely and follow every instruction fully and faithfully. 
 It does not matter much if you do not accept him as your *guru* and are satisfied with his company only. 
 <span data-tippy-content="Association with the true and the wise people.">Satsang</span> alone can also take you to your goal, provided it is unmixed and undisturbed. 
@@ -110,7 +109,7 @@ On the other hand, you take so much trouble in helping the person to realise him
 If the person is so unimportant, why be so concerned with his welfare? 
 Who cares for a shadow?
 
-**M:**&ensp;You have brought in duality where there is none. 
+**M:**&ensp;You have brought in duälity where there is none. 
 There is the body and there is the Self. 
 Between them is the mind, in which the Self is reflected as ‘I am’. 
 Because of the imperfections of the mind, its crude and restless nature, lack of discernment and insight, it takes itself to be the body, not the Self. 
@@ -123,7 +122,7 @@ As you realise yourself in manifestation, you keep on discovering that you are e
 **Q:**&ensp;Is there no end to self-discovery?
 
 **M:**&ensp;As there is no beginning, there is no end. 
-But what I have discovered by the grace of my *guru* is: I am nothing that can be pointed at; I am neither a ‘this’ nor a ‘that’. 
+But what I have discovered by the grace of my *guru* is that I am nothing that can be pointed at; I am neither a ‘this’ nor a ‘that’. 
 This holds absolutely.
 
 **Q:**&ensp;Then where does the never-ending discovery come in, the endless transcending oneself into new dimensions?
