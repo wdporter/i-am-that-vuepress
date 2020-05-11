@@ -332,3 +332,11 @@ You are so accustomed to think of yourselves as bodies having consciousness that
 
 **M:**&ensp;You make it possible by giving it attention.
 
+
+## [73. The Death of the Mind Is Birth of Wisdom](/73-the-death-of-the-mind-is-birth-of-wisdom/)
+
+&emsp;It is both — the last remnant of illusion, the first touch of the 
+real. To say, “I am only the witness” is both false and true: false because of 
+the ‘I am’, true because of the witness. It is better to say, “There is 
+witnessing”. The moment you say, “I am”, the entire universe comes into beïng 
+along with its creätor.

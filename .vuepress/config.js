@@ -122,7 +122,8 @@ module.exports = {
 				title: "71–80",
 				children: [
 					"/71-in-self-awareness-you-learn-about-yourself/",
-					"/72-what-is-pure-unalloyed-unattached-is-real/"
+					"/72-what-is-pure-unalloyed-unattached-is-real/",
+					"/73-the-death-of-the-mind-is-birth-of-wisdom/"
 				]
 			},
 			{

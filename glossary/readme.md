@@ -60,6 +60,8 @@ pageClass: glossary-class
 
 **<em>deha:</em>**&ensp;physical body.
 
+**<em>digambara:</em>**&ensp;naked, ‘sky-clad’.
+
 **<em>gunas:</em>**&ensp;attributes, qualities. In *Samkhya* philosophy the three attributes of the cosmic substance (*prakriti*) are: Illuminating (*sattva*), activating (*rajas*) and restraining (*tamas*).
 
 **<em>guru:</em>**&ensp;spiritual teacher, preceptor.
@@ -89,6 +91,8 @@ pageClass: glossary-class
 **<em>maha-mantra:</em>**&ensp;the great incantation (see *mantra*).
 
 **<em>maha-maya:</em>**&ensp;the great illusion, unreälity. *Maya* is the illusive power that veils the reälity. *Maya* is the totality of all mental projections.
+
+**<em>maha-mrityu:</em>**&ensp;the final dissolution, the great death of all creätion.
 
 **<em>maha-sattva:</em>**&ensp;the supreme harmony, harmonious existence.
 
