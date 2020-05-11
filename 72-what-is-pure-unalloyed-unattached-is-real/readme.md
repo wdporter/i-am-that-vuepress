@@ -1,4 +1,4 @@
-72. What is Pure, Unalloyed, Unattached Is Real
+# 72. What is Pure, Unalloyed, Unattached Is Real
 
 >What is pure, unalloyed, unattached is real. What is tainted, mixed up, 
 dependent and transient is unreal. … The ‘I am’ that pursues the pleasant and 

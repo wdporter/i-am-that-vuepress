@@ -1,4 +1,4 @@
-# 73. The Death of the Mind Is Birth of Wisdom
+# 73. The Death of the Mind Is the Birth of Wisdom
 
 >You may die a hundred deaths without a break in the mental turmoil. Or you 
 may keep your body and die only in the mind. The death of the mind is the 
@@ -58,7 +58,7 @@ not knowing and knowing oneself. The world seen in consciousness is to be of
 the nature of consciousness when there is harmony (<span 
 data-tippy-content="Beïng, existence, true essence. In <em>yoga</em> the 
 quality of purity or goodness.">sattva</span>); but when activity and 
-passivity (rajas<span data-tippy-content="Motivity, activity, energy. One of 
+passivity (<span data-tippy-content="Motivity, activity, energy. One of 
 the three <em>gunas</em> or qualities of matter: <em>sattva</em>, 
 <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, egoïsm.">rajas</span> and 
 <span data-tippy-content="Darkness, inertia, passivity. One of the three 
@@ -316,3 +316,12 @@ to let go of everything. The giving up is the first step. But the real giving
 up is in realising that there is nothing to give up, for nothing is your own. 
 It is like deep sleep — you do not give up your bed when you fall sleep — you 
 just forget it.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>
