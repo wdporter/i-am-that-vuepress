@@ -231,6 +231,21 @@ your life. You will not regret it.
 &emsp;The common things of life — I experience them just as you do. The difference lies in what I do not experience. I do not experience fear or greed, hate or anger. I ask nothing, refuse nothing, keep nothing. In these matters I do not compromise. Maybe this is the outstanding difference between us: I will not compromise and am true to myself, while you are afraid of reälity.
 
 
+## [42. Reälity Cannot be Expressed](/42-reality-cannot-be-expressed/)
+
+&emsp;You can do nothing to bring it about, but you can avoid creäting obstacles. 
+Watch your mind, how it comes into beïng, how it operates. 
+As you watch your mind, you discover your self as the watcher. 
+When you stand motionless, only watching, you discover your self as the light behind the watcher. 
+The source of light is dark, unknown is the source of knowledge. 
+That source alone is. 
+Go back to that source and abide there. 
+It is not in the sky nor in the all-pervading ether. 
+God is all that is great and wonderful; I am nothing, have nothing, can do nothing. 
+Yet all comes out of me — the source is me; the root, the origin, is me. 
+
+
+
 ## [62. In the Supreme, the Witness Appears](/62-in-the-supreme-the-witness-appears/)
 
 **Q:**&ensp;How is it that here, my mind is engaged in high topics and finds dwelling on them easy and pleasant, but when I return home I find myself forgetting all l have learnt here, worrying and fretting, unable to remember my real nature even for a moment. What may be the cause?
