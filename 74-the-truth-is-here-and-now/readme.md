@@ -317,3 +317,12 @@ The unknown has no limits.
 Truth is in the discovery, not in the discovered. 
 And to discovery there is no beginning and no end. 
 Question the limits, go beyond, set yourself apparently impossible tasks — this is the way.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>
