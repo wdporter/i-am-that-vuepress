@@ -14,6 +14,8 @@ pageClass: glossary-class
 
 **<em>ananda:</em>**&ensp;bliss, happiness.
 
+**<em>anirvachaniya:</em>**&ensp;inexpressible.
+
 **<em>antahkarana:</em>**&ensp;the psyche, mind. Mind in a collective sense, including intelligence (*buddhi*), ego (*ahamkara*) and mind (*manas*).
 
 **Atma, Atman:**&ensp;the Supreme Self, the individual soul. *Atman* is beyond all the three *gunas* of *prakriti*. It is not the *atman* that acts but only the *prakriti*.
