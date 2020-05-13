@@ -28,7 +28,8 @@ Life goes on.
 **M:**&ensp;It is the change in the living process of a particular body. 
 Integration ends and disintegration sets in.
 
-**Q:**&ensp;But what about the knower? With the disappearance of the body, does the knower disappear?
+**Q:**&ensp;But what about the knower? 
+With the disappearance of the body, does the knower disappear?
 
 **M:**&ensp;Just as the knower of the body appears at birth, so he disappears at death.
 
@@ -63,19 +64,22 @@ Find what is it that never sleeps and never wakes, and whose pale reflection is 
 
 **Q:**&ensp;How am I to go about this finding out?
 
-**M:**&ensp;How do you go about finding anything? By keeping your mind and heart on it. 
+**M:**&ensp;How do you go about finding anything? 
+By keeping your mind and heart on it. 
 There must be interest and steady remembrance. 
 To remember what needs to be remembered is the secret of success. 
 You come to it through earnestness.
 
-**Q:**&ensp;Do you mean to say that mere wanting to find out is enough? Surely, both qualifications and opportunities are needed.
+**Q:**&ensp;Do you mean to say that mere wanting to find out is enough? 
+Surely, both qualifications and opportunities are needed.
 
 **M:**&ensp;These will come with earnestness. 
 What is supremely important is to be free from contradictions: the goal and the way must not be on different levels; life and light must not quarrel; behaviour must not betray belief. 
 Call it honesty, integrity, wholeness; you must not go back, undo, uproot and abandon the conquered ground. 
 Tenacity of purpose and honesty in pursuit will bring you to your goal.
 
-**Q:**&ensp;Tenacity and honesty are endowments, surely! I do not have a trace of them.
+**Q:**&ensp;Tenacity and honesty are endowments, surely! 
+I do not have a trace of them.
 
 **M:**&ensp;All will come as you go on. 
 Take the first step first. 
