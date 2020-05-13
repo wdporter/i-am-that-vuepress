@@ -6,7 +6,8 @@ Once you realise that the world is your own projection, you are free of it.
 
 **Maharaj:**&ensp;The perceiver of the world, is he prior to the world, or does he come into beïng along with the world?
 
-**Questioner:**&ensp;What a strange question! Why do you ask such questions?
+**Questioner:**&ensp;What a strange question! 
+Why do you ask such questions?
 
 **M:**&ensp;Unless you know the correct answer, you will not find peace.
 
@@ -34,7 +35,8 @@ The word exists in memory, memory comes into consciousness; consciousness exists
 **M:**&ensp;Even to say, “I am the world, the world is me”, is a sign of ignorance. 
 But when I keep in mind and confirm in life my identity with the world, a power arises in me which destroys the ignorance, burns it up completely.
 
-**Q:**&ensp;Is the witness of ignorance separate from ignorance? Is not to say, “I am ignorant”, a part of ignorance?
+**Q:**&ensp;Is the witness of ignorance separate from ignorance? 
+Is not to say, “I am ignorant”, a part of ignorance?
 
 **M:**&ensp;Of course. 
 All I can say truly is, “I am”; all else is inference. 
@@ -51,7 +53,8 @@ Nevertheless, this absolute world exists, quite independent of myself.
 
 **M:**&ensp;Quite so, the world of Absolute Reality, onto which your mind has projected a world of relative unreality is independent of yourself, for the very simple reason that it *is* yourself. 
 
-**Q:**&ensp;Is there no contradiction in terms? How can independence prove identity?
+**Q:**&ensp;Is there no contradiction in terms? 
+How can independence prove identity?
 
 **M:**&ensp;Examine the motion of change and you will see. 
 What can change while you do not change, can be said to be independent of you. 
@@ -69,12 +72,14 @@ Break the spell and be free.
 
 **M:**&ensp;Assert your independence in thought and action. 
 After all, all hangs on your faith in yourself, on the conviction that what you see and hear, think and feel is real. 
-Why not question your faith? No doubt, this world is painted by you on the screen of consciousness and is entirely your own private world. 
+Why not question your faith? 
+No doubt, this world is painted by you on the screen of consciousness and is entirely your own private world. 
 Only your sense ‘I am’, though in the world, is not of the world. 
 By no effort of logic or imagination can you change the ‘I am’ into ‘I am not’. 
 In the very denial of your beïng you assert it. 
 Once you realise that the world is your own projection, you are free of it. 
-You need not free yourself of a world that does not exist, except in your own imagination! However is the picture, beautiful or ugly, you are painting it and you are not bound by it. 
+You need not free yourself of a world that does not exist, except in your own imagination! 
+However is the picture, beautiful or ugly, you are painting it and you are not bound by it. 
 Realise that there is nobody to force it on you, that it is due to the habit of taking the imaginary to be real. 
 See the Imaginary as imaginary and be free of fear. 
 
@@ -105,7 +110,9 @@ Their approach is negative; they pinpoint the unreal and thus go beyond it into 
 
 **M:**&ensp;The difference lies in the words only. 
 After all, when I talk of the real, I describe it as not-unreal, space-less, time-less, cause-less, beginning-less and end-less. It comes to the same. 
-As long as it leads to enlightenment, what does the wording matter? Does it matter whether you pull the cart or push it, as long as it is kept rolling? You may feel attracted to reality at one time and repelled from the false at another; these are only moods which alternate; both are needed for perfect freedom. 
+As long as it leads to enlightenment, what does the wording matter? 
+Does it matter whether you pull the cart or push it, as long as it is kept rolling? 
+You may feel attracted to reality at one time and repelled from the false at another; these are only moods which alternate; both are needed for perfect freedom. 
 You may go one way or another — but each time it will be the right way at the moment; just go whole-heartedly, don’t waste time on doubting or hesitating. 
 Many kinds of food are needed to make the child grow, but the act of eating is the same. 
 Theoretically — all approaches are good. 
