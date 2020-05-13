@@ -62,6 +62,8 @@ pageClass: glossary-class
 
 **<em>deha:</em>**&ensp;physical body.
 
+**<em>deha–buddhi:</em>**&ensp;the intellect that makes one identify the self with the physical body.
+
 **<em>digambara:</em>**&ensp;naked, ‘sky-clad’.
 
 **<em>gunas:</em>**&ensp;attributes, qualities. In *Samkhya* philosophy the three attributes of the cosmic substance (*prakriti*) are: Illuminating (*sattva*), activating (*rajas*) and restraining (*tamas*).

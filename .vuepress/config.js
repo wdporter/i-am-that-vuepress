@@ -124,7 +124,8 @@ module.exports = {
 					"/71-in-self-awareness-you-learn-about-yourself/",
 					"/72-what-is-pure-unalloyed-unattached-is-real/",
 					"/73-the-death-of-the-mind-is-the-birth-of-wisdom/",
-					"/74-the-truth-is-here-and-now/"
+					"/74-the-truth-is-here-and-now/",
+					"/75-in-peace-and-silence-you-grow/"
 				]
 			},
 			{
