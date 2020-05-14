@@ -245,6 +245,24 @@ God is all that is great and wonderful; I am nothing, have nothing, can do nothi
 Yet all comes out of me — the source is me; the root, the origin, is me. 
 
 
+## [44. ‘I Am’ Is True, All Else Is Inference](/44-i-am-is-true-all-else-is-inference/)
+
+**Q:**&ensp;Still the main point seems to escape me. 
+I can admit that the world in which I live and move and have my beïng is of my own creätion, a projection of myself, of my imagination, on the unknown world, the world as it is, the world of ‘absolute matter’, whatever this matter may be. 
+The world of my own creätion may be quite unlike the ultimate, the real world, just like the cinema screen is quite unlike the pictures projected onto it. 
+Nevertheless, this absolute world exists, quite independent of myself.
+
+**M:**&ensp;Quite so — the world of Absolute Reälity, onto which your mind has projected a world of relative unreälity, is independent of yourself, for the very simple reason that it *is* yourself. 
+
+**Q:**&ensp;Is there no contradiction in terms? 
+How can independence prove identity?
+
+**M:**&ensp;Examine the motion of change and you will see. 
+What can change while you do not change can be said to be independent of you. 
+But what is changeless must be one with whatever else is changeless. 
+For duälity implies interaction and interaction means change. 
+In other words, the absolutely material and the absolutely spiritual, the totally objective and the totally subjective are identical both in substance and essence.
+
 
 ## [62. In the Supreme, the Witness Appears](/62-in-the-supreme-the-witness-appears/)
 
