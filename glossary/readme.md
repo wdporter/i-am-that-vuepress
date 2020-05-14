@@ -174,6 +174,8 @@ pageClass: glossary-class
 
 **<em>samskara:</em>**&ensp;“imprints left on the subconscious by experiences in past lives or the present life and which determine and condition one’s desires and actions”. Mental impression, memory. Also called *vasana*, residual impression.
 
+**<em>samvid:</em>**&ensp;true Awareness.
+
 **<em>sat:</em>**&ensp;“the ideal; pure and true essence (nature)” of an entity or existence. It can thus be concluded as “the self-existent or universal spirit, Brahman”. Opposite is ‘*asat*’.
 
 **<em>satsang:</em>**&ensp;association with the true and the wise people.
