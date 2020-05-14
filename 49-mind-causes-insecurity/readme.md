@@ -131,8 +131,8 @@ There is no place for chaos in nature.
 Only in the mind of man there is chaos. 
 The mind does not grasp the whole — its focus is very narrow. 
 It sees fragments only and fails to perceive the picture. 
- Just as a man who hears sounds, but does not understand the language, may accuse the speaker of meaningless jabbering, and be altogether wrong. 
- What to one is a chaotic stream of sounds is a beautiful poem to another. 
+Just as a man who hears sounds, but does not understand the language, may accuse the speaker of meaningless jabbering, and be altogether wrong. 
+What to one is a chaotic stream of sounds is a beautiful poem to another. 
 
 King Janaka once dreamt that he was a beggar. 
 On waking up he asked his <span data-tippy-content="Spiritual teacher, preceptor.">Guru</span>, Vasishta, “Am I a king dreaming of beïng a beggar, or a beggar dreaming of beïng a king?”. 
@@ -159,7 +159,15 @@ Beyond that all activity ceases, because in it all goals are reached and all pur
 
 **Q:**&ensp;Once the Supreme State is reached, can it be shared with others?
 
-**M:**&ensp;The Supreme State is universal, here and now; everybody already shares in it. It is the state of beïng — knowing and liking. Who does not like to be, or does not know his own existence? But we take no advantage of this joy of beïng conscious, we do not go into it and purify it of all that is foreign to it. This work of mental self-purification, the cleansing of the psyche, is essential. Just as a speck in the eye, by causing inflammation, may wipe out the world, so the mistaken idea ‘I am the body–mind’ causes the self-concern, which obscures the universe. It is useless to fight the sense of beïng a limited and separate person unless the roots of it are laid bare. Selfishness is rooted in the mistaken ideas of oneself. Clarification of the mind is <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">Yoga</span>.
+**M:**&ensp;The Supreme State is universal, here and now; everybody already shares in it. 
+It is the state of beïng — knowing and liking. 
+Who does not like to be, or does not know his own existence? 
+But we take no advantage of this joy of beïng conscious, we do not go into it and purify it of all that is foreign to it. 
+This work of mental self-purification, the cleansing of the psyche, is essential. 
+Just as a speck in the eye, by causing inflammation, may wipe out the world, so the mistaken idea ‘I am the body–mind’ causes the self-concern, which obscures the universe. 
+It is useless to fight the sense of beïng a limited and separate person unless the roots of it are laid bare. 
+Selfishness is rooted in the mistaken ideas of oneself. 
+Clarification of the mind is <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">Yoga</span>.
 
 <script>
 export default {
