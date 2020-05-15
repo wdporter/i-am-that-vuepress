@@ -126,7 +126,8 @@ module.exports = {
 					"/73-the-death-of-the-mind-is-the-birth-of-wisdom/",
 					"/74-the-truth-is-here-and-now/",
 					"/75-in-peace-and-silence-you-grow/",
-					"76-to-know-that-you-do-not-know-is-true-knowledge/"
+					"/76-to-know-that-you-do-not-know-is-true-knowledge/",
+					"/77-i-and-mine-are-false-ideas/"
 				]
 			},
 			{
