@@ -182,9 +182,9 @@ What is in the world cannot save the world; if you really care to help the world
 **M:**&ensp;Who was born first, you or the world? 
 As long as you give first place to the world, you are bound by it; once you realise beyond all trace of doubt that the world is in you and not you in the world, you are out of it. 
 Of course your body remains in the world and of the world, but you are not deluded by it. 
-All scriptures say that before the world was, the Creäter was. 
-Who knows the Creäter? 
-He alone who was before the Creäter, your own real beïng, the source of all the worlds with their creäters.
+All scriptures say that before the world was, the Creätor was. 
+Who knows the Creätor? 
+He alone who was before the Creätor, your own real beïng, the source of all the worlds with their creätors.
 
 **Q:**&ensp;All you say is held together by your assumption that the world is your own projection. 
 You admit that you mean your personal, subjective world, the world given you through your senses and your mind. 
@@ -202,7 +202,7 @@ When you deny reälity to anything, you come to a residue which cannot be denied
 All talk of <span data-tippy-content="Knowledge, especially the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnana</span> is a sign of ignorance. 
 It is the mind that imagines that it does not know and then comes to know. 
 Reälity knows nothing of these contortions. 
-Even the idea of God as the Creäter is false. 
+Even the idea of God as the Creätor is false. 
 Do I owe my beïng to any other beïng? 
 Because I *am*, all *is*.
 
