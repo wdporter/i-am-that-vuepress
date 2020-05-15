@@ -264,6 +264,64 @@ For duälity implies interaction and interaction means change.
 In other words, the absolutely material and the absolutely spiritual, the totally objective and the totally subjective are identical both in substance and essence.
 
 
+## [51. Be Indifferent to Pain and Pleasure](/51-be-indifferent-to-pain-and-pleasure/)
+
+&emsp;I am now seventy-four years old. And yet I feel that I am an infant. I 
+feel clearly that, in spite of all the changes, I am a child. My *guru* told 
+me, “That child, which is you even now, is your real self” (<span 
+data-tippy-content="One’s own form, nature, character.">svarupa</span>)”. Go 
+back to that state of pure beïng where the ‘I am’ is still in its purity, 
+before it became contaminated with ‘this I am’ or ‘that I am’. Your burden is 
+of false self-identifications — abandon them all. My *guru* told me, “Trust 
+me. I tell you: You are divine. Take it as the absolute truth. Your joy is 
+divine, your suffering is divine, too. All comes from God. Remember it always. 
+You are God; your will alone is done”. I did believe him and soon realised how 
+wonderfully true and accurate his words were. I did not condition my mind by 
+thinking, “I am God”, “I am wonderful”, “I am beyond”. I simply followed his 
+instruction, which was to focus the mind on pure beïng, ‘I am’, and stay in 
+it. I used to sit for hours together with nothing but the ‘I am’ in my mind, 
+and soon peace and joy and a deep all-embracing love became my normal state. 
+In it all disappeared: myself, my *guru*, the life I lived, the world around 
+me. Only peace and unfathomable silence remained.
+
+…
+
+Do not struggle with your memories and thoughts; try only to include in your 
+field of attention the other, more important questions like: “Who am I?”, “How 
+did I happen to be born?”, “Whence this universe around me?”, “What is real 
+and what is momentary?”. No memory will persist if you lose interest in it; it 
+is the emotional link that perpetuätes the bondage. You are always seeking 
+pleasure, avoiding pain; always after happiness and peace. Don’t you see that 
+it is your very search for happiness that makes you feel miserable? Try the 
+other way: Be indifferent to pain and pleasure, neither asking nor refusing, 
+give all your attention to the level on which ‘I am’ is timelessly present. 
+Soon you will realise that peace and happiness are in your very nature and it 
+is only seeking them through some particular channels that disturbs. Avoid the 
+disturbance, that is all. To seek there is no need — you would not seek what 
+you already have. You yourself are God, the Supreme Reälity. To begin with, 
+trust me, trust the Teacher. It enables you to make the first step — and then 
+your trust is justified by your own experience. In every walk of life, initial 
+trust is essential; without it little can be done. Every undertaking is an act 
+of faith. Even your daily bread you eat on trust! By remembering what I told 
+you, you will achieve everything. I am telling you again: You are the 
+all-pervading, all transcending reälity. Behave accordingly: Think, feel and 
+act in harmony with the whole and the actual experience of what I say will 
+dawn upon you in no time. No effort is needed. Have faith and act on it. 
+Please see that I want nothing from you. It is in your own interest that I 
+speak because, above all, you love yourself and you want yourself to be 
+secure and happy. Don’t be ashamed of it; don’t deny it. It is natural and 
+good to love oneself. Only you should know what exactly it is that you love. 
+It is not the body that you love, it is Life: perceiving, feeling, thinking, 
+doïng, loveïng, striveïng, creäteïng. It is that Life you love, which is you, 
+which is all. Realise it in its totality, beyond all divisions and 
+limitations, and all your desires will merge in it, for the greater contains 
+the smaller. Therefore find yourself, for in finding that you find all. 
+
+Everybody is glad to be. But few know the fullness of it. You come to know by 
+dwelling in your mind on ‘I am’, ‘I know’, ‘I love’ — with the will of 
+reaching the deepest meaning of these words.
+
+
 ## [62. In the Supreme, the Witness Appears](/62-in-the-supreme-the-witness-appears/)
 
 **Q:**&ensp;How is it that here, my mind is engaged in high topics and finds dwelling on them easy and pleasant, but when I return home I find myself forgetting all l have learnt here, worrying and fretting, unable to remember my real nature even for a moment. What may be the cause?
