@@ -250,7 +250,7 @@ environment?
 **M:**&ensp;When you know your true beïng, you have no problems. You may 
 please your parents or not, marry or not, make a lot of money or not; it is 
 all the same to you. Just act according to circumstances, yet in close touch 
-with the facts, with the reality in every situation.
+with the facts, with the reälity in every situätion.
 
 **Q:**&ensp;Is it not a very high state?
 
