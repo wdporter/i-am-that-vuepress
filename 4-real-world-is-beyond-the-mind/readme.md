@@ -52,7 +52,7 @@ You want peace, love and happiness and work hard to creäte pain, hatred and war
 You want longevity and over-eat; you want friendship and exploit. 
 See your net as made of such contradictions and remove them — your very seeïng them will make them go.
 
-**Q:**&ensp;Since my seeïng the contradiction makes it go, is there no causal link between my seeing and its goïng?
+**Q:**&ensp;Since my seeïng the contradiction makes it go, is there no causal link between my seeïng and its goïng?
 
 **M:**&ensp;Causality, even as a concept, does not apply to chäos.
 

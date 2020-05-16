@@ -130,7 +130,7 @@ Inquiry also wakes you up. You need not wait for suffering — enquiry into happ
 
 **Q:**&ensp;But is there anything beyond the Self?
 
-**M:**&ensp;Outside the Self there is nothing. All is one and all is contained in ‘I am’. In the waking and dream states it is the person. In deep sleep and <span data-tippy-content="The superconscious state of <em>samadhi</em>, (<em>turiya</em>, fourth), the fourth state of soul in which it becomes one with <em>Brahman</em>, the highest awareness.">turiya</span> it is the Self. Beyond the alert intentness of *turiya* lies the great, silent peace of the Supreme. But in fact, all is one in essence and related in appearance. In ignorance the seer becomes the seen and in wisdom he is the seeing.
+**M:**&ensp;Outside the Self there is nothing. All is one and all is contained in ‘I am’. In the waking and dream states it is the person. In deep sleep and <span data-tippy-content="The superconscious state of <em>samadhi</em>, (<em>turiya</em>, fourth), the fourth state of soul in which it becomes one with <em>Brahman</em>, the highest awareness.">turiya</span> it is the Self. Beyond the alert intentness of *turiya* lies the great, silent peace of the Supreme. But in fact, all is one in essence and related in appearance. In ignorance the seer becomes the seen and in wisdom he is the seeïng.
 
 But why be concerned with the Supreme? Know the knowers and all will be known. 
 

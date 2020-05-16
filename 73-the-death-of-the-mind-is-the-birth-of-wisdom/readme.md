@@ -137,9 +137,9 @@ not. Reality is essentially alone, but the mind will not leave it alone — and
 deals instead with the unreal. And yet it is all the mind can do — discover 
 the unreal as unreal.
 
-**Q:**&ensp;And seeing the real as real?
+**Q:**&ensp;And seeïng the real as real?
 
-**M:**&ensp;There is no such state as seeing the real. Who is to see what? You 
+**M:**&ensp;There is no such state as seeïng the real. Who is to see what? You 
 can only be the real — which you are anyhow. The problem is only mental. 
 Abandon false ideas, that is all. There is no need of true ideas. There aren’t 
 any.

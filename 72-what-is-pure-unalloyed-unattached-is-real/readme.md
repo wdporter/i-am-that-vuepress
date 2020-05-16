@@ -118,7 +118,7 @@ All this weighing, selecting, choosing, exchanging — it is all shopping in
 some ‘spiritual’ market. What is your business there? What deal are you out to 
 strike? When you are not out for business, what is the use of this endless 
 anxiety of choice? Restlessness takes you nowhere. Something prevents you from 
-seeing that there is nothing you need. Find it out and see its falseness. It 
+seeïng that there is nothing you need. Find it out and see its falseness. It 
 is like having swallowed some poison and suffering from unquenchable craving 
 for water. Instead of drinking beyond all measure, why not eliminate the 
 poison and be free of this burning thirst?

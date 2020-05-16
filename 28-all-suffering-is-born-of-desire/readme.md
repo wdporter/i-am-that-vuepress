@@ -14,7 +14,7 @@
 
 **M:**&ensp;When you feel yourself everywhere in the world, do you remain separate from the world? Or, are you the world?
 
-**Q:**&ensp;Both. Sometimes I feel myself to be neither mind nor body, but one single all-seeing eye. When I go deeper into it, I find myself to be all I see and the world and myself become one.
+**Q:**&ensp;Both. Sometimes I feel myself to be neither mind nor body, but one single all-seeïng eye. When I go deeper into it, I find myself to be all I see and the world and myself become one.
 
 **M:**&ensp;Very well. What about desires? Do you have any?
 

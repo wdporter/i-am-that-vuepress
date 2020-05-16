@@ -188,7 +188,7 @@ of pure awareness.
 **M:**&ensp;Obviöusly, by removing stains. See the stains and remove them. The 
 ancient teaching is fully valid.
 
-**Q:**&ensp;What is seeing and what is removing?
+**Q:**&ensp;What is seeïng and what is removeïng?
 
 **M:**&ensp;The nature of the perfect mirror is such that you cannot see it. 
 Whatever you can see is bound to be a stain. Turn away from it, give it up, 

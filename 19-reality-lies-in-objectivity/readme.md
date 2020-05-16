@@ -38,9 +38,9 @@
 
 **M:**&ensp;Remember that language is an instrument of the mind; it is made by the mind, for the mind. Once you admit a cause, then God is the ultimate cause and the world the effect. They are different, but not separate.
 
-**Q:**&ensp;People talk of seeing God.
+**Q:**&ensp;People talk of seeïng God.
 
-**M:**&ensp;When you see the world you see God. There is no seeing God apart from the world. Beyond the world, to see God is to be God. The light by which you see the world, which is God, is the tiny little spark ‘I am’ — apparently so small, yet the first and the last in every act of knowing and loving.
+**M:**&ensp;When you see the world you see God. There is no seeïng God apart from the world. Beyond the world, to see God is to be God. The light by which you see the world, which is God, is the tiny little spark ‘I am’ — apparently so small, yet the first and the last in every act of knowing and loving.
 
 **Q:**&ensp;Must I see the world to see God?
 

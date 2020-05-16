@@ -234,7 +234,7 @@ which you pass beyond.
 
 **Q:**&ensp;What is the purpose of meditation?
 
-**M:**&ensp;Seeing the false as the false is meditation. This must go on all 
+**M:**&ensp;Seeïng the false as the false is meditation. This must go on all 
 the time.
 
 **Q:**&ensp;We are told to meditate regularly.
