@@ -216,6 +216,8 @@ pageClass: glossary-class
 
 **<em>vairagya:</em>**&ensp;dispassion, indifference to the pains and pleasures of the material world.
 
+**Vishnu:**&ensp;one of the Gods of the Hindu trinity — Brahma, the creätor; Vishnu, the preserver and Shiva, the destroyer.
+
 **<em>viveka:</em>**&ensp;discrimination; discrimination between the true and the false, the real and the unreal. *Viveka* is an expression of the spiritual consciousness hidden behind the mind. It leads to *vairagya*.
 
 **<em>vyakta:</em>**&ensp;manifest matter, the evolved nature. Opposite is *avyakta*.

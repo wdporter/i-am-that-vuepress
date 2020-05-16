@@ -1,10 +1,10 @@
-# 78. All Knowledge Is Ignoreänce
+# 78. All Knowledge Is Ignorance
 
->Earlier I was sure of so many things, now I am sure of nothing. But I feel that I have lost nothing by not knowing, because all my knowledge was false. My not knowing was in itself knowledge of the fact that all knowledge is ignoreänce
+>Earlier, I was sure of so many things: now I am sure of nothing. But I feel that I have lost nothing by no knowing, because all my knowledge was false. My not knowing was in itself knowledge of the fact that all knowledge is ignoreance …
 
 **Questioner:**&ensp;Are we permitted to request you to tell us the manner of your realisation?
 
-**Maharaj:**&ensp;Somehow it was very simple and easy in my case. My <span data-tippy-content="Spiritual teacher, preceptor.">guru</span>, before he died, told me, “Believe me, you are the Supreme Reality. Don’t doubt my words, don’t disbelieve me. I am telling you the truth — act on it”. I could not forget his words and by not forgetting — I have realised.
+**Maharaj:**&ensp;Somehow it was very simple and easy in my case. My <span data-tippy-content="Spiritual teacher, preceptor.">guru</span>, before he died, told me, “Believe me — you are the Supreme Reality. Don’t doubt my words, don’t disbelieve me. I am telling you the truth — act on it”. I could not forget his words and by not forgetting, I have realised.
 
 **Q:**&ensp;But what were you actually doing?
 
@@ -12,9 +12,9 @@
 
 **Q:**&ensp;It must have been the grace and power of your *guru*.
 
-**M:**&ensp;His words were true and so they came true. True words always come true. My *guru* did nothing; his words acted because they were true. Whatever I did, came from within, unasked and unexpected.
+**M:**&ensp;His words were true and so they came true. True words always come true. My *guru* did nothing; his words acted because they were true. Whatever I did came from within, unasked and unexpected.
 
-**Q:**&ensp;The *guru* started a process without takeïng any part in it?
+**Q:**&ensp;The *guru* started a process without taking any part in it?
 
 **M:**&ensp;Put it as you like. Things happen as they happen — who can tell why and how? I did nothing deliberately. All came by itself — the desire to let go, to be alone, to go within.
 
