@@ -17,7 +17,7 @@ I do, but much later, at the earliest at my birth.
 The body mediates between me and the world. 
 Without the body there would be neither me nor the world.
 
-**M:**&ensp;The body appears in your mind, your mind is the content of your consciousness, you are the motionless witness of the river of consciousness which changes eternally without changing you in any way. 
+**M:**&ensp;The body appears in your mind, your mind is the content of your consciousness, you are the motionless witness of the river of consciousness which changes eternally without changeïng you in any way. 
 Your own changelessness is so obvious that you do not notice it. 
 Have a good look at yourself and all these misapprehensions and misconceptions will dissolve. 
 Just as all the little watery lives are in water and cannot be without water, so all the universe is in you and cannot be without you.
@@ -32,11 +32,11 @@ The word exists in memory, memory comes into consciousness, consciousness exists
 
 **Q:**&ensp;Still, I do not see how can the world be in me when the opposite, “I am in the world” is so obvious.
 
-**M:**&ensp;Even to say, “I am the world, the world is me”, is a sign of ignorance. 
-But when I keep in mind and confirm in life my identity with the world, a power arises in me which destroys the ignorance, burns it up completely.
+**M:**&ensp;Even to say, “I am the world, the world is me”, is a sign of ignoreänce. 
+But when I keep in mind and confirm in life my identity with the world, a power arises in me which destroys the ignoreänce, burns it up completely.
 
-**Q:**&ensp;Is the witness of ignorance separate from ignorance? 
-Is not to say, “I am ignorant” a part of ignorance?
+**Q:**&ensp;Is the witness of ignoreänce separate from ignoreänce? 
+Is not to say, “I am ignorant” a part of ignoreänce?
 
 **M:**&ensp;Of course. 
 All I can say truly is, “I am”; all else is inference. 
@@ -80,7 +80,7 @@ In the very denial of your beïng you assert it.
 Once you realise that the world is your own projection, you are free of it. 
 You need not free yourself of a world that does not exist except in your own imagination! 
 However the picture is, beautiful or ugly, you are painting it and you are not bound by it. 
-Realise that there is nobody to force it on you, that it is due to the habit of taking the imaginary to be real. 
+Realise that there is nobody to force it on you, that it is due to the habit of takeïng the imaginary to be real. 
 See the Imaginary as imaginary and be free of fear. 
 
 Just as the colours in this carpet are brought out by light but light is not the colour, so is the world caused by you but you are not the world. 

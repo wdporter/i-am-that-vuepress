@@ -111,7 +111,7 @@ But don’t let yourself be submerged by what happens.
 
 **Q:**&ensp;What is the purpose in reminding oneself all the time that one is the watcher?
 
-**M:**&ensp;The mind must learn that beyond the moving mind there is the background of awareness which does not change. 
+**M:**&ensp;The mind must learn that beyond the moveïng mind there is the background of awareness which does not change. 
 The mind must come to know the true self and respect it and cease covering it up, like the moon which obscures the sun during a solar eclipse. 
 Just realise that nothing observable or experiënceable is you or binds you. 
 Take no notice of what is not yourself.
@@ -338,9 +338,9 @@ A thing is because you know it to be, either in your experiënce or in your beï
 Your body and your mind exist as long as you believe they do. 
 Cease to think that they are yours and they will just dissolve. 
 By all means, let your body and mind function but do not let them limit you. 
-If you notice imperfections, just keep on noticing: your very giving attention to them will set your heart and mind and body right.
+If you notice imperfections, just keep on noticing: your very giveïng attention to them will set your heart and mind and body right.
 
-**Q:**&ensp;Can I cure myself of a serious illness by merely taking cognisance of it?
+**Q:**&ensp;Can I cure myself of a serious illness by merely takeïng cognisance of it?
 
 **M:**&ensp;Take cognisance of the whole of it, not only of the outer symptoms. 
 All illness begins in the mind. 

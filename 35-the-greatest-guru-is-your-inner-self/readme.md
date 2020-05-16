@@ -2,7 +2,7 @@
 
 >The greatest <span style=font-style:normal>guru</span> is your inner self. Truly, he is the supreme teacher. He alone can take you to your goal and he alone meets you at the end of the road. Confide in him and you need no outer <span style=font-style:normal>guru</span>.
 
-**Questioner:**&ensp;On all sides I hear that freedom from desires and inclinations is the first condition of self-realisation. But I find the condition impossible to fulfill. Ignorance of oneself causes desires and desires perpetuäte ignorance. A truly vicious circle!
+**Questioner:**&ensp;On all sides I hear that freedom from desires and inclinations is the first condition of self-realisation. But I find the condition impossible to fulfill. Ignoreänce of oneself causes desires and desires perpetuäte ignoreänce. A truly vicious circle!
 
 **Maharaj:**&ensp;There are no conditions to fulfil. There is nothing to be done, nothing to be given up. Just look and remember that whatever you perceive is not you, nor yours. It is there in the field of consciousness, but you are not the field and its contents, nor even the knower of the field. It is your idea that you have to do things that entangle you in the results of your efforts — the motive, the desire, the failure to achieve, the sense of frustration — all this holds you back. Simply look at whatever happens and know that you are beyond it.
 
@@ -12,7 +12,7 @@
 
 **Q:**&ensp;Is it a matter of the known and the knower becoming one?
 
-**M:**&ensp;Both are ideas in the mind, and words that express them. There is no self in them. The self is neither between nor beyond. To look for it on the mental level is futile. Stop searching and see — it is here and now — it is that ‘I am’ you know so well. All you need to do is to cease taking yourself to be within the field of consciousness. Unless you have already considered these matters carefully, listening to me once will not do. Forget your past experiënces and achievements and stand naked, exposed to the winds and rains of life, and you will have a chance.
+**M:**&ensp;Both are ideas in the mind, and words that express them. There is no self in them. The self is neither between nor beyond. To look for it on the mental level is futile. Stop searching and see — it is here and now — it is that ‘I am’ you know so well. All you need to do is to cease takeïng yourself to be within the field of consciousness. Unless you have already considered these matters carefully, listening to me once will not do. Forget your past experiënces and achievements and stand naked, exposed to the winds and rains of life, and you will have a chance.
 
 **Q:**&ensp;Has devotion (<span data-tippy-content="Devotion, adoration. Hence <em>bhakta</em>, a devotee.">bhakti</span>) any place in your teaching?
 
@@ -70,7 +70,7 @@ The greatest *guru* is your inner self. Truly, he is the supreme teacher. He alo
 
 **M:**&ensp;All life on earth depends on the sun. Yet you cannot blame the sun for all that happens, though it is the ultimate cause. Light causes the colour of the flower, but it neither controls, nor is responsible for it directly. It makes it possible, that is all.
 
-**Q:**&ensp;What I do not like in all this is taking refuge in some universal power.
+**Q:**&ensp;What I do not like in all this is takeïng refuge in some universal power.
 
 **M:**&ensp;You cannot quarrel with facts.
 

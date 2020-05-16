@@ -76,7 +76,7 @@ spontaneöusly and effortlessly. The only difference between us is that I am
 aware of my natural state, while you are bemused. Just like gold made into 
 ornaments has no advantage over gold dust except when the mind makes it so, so 
 are we one in beïng — we differ only in appearance. We discover it by beïng 
-earnest, by searching, enquiring, questioning daily and hourly, by giving 
+earnest, by searching, enquiring, questioning daily and hourly, by giveïng 
 one’s life to this discovery.
 
 <script>

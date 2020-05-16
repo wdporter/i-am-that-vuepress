@@ -48,12 +48,12 @@ consciousness. Beyond mere living and dying, it is the all-inclusive,
 all-exclusive Life, in which birth is death and death is birth.
 
 **Q:**&ensp;The Absolute or Life you talk about — is it real, or a mere theory 
-to cover up our ignorance?
+to cover up our ignoreänce?
 
 **M:**&ensp;Both. To the mind, a theory; in itself — a reality. It is reality 
 in its spontaneöus and total rejection of the false. Just as light destroys 
 darkness by its very presence, so does the absolute destroy imagination. To 
-see that all knowledge is a form of ignorance is itself a movement of reality. 
+see that all knowledge is a form of ignoreänce is itself a movement of reality. 
 The witness is not a person. The person comes into beïng when there is a basis 
 for it, an organism, a body. In it the absolute is reflected as awareness. 
 Pure awareness becomes self-awareness. When there is a self, self-awareness is 
@@ -81,7 +81,7 @@ it to a suffering man to be told that nobody is aware of his suffering but
 himself? To relegate everything to illusion is insult added to injury. The 
 Bengali of East Pakistan is a fact and his suffering is a fact. Please, do not 
 analyse them out of existence! You are reading newspapers, you hear people 
-talking about it. You cannot plead ignorance. Now, what is your attitude to 
+talking about it. You cannot plead ignoreänce. Now, what is your attitude to 
 what is happening?
 
 **M:**&ensp;No attitude. Nothing is happening.
@@ -116,7 +116,7 @@ is order in yourself, there can be no order in the world.
 In reality, nothing happens. Onto the screen of the mind, destiny forever 
 projects its pictures, memories of former projections, and thus illusion 
 constantly renews itself. The pictures come and go — light intercepted by 
-ignorance. See the light and disregard the picture.
+ignoreänce. See the light and disregard the picture.
 
 **Q:**&ensp;What a callous way of looking at things! People are killing and 
 getting killed and here you talk of pictures.

@@ -123,7 +123,7 @@ ground from which all grows.
 
 **M:**&ensp;I shall tell you how my <span data-tippy-content="Spiritual 
 teacher, preceptor.">guru</span>’s *guru* died. After announcing that his end 
-was nearing, he stopped eating, without changing the routine of his daily 
+was nearing, he stopped eating, without changeïng the routine of his daily 
 life. On the eleventh day, at prayer time he was singing and clapping 
 vigorously and suddenly died! Just like that, between two movements, like a 
 blown out candle. Everybody dies as he lives. I am not afraid of death because 

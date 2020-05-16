@@ -34,9 +34,9 @@
 
 **Q:**&ensp;I can be certain only of what is now. Past and future, memory and imagination — these are mental states, but they are all I know and they are now. You are telling me to abandon them. How does one abandon the now?
 
-**M:**&ensp;You are moving into the future all the time whether you like it or not.
+**M:**&ensp;You are moveïng into the future all the time whether you like it or not.
 
-**Q:**&ensp;I am moving from now into now — I do not move at all. Everything else moves — not me.
+**Q:**&ensp;I am moveïng from now into now — I do not move at all. Everything else moves — not me.
 
 **M:**&ensp;Granted. But your mind does move. In the now you are both the movable and the immovable. So far, you have taken yourself to be the movable and overlooked the immovable. Turn your mind inside out. Overlook the movable and you will find yourself to be the ever-present, changeless reality; inexpressible, but solid like a rock.
 
@@ -138,7 +138,7 @@
 
 **Q:**&ensp;I am, the pain–pleasure man.
 
-**M:**&ensp;Pain and pleasure are both <span data-tippy-content="Bliss, happiness.">ananda</span> (bliss). Here I am sitting in front of you and telling you — from my own immediate and unchanging experiënce — pain and pleasure are the crests and valleys of the waves in the ocean of bliss. Deep down there is utter fullness.
+**M:**&ensp;Pain and pleasure are both <span data-tippy-content="Bliss, happiness.">ananda</span> (bliss). Here I am sitting in front of you and telling you — from my own immediate and unchangeïng experiënce — pain and pleasure are the crests and valleys of the waves in the ocean of bliss. Deep down there is utter fullness.
 
 **Q:**&ensp;Is your experiënce constant?
 

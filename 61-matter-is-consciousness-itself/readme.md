@@ -22,7 +22,7 @@
 
 **M:**&ensp;Yes, but how different it is when you can see it as it is, not through the screen of desire and fear.
 
-**Q:**&ensp;What are all these distinctions for — reality and illusion, wisdom and ignorance, saint and sinner? Everyone is in search of happiness; everyone strives desperately; everyone is a <span data-tippy-content="One who practices <em>yoga</em>.">yogi</span> and his life a school of wisdom. Each learns in his own way the lessons he needs. Society approves of some, disapproves of others; there are no rules that apply everywhere and for all time.
+**Q:**&ensp;What are all these distinctions for — reality and illusion, wisdom and ignoreänce, saint and sinner? Everyone is in search of happiness; everyone strives desperately; everyone is a <span data-tippy-content="One who practices <em>yoga</em>.">yogi</span> and his life a school of wisdom. Each learns in his own way the lessons he needs. Society approves of some, disapproves of others; there are no rules that apply everywhere and for all time.
 
 **M:**&ensp;In my world, love is the only law. I do not ask for love, I give it. Such is my nature.
 

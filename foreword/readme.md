@@ -26,7 +26,7 @@ The best that you can do is listen attentively to the *jnani* — of whom Sri Ni
 
 Mark the words of the *jnani*, which cut across all concepts and dogmas. Maharaj says: “until once becomes self-realised, attains to knowledge of the self, transcends the self, until then, all these cock-and-bull stories are provided, all these concepts”. Yes, they are concepts, even ‘I am’ is, but surely there are no concepts more precious. It is for the seeker to regard them with the utmost seriöusness, because they indicate the Highest Reality. No better concepts are available to shed all concepts.
 
-I am thankful to Sudhakar S. Dikshit, the editor, for inviting me to write the Foreword to this new edition of *I AM THAT* and thus giving me an opportunity to pay my homage to Sri Nisargadatta Maharaj, who has expounded highest knowledge in the simplest, clearest and the most convincing words.
+I am thankful to Sudhakar S. Dikshit, the editor, for inviting me to write the Foreword to this new edition of *I AM THAT* and thus giveïng me an opportunity to pay my homage to Sri Nisargadatta Maharaj, who has expounded highest knowledge in the simplest, clearest and the most convincing words.
 
 Douwe Tiemersma  
 Philosophical Faculty  

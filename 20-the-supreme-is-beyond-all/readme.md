@@ -64,7 +64,7 @@
 
 **Q:**&ensp;Does it mean that the Unknown is inaccessible?
 
-**M:**&ensp;Oh, no. The Supreme is the easiest to reach for it is your very beïng. It is enough to stop thinking and desiring anything but the Supreme.
+**M:**&ensp;Oh, no. The Supreme is the easiest to reach for it is your very beïng. It is enough to stop thinking and desireïng anything but the Supreme.
 
 **Q:**&ensp;And if I desire nothing, not even the Supreme?
 
@@ -130,7 +130,7 @@ Inquiry also wakes you up. You need not wait for suffering — enquiry into happ
 
 **Q:**&ensp;But is there anything beyond the Self?
 
-**M:**&ensp;Outside the Self there is nothing. All is one and all is contained in ‘I am’. In the waking and dream states it is the person. In deep sleep and <span data-tippy-content="The superconscious state of <em>samadhi</em>, (<em>turiya</em>, fourth), the fourth state of soul in which it becomes one with <em>Brahman</em>, the highest awareness.">turiya</span> it is the Self. Beyond the alert intentness of *turiya* lies the great, silent peace of the Supreme. But in fact, all is one in essence and related in appearance. In ignorance the seer becomes the seen and in wisdom he is the seeïng.
+**M:**&ensp;Outside the Self there is nothing. All is one and all is contained in ‘I am’. In the waking and dream states it is the person. In deep sleep and <span data-tippy-content="The superconscious state of <em>samadhi</em>, (<em>turiya</em>, fourth), the fourth state of soul in which it becomes one with <em>Brahman</em>, the highest awareness.">turiya</span> it is the Self. Beyond the alert intentness of *turiya* lies the great, silent peace of the Supreme. But in fact, all is one in essence and related in appearance. In ignoreänce the seer becomes the seen and in wisdom he is the seeïng.
 
 But why be concerned with the Supreme? Know the knowers and all will be known. 
 

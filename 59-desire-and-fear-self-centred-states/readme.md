@@ -62,7 +62,7 @@ Of course, pain after pleasure may be due to the misuse of the body or the mind.
 
 **Q:**&ensp;Is there no such thing as permanent perfection?
 
-**M:**&ensp;Yes, there is, but it includes all imperfection. It is the perfection of our self-nature which makes everything possible, perceivable, interesting. It knows no suffering, for it neither likes nor dislikes, neither accepts nor rejects. Creätion and destruction are the two poles between which it weaves its ever-changing pattern. Be free from predilections and preferences and the mind, with its burden of sorrow, will be no more.
+**M:**&ensp;Yes, there is, but it includes all imperfection. It is the perfection of our self-nature which makes everything possible, perceivable, interesting. It knows no suffering, for it neither likes nor dislikes, neither accepts nor rejects. Creätion and destruction are the two poles between which it weaves its ever-changeïng pattern. Be free from predilections and preferences and the mind, with its burden of sorrow, will be no more.
 
 **Q:**&ensp;But I am not alone to suffer. There are others.
 

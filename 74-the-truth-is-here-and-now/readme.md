@@ -147,11 +147,11 @@ Again we are in the vicious circle: without perfect faith, no salvation; without
 no salvation. 
 Conditions are imposed which are unfulfillable and then we are blamed for not fulfilling them.
 
-**M:**&ensp;You do not realise that your present waking state is one of ignorance. 
-Your question about the proof of truth is born of ignorance of reality. 
+**M:**&ensp;You do not realise that your present waking state is one of ignoreänce. 
+Your question about the proof of truth is born of ignoreänce of reality. 
 You are contacting your sensory and mental states in consciousness at the point of ‘I am’, while reality is not mediated, not contacted, not experiënced.
-You are taking duality so much for granted that you do not even notice it, while to me variety and diversity do not creäte separation. 
-You imagine reality to stand apart from names and forms, while to me names and forms are the ever changing expressions of reality and are not apart from it. 
+You are takeïng duality so much for granted that you do not even notice it, while to me variety and diversity do not creäte separation. 
+You imagine reality to stand apart from names and forms, while to me names and forms are the ever changeïng expressions of reality and are not apart from it. 
 You ask for the proof of truth while to me all existence is the proof. 
 You separate existence from beïng and beïng from reality, while to me it is all one. 
 However much you are convinced of the truth of your waking state, you do not claim it to be permanent and changeless, as I do when I talk of mine. 
@@ -188,7 +188,7 @@ You are afraid of forgeries and imitations.
 **Q:**&ensp;I am not afraid of beïng cheated. 
 I am afraid of cheating myself.
 
-**M:**&ensp;But you are cheating yourself in your ignorance of your true motives. 
+**M:**&ensp;But you are cheating yourself in your ignoreänce of your true motives. 
 You are asking for truth, but in fact you merely seek comfort, which you want to last for ever. 
 Now, nothing, no state of mind, can last forever. 
 In time and space there is always a limit, because time and space themselves are limited. 
@@ -225,9 +225,9 @@ Concern yourself with untruth only.”
 You can know what is not. 
 What is — you can only *be*. 
 Knowledge is relative to the known. 
-In a way it is the counterpart of ignorance. 
-Where ignorance is not, where is the need of knowledge? 
-By themselves neither ignorance nor knowledge have beïng. 
+In a way it is the counterpart of ignoreänce. 
+Where ignoreänce is not, where is the need of knowledge? 
+By themselves neither ignoreänce nor knowledge have beïng. 
 They are only states of mind, which again is but an appearance of movement in consciousness which is in its essence immutable.
 
 **Q:**&ensp;Is truth within the realm of the mind or beyond?
@@ -238,8 +238,8 @@ It cannot be put into words.
 **Q:**&ensp;This is what I hear all the time — ‘inexpressible’ (<span data-tippy-content="Inexpressible.">anirvachaniya</span>). 
 It does not make me wiser.
 
-**M:**&ensp;It is true that it often covers sheer ignorance. 
-The mind can operate with terms of its own making, it only cannot go beyond itself. 
+**M:**&ensp;It is true that it often covers sheer ignoreänce. 
+The mind can operate with terms of its own makeïng, it only cannot go beyond itself. 
 That which is neither sensory nor mental, and yet without which neither sensory nor the mental can exist, cannot be contained in them. 
 Do understand that the mind has its limits; to go beyond, you must consent to silence.
 
@@ -311,9 +311,9 @@ Enough to know what you are not.
 What you are you will never know, for every discovery reveals new dimensions to conquer. 
 The unknown has no limits.
 
-**Q:**&ensp;Does it imply ignorance for ever?
+**Q:**&ensp;Does it imply ignoreänce for ever?
 
-**M:**&ensp;It means that ignorance never was. 
+**M:**&ensp;It means that ignoreänce never was. 
 Truth is in the discovery, not in the discovered. 
 And to discovery there is no beginning and no end. 
 Question the limits, go beyond, set yourself apparently impossible tasks — this is the way.

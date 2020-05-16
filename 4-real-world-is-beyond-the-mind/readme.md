@@ -20,7 +20,7 @@ The universe is not bound by its content because its potentialities are infinite
 **Q:**&ensp;Yes, one can see that ultimately to speak of one thing beïng the only cause of another thing is altogether wrong. 
 Yet, in actual life we invariably initiate action with a view to a result.
 
-**M:**&ensp;Yes, there is a lot of such activity goïng on because of ignorance. 
+**M:**&ensp;Yes, there is a lot of such activity goïng on because of ignoreänce. 
 Would people know that nothing can happen unless the entire universe makes it happen, they would achieve much more with less expenditure of energy.
 
 **Q:**&ensp;If everything is an expression of the totality of causes, how can we talk of a purposeful action towards an achievement?

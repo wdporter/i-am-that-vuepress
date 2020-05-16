@@ -173,7 +173,7 @@ It should be the starting point for high adventure.
 
 **Q:**&ensp;Do you advise me to come to India repeatedly?
 
-**M:**&ensp;If you are earnest, you don’t need moving about. 
+**M:**&ensp;If you are earnest, you don’t need moveïng about. 
 You are yourself wherever you are and you creäte your own climate. 
 Locomotion and transportation will not give you salvation. 
 You are not the body and dragging the body from place to place will take you nowhere. 

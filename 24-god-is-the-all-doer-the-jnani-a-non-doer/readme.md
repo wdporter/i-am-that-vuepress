@@ -48,7 +48,7 @@ Thus runs the story. The difference with your teaching is this: you insist that 
 
 **M:**&ensp;As long as you think yourself to be a person, He too is a person. When you are all, you see Him as all.
 
-**Q:**&ensp;Can I change facts by changing my attitude?
+**Q:**&ensp;Can I change facts by changeïng my attitude?
 
 **M:**&ensp;The attitude is the fact. Take anger. I may be furiöus, pacing the room up and down; at the same time I know what I am, a centre of wisdom and love, an atom of pure existence. All subsides and the mind merges into silence.
 

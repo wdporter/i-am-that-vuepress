@@ -36,7 +36,7 @@
 
 **Q:**&ensp;What is wrong with purposeful action?
 
-**M:**&ensp;It does not apply. In these matters there is no question of purpose or of action. All you need is to listen, remember and ponder. It is like taking food. All you can do is to bite off, chew and swallow. All else is unconscious and automatic. Listen, remember and understand — the mind is both the actor and the stage. All is of the mind and you are not the mind. The mind is born and reborn, not you. The mind creätes the world and all the wonderful variety of it. Just like in a good play you have all sorts of characters and situätions, so do you need a little of everything to make a world.
+**M:**&ensp;It does not apply. In these matters there is no question of purpose or of action. All you need is to listen, remember and ponder. It is like takeïng food. All you can do is to bite off, chew and swallow. All else is unconscious and automatic. Listen, remember and understand — the mind is both the actor and the stage. All is of the mind and you are not the mind. The mind is born and reborn, not you. The mind creätes the world and all the wonderful variety of it. Just like in a good play you have all sorts of characters and situätions, so do you need a little of everything to make a world.
 
 **Q:**&ensp;Nobody suffers in a play.
 
@@ -90,9 +90,9 @@
 
 **M:**&ensp;No one compels you to be cruel.
 
-**Q:**&ensp;Taking advantage of other people’s cruelty is cruelty by proxy.
+**Q:**&ensp;Takeïng advantage of other people’s cruelty is cruelty by proxy.
 
-**M:**&ensp;If you look into living process closely, you will find cruelty everywhere, for life feeds on life. This is a fact, but it does not make you feel guilty of beïng alive. You began a life of cruelty by giving your mother endless trouble. To the last day of your life you will compete for food, clothing, shelter, holding on to your body, fighting for its needs and wanting it to be secure, in a world of insecurity and death. From the animal’s point of view beïng killed is not the worst form of dying; it is surely preferable to sickness and senile decay. The cruelty lies in the motive, not in the fact. Killing hurts the killer, not the killed.
+**M:**&ensp;If you look into living process closely, you will find cruelty everywhere, for life feeds on life. This is a fact, but it does not make you feel guilty of beïng alive. You began a life of cruelty by giveïng your mother endless trouble. To the last day of your life you will compete for food, clothing, shelter, holding on to your body, fighting for its needs and wanting it to be secure, in a world of insecurity and death. From the animal’s point of view beïng killed is not the worst form of dying; it is surely preferable to sickness and senile decay. The cruelty lies in the motive, not in the fact. Killing hurts the killer, not the killed.
 
 **Q:**&ensp;Agreed; then one must not accept the services of hunters and butchers.
 
@@ -106,7 +106,7 @@
 
 **M:**&ensp;Are you ready to follow my example? I am dead to the world: I want nothing, not even to live. Be as I am, do as I do. You are judging me by my clothes and food, while I only look at your motives. If you believe yourself to be the body and the mind and act on it you are guilty of the greatest cruelty — cruelty to your own real beïng. Compared to it, all other cruelties do not count.
 
-**Q:**&ensp;You are taking refuge in the claim that you are not the body. But you are in control of the body and responsible for all it does. To allow the body full autonomy would be imbecility, madness!
+**Q:**&ensp;You are takeïng refuge in the claim that you are not the body. But you are in control of the body and responsible for all it does. To allow the body full autonomy would be imbecility, madness!
 
 **M:**&ensp;Cool down. I am also against all killing of animals for flesh or fur, but I refuse to give it first place. Vegetarianism is a worthy cause, but not the most urgent; all causes are served best by the man who has returned to his source.
 
@@ -132,7 +132,7 @@
 
 **Q:**&ensp;It is pain that is at the root of desire. The basic urge is to escape from pain.
 
-**M:**&ensp;What is the root of pain? Ignorance of your self. What is the root of desire? The urge to find your self. All creätion toils for its self and will not rest until it returns to it.
+**M:**&ensp;What is the root of pain? Ignoreänce of your self. What is the root of desire? The urge to find your self. All creätion toils for its self and will not rest until it returns to it.
 
 **Q:**&ensp;When will it return?
 

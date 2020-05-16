@@ -176,4 +176,4 @@ step out and look from the outside. You may perceive for the first time
 something which is not memory. You cease to be a Mr. So-and-so, busy about his 
 own affairs. You are at last at peace. You realise that nothing was ever wrong 
 with the world — you alone were wrong and now it is all over. Never again will 
-you be caught in the meshes of desire born of ignorance.
+you be caught in the meshes of desire born of ignoreänce.

@@ -51,7 +51,7 @@ luxury! We need plenty of it to set the world right, but who will provide it?
 **M:**&ensp;You can spend an eternity looking elsewhere for truth and love, 
 intelligence and goodwill, and imploring God and man — all in vain. You must 
 begin in yourself, with yourself — this is the inexorable law. You cannot 
-change the image without changing the face. First realise that your world is 
+change the image without changeïng the face. First realise that your world is 
 only a reflection of yourself and stop finding fault with the reflection. 
 Attend to yourself; set yourself right mentally and emotionally. The physical 
 will follow automatically. You talk so much of reforms — economic, social, 
@@ -63,7 +63,7 @@ indefinitely. Yours is a counsel of perfection, which is also a counsel of
 despair. When all are perfect, the world will be perfect. What useless truïsm!
 
 **M:**&ensp;I did not say that. I only said that you cannot change the world 
-before changing yourself. I did not say, “before changing everybody”. It is 
+before changeïng yourself. I did not say, “before changeïng everybody”. It is 
 neither necessary nor possible to change others. But if you can change 
 yourself, you will find that no other change is needed. To change the picture 
 you merely change the film, you do not attack the cinema screen!
@@ -168,13 +168,13 @@ personalise their source, you have an outer *guru*; when you take them from
 life directly, the *guru* is within. Remember, wonder, ponder, live with it, 
 love it, grow into it, grow with it, make it your own — the word of your 
 *guru*, outer or inner. Put in all and you will get all. I was doïng it. All 
-my time I was giving to my *guru* and to what he told me.
+my time I was giveïng to my *guru* and to what he told me.
 
 **Q:**&ensp;I am a writer by profession. Can you give me some advice for me 
 specifically?
 
 **M:**&ensp;Writing is both a talent and a skill. Grow in talent and develop 
-in skill. Desire what is worth desiring and desire it well. Just like you pick 
+in skill. Desire what is worth desireïng and desire it well. Just like you pick 
 your way in a crowd, passing between people, so you find your way between 
 events without missing your general direction. It is easy if you are earnest.
 

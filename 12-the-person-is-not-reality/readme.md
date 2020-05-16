@@ -38,7 +38,7 @@ You may not be quite conscious of your physiological functions, but when it come
 
 **Q:**&ensp;Does this spontaneöus response come as a result of realisation or by training?
 
-**M:**&ensp;Both. Devotion to your goal makes you live a clean and orderly life, given to search for truth and to helping people, and realisation makes noble virtue easy and spontaneöus by removing for good the obstacles in the shape of desires and fears and wrong ideas.
+**M:**&ensp;Both. Devotion to your goal makes you live a clean and orderly life, given to search for truth and to helping people, and realisation makes noble virtue easy and spontaneöus by removeïng for good the obstacles in the shape of desires and fears and wrong ideas.
 
 **Q:**&ensp;Don’t you have desires and fears any more?
 
@@ -66,7 +66,7 @@ You may not be quite conscious of your physiological functions, but when it come
 
 **Q:**&ensp;Don’t you become a robot?
 
-**M:**&ensp;What harm is there in making automatic what is habitual and repetitive? It is automatic anyhow. But when it is also chäotic it causes pain and suffering and calls for attention. The entire purpose of a clean and well-ordered life is to liberate man from the thrall of chäos and the burden of sorrow.
+**M:**&ensp;What harm is there in makeïng automatic what is habitual and repetitive? It is automatic anyhow. But when it is also chäotic it causes pain and suffering and calls for attention. The entire purpose of a clean and well-ordered life is to liberate man from the thrall of chäos and the burden of sorrow.
 
 **Q:**&ensp;You seem to be in favour of a computerised life.
 

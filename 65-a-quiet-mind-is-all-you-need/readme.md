@@ -96,7 +96,7 @@
 
 **Q:**&ensp;If I am beyond the mind, how can I change myself?
 
-**M:**&ensp;Where is the need of changing anything? The mind is changing all the time anyhow. Look at your mind dispassionately; this is enough to calm it. When it is quiet, you can go beyond it. Do not keep it busy all the time. Stop it — and just *be*. If you give it rest, it will settle down and recover its purity and strength. Constant thinking makes it decay.
+**M:**&ensp;Where is the need of changeïng anything? The mind is changeïng all the time anyhow. Look at your mind dispassionately; this is enough to calm it. When it is quiet, you can go beyond it. Do not keep it busy all the time. Stop it — and just *be*. If you give it rest, it will settle down and recover its purity and strength. Constant thinking makes it decay.
 
 **Q:**&ensp;If my true beïng is always with me, how is it that I am ignorant of it?
 

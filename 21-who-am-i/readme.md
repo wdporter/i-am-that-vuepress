@@ -12,7 +12,7 @@
 
 **Q:**&ensp;Even the desire to be free of desire?
 
-**M:**&ensp;Why desire at all? Desiring a state of freedom from desire will not set you free. Nothing can set you free because you *are* free. See yourself with desireless clarity, that is all.
+**M:**&ensp;Why desire at all? Desireïng a state of freedom from desire will not set you free. Nothing can set you free because you *are* free. See yourself with desireless clarity, that is all.
 
 **Q:**&ensp;It takes time to know oneself.
 

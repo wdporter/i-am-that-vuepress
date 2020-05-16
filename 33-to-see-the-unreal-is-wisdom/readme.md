@@ -206,7 +206,7 @@ that the help takes varies according to the need.
 **M:**&ensp;He will not listen. His mind is turned outward. But in fact all 
 experiënce is in the mind, and even his coming to me and getting help is all 
 within himself. Instead of finding an answer within himself, he imagines an 
-answer from without. To me, there is no me, no man and no giving. All this is 
+answer from without. To me, there is no me, no man and no giveïng. All this is 
 merely a flicker in the mind. I am infinite peace and silence in which nothing 
 appears, for all that appears — disappears. Nobody comes for help, nobody 
 offers help, nobody gets help. It is all but a display in consciousness.
@@ -266,9 +266,9 @@ they are, and therefore I am not afraid of them. But you are afraid of reality.
 
 **Q:**&ensp;Why should I be?
 
-**M:**&ensp;It is ignorance of yourself that makes you afraid and also unaware 
+**M:**&ensp;It is ignoreänce of yourself that makes you afraid and also unaware 
 that you are afraid. Don’t try not to be afraid. Break down the wall of 
-ignorance first. 
+ignoreänce first. 
 
 People are afraid to die, because they do not know what death is. The *jnani* 
 has died before his death, he saw that there was nothing to be afraid of. The 

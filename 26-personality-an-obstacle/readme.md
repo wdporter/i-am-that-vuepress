@@ -80,7 +80,7 @@
 
 **Q:**&ensp;This spreading the good news of enlightenment seems very important.
 
-**M:**&ensp;The very hearing of it is a promise of enlightenment. The very meeting with a <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> is the assurance of liberation. Perfection is life-giving and creätive.
+**M:**&ensp;The very hearing of it is a promise of enlightenment. The very meeting with a <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> is the assurance of liberation. Perfection is life-giveïng and creätive.
 
 **Q:**&ensp;Does a realised man ever think, “I am realised”? Is he not astonished when people make much of him? Does he not take himself to be an ordinary human beïng?
 

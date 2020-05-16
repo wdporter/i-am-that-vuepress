@@ -100,7 +100,7 @@ In short, I am busy with myself.
 **M:**&ensp;Well, go on beïng busy with yourself. 
 On what business have you come here?
 
-**Q:**&ensp;On my old business of making myself safe and happy. 
+**Q:**&ensp;On my old business of makeïng myself safe and happy. 
 I confess I have not been too successful. 
 I am neither safe nor happy. 
 Therefore, you find me here. 

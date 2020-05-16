@@ -30,7 +30,7 @@
 
 **M:**&ensp;Were you not present at your birth? Will you not be present at your death? Find him who is always present and your problem of spontaneöus and perfect response will be solved.
 
-**Q:**&ensp;Realisation of the eternal and an effortless and adequate response to the ever-changing temporary event are two different and separate questions. You seem to roll them into one. What makes you do so?
+**Q:**&ensp;Realisation of the eternal and an effortless and adequate response to the ever-changeïng temporary event are two different and separate questions. You seem to roll them into one. What makes you do so?
 
 **M:**&ensp;To realise the Eternal is to become the Eternal, the whole, the universe, with all it contains. Every event is the effect and the expression of the whole and is in fundamental harmony with the whole. All response from the whole must be right, effortless and instantaneöus. 
 

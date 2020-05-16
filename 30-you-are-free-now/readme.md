@@ -79,7 +79,7 @@ and circumstances, by opportunities and accidents, by what we call destiny.
 desire. Other urges will lead me astray. My desire is not strong enough, even 
 if it has my approval. Other desires, which I disapprove of, are stronger.
 
-**M:**&ensp;Maybe you are deceiving yourself. Maybe you are giving expression 
+**M:**&ensp;Maybe you are deceiving yourself. Maybe you are giveïng expression 
 to your real desires and the ones you approve of are kept on the surface for 
 the sake of respectability.
 
@@ -115,7 +115,7 @@ your *beïng*.
 **Q:**&ensp;What is the new factor you want me to bring in?
 
 **M:**&ensp;The attitude of pure witnessing, of watching the events without 
-taking part in them.
+takeïng part in them.
 
 **Q:**&ensp;What will it do to me?
 

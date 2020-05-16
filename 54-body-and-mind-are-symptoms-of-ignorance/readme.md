@@ -1,6 +1,6 @@
-# 54. Body and Mind are Symptoms of Ignorance
+# 54. Body and Mind are Symptoms of Ignoreänce
 
->The body and the mind are only symptoms of ignorance, of misapprehension. Behave as if you were pure awareness, bodiless and mindless, spaceless and timeless, beyond ‘where’ and ‘when’ and ‘how’. Dwell on it, think of it, learn to accept its reality.
+>The body and the mind are only symptoms of ignoreänce, of misapprehension. Behave as if you were pure awareness, bodiless and mindless, spaceless and timeless, beyond ‘where’ and ‘when’ and ‘how’. Dwell on it, think of it, learn to accept its reality.
 
 **Questioner:**&ensp;We were discussing one day the person — the witness — the absolute (<span data-tippy-content="Person, the outer self.">vyakti</span>–<span data-tippy-content="Manifest matter, the evolved nature. Opposite is <em>avyakta</em>.">vyakta</span>–<span data-tippy-content="Unmanifest. Opposite is <em>vyakta</em>.">avyakta</span>). As far as I remember, you said that the absolute alone is real and the witness is absolute only at a given point of space and time. The person is the organism, gross and subtle, illumined by the presence of the witness. I do not seem to grasp the matter clearly; could we discuss it again? You also use the terms <span data-tippy-content="The great expanse of existence, the universe of matter and energy.">mahadakash</span>, <span data-tippy-content="[<em>chit</em>, to perceive + <em>akash</em>, expanse, sky] Brahman in its aspect of limitless knowledge, the expanse of awareness. Variöusly used for consciousness, individual as well as universal.">chidakash</span> and <span data-tippy-content="The great expanse, the timeless and spaceless reality; the Absolute beïng.">paramakash</span>. How are they related to person, witness, and the absolute?
 
@@ -84,7 +84,7 @@ Of course, all these are manners of speaking. Words are as much a barrier, as a 
 
 **Q:**&ensp;What happens to that spark of life after death?
 
-**M:**&ensp;It is beyond time. Birth and death are but points in time. Life weaves eternally its many webs. The weaving is in time, but life itself is timeless. Whatever name and shape you give to its expressions, it is like the ocean — never changing, ever changing.
+**M:**&ensp;It is beyond time. Birth and death are but points in time. Life weaves eternally its many webs. The weaving is in time, but life itself is timeless. Whatever name and shape you give to its expressions, it is like the ocean — never changeïng, ever changeïng.
 
 **Q:**&ensp;All you say sounds beautifully convincing. Yet my feeling of beïng just a person in a world strange and alien, often inimical and dangerous, does not cease. Beïng a person, limited in space and time, how can I possibly realise myself as the opposite; a depersonalised, universalised awareness of nothing in particular?
 
@@ -92,11 +92,11 @@ Of course, all these are manners of speaking. Words are as much a barrier, as a 
 
 **Q:**&ensp;What am I to do? I do not see myself as you see me. Maybe you are right and I am wrong, but how can I cease to be what I feel I am?
 
-**M:**&ensp;A prince who believes himself to be a beggar can be convinced conclusively in one way only: he must behave as a prince and see what happens. Behave as if what I say is true and judge by what actually happens. All I ask is the little faith needed for making the first step. With experiënce will come confidence and you will not need me any more. I know what you are and I am telling you. Trust me for a while.
+**M:**&ensp;A prince who believes himself to be a beggar can be convinced conclusively in one way only: he must behave as a prince and see what happens. Behave as if what I say is true and judge by what actually happens. All I ask is the little faith needed for makeïng the first step. With experiënce will come confidence and you will not need me any more. I know what you are and I am telling you. Trust me for a while.
 
 **Q:**&ensp;To be here and now, I need my body and its senses. To understand, I need a mind.
 
-**M:**&ensp;The body and the mind are only symptoms of ignorance, of misapprehension. Behave as if you were pure awareness, bodiless and mindless, spaceless and timeless, beyond ‘where’ and ‘when’ and ‘how’. Dwell on it, think of it, learn to accept its reality. Don’t oppose it and deny it all the time. Keep an open mind at least. <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">Yoga</span> is bending the outer to the inner. Make your mind and body express the real which is all and beyond all. By doïng you succeed, not by arguing.
+**M:**&ensp;The body and the mind are only symptoms of ignoreänce, of misapprehension. Behave as if you were pure awareness, bodiless and mindless, spaceless and timeless, beyond ‘where’ and ‘when’ and ‘how’. Dwell on it, think of it, learn to accept its reality. Don’t oppose it and deny it all the time. Keep an open mind at least. <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">Yoga</span> is bending the outer to the inner. Make your mind and body express the real which is all and beyond all. By doïng you succeed, not by argueïng.
 
 **Q:**&ensp;Kindly allow me to come back to my first question. How does the error of beïng a person originate?
 

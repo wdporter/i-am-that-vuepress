@@ -20,7 +20,7 @@
 
 **Q:**&ensp;Yet, often ordinary persons do attain what they desire.
 
-**M:**&ensp;After desiring it very much and for a long time. Even then, their achievements are limited.
+**M:**&ensp;After desireïng it very much and for a long time. Even then, their achievements are limited.
 
 **Q:**&ensp;And what about unselfish desires?
 

@@ -60,7 +60,7 @@
 
 **Q:**&ensp;So is yours?
 
-**M:**&ensp;Oh, no. I live in a world of realities, while yours is of imagination. Your world is personal, private, unshareable, intimately your own. Nobody can enter it, see as you see, hear as you hear, feel your emotions and think your thoughts. In your world you are truly alone, enclosed in your ever-changing dream, which you take for life. My world is an open world, common to all, accessible to all. In my world there is community, insight, love, real quality; the individual is the total, the totality — in the individual. All are one and the One is all.
+**M:**&ensp;Oh, no. I live in a world of realities, while yours is of imagination. Your world is personal, private, unshareable, intimately your own. Nobody can enter it, see as you see, hear as you hear, feel your emotions and think your thoughts. In your world you are truly alone, enclosed in your ever-changeïng dream, which you take for life. My world is an open world, common to all, accessible to all. In my world there is community, insight, love, real quality; the individual is the total, the totality — in the individual. All are one and the One is all.
 
 **Q:**&ensp;Is your world full of things and people as is mine?
 

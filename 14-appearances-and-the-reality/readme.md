@@ -34,7 +34,7 @@ But why worry so much about causation? What do causes matter when things themsel
 
 **Q:**&ensp;I am afraid. I am afraid of falling asleep over my so-called absolute certainties. For living a life decently, absolutes don’t help. When you need a shirt, you buy cloth, call a tailor and so on. 
 
-**M:**&ensp;All this talk shows ignorance.
+**M:**&ensp;All this talk shows ignoreänce.
 
 **Q:**&ensp;And what is the knower’s view?
 
@@ -64,7 +64,7 @@ But why worry so much about causation? What do causes matter when things themsel
 
 **M:**&ensp;To influence events, you need not know the causes. What a roundabout way of doïng things! Are you not the source and the end of every event? Control it at the source itself.
 
-**Q:**&ensp;Every morning I pick up the newspaper and read with dismay that the world’s sorrows — poverty, hatred and wars — continue unabated. My questions concern the fact of sorrow, the cause, the remedy. Don’t brush me off saying that it is Buddhism! Don’t label me. Your insistence on causelessness removes all hope of the world ever changing.
+**Q:**&ensp;Every morning I pick up the newspaper and read with dismay that the world’s sorrows — poverty, hatred and wars — continue unabated. My questions concern the fact of sorrow, the cause, the remedy. Don’t brush me off saying that it is Buddhism! Don’t label me. Your insistence on causelessness removes all hope of the world ever changeïng.
 
 **M:**&ensp;You are confused because you believe that you are in the world, not the world in you. Who came first: you or your parents? You imagine that you were born at a certain time and place and that you have a father and a mother, a body and a name. This is your sin and your calamity! Surely you can change your world if you work at it. By all means, work. Who is stopping you? I have never discouraged you. Causes or no causes, you have made this world and you can change it. 
 
@@ -80,7 +80,7 @@ But why worry so much about causation? What do causes matter when things themsel
 
 **M:**&ensp;To take appearance for reality is a grievous sin and the cause of all calamities. You are the all-pervading, eternal and infinitely creätive awareness: consciousness. All else is local and temporary. Don’t forget what you are. In the meantime work to your heart’s content. Work and knowledge should go hand in hand.
 
-**Q:**&ensp;My own feeling is that my spiritual development is not in my hands. Making one’s own plans and carrying them out leads nowhere. I just run in circles round myself. When God considers the fruit to be ripe, He will pluck it and eat it. Whichever fruit seems green to Him will remain on the world’s tree for another day.
+**Q:**&ensp;My own feeling is that my spiritual development is not in my hands. Makeïng one’s own plans and carrying them out leads nowhere. I just run in circles round myself. When God considers the fruit to be ripe, He will pluck it and eat it. Whichever fruit seems green to Him will remain on the world’s tree for another day.
 
 **M:**&ensp;You think God knows you? Even the world He does not know.
 

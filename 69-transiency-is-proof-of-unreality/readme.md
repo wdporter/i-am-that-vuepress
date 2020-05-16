@@ -26,7 +26,7 @@
 
 **M:**&ensp;Do you want a lecture? Better ask about something that really touches you so that you feel strongly about it. Unless you are emotionally involved, you may argue with me but there will be no real understanding between us. If you say, “Nothing worries me, I have no problems”, it is all right with me — we can keep quiet. But if something really touches you, then there is purpose in talking. 
 
-Shall I ask you? What is the purpose of your moving from place to place?
+Shall I ask you? What is the purpose of your moveïng from place to place?
 
 **Q:**&ensp;To meet people, to try to understand them.
 
@@ -126,7 +126,7 @@ Above everything else you cherish yourself. You would accept nothing in exchange
 
 **Q:**&ensp;Even in the unreal there is a touch of reality.
 
-**M:**&ensp;Yes, the reality you impart to it by taking it to be real. Having convinced yourself, you are bound by your conviction. When the sun shines, colours appear. When it sets, they disappear. Where are the colours without the light?
+**M:**&ensp;Yes, the reality you impart to it by takeïng it to be real. Having convinced yourself, you are bound by your conviction. When the sun shines, colours appear. When it sets, they disappear. Where are the colours without the light?
 
 **Q:**&ensp;This is thinking in terms of duality.
 

@@ -208,7 +208,7 @@ disturbance, that is all. To seek there is no need — you would not seek what
 you already have. You yourself are God, the Supreme Reality. To begin with, 
 trust me, trust the Teacher. It enables you to make the first step — and then 
 your trust is justified by your own experiënce. In every walk of life, initial 
-trust is essential; without it little can be done. Every undertaking is an act 
+trust is essential; without it little can be done. Every undertakeïng is an act 
 of faith. Even your daily bread you eat on trust! By remembering what I told 
 you, you will achieve everything. I am telling you again: You are the 
 all-pervading, all transcending reality. Behave accordingly: Think, feel and 
@@ -234,7 +234,7 @@ reaching the deepest meaning of these words.
 Unknown, then you merely say, “I do not know what I am”. If you know God as 
 you know yourself, you need not say it. Best is the simple feeling ‘I am’. 
 Dwell on it patiently. Here patience is wisdom; don’t think of failure. There 
-can be no failure in this undertaking.
+can be no failure in this undertakeïng.
 
 **Q:**&ensp;My thoughts will not let me.
 

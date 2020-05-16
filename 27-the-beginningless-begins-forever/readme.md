@@ -26,7 +26,7 @@ There is no purpose in opposing the *yogi* to the *bhogi*. The way of outgoïng 
 
 **Q:**&ensp;What makes the difference?
 
-**M:**&ensp;The difference is between giving and grasping. Whatever the way of approach, in the end all becomes one.
+**M:**&ensp;The difference is between giveïng and grasping. Whatever the way of approach, in the end all becomes one.
 
 **Q:**&ensp;If there be no difference in the goal, why discriminate between variöus approaches?
 
@@ -36,7 +36,7 @@ There is no purpose in opposing the *yogi* to the *bhogi*. The way of outgoïng 
 
 **M:**&ensp;One and all are the same to me. The same consciousness (<span data-tippy-content="Universal consciousness.">chit</span>) appears as beïng (<span data-tippy-content="“The ideal; pure and true essence (nature)” of an entity or existence. It can thus be concluded as “the self-existent or universal spirit, Brahman”. Opposite is ‘<em>asat</em>’.">sat</span>) and as bliss (<span data-tippy-content="Bliss, happiness.">ananda</span>): *Chit* in movement is *ananda*; *chit* motionless is beïng.
 
-**Q:**&ensp;Still you are making a distinction between motion and motionlessness.
+**Q:**&ensp;Still you are makeïng a distinction between motion and motionlessness.
 
 **M:**&ensp;Non-distinction speaks in silence. Words carry distinctions. The unmanifested (<span data-tippy-content="The unconditioned, without form, qualities and attributes.">nirguna</span>) has no name; all names refer to the manifested (<span data-tippy-content="Manifested condition with the three <em>guna</em>s, qualities — <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. The Supreme Absolute conceived of as possessing qualities like love, mercy etc., as distinguished from the undifferentiated Absolute of the <em>Advaita Vedanta</em>.">saguna</span>). It is useless to struggle with words to express what is beyond words. Consciousness (<span data-tippy-content="Consciousness–bliss, the joy of spirit.">chidananda</span>) is spirit (<span data-tippy-content="The cosmic spirit, the eternal and efficient cause of the universe that gives appearance of consciousness to all manifestations of matter (<em>prakriti</em>). The bondage of <em>purusha</em> in matter is due to ‘I’-consciousness born of <em>chitta–vrittis</em>, which gives rise to innuumerable desires.">purusha</span>), consciousness is matter (<span data-tippy-content="The cosmic substance, the original uncaused cause of phenomenal existence, which is formless, limitless, immobile, eternal and all-pervasive, also called <em>avyakta</em>.">prakriti</span>). Imperfect spirit is matter, perfect matter is spirit. In the beginning, as in the end, all is one. 
 

@@ -108,7 +108,7 @@ The very idea of ‘else’ is a disaster and a calamity.
 
 **M:**&ensp;That which does not exist cannot have a cause. 
 There is no such thing as a separate person. 
-Even taking the empirical point of view, it is obvious that everything is the cause of everything; that everything is as it is because the entire universe is as it is.
+Even takeïng the empirical point of view, it is obvious that everything is the cause of everything; that everything is as it is because the entire universe is as it is.
 
 **Q:**&ensp;Yet personality must have a cause.
 
@@ -159,8 +159,8 @@ Go beyond it altogether.
 What is beginningless cannot have a cause. 
 It is not that you knew what you are and then you have forgotten. 
 Once you know, you cannot forget. 
-Ignorance has no beginning, but can have an end. 
-Enquire who is ignorant and ignorance will dissolve like a dream. 
+Ignoreänce has no beginning, but can have an end. 
+Enquire who is ignorant and ignoreänce will dissolve like a dream. 
 The world is full of contradictions; hence your search for harmony and peace. 
 These you cannot find in the world, for the world is the child of chäos. 
 To find order you must search within. 
@@ -199,7 +199,7 @@ But reality is all and nothing, the totality and the exclusion, the fullness and
 You cannot speak about it; you can only lose your self in it. 
 When you deny reality to anything, you come to a residue which cannot be denied. 
 
-All talk of <span data-tippy-content="Knowledge, especially the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnana</span> is a sign of ignorance. 
+All talk of <span data-tippy-content="Knowledge, especially the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnana</span> is a sign of ignoreänce. 
 It is the mind that imagines that it does not know and then comes to know. 
 Reality knows nothing of these contortions. 
 Even the idea of God as the Creätor is false. 
@@ -215,7 +215,7 @@ Now, were you born into your world, or did your world appear to you?
 To be born means to creäte a world round yourself as the centre. 
 But do you ever creäte yourself? 
 Or did anyone creäte you? 
-Everyone creätes a world for himself and lives in it, imprisoned by his ignorance. 
+Everyone creätes a world for himself and lives in it, imprisoned by his ignoreänce. 
 All we have to do is to deny reality to our prison.
 
 **Q:**&ensp;Just as the waking state exists in seed form during sleep, so does the world the child creätes on beïng born exist before its birth. 

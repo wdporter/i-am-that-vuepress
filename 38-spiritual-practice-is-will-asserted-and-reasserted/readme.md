@@ -38,7 +38,7 @@ What will help them is the opportunity of hearing a *jnani* relate his own exper
 
 You seem to want instant insight, forgetting that the instant is always preceded by a long preparation. The fruit falls suddenly, but the ripening takes time. 
 
-After all, when I talk of trusting me, it is only for a short time, just enough time to start you moving. The more earnest you are, the less belief you need, for soon you will find your faith in me justified. You want me to prove to you that I am trustworthy! How can I and why should I? After all, what I am offering you is the operational approach, so current in Western science. When a scientist describes an experiment and its results, usually you accept his statements on trust and repeat his experiment as he describes it. Once you get the same or similar results, you need not trust him any more; you trust your own experiënce. Encouraged, you proceed and arrive in the end at substantially identical results.
+After all, when I talk of trusting me, it is only for a short time, just enough time to start you moveïng. The more earnest you are, the less belief you need, for soon you will find your faith in me justified. You want me to prove to you that I am trustworthy! How can I and why should I? After all, what I am offering you is the operational approach, so current in Western science. When a scientist describes an experiment and its results, usually you accept his statements on trust and repeat his experiment as he describes it. Once you get the same or similar results, you need not trust him any more; you trust your own experiënce. Encouraged, you proceed and arrive in the end at substantially identical results.
 
 **Q:**&ensp;The Indian mind was made ready for metaphysical experiments by culture and nurture. To the Indian, phrases like  “direct perception of the Supreme Reality” make sense and bring out responses from the very depths of his beïng. They mean little to a Westerner; even when brought up in his own variety of Christianity, he does not think beyond conformity with God’s commandments and Christ’s injunctions. First-hand knowledge of reality is not only beyond ambition, but also beyond conception. Some Indians tell me, “Hopeless. The Westerner will not, for he cannot. Tell him nothing about self-realisation; let him live a useful life and earn a rebirth in India. Only then will he have a chance”. Some say, “Reality is for all equally, but not all are equally endowed with the capacity to grasp it. The capacity comes with desire, which will grow into devotion and ultimately into total self-dedication. With integrity and earnestness and iron determination to overcome all obstacles, the Westerner has the same chance as the Oriental man. All he needs is the rousing of interest”. To rouse his interest in self-knowledge, he needs to be convinced about its advantages.
 
@@ -88,7 +88,7 @@ After all, when I talk of trusting me, it is only for a short time, just enough 
 
 **M:**&ensp;No need of faith which is but expectation of results. Here the action only counts. Whatever you do for the sake of truth will take you to truth. Only be earnest and honest. The shape it takes hardly matters.
 
-**Q:**&ensp;Then where is the need of giving expression to one’s longing?
+**Q:**&ensp;Then where is the need of giveïng expression to one’s longing?
 
 **M:**&ensp;No need. Doïng nothing is as good. Mere longing, undiluted by thought and action, pure, concentrated longing, will take you speedily to your goal. It is the true motive that matters, not the manner.
 

@@ -8,7 +8,7 @@ is reflected.
 
 **Questioner:**&ensp;As I listen to you, I find that it is useless to ask you 
 questions. Whatever the question, you invariably turn it upon itself and bring 
-me to the basic fact that I am living in an illusion of my own making and that 
+me to the basic fact that I am living in an illusion of my own makeïng and that 
 reality is inexpressible in words. Words merely add to the confusion and the 
 only wise course is the silent search within.
 

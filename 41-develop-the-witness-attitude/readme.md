@@ -70,7 +70,7 @@ The entire universe is his body, all life is his life. As in a city of lights, w
 The whole is an abstraction; the particular, the concrete, is real.
 
 **M:**&ensp;That is what you say. To me it may be the other way — the whole is real, but the part comes and goes. 
-The particular is born and reborn, changing name and shape; the *jnani* is the Changeless Reality which makes the changeful possible. 
+The particular is born and reborn, changeïng name and shape; the *jnani* is the Changeless Reality which makes the changeful possible. 
 But he cannot give you the conviction. 
 It must come with your own experiënce. 
 With me all is one, all is equal.

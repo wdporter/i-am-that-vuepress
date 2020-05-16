@@ -1,6 +1,6 @@
 # 70. God Is the End of All Desire and Knowledge
 
-> … God is the end of all desire and knowledge. … All desires must be given up because by desiring you take the shape of your desires. When no desires remain, you revert to your natural state.
+> … God is the end of all desire and knowledge. … All desires must be given up because by desireïng you take the shape of your desires. When no desires remain, you revert to your natural state.
 
 **Maharaj:**&ensp;Where are you coming from? What have you come for?
 
@@ -24,9 +24,9 @@
 
 **M:**&ensp;You must unlearn everything. God is the end of all desire and knowledge.
 
-**Q:**&ensp;You mean to say that I become God merely by giving up the desire to become God?
+**Q:**&ensp;You mean to say that I become God merely by giveïng up the desire to become God?
 
-**M:**&ensp;All desires must be given up because by desiring you take the shape of your desires. When no desires remain, you revert to your natural state.
+**M:**&ensp;All desires must be given up because by desireïng you take the shape of your desires. When no desires remain, you revert to your natural state.
 
 **Q:**&ensp;How do I come to know that I have achieved perfection?
 
@@ -66,13 +66,13 @@
 
 **Q:**&ensp;I came to India in search of a <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span> teacher. I am still in search.
 
-**M:**&ensp;What kind of *yoga* do you want to practice, the *yoga* of getting, or the *yoga* of giving up?
+**M:**&ensp;What kind of *yoga* do you want to practice, the *yoga* of getting, or the *yoga* of giveïng up?
 
 **Q:**&ensp;Don’t they come to the same in the end?
 
 **M:**&ensp;How can they? One enslaves, the other liberates. The motive matters supremely. Freedom comes through renunciätion. All possession is bondage.
 
-**Q:**&ensp;What I have the strength and the courage to hold on to, why should I give it up? And if I have not the strength, how can I give up? I do not understand this need for giving up. When I want something, why should I not pursue it? Renunciätion is for the weak.
+**Q:**&ensp;What I have the strength and the courage to hold on to, why should I give it up? And if I have not the strength, how can I give up? I do not understand this need for giveïng up. When I want something, why should I not pursue it? Renunciätion is for the weak.
 
 **M:**&ensp;If you do not have the wisdom and the strength to give up, just look at your possessions. Your mere looking will burn them up. If you can stand outside your mind, you will soon find that total renunciätion of possessions and desires is the most obviöusly reasonable thing to do. 
 
@@ -90,7 +90,7 @@ You creäte the world and then worry about it. Becoming selfish makes you weak. 
 
 **M:**&ensp;You can have all the emotions you want, but beware of reäctions, of induced emotions. Be entirely self-determined and ruled from within, not from without. 
 
-Merely giving up a thing to secure a better one is not true relinquishment. Give it up because you see its valuelessness. As you continue giving up, you will find that you grow spontaneöusly in intelligence, power and inexhaustible love and joy.
+Merely giveïng up a thing to secure a better one is not true relinquishment. Give it up because you see its valuelessness. As you continue giveïng up, you will find that you grow spontaneöusly in intelligence, power and inexhaustible love and joy.
 
 **Q:**&ensp;Why so much insistence on relinquishing all desires and fears? Are they not natural?
 

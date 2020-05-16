@@ -28,7 +28,7 @@
 
 **Q:**&ensp;The Supreme Reality (<span data-tippy-content="The Supreme Reality.">Parabrahman</span>) may be present in all of us. But of what use is it to us?
 
-**M:**&ensp;You are like a man who says, “I need a place where to keep my things, but of what use is space to me?”, or “I need milk, tea, coffee or soda, but for water I have no use”. Don’t you see that the Supreme Reality is what makes everything possible? But if you ask of what use is it to you, I must answer, “None”. In matters of daily life the knower of the real has no advantage: he may be at a disadvantage rather — beïng free from greed and fear, he does not protect himself. The very idea of profit is foreign to him; he abhors accretions; his life is constant divesting oneself, sharing, giving.
+**M:**&ensp;You are like a man who says, “I need a place where to keep my things, but of what use is space to me?”, or “I need milk, tea, coffee or soda, but for water I have no use”. Don’t you see that the Supreme Reality is what makes everything possible? But if you ask of what use is it to you, I must answer, “None”. In matters of daily life the knower of the real has no advantage: he may be at a disadvantage rather — beïng free from greed and fear, he does not protect himself. The very idea of profit is foreign to him; he abhors accretions; his life is constant divesting oneself, sharing, giveïng.
 
 **Q:**&ensp;If there is no advantage in gaining the Supreme, then why take the trouble?
 
@@ -88,7 +88,7 @@
 
 **Q:**&ensp;There is not enough time to sit and wait for help to happen. One must do something.
 
-**M:**&ensp;By all means — do. But what you can do is limited; the self alone is unlimited. Give limitlessly — of yourself. All else you can give in small measures only. You alone are immeasurable. To help is your very nature. Even when you eat and drink you help your body. For yourself you need nothing. You are pure giving, beginningless, endless, inexhaustible. When you see sorrow and suffering, be with it. Do not rush into activity. Neither learning nor action can really help. Be with sorrow and lay bare its roots — helping to understand is real help.
+**M:**&ensp;By all means — do. But what you can do is limited; the self alone is unlimited. Give limitlessly — of yourself. All else you can give in small measures only. You alone are immeasurable. To help is your very nature. Even when you eat and drink you help your body. For yourself you need nothing. You are pure giveïng, beginningless, endless, inexhaustible. When you see sorrow and suffering, be with it. Do not rush into activity. Neither learning nor action can really help. Be with sorrow and lay bare its roots — helping to understand is real help.
 
 **Q:**&ensp;My death is nearing.
 

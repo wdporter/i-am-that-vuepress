@@ -1,7 +1,7 @@
 # 76. To Know That You Do Not Know Is True Knowledge
 
 >The very admission ‘I am ignorant’ is the dawn of knowledge. 
-An ignorant man is ignorant of his ignorance … 
+An ignorant man is ignorant of his ignoreänce … 
 To know that you do not know and do not understand is true knowledge, the knowledge of a humble heart.
 
 **Maharaj:**&ensp;There is the body. 
@@ -53,7 +53,7 @@ The doïng is the proof of earnestness, not the expecting of grace.
 **M:**&ensp;Assiduöusly investigate everything that crosses your field of attention. 
 With practice, the field will broaden and investigation will deepen until they become spontaneöus and limitless.
 
-**Q:**&ensp;Are you not making realisation the result of practice? 
+**Q:**&ensp;Are you not makeïng realisation the result of practice? 
 Practice operates within the limitations of physical existence. 
 How can it give birth to the unlimited?
 
@@ -146,7 +146,7 @@ It is only when you try to describe and explain that the words fail you.
 **Q:**&ensp;I remember Gandhiji telling me once that the Self is not bound by the law of non-violence (<span data-tippy-content="Non-violence; abstaining from hurting others in thought, words or deed.">ahimsa</span>). 
 The Self has the freedom to impose suffering on its expressions in order to set them right.
 
-**M:**&ensp;On the level of duality it may be so, but in reality there is only the source, dark in itself, making
+**M:**&ensp;On the level of duality it may be so, but in reality there is only the source, dark in itself, makeïng
 everything shine. 
 Unperceived, it causes perception. 
 Unfelt, it causes feeling. 
@@ -166,7 +166,7 @@ I do not say that the same person is reborn.
 It dies and dies for good. 
 But its memories remain and their desires and fears. 
 They supply the energy for a new person. 
-The real takes no part in it, but makes it possible by giving it the light.
+The real takes no part in it, but makes it possible by giveïng it the light.
 
 **Q:**&ensp;My difficulty is this: As I can see, every experiënce is its own reality. 
 It is there — experiënced. 
@@ -248,42 +248,42 @@ There is nothing permanent about me.
 **M:**&ensp;Have a better look at yourself. 
 The screen is there — it does not change. 
 The light shines steadily. 
-Only the film in between keeps moving and causes pictures to appear. 
+Only the film in between keeps moveïng and causes pictures to appear. 
 You may call the film ‘destiny’ (<span data-tippy-content="Destiny, <em>sanchita karma</em> (<em>karma</em> of past lives) that has become the destiny in the present life.">prarabdha</span>).
 
 **Q:**&ensp;What creätes destiny?
 
-**M:**&ensp;Ignorance is the cause of inevitability.
+**M:**&ensp;Ignoreänce is the cause of inevitability.
 
-**Q:**&ensp;Ignorance of what?
+**Q:**&ensp;Ignoreänce of what?
 
-**M:**&ensp;Ignorance of yourself, primarily. 
-Also, ignorance of the true nature of things, of their causes and effects. 
+**M:**&ensp;Ignoreänce of yourself, primarily. 
+Also, ignoreänce of the true nature of things, of their causes and effects. 
 You look round without understanding and take appearances for reality. 
-You believe you know the world and yourself — but it is only your ignorance that makes you say, “I know”. 
+You believe you know the world and yourself — but it is only your ignoreänce that makes you say, “I know”. 
 Begin with the admission that you do not know and start from there. 
 
-There is nothing that can help the world more than your putting an end to ignorance. 
+There is nothing that can help the world more than your putting an end to ignoreänce. 
 Then you need not do anything in particular to help the world. 
 Your very beïng is a help, action or no action.
 
-**Q:**&ensp;How can ignorance be known? 
-To know ignorance presupposes knowledge.
+**Q:**&ensp;How can ignoreänce be known? 
+To know ignoreänce presupposes knowledge.
 
 **M:**&ensp;Quite right. 
 The very admission, “I am ignorant” is the dawn of knowledge. 
-An ignorant man is ignorant of his ignorance. 
-You can say that ignorance does not exist, for the moment it is seen it is no more. 
+An ignorant man is ignorant of his ignoreänce. 
+You can say that ignoreänce does not exist, for the moment it is seen it is no more. 
 Therefore, you may call it unconsciousness or blindness. 
 All you see around and within you is what you do not know and do not understand, without even knowing that you do not know and do not understand. 
 To know that you do not know and do not understand is true knowledge, the knowledge of a humble heart.
 
 **Q:**&ensp;Yes, Christ said, “Blessed are the poor in spirit…”.
 
-**M:**&ensp;Put it as you like; the fact is that knowledge is of ignorance only. 
+**M:**&ensp;Put it as you like; the fact is that knowledge is of ignoreänce only. 
 You know that you do not know.
 
-**Q:**&ensp;Will ignorance ever end?
+**Q:**&ensp;Will ignoreänce ever end?
 
 **M:**&ensp;What is wrong with not knowing? 
 You need not know all. 
@@ -315,7 +315,7 @@ You may not know, nor will the world know, yet the help radiates.
 There are people in the world who do more good than all the statesmen and philanthropists put together. 
 They radiate light and peace with no intention or knowledge. 
 When others tell them about the miracles they worked, they also are wonder struck. 
-Yet, taking nothing as their own, they are neither proud, nor do they crave reputation. 
+Yet, takeïng nothing as their own, they are neither proud, nor do they crave reputation. 
 They are just unable to desire anything for themselves, not even the joy of helping others. 
 Knowing that God is good, they are at peace.
 

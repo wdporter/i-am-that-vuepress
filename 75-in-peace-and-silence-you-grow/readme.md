@@ -5,7 +5,7 @@ In the end you reach a state of non-grasping, of joyful non-attachment, of inner
 
 **Questioner:**&ensp;The Indian tradition tells us that the <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> is indispensable. 
 What is he indispensable for? 
-A mother is indispensable for giving the child a body. 
+A mother is indispensable for giveïng the child a body. 
 But she does not give the soul. 
 Her role is limited. 
 How is it with the *guru*? 
@@ -17,7 +17,7 @@ All others merely show the way.
 
 **Q:**&ensp;I am not concerned with the inner *guru*, only with the one that shows the way. 
 There are people who believe that without a *guru*, <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span> is inaccessible. 
-They are ever in search of the right *guru*, changing one for another. 
+They are ever in search of the right *guru*, changeïng one for another. 
 Of what value are such *guru*s?
 
 **M:**&ensp;They are temporary, time-bounded *guru*s. 
@@ -181,7 +181,7 @@ We just refuse to see that words are mere symbols related by convention and habi
 
 **Q:**&ensp;What is the value of spiritual books?
 
-**M:**&ensp;They help in dispelling ignorance. 
+**M:**&ensp;They help in dispelling ignoreänce. 
 They are useful in the beginning but become a hindrance in the end. 
 One must know when to discard them.
 
@@ -221,7 +221,7 @@ The *guru* is always ready to share, but there are no takers.
 **M:**&ensp;Well, in the course of time everything happens. 
 All will come through — not a single soul (<span data-tippy-content="[<em>Atman</em> + doërship is <em>jiva</em>.] The individual soul. According to <em>Vedanta</em>, <em>jiva</em> comes into beïng as a result of the false identification of the <em>atman</em> with body, senses and mind.">jiva</span>) shall be lost.
 
-**Q:**&ensp;I am very much afraid of taking intellectual understanding for realisation. 
+**Q:**&ensp;I am very much afraid of takeïng intellectual understanding for realisation. 
 I may talk of truth without knowing it, and may know it without a single word beïng said. 
 
 I understand these conversations are goïng to be published. 

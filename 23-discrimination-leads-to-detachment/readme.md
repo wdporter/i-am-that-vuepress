@@ -76,7 +76,7 @@
 
 **M:**&ensp;There is nothing I need to do. They come and go.
 
-**Q:**&ensp;Do they go by the very act of your giving them attention?
+**Q:**&ensp;Do they go by the very act of your giveïng them attention?
 
 **M:**&ensp;Yes. The difficulty may be physical, emotional or mental, but it is always individual. Large-scale calamities are the sum of numberless individual destinies and take time to settle. But death is never a calamity.
 
@@ -112,7 +112,7 @@
 
 **M:**&ensp;Because for the sake of pleasure you are committing many sins. And the fruits of sin are suffering and death.
 
-**Q:**&ensp;You say the world is of no use to us — only a tribulation. I feel it cannot be so. God is not such a fool. The world seems to me a big enterprise for bringing the potential into actual, matter into life, the unconscious into full awareness. To realise the supreme we need the experiënce of the opposites. Just as for building a temple we need stone and mortar, wood and iron, glass and tiles, so for making a man into a divine sage, a master of life and death, one needs the material of every experiënce. As a woman goes to the market, buys provisions of every sort, comes home, cooks, bakes and feeds her lord, so we bake ourselves nicely in the fire of life and feed our God.
+**Q:**&ensp;You say the world is of no use to us — only a tribulation. I feel it cannot be so. God is not such a fool. The world seems to me a big enterprise for bringing the potential into actual, matter into life, the unconscious into full awareness. To realise the supreme we need the experiënce of the opposites. Just as for building a temple we need stone and mortar, wood and iron, glass and tiles, so for makeïng a man into a divine sage, a master of life and death, one needs the material of every experiënce. As a woman goes to the market, buys provisions of every sort, comes home, cooks, bakes and feeds her lord, so we bake ourselves nicely in the fire of life and feed our God.
 
 **M:**&ensp;Well, if you think so, act on it. Feed your God, by all means.
 
@@ -126,7 +126,7 @@
 
 **Q:**&ensp;The world is; I am. These are facts.
 
-**M:**&ensp;Why do you worry about the world before taking care of yourself? You want to save the world, don’t you? Can you save the world before saving yourself? And what does ‘beïng saved’ mean? Saved from what? From illusion. Salvation is to see things as they are. I really do not see myself related to anybody or anything. Not even to a self, whatever that self may be. I remain forever — undefined. I am within and beyond — intimate and unapproachable.
+**M:**&ensp;Why do you worry about the world before takeïng care of yourself? You want to save the world, don’t you? Can you save the world before saving yourself? And what does ‘beïng saved’ mean? Saved from what? From illusion. Salvation is to see things as they are. I really do not see myself related to anybody or anything. Not even to a self, whatever that self may be. I remain forever — undefined. I am within and beyond — intimate and unapproachable.
 
 **Q:**&ensp;How did you come to it?
 

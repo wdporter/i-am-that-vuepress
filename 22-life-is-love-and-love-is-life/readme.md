@@ -64,7 +64,7 @@
 
 **Q:**&ensp;I may come across a beggar, naked and hungry and ask him, “Who are you?”. He may answer, “I am the Supreme Self”. “Well”, I say, “since you are the Supreme, change your present state”. What will he do?
 
-**M:**&ensp;He will ask you, “Which state? What is there that needs changing? What is wrong with me?”.
+**M:**&ensp;He will ask you, “Which state? What is there that needs changeïng? What is wrong with me?”.
 
 **Q:**&ensp;Why should he answer so?
 

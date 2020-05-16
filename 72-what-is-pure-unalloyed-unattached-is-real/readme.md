@@ -80,7 +80,7 @@ impersonal, of impersonal beïng. It is all quite simple. Turn away from your
 desires and fears and from the thoughts they creäte and you are at once in 
 your natural state.
 
-**Q:**&ensp;No question of reconditioning, changing or eliminating the mind?
+**Q:**&ensp;No question of reconditioning, changeïng or eliminating the mind?
 
 **M:**&ensp;Absolutely none. Leave your mind alone, that is all. Don’t go 
 along with it. After all there is no such thing as mind apart from thoughts 
@@ -114,7 +114,7 @@ give you must have, and to have you must take. Better not to take. It is
 simpler than to practice renunciätion, which leads to a dangerous form of 
 ‘spiritual’ pride. 
 
-All this weighing, selecting, choosing, exchanging — it is all shopping in 
+All this weighing, selecting, choosing, exchangeïng — it is all shopping in 
 some ‘spiritual’ market. What is your business there? What deal are you out to 
 strike? When you are not out for business, what is the use of this endless 
 anxiety of choice? Restlessness takes you nowhere. Something prevents you from 
@@ -191,9 +191,9 @@ beauty — are reflections of the real in the world. No real — no reflection.
 imagine it non-existent?
 
 **M:**&ensp;Leave the desirables to those who desire. Change the current of 
-your desire from taking to giving. The passion for giving, for sharing, will 
+your desire from takeïng to giveïng. The passion for giveïng, for sharing, will 
 naturally wash the idea of an external world out of your mind, and the idea of 
-giving as well. Only the pure radiance of love, beyond giving and receiving, 
+giveïng as well. Only the pure radiance of love, beyond giveïng and receiving, 
 will remain.
 
 **Q:**&ensp;In love there must be duality; the lover and the beloved.
@@ -263,7 +263,7 @@ of. Fearlessness is the door to the Supreme.
 **M:**&ensp;Fearlessness comes by itself when you see that there is nothing to 
 be afraid of. When you walk on a crowded street, you just bypass people. Some 
 you see, some you just glance at, but you do not stop. It is the stopping that 
-creätes the bottleneck. Keep moving! Disregard names and shapes, don’t be 
+creätes the bottleneck. Keep moveïng! Disregard names and shapes, don’t be 
 attached to them; your attachment is your bondage.
 
 **Q:**&ensp;What should I do when a man slaps me on my face?
@@ -384,7 +384,7 @@ act accordingly.
 
 **Q:**&ensp;Where do I come in?
 
-**M:**&ensp;You make it possible by giving it attention.
+**M:**&ensp;You make it possible by giveïng it attention.
 
 **Q:**&ensp;Is there no such thing as free will? Am I not free to desire?
 

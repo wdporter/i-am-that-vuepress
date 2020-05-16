@@ -112,7 +112,7 @@
 
 **Q:**&ensp;By what sign do you recognise it?
 
-**M:**&ensp;That’s the point: it leaves no traces. There is nothing to recognise it by. It must be seen directly, by giving up all search for signs and approaches. When all names and forms have been given up, the real is with you. You need not seek it. Plurality and diversity are the play of the mind only. Reality is one.
+**M:**&ensp;That’s the point: it leaves no traces. There is nothing to recognise it by. It must be seen directly, by giveïng up all search for signs and approaches. When all names and forms have been given up, the real is with you. You need not seek it. Plurality and diversity are the play of the mind only. Reality is one.
 
 **Q:**&ensp;If reality leaves no evidence, there is no speaking about it.
 
@@ -128,7 +128,7 @@
 
 **Q:**&ensp;What is the place of <span data-tippy-content="Superconscious state, profound meditation, trance, rapturous absorption. A practice of <em>yoga</em> in which the seeker (<em>sadhaka</em>) becomes one with the object of his meditation (<em>sadhya</em>), thus attaining unqualified bliss. “<em>Samadhi</em> is a state in which you transcend the bounds of your body, mind and self-identity, and merge into an undifferentiated unity with all that is”.">samadhi</span>?
 
-**M:** Not making use of one’s consciousness is *samadhi*. You just leave your mind alone. You want nothing, neither from your body nor from your mind.
+**M:** Not makeïng use of one’s consciousness is *samadhi*. You just leave your mind alone. You want nothing, neither from your body nor from your mind.
 
 <script>
 export default {

@@ -1,7 +1,7 @@
-# 43. Ignorance Can Be Recognised, Not *Jnana*
+# 43. Ignoreänce Can Be Recognised, Not *Jnana*
 
 >There are no distinctive marks of <span style=font-style:normal>jnana</span>. 
-Only ignorance can be recognised, not <span style=font-style:normal>jnana</span>. 
+Only ignoreänce can be recognised, not <span style=font-style:normal>jnana</span>. 
 Nor does a <span style=font-style:normal>jnani</span> claim to be something special. 
 All those who proclaim their own greatness and uniqueness are not <span style=font-style:normal>jnani</span>s.
 
@@ -17,19 +17,19 @@ Who is a realised man?
 By what is the <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”. (<em>jna</em>, to know; <em>jnani</em>, the knower.)">jnani</span> recognised?
 
 **M:**&ensp;There are no distinctive marks of <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”. (<em>jna</em>, to know; <em>jnani</em>, the knower.)">jnana</span>. 
-Only ignorance can be recognised, not *jnana*. 
+Only ignoreänce can be recognised, not *jnana*. 
 Nor does a *jnani* claim to be something special. 
 All those who proclaim their own greatness and uniqueness are not *jnani*s. 
-They are mistaking some unusual development for realisation. T
+They are mistakeïng some unusual development for realisation. T
 he *jnani* shows no tendency to proclaim himself to be a *jnani*. 
 He considers himself to be perfectly normal, true to his real nature. 
-Proclaiming oneself to be an omnipotent, omniscient and omnipotent deity is a clear sign of ignorance.
+Proclaiming oneself to be an omnipotent, omniscient and omnipotent deity is a clear sign of ignoreänce.
 
 **Q:**&ensp;Can the *jnani* convey his experiënce to the ignorant? 
 Can *jnana* be transmitted from one man to another?
 
 **M:**&ensp;Yes, it can. 
-The words of a *jnani* have the power of dispelling ignorance and darkness in the mind. 
+The words of a *jnani* have the power of dispelling ignoreänce and darkness in the mind. 
 It is not the words that matter, but the power behind them.
 
 **Q:**&ensp;What is that power?
@@ -192,7 +192,7 @@ Give up all ideas about yourself and simply *be*.
 **Q:**&ensp;I am tired of all the ways and means and skills and tricks, of all these mental acrobatics. 
 Is there a way to perceive reality directly and immediately?
 
-**M:**&ensp;Stop making use of your mind and see what happens. 
+**M:**&ensp;Stop makeïng use of your mind and see what happens. 
 Do this one thing thoroughly. 
 That is all.
 

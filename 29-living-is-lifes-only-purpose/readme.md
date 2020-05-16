@@ -22,11 +22,11 @@ Yet, all this is so in the mind only. As I see it, there is really nothing of th
 
 **Q:**&ensp;Just as a child cannot help growing, so does a man, compelled by nature, make progress. Why exert oneself? Where is the need of *yoga*?
 
-**M:**&ensp;There is progress all the time. Everything contributes to progress. But this is the progress of ignorance. The circles of ignorance may be ever widening, yet it remains a bondage all the same. In due course a <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> appears to teach and inspire us to practise *yoga* and a ripening takes place; as a result of which, the immemorial night of ignorance dissolves before the rising sun of wisdom. But in reality nothing happened. The sun is always there, there is no night to it; the mind, blinded by the ‘I am the body’ idea, spins out endlessly its thread of illusion.
+**M:**&ensp;There is progress all the time. Everything contributes to progress. But this is the progress of ignoreänce. The circles of ignoreänce may be ever widening, yet it remains a bondage all the same. In due course a <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> appears to teach and inspire us to practise *yoga* and a ripening takes place; as a result of which, the immemorial night of ignoreänce dissolves before the rising sun of wisdom. But in reality nothing happened. The sun is always there, there is no night to it; the mind, blinded by the ‘I am the body’ idea, spins out endlessly its thread of illusion.
 
 **Q:**&ensp;If all is a part of a natural process, where is the need of effort?
 
-**M:**&ensp;Even effort is a part of it. When ignorance becomes obstinate and hard and the character gets perverted, effort and the pain of it become inevitable. In complete obedience to nature there is no effort. The seed of spiritual life grows in silence and in darkness until its appointed hour.
+**M:**&ensp;Even effort is a part of it. When ignoreänce becomes obstinate and hard and the character gets perverted, effort and the pain of it become inevitable. In complete obedience to nature there is no effort. The seed of spiritual life grows in silence and in darkness until its appointed hour.
 
 **Q:**&ensp;We come across some great people, who, in their old age, become childish, petty, quarrelsome and spiteful. How could they deteriorate so much?
 
@@ -40,7 +40,7 @@ Yet, all this is so in the mind only. As I see it, there is really nothing of th
 
 **M:**&ensp;Who sets the example? Why should a liberated man necessarily follow conventions? The moment he becomes predictable, he cannot be free. His freedom lies in his beïng free to fulfil the need of the moment, to obey the necessity of the situätion. Freedom to do what one likes is really bondage, while beïng free to do what one must, what is right, is real freedom.
 
-**Q:**&ensp;Still there must be some way of making out who has realised and who has not. If one is indistinguishable from the other, of what use is he?
+**Q:**&ensp;Still there must be some way of makeïng out who has realised and who has not. If one is indistinguishable from the other, of what use is he?
 
 **M:**&ensp;He who knows himself has no doubts about it. Nor does he care whether others recognise his state or not. Rare is the realised man who discloses his realisation and fortunate are those who have met him, for he does it for their abiding welfare.
 
@@ -74,7 +74,7 @@ Yet, all this is so in the mind only. As I see it, there is really nothing of th
 
 **Q:**&ensp;Will this stupidity ever come to an end?
 
-**M:**&ensp;In man — of course. Any moment. In humanity (as we know it) — after very many years. In creätion — never, for creätion itself is rooted in ignorance; matter itself is ignorance. Not to know, and not to know that one does not know, is the cause of endless suffering.
+**M:**&ensp;In man — of course. Any moment. In humanity (as we know it) — after very many years. In creätion — never, for creätion itself is rooted in ignoreänce; matter itself is ignoreänce. Not to know, and not to know that one does not know, is the cause of endless suffering.
 
 **Q:**&ensp;We are told of the great <span data-tippy-content="Incarnation.">avatar</span>s, the saviours of the world.
 

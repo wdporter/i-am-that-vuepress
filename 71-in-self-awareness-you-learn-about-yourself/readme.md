@@ -65,9 +65,9 @@ in you as a person. Not at all. To him you are a nuisance and a hindrance to be 
 
 **M:**&ensp;The mind covers up reality without knowing it. To know the nature of the mind you need intelligence, the capacity to look at the mind in silent and dispassionate awareness.
 
-**Q:**&ensp;If I am of the nature of all-pervading consciousness, how could ignorance and illusion happen to me?
+**Q:**&ensp;If I am of the nature of all-pervading consciousness, how could ignoreänce and illusion happen to me?
 
-**M:**&ensp;Neither ignorance nor illusion ever happened to you. Find the self to which you ascribe ignorance and illusion and your question will be answered. You talk as if you know the self and see it to be under the sway of ignorance and illusion. But, in fact, you do not know the self, nor are you aware of ignorance. By all means become aware — this will bring you to the self and you will realise that there is neither ignorance nor delusion in it. It is like saying, “If there is sun, how can darkness be?”. As under a stone there will be darkness however strong the sunlight, so in the shadow of the ‘I am the body’ consciousness there must be ignorance and illusion.
+**M:**&ensp;Neither ignoreänce nor illusion ever happened to you. Find the self to which you ascribe ignoreänce and illusion and your question will be answered. You talk as if you know the self and see it to be under the sway of ignoreänce and illusion. But, in fact, you do not know the self, nor are you aware of ignoreänce. By all means become aware — this will bring you to the self and you will realise that there is neither ignoreänce nor delusion in it. It is like saying, “If there is sun, how can darkness be?”. As under a stone there will be darkness however strong the sunlight, so in the shadow of the ‘I am the body’ consciousness there must be ignoreänce and illusion.
 
 **Q:**&ensp;But why did the body consciousness come into beïng?
 
@@ -133,7 +133,7 @@ in you as a person. Not at all. To him you are a nuisance and a hindrance to be 
 
 **M:**&ensp;As long as you believe yourself to be a body, you will ascribe causes to everything. I do not say things have no causes. Each thing has innumerable causes. It is as it is, because the world is as it is. Every cause in its ramifications covers the universe. 
 
-When you realise that you are absolutely free to be what you consent to be and that you appear to be because of ignorance or indifference, you are free to revolt and change. You allow yourself to be what you are not. You are looking for the causes of beïng what you are not! It is a futile search. There are no causes except your ignorance of your real beïng, which is perfect and beyond all causation. For whatever happens, all the universe is responsible and you are the source of the universe.
+When you realise that you are absolutely free to be what you consent to be and that you appear to be because of ignoreänce or indifference, you are free to revolt and change. You allow yourself to be what you are not. You are looking for the causes of beïng what you are not! It is a futile search. There are no causes except your ignoreänce of your real beïng, which is perfect and beyond all causation. For whatever happens, all the universe is responsible and you are the source of the universe.
 
 **Q:**&ensp;I know nothing about beïng the cause of the universe.
 

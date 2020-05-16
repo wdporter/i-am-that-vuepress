@@ -6,7 +6,7 @@ actuality; it stands out as if illuminated. There is the ‘stamp of reality’ 
 the actual, which the past and the future do not have.
 
 **Questioner:**&ensp;As I can see, there is nothing wrong with my body or with 
-my real beïng. Both are not of my making and need not be improved upon. What 
+my real beïng. Both are not of my makeïng and need not be improved upon. What 
 has gone wrong is the ‘inner body’, call it mind, consciousness, <span 
 data-tippy-content="The psyche, mind. Mind in a collective sense, including 
 intelligence (<em>buddhi</em>), ego (<em>ahamkara</em>) and mind 
@@ -62,7 +62,7 @@ momentary reality to the transient actuality.
 
 **M:**&ensp;You need not say it is unknown, for you see it in constant 
 operation. Since you were born, has it ever changed? Things and thoughts have 
-been changing all the time. But the feeling that what is now is real has never 
+been changeïng all the time. But the feeling that what is now is real has never 
 changed, even in dream.
 
 **Q:**&ensp;In deep sleep there is no experiënce of the present reality.

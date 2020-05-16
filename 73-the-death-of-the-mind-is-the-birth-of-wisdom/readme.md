@@ -17,7 +17,7 @@ is the witness that makes realisation desirable and attainable.
 
 **M:**&ensp;Oh, no. The person by itself will not become the witness. It is 
 like expecting a cold candle to start burning in the course of time. The 
-person can stay in the darkness of ignorance forever unless the flame of 
+person can stay in the darkness of ignoreänce forever unless the flame of 
 awareness touches it.
 
 **Q:**&ensp;Who lights the candle?
@@ -293,12 +293,12 @@ cannot discuss with you!
 **M:**&ensp;The desire to discuss is also mere desire. The desire to know, to 
 have the power, even the desire to exist are desires only. Everybody desires 
 to *be*, to survive, to continue, for no one is sure of himself. But everybody 
-is immortal. You make yourself mortal by taking yourself to be the body.
+is immortal. You make yourself mortal by takeïng yourself to be the body.
 
 **Q:**&ensp;Since you have found your freedom, will you not give me a little 
 of it?
 
-**M:**&ensp;Why little? Take the whole. Take it — it is there for the taking. 
+**M:**&ensp;Why little? Take the whole. Take it — it is there for the takeïng. 
 But you are afraid of freedom!
 
 **Q:**&ensp;Swami Ramdas had to deal with a similar request. Some devotees 
@@ -312,7 +312,7 @@ offer is withdrawn”.
 The taker is absent. Freedom means letting go. People just do not care to let 
 go everything. They do not know that the finite is the price of the infinite, 
 as death is the price of immortality. Spiritual maturity lies in the readiness 
-to let go of everything. The giving up is the first step. But the real giving 
+to let go of everything. The giveïng up is the first step. But the real giveïng 
 up is in realising that there is nothing to give up, for nothing is your own. 
 It is like deep sleep — you do not give up your bed when you fall sleep — you 
 just forget it.

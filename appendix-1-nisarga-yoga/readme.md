@@ -18,7 +18,7 @@ humble working people cherishing the opportunity of spending an hour with him fr
 Simplicity and humility are the keynotes of his life and teachings; physically and inwardly he never
 takes the higher seat; the essence of beïng on which he talks, he sees in others as clearly as he
 sees it in himself. He admits that while he is aware of it, others are not yet, but this difference is
-temporary and of little importance, except to the mind and its ever-changing content. When asked
+temporary and of little importance, except to the mind and its ever-changeïng content. When asked
 about his Yoga, he says he has none to offer, no system t propound, no theology, cosmology,
 psychology or philosophy. He knows the real nature -- his own and his listeners’ -- and he points it
 out. The listener cannot see it because he cannot see the obviöus, simply and directly. All he

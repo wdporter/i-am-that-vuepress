@@ -103,7 +103,7 @@ energy is infinite — because He wants nothing for Himself. Be like Him and all
 your desires will be fulfilled. The higher your aims and vaster your desires, 
 the more energy you will have for their fulfillment. Desire the good of all 
 and the universe will work with you. But if you want your own pleasure, you 
-must earn it the hard way. Before desiring, deserve.
+must earn it the hard way. Before desireïng, deserve.
 
 **Q:**&ensp;I am engaged in the study of philosophy, sociology and education. 
 I think more mental development is needed before I can dream of 
@@ -126,7 +126,7 @@ mind, a well-furnished mind is not needed.
 
 **M:**&ensp;There are many starting points — they all lead to the same goal. 
 You may begin with selfless work, abandoning the fruits of action; you may 
-then give up thinking and end in giving up all desires. Here, giving up (<span 
+then give up thinking and end in giveïng up all desires. Here, giveïng up (<span 
 data-tippy-content="Renunciätion. <em>Tyaga</em> is the renunciätion of the 
 fruits of all works: i.e., the <em>tyagi</em> should perform <em>karma</em> 
 with detachment and with no desire for results.">tyaga</span>) is the 

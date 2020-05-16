@@ -102,7 +102,7 @@ After a day’s work sleep comes.
 Now, do I go to sleep or does inadvertence — characteristic of the sleeping state — come to me? 
 In other words, we are awake because we are asleep. 
 We do not wake up into a really waking state. 
-In the waking state, the world emerges due to ignorance and takes one into a waking-dream state. 
+In the waking state, the world emerges due to ignoreänce and takes one into a waking-dream state. 
 Both sleep and waking are misnomers. 
 We are only dreaming. 
 True waking and true sleeping only the <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> knows. 
@@ -123,7 +123,7 @@ All I ask you to do is to look at yourself, towards yourself, into yourself.
 **Q:**&ensp;To what purpose?
 
 **M:**&ensp;You live, you feel, you think. 
-By giving attention to your living, feeling and thinking, you free yourself from them and go beyond them. 
+By giveïng attention to your living, feeling and thinking, you free yourself from them and go beyond them. 
 Your personality dissolves and only the witness remains. 
 Then you go beyond the witness. 
 Do not ask how it happens. 

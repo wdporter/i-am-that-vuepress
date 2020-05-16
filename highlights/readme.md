@@ -8,7 +8,7 @@ are all the bodies, hearts and minds, and much more. Go deep into the sense of
 ‘I am’ and you will find it. How do you find a thing that you have mislaid or 
 forgotten? You keep it in your mind until you recall it. The sense of beïng, 
 of ‘I am’, is the first to emerge. Ask yourself whence it comes or just watch 
-it quietly. When the mind stays in the ‘I am’ without moving, you enter a 
+it quietly. When the mind stays in the ‘I am’ without moveïng, you enter a 
 state which cannot be verbalised, but can be experiënced. All you need to do 
 is to try and try again. After all, the sense ‘I am’ is always with you, only 
 you have attached all kinds of things to it: body, feelings, thoughts, ideas, 
@@ -38,7 +38,7 @@ difference between us is that I am aware of my natural state, while you are
 bemused. Just like gold made into ornaments has no advantage over gold dust 
 except when the mind makes it so, so are we one in beïng — we differ only in 
 appearance. We discover it by beïng earnest, by searching, enquiring, 
-questioning daily and hourly, by giving one’s life to this discovery.
+questioning daily and hourly, by giveïng one’s life to this discovery.
 
 
 ## [3. The Living Present](/3-the-living-present/)
@@ -103,7 +103,7 @@ which the all-embracing consciousness is the manifestation and expression.
 
 **Q:**&ensp;Even when they are justified?
 
-**M:**&ensp;Emotional reäctions, born of ignorance or inadvertence, are never justified. Seek a clear mind and a clean heart. All you need is to keep quietly alert, enquiring into the real nature of yourself. This is the only way to peace.
+**M:**&ensp;Emotional reäctions, born of ignoreänce or inadvertence, are never justified. Seek a clear mind and a clean heart. All you need is to keep quietly alert, enquiring into the real nature of yourself. This is the only way to peace.
 
 
 ## [10. Witnessing](/10-witnessing/)
@@ -301,7 +301,7 @@ disturbance, that is all. To seek there is no need — you would not seek what
 you already have. You yourself are God, the Supreme Reality. To begin with, 
 trust me, trust the Teacher. It enables you to make the first step — and then 
 your trust is justified by your own experiënce. In every walk of life, initial 
-trust is essential; without it little can be done. Every undertaking is an act 
+trust is essential; without it little can be done. Every undertakeïng is an act 
 of faith. Even your daily bread you eat on trust! By remembering what I told 
 you, you will achieve everything. I am telling you again: You are the 
 all-pervading, all transcending reality. Behave accordingly: Think, feel and 
@@ -350,7 +350,7 @@ subject of all that happens; once having turned within, you will find yourself b
 
 **Q:**&ensp;How does one reach the Supreme State?
 
-**M:**&ensp;By renouncing all lesser desires. As long as you are pleased with the lesser, you cannot have the highest. Whatever pleases you keeps you back. Until you realise the unsatisfactoriness of everything, its transiency and limitation, and collect your energies in one great longing, even the first step is not made. On the other hand, the integrity of the desire for the Supreme is by itself a call from the Supreme. Nothing, physical or mental, can give you freedom. You are free once you understand that your bondage is of your own making and you cease forging the chains that bind you.
+**M:**&ensp;By renouncing all lesser desires. As long as you are pleased with the lesser, you cannot have the highest. Whatever pleases you keeps you back. Until you realise the unsatisfactoriness of everything, its transiency and limitation, and collect your energies in one great longing, even the first step is not made. On the other hand, the integrity of the desire for the Supreme is by itself a call from the Supreme. Nothing, physical or mental, can give you freedom. You are free once you understand that your bondage is of your own makeïng and you cease forging the chains that bind you.
 
 
 ## [65. A Quiet Mind Is All You Need](/65-a-quiet-mind-is-all-you-need/)
@@ -421,7 +421,7 @@ You are so accustomed to think of yourselves as bodies having consciousness that
 
 **Q:**&ensp;Where do I come in?
 
-**M:**&ensp;You make it possible by giving it attention.
+**M:**&ensp;You make it possible by giveïng it attention.
 
 
 ## [73. The Death of the Mind Is Birth of Wisdom](/73-the-death-of-the-mind-is-birth-of-wisdom/)

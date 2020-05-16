@@ -140,7 +140,7 @@
 
 **Q:**&ensp;Even when they are justified?
 
-**M:**&ensp;Emotional reäctions, born of ignorance or inadvertence, are never justified. Seek a clear mind and a clean heart. All you need is to keep quietly alert, enquiring into the real nature of yourself. This is the only way to peace.
+**M:**&ensp;Emotional reäctions, born of ignoreänce or inadvertence, are never justified. Seek a clear mind and a clean heart. All you need is to keep quietly alert, enquiring into the real nature of yourself. This is the only way to peace.
 
 <script>
 export default {

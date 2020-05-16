@@ -70,7 +70,7 @@ You say you want to pacify your mind. Is he who wants to pacify the mind himself
 
 **Q:**&ensp;I am trying to rejoin the personality back to the real self.
 
-**M:**&ensp;The personality (<span data-tippy-content="Person, the outer self.">vyakti</span>) is but a product of imagination. The self (<span data-tippy-content="Manifest matter, the evolved nature. Opposite is <em>avyakta</em>.">vyakta</span>) is the victim of this imagination. It is the taking yourself to be what you are not that binds you. The person cannot be said to exist in its own; it is the self that believes there is a person and is conscious of beïng it. Beyond the self lies the unmanifested (<span data-tippy-content="Unmanifest. Opposite is <em>vyakta</em>.">avyakta</span>), the causeless cause of everything. Even to talk of reüniting the person with the self is not right, because there is no person, only a mental picture given a false reality by conviction. Nothing was divided and there is nothing to unite.
+**M:**&ensp;The personality (<span data-tippy-content="Person, the outer self.">vyakti</span>) is but a product of imagination. The self (<span data-tippy-content="Manifest matter, the evolved nature. Opposite is <em>avyakta</em>.">vyakta</span>) is the victim of this imagination. It is the takeïng yourself to be what you are not that binds you. The person cannot be said to exist in its own; it is the self that believes there is a person and is conscious of beïng it. Beyond the self lies the unmanifested (<span data-tippy-content="Unmanifest. Opposite is <em>vyakta</em>.">avyakta</span>), the causeless cause of everything. Even to talk of reüniting the person with the self is not right, because there is no person, only a mental picture given a false reality by conviction. Nothing was divided and there is nothing to unite.
 
 **Q:**&ensp;*Yoga* helps in the search for and the finding of the self.
 
@@ -96,9 +96,9 @@ You say you want to pacify your mind. Is he who wants to pacify the mind himself
 
 **M:**&ensp;In life nothing can be had without overcoming obstacles. The obstacles to the clear perception of one’s true beïng are desire for pleasure and fear of pain. It is the pleasure–pain motivation that stands in the way. The very freedom from all motivation, the state in which no desire arises is the natural state.
 
-**Q:**&ensp;Such giving up of desires — does it need time?
+**Q:**&ensp;Such giveïng up of desires — does it need time?
 
-**M:**&ensp;If you leave it to time, millions of years will be needed. Giving up desire after desire is a lengthy process with the end never in sight. Leave alone your desires and fears and give your entire attention to the subject, to he who is behind the experiënce of desire and fear. Ask: “who desires?”. Let each desire bring you back to yourself.
+**M:**&ensp;If you leave it to time, millions of years will be needed. Giveïng up desire after desire is a lengthy process with the end never in sight. Leave alone your desires and fears and give your entire attention to the subject, to he who is behind the experiënce of desire and fear. Ask: “who desires?”. Let each desire bring you back to yourself.
 
 **Q:**&ensp;The root of all desires and fears is the same — the longing for happiness.
 
@@ -110,7 +110,7 @@ You say you want to pacify your mind. Is he who wants to pacify the mind himself
 
 **Q:**&ensp;Well, pleasure may be imaginary, but pain is real.
 
-**M:**&ensp;Pain and pleasure go always together. Freedom from one means freedom from both. If you do not care for pleasure, you will not be afraid of pain. But there is happiness which is neither, which is completely beyond. The happiness you know is describable and measurable. It is objective, so to speak. But the objective cannot be your own. It would be a grievous mistake to identify yourself with something external. This churning up of levels leads nowhere. Reality is beyond the subjective and objective, beyond all levels, beyond every distinction. Most definitely it is not their origin, source or root. These come from ignorance of reality, not from reality itself, which is indescribable, beyond beïng and not-beïng.
+**M:**&ensp;Pain and pleasure go always together. Freedom from one means freedom from both. If you do not care for pleasure, you will not be afraid of pain. But there is happiness which is neither, which is completely beyond. The happiness you know is describable and measurable. It is objective, so to speak. But the objective cannot be your own. It would be a grievous mistake to identify yourself with something external. This churning up of levels leads nowhere. Reality is beyond the subjective and objective, beyond all levels, beyond every distinction. Most definitely it is not their origin, source or root. These come from ignoreänce of reality, not from reality itself, which is indescribable, beyond beïng and not-beïng.
 
 **Q:**&ensp;Many teachers have I followed and many doctrines have I studied, yet none gave me what I wanted.
 
@@ -130,7 +130,7 @@ You say you want to pacify your mind. Is he who wants to pacify the mind himself
 
 **Q:**&ensp;I am not talking of pleasing, but I am all for helping others.
 
-**M:**&ensp;The only help worth giving is freeïng from the need for further help. Repeated help is no help at all. Do not talk of helping another unless you can put him beyond all need of help. 
+**M:**&ensp;The only help worth giveïng is freeïng from the need for further help. Repeated help is no help at all. Do not talk of helping another unless you can put him beyond all need of help. 
 
 **Q:**&ensp;How does one go beyond the need of help? And can one help another to do so?
 

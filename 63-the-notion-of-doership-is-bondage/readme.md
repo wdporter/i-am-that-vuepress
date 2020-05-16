@@ -18,7 +18,7 @@
 
 **M:**&ensp;There is only life. There is nobody who lives a life.
 
-**Q:**&ensp;That we understand, yet constantly we make attempts to live our lives instead of just living. Making plans for the future seems to be an inveterate habit with us.
+**Q:**&ensp;That we understand, yet constantly we make attempts to live our lives instead of just living. Makeïng plans for the future seems to be an inveterate habit with us.
 
 **M:**&ensp;Whether you plan or not, life goes on. But in life itself a little eddy arises in the mind which indulges in fantasies and imagines itself dominating and controlling life. 
 
@@ -32,7 +32,7 @@ Once you realise that all comes from within, that the world in which you live ha
 
 **Q:**&ensp;Why should I imagine myself to be so wretched?
 
-**M:**&ensp;You do it by habit only. Change your ways of feeling and thinking; take stock of them and examine them closely. You are in bondage by inadvertence. Attention liberates. You are taking so many things for granted. Begin to question. The most obvious things are the most doubtful. Ask yourself such questions as: “Was I really born?”. “Am I really so-and-so?”. “How do I know that I exist?”. “Who are my parents?”. “Have they creäted me, or have I creäted them?”. “Must I believe all I am told
+**M:**&ensp;You do it by habit only. Change your ways of feeling and thinking; take stock of them and examine them closely. You are in bondage by inadvertence. Attention liberates. You are takeïng so many things for granted. Begin to question. The most obvious things are the most doubtful. Ask yourself such questions as: “Was I really born?”. “Am I really so-and-so?”. “How do I know that I exist?”. “Who are my parents?”. “Have they creäted me, or have I creäted them?”. “Must I believe all I am told
 about myself?”. “Who am I, anyhow?”. 
 
 You have put so much energy into building a prison for yourself. Now spend as much on demolishing it. In fact, demolition is easy, for the false dissolves when it is discovered. All hangs on the idea ‘I am’. Examine it very thoroughly. It lies at the root of every trouble. It is a sort of skin that separates you from the reality. The real is both within and without the skin, but the skin itself is not real. This ‘I am’ idea was not born with you. You could have lived very well without it. It came later due to your self-identification with the body. It creäted an illusion of separation where there was none. It made you a stranger in your own world and made the world alien and inimical. Without the sense of ‘I am’ life goes on. There are moments when we are without the sense of ‘I am’, at peace and happy. With the return of the ‘I am’, trouble starts.

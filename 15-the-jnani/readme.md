@@ -48,7 +48,7 @@
 
 **Q:**&ensp;It cannot be so bad! I exist in your world as you exist in mine.
 
-**M:**&ensp;You have no evidence of my world. You are completely wrapped up in the world of your own making.
+**M:**&ensp;You have no evidence of my world. You are completely wrapped up in the world of your own makeïng.
 
 **Q:**&ensp;I see. Completely, but — hopelessly?
 
