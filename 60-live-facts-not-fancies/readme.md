@@ -2,7 +2,7 @@
 
 >…facts are real! I live among them. But you live with fancies, not with facts. Facts never clash, while your life and world are full of contradictions. Contradiction is the mark of the false; the real never contradicts itself.
 
-**Questioner:**&ensp;You say that whatever you see is yourself. You also admit that you see the world as we see it. Here is today’s newspaper with all the horrors going on. Since the world is yourself, how can you explain such misbehaviour?
+**Questioner:**&ensp;You say that whatever you see is yourself. You also admit that you see the world as we see it. Here is today’s newspaper with all the horrors goïng on. Since the world is yourself, how can you explain such misbehaviour?
 
 **Maharaj:**&ensp;Which world do you have in mind?
 
@@ -70,7 +70,7 @@ For instance, you complain that people are abjectly poor. Yet you do not share y
 
 **Q:**&ensp;Or kills.
 
-**M:**&ensp;In some cases death is the best cure. A life may be worse than death, which is but rarely an unpleasant experience, whatever the appearances. Therefore, pity the living, never the dead. This problem of things beïng good and evil in themselves does not exist in my world. The needful is good and the needless is evil. In your world the pleasant is good and the painful is evil.
+**M:**&ensp;In some cases death is the best cure. A life may be worse than death, which is but rarely an unpleasant experiënce, whatever the appearances. Therefore, pity the living, never the dead. This problem of things beïng good and evil in themselves does not exist in my world. The needful is good and the needless is evil. In your world the pleasant is good and the painful is evil.
 
 **Q:**&ensp;What is necessary?
 

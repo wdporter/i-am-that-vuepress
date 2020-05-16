@@ -15,8 +15,8 @@ The words permanent or eternal do not apply.
 What keeps the body sensitive and receptive?
 
 **M:**&ensp;Surely you cannot say the knower was absent. 
-The experience of things and thoughts was not there, that is all. 
-But the absence of experience is also experience. 
+The experiënce of things and thoughts was not there, that is all. 
+But the absence of experiënce is also experiënce. 
 It is like entering a dark room and saying, “I see nothing”. 
 A man blind from birth knows not what darkness means. 
 Similarly, only the knower knows that he does not know. 
@@ -86,7 +86,7 @@ Take the first step first.
 All blessings come from within. 
 Turn within. 
 ‘I am’ you know. 
-Be with it all the time you can spare, until you revert to it spontaneously. 
+Be with it all the time you can spare, until you revert to it spontaneöusly. 
 There is no simpler and easier way.
 
 <script>

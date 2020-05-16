@@ -22,13 +22,13 @@
 
 **M:**&ensp;It is the homing instinct which makes the bird return to its nest and the fish to the mountain stream where it was born. The seed returns to the earth when the fruit is ripe. Ripeness is all.
 
-**Q:**&ensp;And what will ripen me? Do I need experience?
+**Q:**&ensp;And what will ripen me? Do I need experiënce?
 
-**M:**&ensp;You already have all the experience you need, otherwise you would not have come here. You need not gather any more, rather you must go beyond experience. Whatever effort you make, whatever method (<span data-tippy-content="The practice which produces success, <em>siddhi</em>.">sadhana</span>) you follow will merely generate more experience but will not take you beyond. Nor will reading books help you. They will enrich your mind, but the person you are will remain intact. If you expect any benefits from your search — material, mental or spiritual — you have missed the point. Truth gives no advantage. It gives you no higher status, no power over others; all you get is truth and the freedom from the false.
+**M:**&ensp;You already have all the experiënce you need, otherwise you would not have come here. You need not gather any more, rather you must go beyond experiënce. Whatever effort you make, whatever method (<span data-tippy-content="The practice which produces success, <em>siddhi</em>.">sadhana</span>) you follow will merely generate more experiënce but will not take you beyond. Nor will reading books help you. They will enrich your mind, but the person you are will remain intact. If you expect any benefits from your search — material, mental or spiritual — you have missed the point. Truth gives no advantage. It gives you no higher status, no power over others; all you get is truth and the freedom from the false.
 
 **Q:**&ensp;Surely truth gives you the power to help others.
 
-**M:**&ensp;This is mere imagination, however noble! In truth you do not help others because there are no others. You divide people into noble and ignoble and you ask the noble to help the ignoble. You separate, you evaluate, you judge and condemn — in the name of truth, you destroy it. Your very desire to formulate truth denies it because it cannot be contained in words. Truth can be expressed only by the denial of the false — in action. For this you must see the false as false (*viveka*) and reject it (*vairagya*). Renunciation of the false is liberating and energising. It lays open the road to perfection.
+**M:**&ensp;This is mere imagination, however noble! In truth you do not help others because there are no others. You divide people into noble and ignoble and you ask the noble to help the ignoble. You separate, you evaluate, you judge and condemn — in the name of truth, you destroy it. Your very desire to formulate truth denies it because it cannot be contained in words. Truth can be expressed only by the denial of the false — in action. For this you must see the false as false (*viveka*) and reject it (*vairagya*). Renunciätion of the false is liberating and energising. It lays open the road to perfection.
 
 **Q:**&ensp;When will I know that I have discovered truth?
 
@@ -92,13 +92,13 @@ It does not mean that you must be brainless and foolhardy, improvident or indiff
 
 **M:**&ensp;Nothing can make you happier than you are. All search for happiness is misery and leads to more misery. The only happiness worth the name is the natural happiness of conscious beïng.
 
-**Q:**&ensp;Don’t I need a lot of experience before I can reach such a high level of awareness?
+**Q:**&ensp;Don’t I need a lot of experiënce before I can reach such a high level of awareness?
 
-**M:**&ensp;Experience leaves only memories behind and adds to the burden which is heavy enough. You need no more experiences. The past ones are sufficient. And if you feel you need more, look into the hearts of people around you. You will find a variety of experiences which you would not be able to go through in a thousand years. Learn from the sorrows of others and save yourself your own. It is not experience that you need, but the freedom from all experience. Don’t be greedy for experience; you need none.
+**M:**&ensp;Experiënce leaves only memories behind and adds to the burden which is heavy enough. You need no more experiënces. The past ones are sufficient. And if you feel you need more, look into the hearts of people around you. You will find a variety of experiënces which you would not be able to go through in a thousand years. Learn from the sorrows of others and save yourself your own. It is not experiënce that you need, but the freedom from all experiënce. Don’t be greedy for experiënce; you need none.
 
-**Q:**&ensp;Don’t you pass through experiences yourself?
+**Q:**&ensp;Don’t you pass through experiënces yourself?
 
-**M:**&ensp;Things happen around me, but I take no part in them. An event becomes an experience only when I am emotionally involved. I am in a state which is complete, which seeks not to improve on itself. Of what use is experience to me?
+**M:**&ensp;Things happen around me, but I take no part in them. An event becomes an experiënce only when I am emotionally involved. I am in a state which is complete, which seeks not to improve on itself. Of what use is experiënce to me?
 
 **Q:**&ensp;One needs knowledge, education.
 
@@ -106,11 +106,11 @@ It does not mean that you must be brainless and foolhardy, improvident or indiff
 
 **Q:**&ensp;University education is most useful.
 
-**M:**&ensp;No doubt it helps you to earn a living. But it does not teach you how to live. You are a student of psychology. It may help you in certain situätions. But can you live by psychology? Life is worthy of the name only when it reflects Reality in action. No university will teach you how to live so that when the time of dying comes, you can say, “I lived well – I do not need to live again”. Most of us die wishing we could live again. So many mistakes committed, so much left undone. Most people vegetate, but do not live. They merely gather experience and enrich their memory. But experience is the denial of Reality, which is neither sensory nor conceptual, neither of the body, nor of the mind, though it includes and transcends both.
+**M:**&ensp;No doubt it helps you to earn a living. But it does not teach you how to live. You are a student of psychology. It may help you in certain situätions. But can you live by psychology? Life is worthy of the name only when it reflects Reality in action. No university will teach you how to live so that when the time of dying comes, you can say, “I lived well – I do not need to live again”. Most of us die wishing we could live again. So many mistakes committed, so much left undone. Most people vegetate, but do not live. They merely gather experiënce and enrich their memory. But experiënce is the denial of Reality, which is neither sensory nor conceptual, neither of the body, nor of the mind, though it includes and transcends both.
 
-**Q:**&ensp;But experience is most useful. By experience you learn not to touch a flame.
+**Q:**&ensp;But experiënce is most useful. By experiënce you learn not to touch a flame.
 
-**M:**&ensp;I have told you already that knowledge is most useful in dealing with things. But it does not tell you how to deal with people and yourself, how to live a life. We are not talking of driving a car or earning money. For this you need experience. But for beïng a light unto yourself, material knowledge will not help you. You need something much more intimate and deeper than material knowledge, to be your self in the true sense of the word. Your outer life is unimportant. You can become a night watchman and live happily. It is what you are inwardly that matters. Your inner peace and joy you have to earn. It is much more difficult than earning money. No university can teach you to be yourself. The only way to learn is by practice. Right away begin to be yourself. Discard all you are not and go ever deeper. Just as a man digging a well discards what is not water until he reaches the water-bearing strata, so must you discard what is not your own until nothing is left which you can disown. You will find that what is left is nothing which the mind can hook on to. You are not even a human beïng. You just *are* — a point of awareness, coëxtensive with time and space and beyond both, the ultimate cause, itself uncaused. If you ask me, “Who are you?”, my answer would be, “Nothing in particular. Yet, I am”.
+**M:**&ensp;I have told you already that knowledge is most useful in dealing with things. But it does not tell you how to deal with people and yourself, how to live a life. We are not talking of driving a car or earning money. For this you need experiënce. But for beïng a light unto yourself, material knowledge will not help you. You need something much more intimate and deeper than material knowledge, to be your self in the true sense of the word. Your outer life is unimportant. You can become a night watchman and live happily. It is what you are inwardly that matters. Your inner peace and joy you have to earn. It is much more difficult than earning money. No university can teach you to be yourself. The only way to learn is by practice. Right away begin to be yourself. Discard all you are not and go ever deeper. Just as a man digging a well discards what is not water until he reaches the water-bearing strata, so must you discard what is not your own until nothing is left which you can disown. You will find that what is left is nothing which the mind can hook on to. You are not even a human beïng. You just *are* — a point of awareness, coëxtensive with time and space and beyond both, the ultimate cause, itself uncaused. If you ask me, “Who are you?”, my answer would be, “Nothing in particular. Yet, I am”.
 
 **Q:**&ensp;If you are nothing in particular, then you must be the universal.
 

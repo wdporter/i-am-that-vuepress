@@ -25,7 +25,7 @@ he *jnani* shows no tendency to proclaim himself to be a *jnani*.
 He considers himself to be perfectly normal, true to his real nature. 
 Proclaiming oneself to be an omnipotent, omniscient and omnipotent deity is a clear sign of ignorance.
 
-**Q:**&ensp;Can the *jnani* convey his experience to the ignorant? 
+**Q:**&ensp;Can the *jnani* convey his experiënce to the ignorant? 
 Can *jnana* be transmitted from one man to another?
 
 **M:**&ensp;Yes, it can. 
@@ -34,7 +34,7 @@ It is not the words that matter, but the power behind them.
 
 **Q:**&ensp;What is that power?
 
-**M:**&ensp;The power of conviction, based on personal realisation, on one’s own direct experience.
+**M:**&ensp;The power of conviction, based on personal realisation, on one’s own direct experiënce.
 
 **Q:**&ensp;Some realised people say that knowledge must be won, not got. 
 Another can only teach, but the learning is one’s own.
@@ -152,7 +152,7 @@ When all search ceases, it is the Supreme State.
 **M:**&ensp;It neither comes nor goes. 
 It *is*.
 
-**Q:**&ensp;Do you speak from your own experience?
+**Q:**&ensp;Do you speak from your own experiënce?
 
 **M:**&ensp;Of course. 
 It is a timeless state, ever present.
@@ -196,7 +196,7 @@ Is there a way to perceive reality directly and immediately?
 Do this one thing thoroughly. 
 That is all.
 
-**Q:**&ensp;When I was younger, I had strange experiences, short but memorable, of beïng nothing, just nothing, yet fully conscious. 
+**Q:**&ensp;When I was younger, I had strange experiënces, short but memorable, of beïng nothing, just nothing, yet fully conscious. 
 But the danger is that one has the desire to recreäte from memory the moments that have passed.
 
 **M:**&ensp;This is all imagination. 
@@ -207,7 +207,7 @@ Why remember them and then make memory into a problem?
 Be bland about them; do not divide them into high and low, inner and outer, lasting and transient. 
 Go beyond, go back to the source, go to the self that is the same whatever happens. 
 Your weakness is due to your conviction that you were born into the world. 
-In reälity, the world is ever recreated in you and by you. 
+In reality, the world is ever recreäted in you and by you. 
 See everything as emanating from the light which is the source of your own beïng. 
 You will find that in that light there is love and infinite energy.
 
@@ -221,8 +221,8 @@ How can you see the moon in all her glory when the eye is clouded with disease?
 One must turn around.
 
 **M:**&ensp;Again you have introduced the trinity of the sun, the body and shadow. 
-There is no such division in reälity. 
-What I am talking about has nothing to do with duälities and trinities. 
+There is no such division in reality. 
+What I am talking about has nothing to do with dualities and trinities. 
 Don’t mentalise and verbalise. 
 Just see and be.
 

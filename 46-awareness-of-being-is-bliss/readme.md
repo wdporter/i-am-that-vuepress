@@ -1,6 +1,6 @@
 # 46. Awareness of Beïng iIs Bliss
 
->… It is a matter of actual experience that the self has beïng independent of mind and body. 
+>… It is a matter of actual experiënce that the self has beïng independent of mind and body. 
 It is beïng, awareness, bliss. 
 Awareness of beïng is bliss.
 
@@ -39,7 +39,7 @@ Is the enjoyer also a result of food, or is it independent?
 **Q:**&ensp;The perceiver is independent.
 
 **M:**&ensp;How do you know? 
-Speak from your own experience. 
+Speak from your own experiënce. 
 You are not the body nor the mind. 
 You say so. 
 How do you know?
@@ -70,12 +70,12 @@ The very attention given to them comes from the self.
 **Q:**&ensp;If the self is not the body nor the mind, can it exist without the body and the mind?
 
 **M:**&ensp;Yes, it can. 
-It is a matter of actual experience that the self has beïng independent of mind and body. 
+It is a matter of actual experiënce that the self has beïng independent of mind and body. 
 It is beïng, awareness, bliss. 
 Awareness of beïng is bliss.
 
-**Q:**&ensp;It may be a matter of actual experience to you, but it is not my case. 
-How can I come to the same experience? 
+**Q:**&ensp;It may be a matter of actual experiënce to you, but it is not my case. 
+How can I come to the same experiënce? 
 What practices to follow, what exercises to take up?
 
 **M:**&ensp;To know that you are neither body nor mind, watch yourself steadily and live unaffected by your body and mind, completely aloof, as if you were dead. 
@@ -89,9 +89,9 @@ Just remain unaffected.
 This complete aloofness, unconcern with mind and body, is the best proof that at the core of your beïng you are neither mind nor body. 
 What happens to the body and the mind may not be within your power to change, but you can always put an end to your imagining yourself to be body and mind. 
 Whatever happens, remind yourself that only your body and mind are affected, not your self. 
-The more earnest you are at remembering what needs to be remembered, the sooner will you be aware of yourself as you are, for memory will become experience. 
+The more earnest you are at remembering what needs to be remembered, the sooner will you be aware of yourself as you are, for memory will become experiënce. 
 Earnestness reveals beïng. 
-What is imagined and willed becomes actuälity — here lies the danger as well as the way out. 
+What is imagined and willed becomes actuality — here lies the danger as well as the way out. 
 
 Tell me — what steps have you taken to separate your real self, that in you which is changeless, from your body and mind?
 
@@ -100,15 +100,15 @@ I imposed on myself a strict discipline in the way of exercises and periodical f
 
 **M:**&ensp;But in the depth of your heart what is it that you want?
 
-**Q:**&ensp;I want to find reälity.
+**Q:**&ensp;I want to find reality.
 
-**M:**&ensp;What price are you willing to pay for reälity? 
+**M:**&ensp;What price are you willing to pay for reality? 
 Any price?
 
-**Q:**&ensp;While in theory I am ready to pay any price, in actual life again and again I am prompted to behave in ways which come in between me and reälity. 
+**Q:**&ensp;While in theory I am ready to pay any price, in actual life again and again I am prompted to behave in ways which come in between me and reality. 
 Desire carries me away.
 
-**M:**&ensp;Increase and widen your desires until nothing but reälity can fulfill them. 
+**M:**&ensp;Increase and widen your desires until nothing but reality can fulfill them. 
 It is not desire that is wrong, but its narrowness and smallness. 
 Desire is devotion. 
 By all means, be devoted to the real, the infinite, the eternal heart of beïng. 
@@ -138,12 +138,12 @@ Indulgence is the stupid way, austerity is the wise way.
 
 **Q:**&ensp;What is austerity?
 
-**M:**&ensp;Once you have gone through an experience, not to go through it again is austerity. 
+**M:**&ensp;Once you have gone through an experiënce, not to go through it again is austerity. 
 To eschew the unnecessary is austerity. 
 Not to anticipate pleasure or pain is austerity. 
 Having things under control at all times is austerity. 
 Desire by itself is not wrong. 
-It is life itself, the urge to grow in knowledge and experience. 
+It is life itself, the urge to grow in knowledge and experiënce. 
 
 It is the choices you make that are wrong. 
 To imagine that some little thing — food, sex, power, fame — will make you happy is to deceive yourself. 
@@ -203,7 +203,7 @@ Unless you have realised them as one with yourself, you cannot love them.
 Don’t pretend to be what you are not; don’t refuse to be what you are. 
 Your love of others is the *result* of self-knowledge, not its cause. 
 Without self-realisation, no virtue is genuine. 
-When you know beyond all doubting that the same life flows through all that is and you are that life, you will love all naturally and spontaneously. 
+When you know beyond all doubting that the same life flows through all that is and you are that life, you will love all naturally and spontaneöusly. 
 When you realise the depth and fullness of your love of yourself, you know that every living beïng and the entire universe are included in your affection. 
 But when you look at anything as separate from you, you cannot love it for you are afraid of it. 
 Alienation causes fear and fear deepens alienation. 

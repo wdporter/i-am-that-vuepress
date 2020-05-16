@@ -13,7 +13,7 @@ of the Sampradaya lay stress on bhakti, devotion; others on jnana, knowledge; st
 the union with the ultimate. In the fourteenth century we find Svatmarama Svami, the great
 Hathayogin, bemoaning ‘the darkness arising out of multiplicity of opinions’ to displel which he lit the
 lamp of his famous work Hathayogapradipika.
-According to some learned commentators, the Nath Gurus propound that the entire creation is born
+According to some learned commentators, the Nath Gurus propound that the entire creätion is born
 out of nada (sound), the divine principle, and bindu (light), the physical principle and the Supreme
 Reality from which these two principles emanate is Shiva. Liberation according to them is merging
 of the soul into Shiva through the process of laya, dissolution of the human ego, the sense of I-ness.

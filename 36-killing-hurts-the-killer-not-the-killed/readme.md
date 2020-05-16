@@ -2,29 +2,29 @@
 
 >The cruelty lies in the motive, not in the fact. Killing hurts the killer, not the killed.
 
-**Questioner:**&ensp;A thousand years ago a man lived and died. His identity (<span data-tippy-content="The psyche, mind. Mind in a collective sense, including intelligence (<em>buddhi</em>), ego (<em>ahamkara</em>) and mind (<em>manas</em>).">antahkarana</span>) reäppeared in a new body. Why does he not remember his previous life? And if he does, can the memory be brought into the conscious?
+**Questioner:**&ensp;A thousand years ago a man lived and died. His identity (<span data-tippy-content="The psyche, mind. Mind in a collective sense, including intelligence (<em>buddhi</em>), ego (<em>ahamkara</em>) and mind (<em>manas</em>).">antahkarana</span>) reäppeared in a new body. Why does he not remember his previöus life? And if he does, can the memory be brought into the conscious?
 
 **Maharaj:**&ensp;How do you know that the same person reäppeared in the new body? A new body may mean a new person altogether.
 
 **Q:**&ensp;Imagine a pot of *ghee* (Indian clarified butter). When the pot breaks, the *ghee* remains and can be transferred to another pot. The old pot had its own scent; the new has its own. The *ghee* will carry the scents from pot to pot. In the same way, the personal identity is transferred from body to body.
 
-**M:**&ensp;It is alright. When there is the body, its peculiarities affect the person. Without the body we have the pure identity in the sense of ‘I am’. But when you are reborn in a new body, where is the world formerly experienced?
+**M:**&ensp;It is alright. When there is the body, its peculiarities affect the person. Without the body we have the pure identity in the sense of ‘I am’. But when you are reborn in a new body, where is the world formerly experiënced?
 
-**Q:**&ensp;Every body experiences its own world.
+**Q:**&ensp;Every body experiënces its own world.
 
 **M:**&ensp;In the present body, the old body — is it merely an idea, or is it a memory?
 
-**Q:**&ensp;An idea, of course. How can a brain remember what it has not experienced?
+**Q:**&ensp;An idea, of course. How can a brain remember what it has not experiënced?
 
 **M:**&ensp;You have answered your own question. Why play with ideas? Be content with what you are sure of. And the only thing you can be sure of is ‘I am’. Stay with it and reject everything else. This is <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span>.
 
 **Q:**&ensp;I can reject only verbally. At best I remember to repeat the formula, “This is not me, this is not mine. I am beyond all this”.
 
-**M:**&ensp;Good enough. First verbally, then mentally and emotionally, then in action. Give attention to the reality within you and it will come to light. It is like churning the cream for butter. Do it correctly and assiduously and the result is sure to come.
+**M:**&ensp;Good enough. First verbally, then mentally and emotionally, then in action. Give attention to the reality within you and it will come to light. It is like churning the cream for butter. Do it correctly and assiduöusly and the result is sure to come.
 
 **Q:**&ensp;How can the absolute be the result of a process?
 
-**M:**&ensp;You are right — the relative cannot result in the absolute. But the relative can block the absolute, just as the non-churning of the cream may prevent the butter from separating. It is the real that creätes the urge; the inner prompts the outer, and the outer responds with interest and effort. But ultimately there is no inner nor outer: the light of consciousness is both the creätor and the creature, the experiencer and the experience, the body and the embodied. Take care of the power that projects all this and your problems will come to an end.
+**M:**&ensp;You are right — the relative cannot result in the absolute. But the relative can block the absolute, just as the non-churning of the cream may prevent the butter from separating. It is the real that creätes the urge; the inner prompts the outer, and the outer responds with interest and effort. But ultimately there is no inner nor outer: the light of consciousness is both the creätor and the creäture, the experiëncer and the experiënce, the body and the embodied. Take care of the power that projects all this and your problems will come to an end.
 
 **Q:**&ensp;Which is the projecting power?
 
@@ -56,7 +56,7 @@
 
 **Q:**&ensp;The pattern is significant and important. It has its own value. By saying that a woven design is merely coloured threads you miss the most important thing — the beauty of it. Or by describing a book as paper with ink stains on it, you miss the meaning. Identity is valuable because it is the basis of individuality; that which makes us unique and irreplaceable. ‘I am’ is the intuition of uniqueness.
 
-**M:**&ensp;Yes and no. Identity, individuality, uniqueness — they are the most valuable aspects of the mind, yet of the mind only. ‘I am all there is’ too, is an experience equally valid. The particular and the universal are inseparable. They are the two aspects of the nameless, as seen from without and from within. Unfortunately, words only mention, but don’t convey. Try to go beyond the words.
+**M:**&ensp;Yes and no. Identity, individuality, uniqueness — they are the most valuable aspects of the mind, yet of the mind only. ‘I am all there is’ too, is an experiënce equally valid. The particular and the universal are inseparable. They are the two aspects of the nameless, as seen from without and from within. Unfortunately, words only mention, but don’t convey. Try to go beyond the words.
 
 **Q:**&ensp;What dies with death?
 
@@ -64,7 +64,7 @@
 
 **Q:**&ensp;The Jains believe in a multiplicity of witnesses, forever separate.
 
-**M:**&ensp;That is their tradition, based on the experience of some great people. The one witness reflects itself in the countless bodies as ‘I am’. As long as the bodies, however subtle, last, the ‘I am’ appears as many. Beyond the body there is only the One.
+**M:**&ensp;That is their tradition, based on the experiënce of some great people. The one witness reflects itself in the countless bodies as ‘I am’. As long as the bodies, however subtle, last, the ‘I am’ appears as many. Beyond the body there is only the One.
 
 **Q:**&ensp;God?
 
@@ -122,13 +122,13 @@
 
 **M:**&ensp;I am the people.
 
-**Q:**&ensp;I do not mean identity of essence or substance or similarity of form. I mean the actual entering into the minds and hearts of others and participating in their personal experiences. Can you suffer and rejoice with me, or can you only infer what I feel from observation and analogy?
+**Q:**&ensp;I do not mean identity of essence or substance or similarity of form. I mean the actual entering into the minds and hearts of others and participating in their personal experiënces. Can you suffer and rejoice with me, or can you only infer what I feel from observation and analogy?
 
 **M:**&ensp;All beïngs are in me. But bringing down into the brain the content of another brain requires special training. There is nothing that cannot be achieved by training.
 
-**Q:**&ensp;I am not your projection, nor are you mine. I am in my own right, not merely as your creätion. This crude philosophy of imagination and projection does not appeal to me. You are depriving me of all reälity. Who is the image of whom? Are you my image or am I yours? Or am I an image in my own image?! No, something is wrong somewhere.
+**Q:**&ensp;I am not your projection, nor are you mine. I am in my own right, not merely as your creätion. This crude philosophy of imagination and projection does not appeal to me. You are depriving me of all reality. Who is the image of whom? Are you my image or am I yours? Or am I an image in my own image?! No, something is wrong somewhere.
 
-**M:**&ensp;Words betray their hollowness. The real cannot be described — it must be experienced. I cannot find better words for what I know. What I say may sound ridiculous. But what the words try to convey is the highest truth. All is one, however much we quibble. And all is done to please the one source and goal of every desire, who we all know as the ‘I am’.
+**M:**&ensp;Words betray their hollowness. The real cannot be described — it must be experiënced. I cannot find better words for what I know. What I say may sound ridiculous. But what the words try to convey is the highest truth. All is one, however much we quibble. And all is done to please the one source and goal of every desire, who we all know as the ‘I am’.
 
 **Q:**&ensp;It is pain that is at the root of desire. The basic urge is to escape from pain.
 

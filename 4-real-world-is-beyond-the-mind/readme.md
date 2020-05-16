@@ -20,7 +20,7 @@ The universe is not bound by its content because its potentialities are infinite
 **Q:**&ensp;Yes, one can see that ultimately to speak of one thing beïng the only cause of another thing is altogether wrong. 
 Yet, in actual life we invariably initiate action with a view to a result.
 
-**M:**&ensp;Yes, there is a lot of such activity going on because of ignorance. 
+**M:**&ensp;Yes, there is a lot of such activity goïng on because of ignorance. 
 Would people know that nothing can happen unless the entire universe makes it happen, they would achieve much more with less expenditure of energy.
 
 **Q:**&ensp;If everything is an expression of the totality of causes, how can we talk of a purposeful action towards an achievement?
@@ -38,7 +38,7 @@ But you could not have been born without the sun and the earth.
 Even these could not have caused your birth without the most important factor: your own desire to be born. 
 It is desire that gives birth, that gives name and form. 
 The desirable is imagined and wanted and manifests itself as something tangible or conceivable. 
-Thus is created the world in which we live, our personal world. 
+Thus is creäted the world in which we live, our personal world. 
 The real world is beyond the mind’s understanding; we see it through the net of our desires, divided into pleasure and pain, right and wrong, inner and outer. 
 To see the universe as it is, you must step beyond the net. 
 It is not hard to do so, for the net is full of holes.
@@ -48,19 +48,19 @@ And how does one find them?
 
 **M:**&ensp;Look at the net and its many contradictions. 
 You do and undo at every step. 
-You want peace, love and happiness and work hard to create pain, hatred and war. 
+You want peace, love and happiness and work hard to creäte pain, hatred and war. 
 You want longevity and over-eat; you want friendship and exploit. 
 See your net as made of such contradictions and remove them — your very seeïng them will make them go.
 
-**Q:**&ensp;Since my seeïng the contradiction makes it go, is there no causal link between my seeing and its going?
+**Q:**&ensp;Since my seeïng the contradiction makes it go, is there no causal link between my seeing and its goïng?
 
-**M:**&ensp;Causality, even as a concept, does not apply to chaos.
+**M:**&ensp;Causality, even as a concept, does not apply to chäos.
 
 **Q:**&ensp;To what extent is desire a causal factor?
 
 **M:**&ensp;One of the many. 
 For everything there are innumerable causal factors. 
-But the source of all that is, is the Infinite Possibility, the Supreme Reality, which is in you and which throws its power and light and love on every experience. 
+But the source of all that is, is the Infinite Possibility, the Supreme Reality, which is in you and which throws its power and light and love on every experiënce. 
 But this source is not a cause and no cause is a source. 
 Because of that, I say everything is uncaused. 
 You may try to trace how a thing happens, but you cannot find out why a thing *is* as it is. 

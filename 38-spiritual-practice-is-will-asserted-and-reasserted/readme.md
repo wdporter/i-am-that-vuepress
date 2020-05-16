@@ -4,11 +4,11 @@
 
 **Questioner:**&ensp;The Westerners who occasionally come to see you are faced with a peculiar difficulty. The very notion of a liberated man, a realised man, a self-knower, a God-knower, a man beyond the world, is unknown to them. All they have in their Christian culture is the idea of a saint: a pious man, law-abiding, God-fearing, fellow-loving, prayerful, sometimes prone to ecstasies and confirmed by a few miracles. The very idea of a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> is foreign to Western culture, something exotic and rather unbelievable. Even when his existence is accepted, he is looked at with suspicion, as a case of self-induced euphoria caused by strange physical postures and mental attitudes. The very idea of a new dimension in consciousness seems to them implausible and improbable. 
 
-What will help them is the opportunity of hearing a *jnani* relate his own experience of realisation, its causes and beginnings, its progress and attainments and its actual practice in daily life. Much of what he says may remain strange, even meaningless, yet there will remain a feeling of reality, an atmosphere of actual experiencing, ineffable, yet very real, a centre from which an exemplary life can be lived.
+What will help them is the opportunity of hearing a *jnani* relate his own experiënce of realisation, its causes and beginnings, its progress and attainments and its actual practice in daily life. Much of what he says may remain strange, even meaningless, yet there will remain a feeling of reality, an atmosphere of actual experiëncing, ineffable, yet very real, a centre from which an exemplary life can be lived.
 
-**Maharaj:**&ensp;The experience may be incommunicable. Can one communicate an experience?
+**Maharaj:**&ensp;The experiënce may be incommunicable. Can one communicate an experiënce?
 
-**Q:**&ensp;Yes, if one is an artist. The essence of art is communication of feeling, of experience. 
+**Q:**&ensp;Yes, if one is an artist. The essence of art is communication of feeling, of experiënce. 
 
 **M:**&ensp;To receive communication, you must be receptive.
 
@@ -20,7 +20,7 @@ What will help them is the opportunity of hearing a *jnani* relate his own exper
 
 **M:**&ensp;You mean, can he make others into *jnani*s? Yes and no. No, since *jnani*s are not made, they realise themselves as such when they return to their source, their real nature. I cannot make you into what you already are. All I can tell you is the way I travelled and invite you to take it.
 
-**Q:**&ensp;This does not answer my question. I have in mind the critical and skeptical Westerner who denies the very possibility of higher states of consciousness. Recently drugs have made a breach in his disbelief without affecting his materialistic outlook. Drugs or no drugs, the body remains the primary fact and the mind is secondary. Beyond the mind, they see nothing. From Buddha onwards the state of self-realisation was described in negative terms, as “not this, not that”. Is it inevitable? Is it not possible to illustrate it, if not describe it? I admit that no verbal description will do, when the state described is beyond words. Yet it is also within words. Poëtry is the art of putting the inexpressible into words.
+**Q:**&ensp;This does not answer my question. I have in mind the critical and skeptical Westerner who denies the very possibility of higher states of consciousness. Recently drugs have made a breach in his disbelief without affecting his materialistic outlook. Drugs or no drugs, the body remains the primary fact and the mind is secondary. Beyond the mind, they see nothing. From Buddha onwards the state of self-realisation was described in negative terms, as “not this, not that”. Is it inevitable? Is it not possible to illustrate it, if not describe it? I admit that no verbal description will do, when the state described is beyond words. Yet it is also within words. Poetry is the art of putting the inexpressible into words.
 
 **M:**&ensp;There is no lack of religious poets. Turn to them for what you want. As far as I am concerned, my teaching is simple; trust me for a while and do what I tell you. If you persevere, you will find that your trust was justified.
 
@@ -38,17 +38,17 @@ What will help them is the opportunity of hearing a *jnani* relate his own exper
 
 You seem to want instant insight, forgetting that the instant is always preceded by a long preparation. The fruit falls suddenly, but the ripening takes time. 
 
-After all, when I talk of trusting me, it is only for a short time, just enough time to start you moving. The more earnest you are, the less belief you need, for soon you will find your faith in me justified. You want me to prove to you that I am trustworthy! How can I and why should I? After all, what I am offering you is the operational approach, so current in Western science. When a scientist describes an experiment and its results, usually you accept his statements on trust and repeat his experiment as he describes it. Once you get the same or similar results, you need not trust him any more; you trust your own experience. Encouraged, you proceed and arrive in the end at substantially identical results.
+After all, when I talk of trusting me, it is only for a short time, just enough time to start you moving. The more earnest you are, the less belief you need, for soon you will find your faith in me justified. You want me to prove to you that I am trustworthy! How can I and why should I? After all, what I am offering you is the operational approach, so current in Western science. When a scientist describes an experiment and its results, usually you accept his statements on trust and repeat his experiment as he describes it. Once you get the same or similar results, you need not trust him any more; you trust your own experiënce. Encouraged, you proceed and arrive in the end at substantially identical results.
 
 **Q:**&ensp;The Indian mind was made ready for metaphysical experiments by culture and nurture. To the Indian, phrases like  “direct perception of the Supreme Reality” make sense and bring out responses from the very depths of his beïng. They mean little to a Westerner; even when brought up in his own variety of Christianity, he does not think beyond conformity with God’s commandments and Christ’s injunctions. First-hand knowledge of reality is not only beyond ambition, but also beyond conception. Some Indians tell me, “Hopeless. The Westerner will not, for he cannot. Tell him nothing about self-realisation; let him live a useful life and earn a rebirth in India. Only then will he have a chance”. Some say, “Reality is for all equally, but not all are equally endowed with the capacity to grasp it. The capacity comes with desire, which will grow into devotion and ultimately into total self-dedication. With integrity and earnestness and iron determination to overcome all obstacles, the Westerner has the same chance as the Oriental man. All he needs is the rousing of interest”. To rouse his interest in self-knowledge, he needs to be convinced about its advantages.
 
-**M:**&ensp;You believe it is possible to transmit a personal experience?
+**M:**&ensp;You believe it is possible to transmit a personal experiënce?
 
 **Q:**&ensp;I do not know. You speak of unity, identity of the seer with the seen. When all is one, communication should be feasible.
 
-**M:**&ensp;To have the direct experience of a country one must go and live there. Don’t ask for the impossible. A man’s spiritual victory no doubt benefits mankind, but to benefit another individual, a close personal relationship is required. Such relation is not accidental and not everybody can claim it. On the other hand, the scientific approach is for all. “Trust–test–taste”. What more do you need? Why push the Truth down unwilling throats? It cannot be done, anyhow. Without a receiver what can the giver do?
+**M:**&ensp;To have the direct experiënce of a country one must go and live there. Don’t ask for the impossible. A man’s spiritual victory no doubt benefits mankind, but to benefit another individual, a close personal relationship is required. Such relation is not accidental and not everybody can claim it. On the other hand, the scientific approach is for all. “Trust–test–taste”. What more do you need? Why push the Truth down unwilling throats? It cannot be done, anyhow. Without a receiver what can the giver do?
 
-**Q:**&ensp;The essence of art is to use the outer form to convey an inner experience. Of course, one must be sensitive to the inner before the outer can be meaningful. How does one grow in sensitivity?
+**Q:**&ensp;The essence of art is to use the outer form to convey an inner experiënce. Of course, one must be sensitive to the inner before the outer can be meaningful. How does one grow in sensitivity?
 
 **M:**&ensp;Whichever way you put it, it comes to the same. Givers there are many; where are the takers?
 
@@ -66,7 +66,7 @@ After all, when I talk of trusting me, it is only for a short time, just enough 
 
 **Q:**&ensp;Give us at least some insight into the content of your mind while you live your daily life. To eat, to drink, to talk, to sleep — how does it feel at your end?
 
-**M:**&ensp;The common things of life — I experience them just as you do. The difference lies in what I do not experience. I do not experience fear or greed, hate or anger. I ask nothing, refuse nothing, keep nothing. In these matters I do not compromise. Maybe this is the outstanding difference between us: I will not compromise and am true to myself, while you are afraid of reälity.
+**M:**&ensp;The common things of life — I experiënce them just as you do. The difference lies in what I do not experiënce. I do not experiënce fear or greed, hate or anger. I ask nothing, refuse nothing, keep nothing. In these matters I do not compromise. Maybe this is the outstanding difference between us: I will not compromise and am true to myself, while you are afraid of reality.
 
 **Q:**&ensp;From the Westerner’s point of view there is something disturbing in your ways. To sit in a corner all by oneself and keep on repeating, “I am God, God I am”, appears to be plain madness. How to convince a Westerner that such practices lead to supreme sanity?
 
@@ -90,7 +90,7 @@ After all, when I talk of trusting me, it is only for a short time, just enough 
 
 **Q:**&ensp;Then where is the need of giving expression to one’s longing?
 
-**M:**&ensp;No need. Doing nothing is as good. Mere longing, undiluted by thought and action, pure, concentrated longing, will take you speedily to your goal. It is the true motive that matters, not the manner.
+**M:**&ensp;No need. Doïng nothing is as good. Mere longing, undiluted by thought and action, pure, concentrated longing, will take you speedily to your goal. It is the true motive that matters, not the manner.
 
 **Q:**&ensp;Unbelievable! How can dull repetition in boredom verging on despair be effective?
 
@@ -102,11 +102,11 @@ After all, when I talk of trusting me, it is only for a short time, just enough 
 
 **Q:**&ensp;What is there to be afraid of?
 
-**M:**&ensp;The unknown. The not-beïng, not-knowing, not-doing. The beyond.
+**M:**&ensp;The unknown. The not-beïng, not-knowing, not-doïng. The beyond.
 
 **Q:**&ensp;You mean to say that while you can share the manner of your achievement, you cannot share the fruits?
 
-**M:**&ensp;Of course I can share the fruits and I am doing so all the time. But mine is a silent language. Learn to listen and understand.
+**M:**&ensp;Of course I can share the fruits and I am doïng so all the time. But mine is a silent language. Learn to listen and understand.
 
 **Q:**&ensp;I do not see how one can begin without conviction.
 
@@ -118,7 +118,7 @@ After all, when I talk of trusting me, it is only for a short time, just enough 
 
 **Q:**&ensp;Still, all this presupposes some faith.
 
-**M:**&ensp;Turn within and you will come to trust yourself. In everything else confidence comes with experience.
+**M:**&ensp;Turn within and you will come to trust yourself. In everything else confidence comes with experiënce.
 
 **Q:**&ensp;When a man tells me that he knows something I do not know, I have the right to ask, What is it that you know that I do not know?”.
 

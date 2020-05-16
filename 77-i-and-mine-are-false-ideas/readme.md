@@ -1,6 +1,6 @@
 # 77. ‘I’ and ’Mine’ are False Ideas
 
->… ‘I’ and the ‘mine’ are false ideas, having no foundation in reälity. Creäted 
+>… ‘I’ and the ‘mine’ are false ideas, having no foundation in reality. Creäted 
 by the mind, they rule their creätor as long as he takes them to be true; when 
 questioned, they dissolve.
 
@@ -18,7 +18,7 @@ purposes, which are invariably in search for pleasure or flight from pain.
 When you recognise the ‘I’ as it is, a bundle of desires and fears, and the 
 sense of ‘mine’, as embracing all things and people needed for the purpose of 
 avoiding pain and secureïng pleasure, you will see that the ‘I’ and the ’mine’ 
-are false ideas, having no foundation in reälity. Creäted by the mind, they 
+are false ideas, having no foundation in reality. Creäted by the mind, they 
 rule their creätor as long as he takes them to be true; when questioned, they 
 dissolve. 
 
@@ -27,11 +27,11 @@ they find in the body. The body becomes their point of reference. When you
 talk of ‘my’ husband and ‘my’ children, you mean the body’s husband and the 
 body’s children. Give up the idea of beïng the body and face the question, 
 “Who am I?”. At once a process will be set in motion which will bring back 
-reälity or, rather, will take the mind to reälity. Only you must not be afraid.
+reality or, rather, will take the mind to reality. Only you must not be afraid.
 
 **Q:**&ensp;What am I to be afraid of?
 
-**M:**&ensp;For reälity to be, the ideas of ‘me’ and ‘mine’ must go. They will 
+**M:**&ensp;For reality to be, the ideas of ‘me’ and ‘mine’ must go. They will 
 go if you let them. Then your normal, natural state reäppears, in which you 
 are neither the body nor the mind, neither the ‘me’ nor the ‘mine’, but in a 
 different state of beïng altogether. It is pure awareness of beïng, without 
@@ -109,7 +109,7 @@ to depend on everything, but in fact all depends on me.
 **Q:**&ensp;How can you say you do nothing? Are you not talking to me?
 
 **M:**&ensp;I do not have the feeling that I am talking. There is talking 
-going on, that is all.
+goïng on, that is all.
 
 **Q:**&ensp;I talk.
 
@@ -118,8 +118,8 @@ going on, that is all.
 **Q:**&ensp;Everybody says, “I work”, “I come”, “I go”.
 
 **M:**&ensp;I have no objection to the conventions of your language, but they 
-distort and destroy reälity. A more accurate way of saying would have been, 
-“There is talking, working, coming, going”. For anything to happen, the entire 
+distort and destroy reality. A more accurate way of saying would have been, 
+“There is talking, working, coming, goïng”. For anything to happen, the entire 
 universe must coïncide. It is wrong to believe that anything in particular can 
 cause an event. Every cause is universal. Your very body would not exist 
 without the entire universe contributing to its creätion and survival. I am 
@@ -136,7 +136,7 @@ light. It is enough to shift attention from the screen to oneself to break the
 spell. When the body dies, the kind of life you live now — a succession of 
 physical and mental events — comes to an end. It can end even now without 
 waiting for the death of the body — it is enough to shift attention to the 
-Self and keep it there. All happens as if there is a mysterious power that 
+Self and keep it there. All happens as if there is a mysteriöus power that 
 creätes and moves everything. Realise that you are not the mover, only the 
 observer, and you will be at peace.
 
@@ -164,7 +164,7 @@ harmony and beauty. Or you just remain — beyond beïng and non-beïng.
 
 **Q:**&ensp;I am afraid.
 
-**M:**&ensp;You will be afraid until you experience freedom and its blessings. 
+**M:**&ensp;You will be afraid until you experiënce freedom and its blessings. 
 Of course, some memories are needed to identify and guide the body. Such 
 memories do remain, but there is no attachment left to the body as such; it is 
 no longer the ground for desire or fear. All this is not very difficult to 

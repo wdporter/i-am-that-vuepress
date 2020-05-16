@@ -9,13 +9,13 @@ is reflected.
 **Questioner:**&ensp;As I listen to you, I find that it is useless to ask you 
 questions. Whatever the question, you invariably turn it upon itself and bring 
 me to the basic fact that I am living in an illusion of my own making and that 
-reälity is inexpressible in words. Words merely add to the confusion and the 
+reality is inexpressible in words. Words merely add to the confusion and the 
 only wise course is the silent search within.
 
-**Maharaj:**&ensp;After all, it is the mind that creates illusion and it is 
+**Maharaj:**&ensp;After all, it is the mind that creätes illusion and it is 
 the mind that gets free of it. Words may aggravate illusion, but words may 
 also help dispel it. There is nothing wrong in repeating the same truth again 
-and again until it becomes reälity. A mother’s work is not over with the birth 
+and again until it becomes reality. A mother’s work is not over with the birth 
 of the child. She feeds it day after day, year after year until it needs her 
 no longer. People need hearing words, until facts speak to them louder than 
 words.
@@ -63,7 +63,7 @@ truth.">paramartha</span>).
 **M:**&ensp;Quite right — you have put it beautifully.
 
 **Q:**&ensp;But these are mere words to me. Hearing and repeating them is not 
-enough; they must be experienced.
+enough; they must be experiënced.
 
 **M:**&ensp;Nothing stops you but preöccupation with the outer which prevents 
 you from focussing the inner. It cannot be helped; you cannot skip your <span 
@@ -102,7 +102,7 @@ witness–consciousness. Of course it is beyond the witness, but to enter it one
 must first realise the state of pure witnessing. The awareness of conditions 
 brings one to the unconditioned.
 
-**Q:**&ensp;Can the unconditioned be experienced?
+**Q:**&ensp;Can the unconditioned be experiënced?
 
 **M:**&ensp;To know the conditioned as conditioned is all that can be said 
 about the unconditioned. Positive terms are mere hints and are misleading.
@@ -132,7 +132,7 @@ witness is latent in every state of consciousness, just like light in every
 colour. There can be no knowledge without the knower and no knower without his 
 witness. Not only do you know, but you know that you know.
 
-**Q:**&ensp;If the unconditioned cannot be experienced, for all experience is 
+**Q:**&ensp;If the unconditioned cannot be experiënced, for all experiënce is 
 conditioned, then why talk of it at all?
 
 **M:**&ensp;How can there be knowledge of the conditioned without the 
@@ -141,14 +141,14 @@ on which all stands. Self-realisation is primarily the knowledge of one’s
 conditioning and the awareness that the infinite variety of conditions depends 
 on our infinite ability to be conditioned and to give rise to variety. To the 
 conditioned mind the unconditioned appears as the totality as well as the 
-absence of everything. Neither can be directly experienced, but this does not 
+absence of everything. Neither can be directly experiënced, but this does not 
 make it not-existent.
 
 **Q:**&ensp;Is it not a feeling?
 
 **M:**&ensp;A feeling too is a state of mind. Just like a healthy body does 
-not call for attention, so is the unconditioned free from experience. Take the 
-experience of death. The ordinary man is afraid to die, because he is afraid 
+not call for attention, so is the unconditioned free from experiënce. Take the 
+experiënce of death. The ordinary man is afraid to die, because he is afraid 
 of change. The <span data-tippy-content="The knower, especially of the higher 
 knowledge derived from meditation; “closely related to the knowledge of 
 Brahman”.">jnani</span> is not afraid because his mind is dead already. He 
@@ -179,7 +179,7 @@ you? A sound, a word on paper, an idea in the mind?
 
 **M:**&ensp;And suffer, and die. Are you glad?
 
-**Q:**&ensp;It may be my own fault that I suffer and die. I was created unto 
+**Q:**&ensp;It may be my own fault that I suffer and die. I was creäted unto 
 life eternal.
 
 **M:**&ensp;Why eternal in the future and not in the past? What has a 
@@ -202,7 +202,7 @@ yourself now.
 
 **M:**&ensp;To me you are your own God. But if you think otherwise, think to 
 the end. If there be God, then all is God’s and all is for the best. Welcome 
-all that comes with a glad and thankful heart. And love all creatures. This 
+all that comes with a glad and thankful heart. And love all creätures. This 
 too will take you to your Self.
 
 <script>

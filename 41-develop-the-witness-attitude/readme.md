@@ -1,6 +1,6 @@
 # 41. Develop the Witness Attitude
 
->Develop the witness attitude and you will find in your own experience that detachment brings control. 
+>Develop the witness attitude and you will find in your own experiënce that detachment brings control. 
 The state of witnessing is full of power — there is nothing passive about it.
 
 **Questioner:**&ensp;What is the daily and hourly state of mind of a realised man? 
@@ -72,7 +72,7 @@ The whole is an abstraction; the particular, the concrete, is real.
 **M:**&ensp;That is what you say. To me it may be the other way — the whole is real, but the part comes and goes. 
 The particular is born and reborn, changing name and shape; the *jnani* is the Changeless Reality which makes the changeful possible. 
 But he cannot give you the conviction. 
-It must come with your own experience. 
+It must come with your own experiënce. 
 With me all is one, all is equal.
 
 **Q:**&ensp;Are sin and virtue one and the same?
@@ -163,7 +163,7 @@ Why is it so perverse?
 You are too quick to condemn. 
 Do not worry about others. 
 Deal with your own mind first. 
-When you realise that your mind, too, is a part of nature, the duälity will cease.
+When you realise that your mind, too, is a part of nature, the duality will cease.
 
 **Q:**&ensp;There is some mystery in it which I cannot fathom. 
 How can the mind be a part of nature?
@@ -173,7 +173,7 @@ How can the mind be a part of nature?
 **Q:**&ensp;If nature is in the mind and the mind is my own, I should be able to control nature, which is not really the case. 
 Forces beyond my control determine my behaviour.
 
-**M:**&ensp;Develop the witness attitude and you will find in your own experience that detachment brings control. 
+**M:**&ensp;Develop the witness attitude and you will find in your own experiënce that detachment brings control. 
 The state of witnessing is full of power — there is nothing passive about it.
 
 <script>

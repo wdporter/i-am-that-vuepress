@@ -51,7 +51,7 @@ see yourself in all.
 
 **M:**&ensp;When you are giddy, you see the world running circles round you. 
 Obsessed with the idea of means and end, of work and purpose, you see me 
-apparently functioning. In reälity, I only look. Whatever is done is done on 
+apparently functioning. In reality, I only look. Whatever is done is done on 
 the stage. Joy and sorrow, life and death, they all are real to the man in 
 bondage; to me they are all in the show, as unreal as the show itself. 
 
@@ -63,7 +63,7 @@ pains, weakness, and the approaching end. How does a *jnani* feel as an old
 man? How does his inner self look at his own senility?
 
 **M:**&ensp;As he gets older, he grows more and more happy and peaceful. After 
-all, he is going home. Like a traveller nearing his destination and collecting 
+all, he is goïng home. Like a traveller nearing his destination and collecting 
 his luggage, he leaves the train without regret.
 
 **Q:**&ensp;Surely there is a contradiction. We are told the *jnani* is beyond 
@@ -86,10 +86,10 @@ affectionate detachment.
 **M:**&ensp;It is there, but it does not matter. Whatever state I am in, I see 
 it as a state of mind to be accepted as it is.
 
-**Q:**&ensp;Pain is pain. You experience it all the same.
+**Q:**&ensp;Pain is pain. You experiënce it all the same.
 
-**M:**&ensp;He who experiences the body experiences its pains and pleasures. I 
-am neither the body, nor the experiencer of the body.
+**M:**&ensp;He who experiënces the body experiënces its pains and pleasures. I 
+am neither the body, nor the experiëncer of the body.
 
 **Q:**&ensp;Let us say you are twenty-five years old. Your marriage is 
 arranged and performed and the household duties crowd upon you. How would you 
@@ -99,7 +99,7 @@ feel?
 moulded by outer events. It is just not so. Whatever happens, I remain. At the 
 root of my beïng is pure awareness, a speck of intense light. This speck, by 
 its very nature, radiates and creätes pictures in space and events in time — 
-effortlessly and spontaneously. As long as it is merely aware, there are no 
+effortlessly and spontaneöusly. As long as it is merely aware, there are no 
 problems. But when the discriminative mind comes into beïng and creätes 
 distinctions, pleasure and pain arise. During sleep the mind is in abeyance 
 and so are pain and pleasure. The process of creätion continues, but no notice 
@@ -155,19 +155,19 @@ displaying a mind and all such nonsense. In my world nobody is born and nobody
 dies. Some people go on a journey and come back, some never leave. What 
 difference does it make since they travel in dream-lands, each wrapped up in 
 his own dream? Only the waking up is important. It is enough to know the ‘I 
-am’ as reälity and also love.
+am’ as reality and also love.
 
 **Q:**&ensp;My approach is not so absolute, hence my question. Throughout the 
 West people are in search of something real. They turn to science, which tells 
 them a lot about matter, a little about the mind, and nothing about the nature 
-and purpose of consciousness. To them reälity is objective, outside the 
+and purpose of consciousness. To them reality is objective, outside the 
 observable and describable, directly or by inference; about the subjective 
-aspect of reälity they know nothing. It is extremely important to let them 
-know that there is reälity and it is to be found in the freedom of 
+aspect of reality they know nothing. It is extremely important to let them 
+know that there is reality and it is to be found in the freedom of 
 consciousness from matter and its limitations and distortions. Most of the 
-people in the world just do not know that there is reälity which can be found 
-and experienced in consciousness. It seems very important that they should 
-hear the good news from somebody who has actually experienced it. Such 
+people in the world just do not know that there is reality which can be found 
+and experiënced in consciousness. It seems very important that they should 
+hear the good news from somebody who has actually experiënced it. Such 
 witnesses have always existed and their testimony is precious.
 
 **M:**&ensp;Of course. The gospel of self-realisation, once heard, will never 

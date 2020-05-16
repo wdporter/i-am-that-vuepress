@@ -34,13 +34,13 @@ pageClass: glossary-class
 
 **<em>bhakti:</em>**&ensp;devotion, adoration. Hence *bhakta*, a devotee.
 
-**<em>bhoga:</em>**&ensp;sense enjoyment, experience of worldly joys and sorrows.
+**<em>bhoga:</em>**&ensp;sense enjoyment, experiënce of worldly joys and sorrows.
 
 **<em>bhogi:</em>**&ensp;a *bhogi* is one involved in worldly joys and sorrows. *Bhoga marga*, is the path of worldly pursuits — joys and sorrows.
 
 **Bikkhu:**&ensp;a *Bikkhu* (Pali) or *Bhikshu* (sanskrit) is an ordained male Buddhist monastic.
 
-**Brahma:**&ensp;one of the gods of the Hindu trinity: Brahma, the creator; Vishnu, the preserver; Shiva, the destroyer.
+**Brahma:**&ensp;one of the gods of the Hindu trinity: Brahma, the creätor; Vishnu, the preserver; Shiva, the destroyer.
 
 **Brahman:**&ensp;the Absolute, the Ultimate Reality, whose characteristics are absolute existence (*sat*), absolute consciousness (*chit*) and absolute bliss (*ananda*). According to Shankaracharya, Brahman, the Absolute has five different phases: *Hiranyagarbha*, the Cosmic Self; *Ishvara*, the personal god in the form of an avatar; *jiva*, the individual soul; *prakriti*, the perishable nature and *shakti*, the creätive power.
 
@@ -50,7 +50,7 @@ pageClass: glossary-class
 
 **<em>chetana:</em>**&ensp;consciousness, inner awakening.
 
-**<em>chidakash:</em>**&ensp;[*chit*, to perceive + *akash*, expanse, sky] Brahman in its aspect of limitless knowledge, the expanse of awareness. Variously used for consciousness, individual as well as universal.
+**<em>chidakash:</em>**&ensp;[*chit*, to perceive + *akash*, expanse, sky] Brahman in its aspect of limitless knowledge, the expanse of awareness. Variöusly used for consciousness, individual as well as universal.
 
 **<em>chidananda:</em>**&ensp;consciousness–bliss, the joy of spirit.
 
@@ -94,7 +94,7 @@ pageClass: glossary-class
 
 **<em>maha-mantra:</em>**&ensp;the great incantation (see *mantra*).
 
-**<em>maha-maya:</em>**&ensp;the great illusion, unreälity. *Maya* is the illusive power that veils the reälity. *Maya* is the totality of all mental projections.
+**<em>maha-maya:</em>**&ensp;the great illusion, unreality. *Maya* is the illusive power that veils the reality. *Maya* is the totality of all mental projections.
 
 **<em>maha-mrityu:</em>**&ensp;the final dissolution, the great death of all creätion.
 
@@ -126,7 +126,7 @@ pageClass: glossary-class
 
 **<em>nisarga:</em>**&ensp;natural, innate, inborn.
 
-**<em>nivritti:</em>**&ensp;liberation from worldly existence, renunciation.
+**<em>nivritti:</em>**&ensp;liberation from worldly existence, renunciätion.
 
 **Parabrahman:**&ensp;the Supreme Reality.
 
@@ -156,7 +156,7 @@ pageClass: glossary-class
 
 **<em>rajas:</em>**&ensp;motivity, activity, energy. One of the three *gunas* or qualities of matter: *sattva*, *rajas* and *tamas*. In *yoga*, egoïsm.
 
-**<em>sadanubhava:</em>**&ensp;experience of the everlasting reality.
+**<em>sadanubhava:</em>**&ensp;experiënce of the everlasting reality.
 
 **<em>sadchitananda:</em>**&ensp;the ultimate principle with the three attributes in absolute perfection (*sat*, beïng + *chit*, consciousness + *ananda*, bliss).
 
@@ -172,7 +172,7 @@ pageClass: glossary-class
 
 **<em>samadhi</em>**&ensp;superconscious state, profound meditation, trance, rapturous absorption. A practice of *yoga* in which the seeker (*sadhaka*) becomes one with the object of his meditation (*sadhya*), thus attaining unqualified bliss. “*Samadhi* is a state in which you transcend the bounds of your body, mind and self-identity, and merge into an undifferentiated unity with all that is”.
 
-**<em>samskara:</em>**&ensp;“imprints left on the subconscious by experiences in past lives or the present life and which determine and condition one’s desires and actions”. Mental impression, memory. Also called *vasana*, residual impression.
+**<em>samskara:</em>**&ensp;“imprints left on the subconscious by experiënces in past lives or the present life and which determine and condition one’s desires and actions”. Mental impression, memory. Also called *vasana*, residual impression.
 
 **<em>samvid:</em>**&ensp;true Awareness.
 
@@ -182,13 +182,13 @@ pageClass: glossary-class
 
 **<em>sattva:</em>**&ensp;beïng, existence, true essence. In *yoga* the quality of purity or goodness; *sattvic* — pure, true.
 
-**<em>sattvanubhava:</em>**&ensp;experience (<em>anubhava</em>) of the true harmony of the universe (<em>sattva</em>, being).
+**<em>sattvanubhava:</em>**&ensp;experiënce (<em>anubhava</em>) of the true harmony of the universe (<em>sattva</em>, beïng).
 
 **<em>satyakama:</em>**&ensp;he who longs for the sublime truth.
 
 **<em>satyam–shivam–sundaram:</em>**&ensp;the true, the good, the beautiful.
 
-**Shiva:**&ensp;one of the gods of the Hindu trinity — Brahma, the creator; Vishnu, the preserver and Shiva, the destroyer. Shiva actually means auspicious, propitious. Destruction ofthe cosmos by the god Shiva is a propitious act, for destruction precedes creation. Shiva is absolute love of the ‘I-principle’ in a man. As a destroyer, he brings about the total annihilation of the human ego.
+**Shiva:**&ensp;one of the gods of the Hindu trinity — Brahma, the creätor; Vishnu, the preserver and Shiva, the destroyer. Shiva actually means auspicious, propitious. Destruction ofthe cosmos by the god Shiva is a propitious act, for destruction precedes creätion. Shiva is absolute love of the ‘I-principle’ in a man. As a destroyer, he brings about the total annihilation of the human ego.
 
 **<em>shravana:</em>**&ensp;hearing of the scriptures, the act of hearing.
 
@@ -210,9 +210,9 @@ pageClass: glossary-class
 
 **<em>turiyatita:</em>**&ensp;beyond the highest awareness.
 
-**<em>tyaga:</em>**&ensp;renunciation. *Tyaga* is the renunciation of the fruits of all works: i.e., the *tyagi* should perform *karma* with detachment and with no desire for results.
+**<em>tyaga:</em>**&ensp;renunciätion. *Tyaga* is the renunciätion of the fruits of all works: i.e., the *tyagi* should perform *karma* with detachment and with no desire for results.
 
-**<em>uparati:</em>**&ensp;rest, repose, tolerance and renunciation of all sectarian observances. In *Vedanta* one of the six acquirements (*sat-sampat*): *sama*, tranquility; *dama*, self-restraint; *uprati*, tolerance; *titiksha*, endurance; *sraddha*, faith; and *samadhana*, equipoise.
+**<em>uparati:</em>**&ensp;rest, repose, tolerance and renunciätion of all sectarian observances. In *Vedanta* one of the six acquirements (*sat-sampat*): *sama*, tranquility; *dama*, self-restraint; *uprati*, tolerance; *titiksha*, endurance; *sraddha*, faith; and *samadhana*, equipoise.
 
 **<em>vairagya:</em>**&ensp;dispassion, indifference to the pains and pleasures of the material world.
 

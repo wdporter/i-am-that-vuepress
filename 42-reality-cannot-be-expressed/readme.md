@@ -1,9 +1,9 @@
-# 42. Reälity Cannot be Expressed
+# 42. Reality Cannot be Expressed
 
->Neither action, nor feeling, nor thought express reälity. 
-There is no such thing as an expression of reälity. 
-You are introducing a duälity where there is none. 
-Only reälity is — there is nothing else.
+>Neither action, nor feeling, nor thought express reality. 
+There is no such thing as an expression of reality. 
+You are introducing a duality where there is none. 
+Only reality is — there is nothing else.
 
 **Questioner:**&ensp;I have noticed a new self emerging in me, independent of the old self. 
 They somehow coëxist. 
@@ -38,7 +38,7 @@ They coëxist.
 As there is continuïty in memory between the two, each remembering the other, how can you speak of two selves?
 
 **Q:**&ensp;One is a slave to habits, the other is not. 
-One conceptuälises, the other is free from all ideas.
+One conceptualises, the other is free from all ideas.
 
 **M:**&ensp;Why two selves? 
 Between the bound and the free there can be no relationship. 
@@ -71,7 +71,7 @@ It is entirely unexpected yet inevitable, infinitely familiar yet most surprisin
 Because it is without cause, it is without hindrance. 
 It obeys one law only: the law of freedom. 
 Anything that implies a continuïty, a sequence, a passing from stage to stage, cannot be the real. 
-There is no progress in reälity; it is final, perfect, unrelated.
+There is no progress in reality; it is final, perfect, unrelated.
 
 **Q:**&ensp;How can I bring it about?
 
@@ -86,10 +86,10 @@ It is not in the sky nor in the all-pervading ether.
 God is all that is great and wonderful; I am nothing, have nothing, can do nothing. 
 Yet all comes out of me — the source is me; the root, the origin, is me. 
 
-When reälity explodes in you, you may call it experience of God. 
-Or, rather, it is God experiencing you. 
+When reality explodes in you, you may call it experiënce of God. 
+Or, rather, it is God experiëncing you. 
 God knows you when you know yourself. 
-Reälity is not the result of a process; it is an explosion. 
+Reality is not the result of a process; it is an explosion. 
 It is definitely beyond the mind, but all you can do is to know your mind well. 
 Not that the mind will help you, but by knowing your mind you may avoid your mind disabling you. 
 You have to be very alert, or else your mind will play false with you. 
@@ -109,7 +109,7 @@ True waking and true sleeping only the <span data-tippy-content="The knower, esp
 We dream that we are awake; we dream that we are asleep. 
 The three states are only varieties of the dream state. 
 Treating everything as a dream liberates. 
-As long as you give reälity to dreams, you are their slave. 
+As long as you give reality to dreams, you are their slave. 
 By imagining that you are born as so-and-so, you become a slave to the so-and-so. 
 The essence of slavery is to imagine yourself to be a process, to have past and future, to have history. 
 In fact, we have no history, we are not a process, we do not develop or decay. 
@@ -146,42 +146,42 @@ There is the content of consciousness as well as the awareness of it.
 
 **M:**&ensp;Quite so, provided the second knowledge is unconditional and timeless. 
 Forget the known, but remember that you are the knower. 
-Don’t be all the time immersed in your experiences. 
-Remember that you are beyond the experiencer, ever unborn and deathless. 
+Don’t be all the time immersed in your experiënces. 
+Remember that you are beyond the experiëncer, ever unborn and deathless. 
 In remembering it, the quality of pure knowledge will emerge — the light of unconditional awareness.
 
-**Q:**&ensp;At what point does one experience reälity?
+**Q:**&ensp;At what point does one experiënce reality?
 
-**M:**&ensp;Experience is of change — it comes and goes. 
-Reälity is not an event; it cannot be experienced. 
+**M:**&ensp;Experiënce is of change — it comes and goes. 
+Reality is not an event; it cannot be experiënced. 
 It is not perceivable in the same way as an event is perceivable. 
-If you wait for an event to take place, for the coming of reälity, you will wait for ever, for reälity neither comes nor goes. 
+If you wait for an event to take place, for the coming of reality, you will wait for ever, for reality neither comes nor goes. 
 It is to be perceived, not expected. 
 It is not to be prepared for and anticipated. 
-But the very longing and search for reälity is the movement, operation and action of reälity. 
-All you can do is to grasp the central point that reälity is not an event and does not happen, and that whatever happens, whatever comes and goes, is not reälity. 
-See the event as event only, the transient as transient and experience as mere experience and you have done all you can. 
-Then you are vulnerable to reälity, no longer armoured against it as you were when you gave reälity to events and experiences. 
+But the very longing and search for reality is the movement, operation and action of reality. 
+All you can do is to grasp the central point that reality is not an event and does not happen, and that whatever happens, whatever comes and goes, is not reality. 
+See the event as event only, the transient as transient and experiënce as mere experiënce and you have done all you can. 
+Then you are vulnerable to reality, no longer armoured against it as you were when you gave reality to events and experiënces. 
 But as soon as there is some like or dislike, you have drawn a screen.
 
-**Q:**&ensp;Would you say that reälity expresses itself in action rather than in knowledge? 
+**Q:**&ensp;Would you say that reality expresses itself in action rather than in knowledge? 
 Or is it a feeling of sorts?
 
-**M:**&ensp;Neither action, nor feeling, nor thought express reälity. 
-There is no such thing as an expression of reälity. 
-You are introducing a duälity where there is none. 
-Only reälity *is* — there is nothing else. 
+**M:**&ensp;Neither action, nor feeling, nor thought express reality. 
+There is no such thing as an expression of reality. 
+You are introducing a duality where there is none. 
+Only reality *is* — there is nothing else. 
 The three states of waking, dreaming and sleeping are not me and I am not in them. 
 When I die, the world will say, “Oh, Maharaj is dead!”. 
 But to me these are words without content; they have no meaning. 
 When the worship is done before the image of the <span data-tippy-content="Spiritual teacher, preceptor.">guru</span>, all takes place as if he wakes and bathes and eats and rests, and goes for a stroll and returns, blesses all and goes to sleep. 
-All is attended to in the minutest detail and yet there is a sense of unreälity about it all. 
+All is attended to in the minutest detail and yet there is a sense of unreality about it all. 
 So is the case with me. 
 All happens as it needs, yet nothing happens. 
 I do what seems to be necessary, but at the same time I know that nothing is necessary, that life itself is only make-believe.
 
 **Q:**&ensp;Why then live at all? 
-Why all this unnecessary coming and going, waking and sleeping, eating and digesting?
+Why all this unnecessary coming and goïng, waking and sleeping, eating and digesting?
 
 **M:**&ensp;Nothing is done by me; everything just happens. 
 I do not expect, I do not plan, I just watch events happening, knowing them to be unreal.
@@ -215,7 +215,7 @@ Is your condition permanent or intermittent?
 
 **M:**&ensp;Absolutely steady. 
 Whatever I may do, it stays like a rock — motionless. 
-Once you have awakened into reälity, you stay in it. 
+Once you have awakened into reality, you stay in it. 
 A child does not return to the womb! 
 It is a simple state, smaller than the smallest, bigger than the biggest. 
 It is self-evident and yet beyond description.

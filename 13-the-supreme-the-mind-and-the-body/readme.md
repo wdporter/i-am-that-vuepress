@@ -6,9 +6,9 @@
 
 **Maharaj:**&ensp;It is all a matter of focus. Your mind is focussed on the world; mine is focussed on reality. It is like the moon in daylight — when the sun shines, the moon is hardly visible. Or watch how you take your food. As long as it is in your mouth, you are conscious of it; once swallowed, it does not concern you any longer. It would be troublesome to have it constantly in mind until it is eliminated. The mind should normally be in abeyance — incessant activity is a morbid state. The universe works by itself — that I know. What else do I need to know?
 
-**Q:**&ensp;So a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> knows what he is doing only when he turns his mind to it; otherwise he just acts, without beïng concerned.
+**Q:**&ensp;So a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> knows what he is doïng only when he turns his mind to it; otherwise he just acts, without beïng concerned.
 
-**M:**&ensp;The average man is not conscious of his body as such. He is conscious of his sensations, feelings and thoughts. Even these, once detachment sets in, move away from the centre of consciousness and happen spontaneously and effortlessly.
+**M:**&ensp;The average man is not conscious of his body as such. He is conscious of his sensations, feelings and thoughts. Even these, once detachment sets in, move away from the centre of consciousness and happen spontaneöusly and effortlessly.
 
 **Q:**&ensp;What then is in the centre of consciousness?
 
@@ -42,9 +42,9 @@
 
 **M:**&ensp;What does ‘witness’ mean? Mere knowledge. It rained and now the rain is over. I did not get wet. I know it rained, but I am not affected. I just witnessed the rain.
 
-**Q:**&ensp;The fully realised man, spontaneously abiding in the supreme state, appears to eat, drink and so on. Is he aware of it or not?
+**Q:**&ensp;The fully realised man, spontaneöusly abiding in the supreme state, appears to eat, drink and so on. Is he aware of it or not?
 
-**M:**&ensp;That in which consciousness happens, the universal consciousness or mind, we call the ‘ether’ of consciousness. All the objects of consciousness form the universe. What is beyond both, supporting both, is the supreme state, a state of utter stillness and silence. Whoëver goes there disappears. It is unreachable by words or mind. You may call it God or <span data-tippy-content="The Supreme Reality.">Parabrahman</span> or Supreme Reality, but these are names given by the mind. It is the nameless, contentless, effortless and spontaneous state, beyond beïng and not beïng.
+**M:**&ensp;That in which consciousness happens, the universal consciousness or mind, we call the ‘ether’ of consciousness. All the objects of consciousness form the universe. What is beyond both, supporting both, is the supreme state, a state of utter stillness and silence. Whoëver goes there disappears. It is unreachable by words or mind. You may call it God or <span data-tippy-content="The Supreme Reality.">Parabrahman</span> or Supreme Reality, but these are names given by the mind. It is the nameless, contentless, effortless and spontaneöus state, beyond beïng and not beïng.
 
 **Q:**&ensp;But does one remain conscious?
 
@@ -58,7 +58,7 @@
 
 **M:**&ensp;God is not running the world.
 
-**Q:**&ensp;Then who is doing it?
+**Q:**&ensp;Then who is doïng it?
 
 **M:**&ensp;Nobody. All happens by itself. You are asking the question and you are supplying the answer. And you know the answer when you ask the question. All is a play in consciousness. All divisions are illusory. You can know the false only. The true you must yourself *be*.
 
@@ -76,9 +76,9 @@
 
 **Q:**&ensp;Is the Supreme conscious?
 
-**M:**&ensp;Neither conscious nor unconscious — I am telling you from experience.
+**M:**&ensp;Neither conscious nor unconscious — I am telling you from experiënce.
 
-**Q:**&ensp;<span data-tippy-content="Cognitive consciousness, pure awareness, higher consciousness.">Prajnanam</span> <span data-tippy-content="One of the gods of the Hindu trinity: Brahma, the creator; Vishnu, the preserver; Shiva, the destroyer.">Brahma</span>. What is this *Prajna*?
+**Q:**&ensp;<span data-tippy-content="Cognitive consciousness, pure awareness, higher consciousness.">Prajnanam</span> <span data-tippy-content="One of the gods of the Hindu trinity: Brahma, the creätor; Vishnu, the preserver; Shiva, the destroyer.">Brahma</span>. What is this *Prajna*?
 
 **M:**&ensp;It is the unself-conscious knowledge of life itself.
 

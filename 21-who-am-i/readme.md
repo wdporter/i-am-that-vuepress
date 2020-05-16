@@ -34,7 +34,7 @@
 
 **M:**&ensp;Give up all questions except one: “Who am I?”. After all, the only fact you are sure of is that you *are*. The ‘I am’ is certain. The ‘I am *this*’ is not. Struggle to find out what you are in reality.
 
-**Q:**&ensp;I have been doing nothing else for the last sixty years.
+**Q:**&ensp;I have been doïng nothing else for the last sixty years.
 
 **M:**&ensp;What is wrong with striving? Why look for results? Striving itself is your real nature.
 
@@ -98,13 +98,13 @@
 
 **M:**&ensp;Remembering your self is virtue, forgetting your self is sin. It all boils down to the mental or psychological link between the spirit and matter. We may call the link psyche (<span data-tippy-content="The psyche, mind. Mind in a collective sense, including intelligence (<em>buddhi</em>), ego (<em>ahamkara</em>) and mind (<em>manas</em>).">antahkarana</span>). When the psyche is raw, undeveloped, quite primitive, it is subject to gross illusions. As it grows in breadth and sensitivity, it becomes a perfect link between pure matter and pure spirit and gives meaning to matter and expression to spirit.
 
-There is the material world (<span data-tippy-content="The great expanse of existence, the universe of matter and energy.">mahadakash</span>) and the spiritual (<span data-tippy-content="The great expanse, the timeless and spaceless reality; the Absolute beïng.">paramakash</span>). Between lies the universal mind (<span data-tippy-content="[<em>chit</em>, to perceive + <em>akash</em>, expanse, sky] <em>Brahman</em> in its aspect of limitless knowledge, the expanse of awareness. Variously used for consciousness, individual as well as universal.">chidakash</span>) which is also the universal heart (<span data-tippy-content="<em>Brahman</em> in its aspect of limitless love. It is another name for <em>chidakash</em>, but it lays stress on the love aspect not on the knowledge aspect. Love is the expression of the Self through the heart.">premakash</span>). It is wise love that makes the two one.
+There is the material world (<span data-tippy-content="The great expanse of existence, the universe of matter and energy.">mahadakash</span>) and the spiritual (<span data-tippy-content="The great expanse, the timeless and spaceless reality; the Absolute beïng.">paramakash</span>). Between lies the universal mind (<span data-tippy-content="[<em>chit</em>, to perceive + <em>akash</em>, expanse, sky] <em>Brahman</em> in its aspect of limitless knowledge, the expanse of awareness. Variöusly used for consciousness, individual as well as universal.">chidakash</span>) which is also the universal heart (<span data-tippy-content="<em>Brahman</em> in its aspect of limitless love. It is another name for <em>chidakash</em>, but it lays stress on the love aspect not on the knowledge aspect. Love is the expression of the Self through the heart.">premakash</span>). It is wise love that makes the two one.
 
-**Q:**&ensp;Some people are stupid, some are intelligent. The difference is in their psyche. The ripe ones have more experience behind them. Just like a child grows by eating and drinking, sleeping and playing, so is man’s psyche shaped by all he thinks and feels and does, until it is perfect enough to serve as a bridge between the spirit and the body. Just as a bridge permits traffic between the banks, so does the psyche bring together the source and its expression.
+**Q:**&ensp;Some people are stupid, some are intelligent. The difference is in their psyche. The ripe ones have more experiënce behind them. Just like a child grows by eating and drinking, sleeping and playing, so is man’s psyche shaped by all he thinks and feels and does, until it is perfect enough to serve as a bridge between the spirit and the body. Just as a bridge permits traffic between the banks, so does the psyche bring together the source and its expression.
 
 **M:**&ensp;Call it love. The bridge is love.
 
-**Q:**&ensp;Ultimately all is experience. Whatever we think, feel or do is experience. Behind it is the experiencer. So all we know consists of these two, the experiencer and the experience. But the two are really one — the experiencer alone is the experience. Still, the experiencer takes the experience to be outside. In the same way the spirit and the body are one; they only appear as two.
+**Q:**&ensp;Ultimately all is experiënce. Whatever we think, feel or do is experiënce. Behind it is the experiëncer. So all we know consists of these two, the experiëncer and the experiënce. But the two are really one — the experiëncer alone is the experiënce. Still, the experiëncer takes the experiënce to be outside. In the same way the spirit and the body are one; they only appear as two.
 
 **M:**&ensp;To the Spirit there is no second.
 
@@ -120,11 +120,11 @@ There is the material world (<span data-tippy-content="The great expanse of exis
 
 If they refrain from certain actions, it is through fear of police rather than by conviction. Undoubtedly there is something in what they say, for we can see how our values change from place to place and time to time. For instance killing in war is great virtue today and may be considered a horrible crime next century.
 
-**M:**&ensp;A man who moves with the earth will necessarily experience days and nights. He who stays with the sun will know no darkness. My world is not yours. As I see it, you all are on a stage performing. There is no reality about your comings and goings. And your problems are so unreal!
+**M:**&ensp;A man who moves with the earth will necessarily experiënce days and nights. He who stays with the sun will know no darkness. My world is not yours. As I see it, you all are on a stage performing. There is no reality about your comings and goïngs. And your problems are so unreal!
 
 **Q:**&ensp;We may be sleep-walkers or subject to nightmares. Is there nothing you can do?
 
-**M:**&ensp;I am doing something. I did enter your dreamlike state to tell you, “Stop hurting yourself and others, stop suffering, wake up”.
+**M:**&ensp;I am doïng something. I did enter your dreamlike state to tell you, “Stop hurting yourself and others, stop suffering, wake up”.
 
 **Q:**&ensp;Why then don’t we wake up?
 

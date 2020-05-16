@@ -2,7 +2,7 @@
 
 >Perception, imagination, expectation, anticipation, illusion — all are based on memory. There are hardly any border lines between them. They just merge into each other. All are responses of memory.
 
-**Questioner:**&ensp;Some say the universe was creäted. Others say that it always existed and is for ever undergoing transformations. Some say it is subject to eternal laws. Others deny even causality. Some say the world is real. Others — that it has no beïng whatsoëver. 
+**Questioner:**&ensp;Some say the universe was creäted. Others say that it always existed and is for ever undergoïng transformations. Some say it is subject to eternal laws. Others deny even causality. Some say the world is real. Others — that it has no beïng whatsoëver. 
 
 **Maharaj:**&ensp;Which world are you enquiring about?
 
@@ -28,7 +28,7 @@
 
 **Q:**&ensp;Still, memory is there to prove the reality of my world.
 
-**M:**&ensp;How much do you remember? Try to write down from memory what you were thinking, saying and doing on the 30th of last month.
+**M:**&ensp;How much do you remember? Try to write down from memory what you were thinking, saying and doïng on the 30th of last month.
 
 **Q:**&ensp;Yes, there is a blank.
 
@@ -52,7 +52,7 @@
 
 **Q:**&ensp;How can you say that all is well? Look at the wars, the exploitation, the cruel strife between the citizen and the state.
 
-**M:**&ensp;All these sufferings are man-made and it is within man’s power to put an end to them. God helps by facing man with the results of his actions and demanding that the balance should be restored. <span data-tippy-content="Action or “the fruits of action”. <em>Karma</em> is of three kinds: <em>sanchita</em> (accumulated from previous births), <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the present life) and <em>agami</em> (the current <em>karma</em> the result of which will fructify in future).">Karma</span> is the law that works for righteousness; it is the healing hand of God.
+**M:**&ensp;All these sufferings are man-made and it is within man’s power to put an end to them. God helps by facing man with the results of his actions and demanding that the balance should be restored. <span data-tippy-content="Action or “the fruits of action”. <em>Karma</em> is of three kinds: <em>sanchita</em> (accumulated from previöus births), <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the present life) and <em>agami</em> (the current <em>karma</em> the result of which will fructify in future).">Karma</span> is the law that works for righteousness; it is the healing hand of God.
 
 <script>
 export default {

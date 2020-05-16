@@ -8,7 +8,7 @@
 
 **M:**&ensp;Give up the idea of beïng what you think yourself to be and there will be no gap. By imagining yourself as separate you have creäted the gap. You need not cross it. Just don’t creäte it. All is you and yours. There is nobody else. This is a fact.
 
-**Q:**&ensp;How strange! The very same words which to you are true, to me are false. “There is nobody else”. How obviously untrue!
+**Q:**&ensp;How strange! The very same words which to you are true, to me are false. “There is nobody else”. How obviöusly untrue!
 
 **M:**&ensp;Let them be true or untrue. Words don’t matter. What matters is the idea you have of yourself, for it blocks you. Give it up.
 
@@ -56,7 +56,7 @@
 
 **M:**&ensp;To know that you are ill must you not be well initially?
 
-**Q:**&ensp;Oh, no. I know by comparison. If I am blind from birth and you tell me that you know things without touching them, while I must touch to know, I am aware that I am blind without knowing what it mean to see. Similarly, I know that I am lacking something when you assert things which I cannot grasp. You are telling me such wonderful things about myself; according to you, I am eternal, omnipresent, omniscient and supremely happy, the creätor, preserver and destroyer of all there is, the source of all life, the heart of beïng, the lord and the beloved of every creature. You equate me with the Ultimate Reality, the source and the goal of all existence. I just blink, for I know myself to be a tiny little bundle of desires and fears, a bubble of suffering, a transient flash of consciousness in an ocean of darkness.
+**Q:**&ensp;Oh, no. I know by comparison. If I am blind from birth and you tell me that you know things without touching them, while I must touch to know, I am aware that I am blind without knowing what it mean to see. Similarly, I know that I am lacking something when you assert things which I cannot grasp. You are telling me such wonderful things about myself; according to you, I am eternal, omnipresent, omniscient and supremely happy, the creätor, preserver and destroyer of all there is, the source of all life, the heart of beïng, the lord and the beloved of every creäture. You equate me with the Ultimate Reality, the source and the goal of all existence. I just blink, for I know myself to be a tiny little bundle of desires and fears, a bubble of suffering, a transient flash of consciousness in an ocean of darkness.
 
 **M:**&ensp;Before pain was, you were. After pain had gone, you remained. Pain is transient, you are not.
 
@@ -82,23 +82,23 @@
 
 **Q:**&ensp;“Without the mind” means ‘without thoughts’. ‘I am’ as a thought subsides. ‘I am’ as the sense of beïng remains.
 
-**M:**&ensp;All experience subsides with the mind. Without the mind there can be no experiencer or experience.
+**M:**&ensp;All experiënce subsides with the mind. Without the mind there can be no experiëncer or experiënce.
 
 **Q:**&ensp;Does not the witness remain?
 
-**M:**&ensp;The witness merely registers the presence or absence of experience. It is not an experience by itself, but it becomes an experience when the thought ‘I am the witness’ arises.
+**M:**&ensp;The witness merely registers the presence or absence of experiënce. It is not an experiënce by itself, but it becomes an experiënce when the thought ‘I am the witness’ arises.
 
-**Q:**&ensp;All I know is that sometimes the mind works and sometimes it stops. The experience of mental silence I call the abeyance of the mind.
+**Q:**&ensp;All I know is that sometimes the mind works and sometimes it stops. The experiënce of mental silence I call the abeyance of the mind.
 
-**M:**&ensp;Call it silence, void or abeyance, the fact is that the three — experiencer, experiencing, experience — are not. In witnessing, in awareness, self-consciousness, the sense of beïng this or that, is not. Unidentified beïng remains.
+**M:**&ensp;Call it silence, void or abeyance, the fact is that the three — experiëncer, experiëncing, experiënce — are not. In witnessing, in awareness, self-consciousness, the sense of beïng this or that, is not. Unidentified beïng remains.
 
 **Q:**&ensp;As a state of unconsciousness?
 
-**M:**&ensp;With reference to anything, it is the opposite. It is also between and beyond all opposites. It is neither consciousness nor unconsciousness, nor midway, nor beyond the two. It is by itself, not with reference to anything which may be called experience or its absence.
+**M:**&ensp;With reference to anything, it is the opposite. It is also between and beyond all opposites. It is neither consciousness nor unconsciousness, nor midway, nor beyond the two. It is by itself, not with reference to anything which may be called experiënce or its absence.
 
-**Q:**&ensp;How strange! You speak of it as if it were an experience.
+**Q:**&ensp;How strange! You speak of it as if it were an experiënce.
 
-**M:**&ensp;When I think of it, it becomes an experience.
+**M:**&ensp;When I think of it, it becomes an experiënce.
 
 **Q:**&ensp;Like the invisible light, intercepted by a flower, becoming colour?
 
@@ -106,11 +106,11 @@
 
 **Q:**&ensp;The same old four-fold negation of Nagarjuna: neither this, nor that, nor both, nor either. My mind reels!
 
-**M:**&ensp;Your difficulty stems from the idea that reality is a state of consciousness, one among many. You tend to say, “This is real. That is not real. And this is partly real, partly unreal”, as if reälity were an attribute or quality to have in varying measures.
+**M:**&ensp;Your difficulty stems from the idea that reality is a state of consciousness, one among many. You tend to say, “This is real. That is not real. And this is partly real, partly unreal”, as if reality were an attribute or quality to have in varying measures.
 
 **Q:**&ensp;Let me put it differently. After all, consciousness becomes a problem only when it is painful. An ever-blissful state does not give rise to questions. We find all consciousness to be a mixture of the pleasant and the painful. Why?
 
-**M:**&ensp;All consciousness is limited and therefore painful. At the root of consciousness lies desire, the urge to experience.
+**M:**&ensp;All consciousness is limited and therefore painful. At the root of consciousness lies desire, the urge to experiënce.
 
 **Q:**&ensp;Do you mean to say that without desire there can be no consciousness? And what is the advantage of beïng unconscious? If I have to forego pleasure for the freedom from pain, I better keep both.
 
@@ -138,9 +138,9 @@
 
 **Q:**&ensp;I am, the pain–pleasure man.
 
-**M:**&ensp;Pain and pleasure are both <span data-tippy-content="Bliss, happiness.">ananda</span> (bliss). Here I am sitting in front of you and telling you — from my own immediate and unchanging experience — pain and pleasure are the crests and valleys of the waves in the ocean of bliss. Deep down there is utter fullness.
+**M:**&ensp;Pain and pleasure are both <span data-tippy-content="Bliss, happiness.">ananda</span> (bliss). Here I am sitting in front of you and telling you — from my own immediate and unchanging experiënce — pain and pleasure are the crests and valleys of the waves in the ocean of bliss. Deep down there is utter fullness.
 
-**Q:**&ensp;Is your experience constant?
+**Q:**&ensp;Is your experiënce constant?
 
 **M:**&ensp;It is timeless and changeless.
 
@@ -148,13 +148,13 @@
 
 **M:**&ensp;That is what you think about yourself. Stop it. If you cannot break a habit all at once, consider the familiar way of thinking and see its falseness. Questioning the habitual is the duty of the mind. What the mind creäted, the mind must destroy. Or realise that there is no desire outside the mind and stay out.
 
-**Q:**&ensp;Honestly, I distrust this explaining everything as mind-made. The mind is only an instrument, as the eye is an instrument. Can you say that perception is creätion? I see the world *through* the window, not in the window. All you say holds well together because of the common foundation, but I do not know whether your foundation is in reälity or only in the mind. I can have only a mental picture of it. What it means to you I do not know.
+**Q:**&ensp;Honestly, I distrust this explaining everything as mind-made. The mind is only an instrument, as the eye is an instrument. Can you say that perception is creätion? I see the world *through* the window, not in the window. All you say holds well together because of the common foundation, but I do not know whether your foundation is in reality or only in the mind. I can have only a mental picture of it. What it means to you I do not know.
 
 **M:**&ensp;As long as you take your stand in the mind, you will see me in the mind.
 
 **Q:**&ensp;How inadequate are words for understanding!
 
-**M:**&ensp;Without words, what is there to understand? The need for understanding arises from misunderstanding. What I say is true, but to you it is only a theory. How will you come to know that it is true? Listen, remember, ponder, visualise, experience. Also apply it in your daily life. Have patience with me and above all, have patience with yourself, for you are your only obstacle. The way leads through yourself beyond yourself. As long as you believe only the particular to be real, conscious and happy, and reject the non-dual reality as something imagined, an abstract concept, you will find me doling out concepts and abstractions. But once you have touched the real within your own beïng, you will find me describing what for you is the nearest and the dearest.
+**M:**&ensp;Without words, what is there to understand? The need for understanding arises from misunderstanding. What I say is true, but to you it is only a theory. How will you come to know that it is true? Listen, remember, ponder, visualise, experiënce. Also apply it in your daily life. Have patience with me and above all, have patience with yourself, for you are your only obstacle. The way leads through yourself beyond yourself. As long as you believe only the particular to be real, conscious and happy, and reject the non-dual reality as something imagined, an abstract concept, you will find me doling out concepts and abstractions. But once you have touched the real within your own beïng, you will find me describing what for you is the nearest and the dearest.
 
 <script>
 export default {

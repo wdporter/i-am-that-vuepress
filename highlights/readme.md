@@ -9,7 +9,7 @@ are all the bodies, hearts and minds, and much more. Go deep into the sense of
 forgotten? You keep it in your mind until you recall it. The sense of beïng, 
 of ‘I am’, is the first to emerge. Ask yourself whence it comes or just watch 
 it quietly. When the mind stays in the ‘I am’ without moving, you enter a 
-state which cannot be verbalised, but can be experienced. All you need to do 
+state which cannot be verbalised, but can be experiënced. All you need to do 
 is to try and try again. After all, the sense ‘I am’ is always with you, only 
 you have attached all kinds of things to it: body, feelings, thoughts, ideas, 
 possessions etc. All of these self-identifications are misleading. Because of 
@@ -26,14 +26,14 @@ and the results of your actions. Study the prison you have inadvertantly built
 around yourself. By knowing what you are not, you come to know yourself. The 
 way back to your self is through refusal and rejection. One thing is certain: 
 the real is not imaginary; it is not a product of the mind. Even the sense ‘I 
-am’ is not continuous, though it is a useful pointer, it shows where to seek 
+am’ is not continuöus, though it is a useful pointer, it shows where to seek 
 but not what to seek. Just have a good look at it. Once you are convinced that 
 you cannot say truthfully about your self anything except, “I Am” and that 
 nothing that can be pointed at can be your self, the need for the ‘I am’ is 
 over — you are no longer intent on verbalising what you are. All you need is 
 to get rid of the tendency to define yourself. All definitions apply to your 
 body only and to its expressions. Once this obsession with the body leaves, 
-you will revert to your natural state spontaneously and effortlessly. The only 
+you will revert to your natural state spontaneöusly and effortlessly. The only 
 difference between us is that I am aware of my natural state, while you are 
 bemused. Just like gold made into ornaments has no advantage over gold dust 
 except when the mind makes it so, so are we one in beïng — we differ only in 
@@ -59,7 +59,7 @@ which the all-embracing consciousness is the manifestation and expression.
 
 …
 
-&emsp;[Desire is] one of the many [causal factors]. For everything there are innumerable causal factors. But the source of all that is, is the Infinite Possibility, the Supreme Reality, which is in you and which throws its power and light and love on every experience. But this source is not a cause and no cause is a source. Because of that, I say everything is uncaused. You may try to trace how a thing happens, but you cannot find out why a thing *is* as it is. A thing is as it is, because the universe is as it is.
+&emsp;[Desire is] one of the many [causal factors]. For everything there are innumerable causal factors. But the source of all that is, is the Infinite Possibility, the Supreme Reality, which is in you and which throws its power and light and love on every experiënce. But this source is not a cause and no cause is a source. Because of that, I say everything is uncaused. You may try to trace how a thing happens, but you cannot find out why a thing *is* as it is. A thing is as it is, because the universe is as it is.
 
 
 ## [7. The Mind](/7-the-mind/)
@@ -75,11 +75,11 @@ which the all-embracing consciousness is the manifestation and expression.
 
 **Q:**&ensp;How is it done?
 
-**M:**&ensp;Refuse all thoughts except one: the thought ‘I am’. The mind will rebel in the beginning, but with patience and perseverance it will yield and keep quiet. Once you are quiet, things will begin to happen spontaneously and quite naturally, without any interference on your part.
+**M:**&ensp;Refuse all thoughts except one: the thought ‘I am’. The mind will rebel in the beginning, but with patience and perseverance it will yield and keep quiet. Once you are quiet, things will begin to happen spontaneöusly and quite naturally, without any interference on your part.
 
 **Q:**&ensp;Can I avoid this protracted battle with my mind?
 
-**M:**&ensp;Yes, you can. Just live your life as it comes, but alertly, watchfully, allowing everything to happen as it happens, doing the natural things the natural way, suffering, rejoicing — as life brings. This also is a way.
+**M:**&ensp;Yes, you can. Just live your life as it comes, but alertly, watchfully, allowing everything to happen as it happens, doïng the natural things the natural way, suffering, rejoicing — as life brings. This also is a way.
 
 …
 
@@ -151,7 +151,7 @@ believe that we are born to suffer and to die.
 …
 
 &emsp;Wherever it [the practice of dismissing everything as a dream] leads you, it 
-will be a dream. The very idea of going beyond the dream is illusory. Why go 
+will be a dream. The very idea of goïng beyond the dream is illusory. Why go 
 anywhere? Just realise that you are dreaming a dream you call the world, and 
 stop looking for ways out. The dream is not your problem. Your problem is that 
 you like one part of your dream and not another. Love all or none of it, and 
@@ -172,18 +172,18 @@ that needs be done.
 
 ## [31. Do Not Undervalue Attention](/31-do-not-undervalue-attention/)
 
-&emsp;My actual experience is not different [from others’ experience]. It is 
-my evaluation and attitude that differ. I see the same world as you do, but not 
-the same way. There is nothing mysterious about it. Everybody sees the world 
+&emsp;My actual experiënce is not different [from others’ experiënce]. It is 
+my evaluätion and attitude that differ. I see the same world as you do, but not 
+the same way. There is nothing mysteriöus about it. Everybody sees the world 
 through the idea he has of himself. As you think yourself to be, so you think 
 the world to be. If you imagine yourself as separate from the world, the world 
-will appear as separate from you and you will experience desire and fear. I do 
+will appear as separate from you and you will experiënce desire and fear. I do 
 not see the world as separate from me and so there is nothing for me to desire 
 or fear.
 
 …
 
-&emsp;At the root of all creation lies desire. Desire and imagination 
+&emsp;At the root of all creätion lies desire. Desire and imagination 
 foster and reïnforce each other. The fourth state (<span 
 data-tippy-content="The superconscious state of <em>samadhi</em>, 
 (<em>turiya</em>, fourth), the fourth state of soul in which it becomes one 
@@ -215,7 +215,7 @@ cannot be.
 Only your attitude is faulty and needs reädjustment. This process or 
 reädjustment is what you call *sadhana*. You come to it by putting an end to 
 indolence and using all your energy to clear the way for clarity and charity. 
-But in reälity, these all are signs of inevitable growth. Don’t be afraid, 
+But in reality, these all are signs of inevitable growth. Don’t be afraid, 
 don’t resist, don’t delay. Be what you are. There is nothing to be afraid of. 
 Trust and try. Experiment honestly. Give your real beïng a chance to shape 
 your life. You will not regret it.
@@ -228,10 +228,10 @@ your life. You will not regret it.
 
 ## [38. Spiritual Practice Is Will Asserted and Reässerted](/38-spiritual-practice-is-will-asserted-and-reasserted/)
 
-&emsp;The common things of life — I experience them just as you do. The difference lies in what I do not experience. I do not experience fear or greed, hate or anger. I ask nothing, refuse nothing, keep nothing. In these matters I do not compromise. Maybe this is the outstanding difference between us: I will not compromise and am true to myself, while you are afraid of reälity.
+&emsp;The common things of life — I experiënce them just as you do. The difference lies in what I do not experiënce. I do not experiënce fear or greed, hate or anger. I ask nothing, refuse nothing, keep nothing. In these matters I do not compromise. Maybe this is the outstanding difference between us: I will not compromise and am true to myself, while you are afraid of reality.
 
 
-## [42. Reälity Cannot be Expressed](/42-reality-cannot-be-expressed/)
+## [42. Reality Cannot be Expressed](/42-reality-cannot-be-expressed/)
 
 &emsp;You can do nothing to bring it about, but you can avoid creäting obstacles. 
 Watch your mind, how it comes into beïng, how it operates. 
@@ -252,7 +252,7 @@ I can admit that the world in which I live and move and have my beïng is of my 
 The world of my own creätion may be quite unlike the ultimate, the real world, just like the cinema screen is quite unlike the pictures projected onto it. 
 Nevertheless, this absolute world exists, quite independent of myself.
 
-**M:**&ensp;Quite so — the world of Absolute Reälity, onto which your mind has projected a world of relative unreälity, is independent of yourself, for the very simple reason that it *is* yourself. 
+**M:**&ensp;Quite so — the world of Absolute Reality, onto which your mind has projected a world of relative unreality, is independent of yourself, for the very simple reason that it *is* yourself. 
 
 **Q:**&ensp;Is there no contradiction in terms? 
 How can independence prove identity?
@@ -260,7 +260,7 @@ How can independence prove identity?
 **M:**&ensp;Examine the motion of change and you will see. 
 What can change while you do not change can be said to be independent of you. 
 But what is changeless must be one with whatever else is changeless. 
-For duälity implies interaction and interaction means change. 
+For duality implies interaction and interaction means change. 
 In other words, the absolutely material and the absolutely spiritual, the totally objective and the totally subjective are identical both in substance and essence.
 
 
@@ -298,14 +298,14 @@ give all your attention to the level on which ‘I am’ is timelessly present.
 Soon you will realise that peace and happiness are in your very nature and it 
 is only seeking them through some particular channels that disturbs. Avoid the 
 disturbance, that is all. To seek there is no need — you would not seek what 
-you already have. You yourself are God, the Supreme Reälity. To begin with, 
+you already have. You yourself are God, the Supreme Reality. To begin with, 
 trust me, trust the Teacher. It enables you to make the first step — and then 
-your trust is justified by your own experience. In every walk of life, initial 
+your trust is justified by your own experiënce. In every walk of life, initial 
 trust is essential; without it little can be done. Every undertaking is an act 
 of faith. Even your daily bread you eat on trust! By remembering what I told 
 you, you will achieve everything. I am telling you again: You are the 
-all-pervading, all transcending reälity. Behave accordingly: Think, feel and 
-act in harmony with the whole and the actual experience of what I say will 
+all-pervading, all transcending reality. Behave accordingly: Think, feel and 
+act in harmony with the whole and the actual experiënce of what I say will 
 dawn upon you in no time. No effort is needed. Have faith and act on it. 
 Please see that I want nothing from you. It is in your own interest that I 
 speak because, above all, you love yourself and you want yourself to be 
@@ -332,18 +332,18 @@ reaching the deepest meaning of these words.
 
 &emsp;Contemplate life as infinite, undivided, ever present, ever active, until you realise yourself as one with it. It is not even very difficult, for you will only be returning to your own natural condition.
 
-&emsp;Once you realise that all comes from within, that the world in which you live has not been projected onto you, but by you, your fear comes to an end. Without this realisation you identify yourself with the externals, like the body, mind, society, nation, humanity, even God or the Absolute. But these are all escapes from fear. It is only when you fully accept your responsibility for the little world in which you live and watch the process of its creation, preservation and destruction that you may be free from your imaginary bondage.
+&emsp;Once you realise that all comes from within, that the world in which you live has not been projected onto you, but by you, your fear comes to an end. Without this realisation you identify yourself with the externals, like the body, mind, society, nation, humanity, even God or the Absolute. But these are all escapes from fear. It is only when you fully accept your responsibility for the little world in which you live and watch the process of its creätion, preservation and destruction that you may be free from your imaginary bondage.
 
 
 ## [64. Whatever Pleases You Keeps You Back](/64-whatever-pleases-you-keeps-you-back/)
 
 **Q:**&ensp;How does one come to know the knower?
 
-**M:**&ensp;I can only tell you what I know from my own experience. When I met my *guru*, he told me, “You are not what you take yourself to be. Find out what you are. Watch the sense ‘I am’, find your real self”. I obeyed him because I trusted him. I did as he told me. All my spare time I would spend looking at myself in silence. And what a difference it made, and how soon! It took me only three years to realise my true nature. My *guru* died soon after I met him, but it made no difference. I remembered what he told me and persevered. The fruit of it is here with me.
+**M:**&ensp;I can only tell you what I know from my own experiënce. When I met my *guru*, he told me, “You are not what you take yourself to be. Find out what you are. Watch the sense ‘I am’, find your real self”. I obeyed him because I trusted him. I did as he told me. All my spare time I would spend looking at myself in silence. And what a difference it made, and how soon! It took me only three years to realise my true nature. My *guru* died soon after I met him, but it made no difference. I remembered what he told me and persevered. The fruit of it is here with me.
 
 …
 
-&emsp;The witness attitude is also faith — it is faith in oneself. You believe that you are not what you experience and you look at everything as if from a distance. There is no effort in witnessing. You understand that you are the witness only and the understanding acts. You need nothing more — just remember that you are the witness only. If in the state of witnessing you ask yourself, “Who am I?”, the answer comes at once, though it is wordless and silent. Cease to be the object and become the
+&emsp;The witness attitude is also faith — it is faith in oneself. You believe that you are not what you experiënce and you look at everything as if from a distance. There is no effort in witnessing. You understand that you are the witness only and the understanding acts. You need nothing more — just remember that you are the witness only. If in the state of witnessing you ask yourself, “Who am I?”, the answer comes at once, though it is wordless and silent. Cease to be the object and become the
 subject of all that happens; once having turned within, you will find yourself beyond the subject. When you have found yourself, you will find that you are also beyond the object, that both the subject and the object exist in you, but you are neither.
 
 …
@@ -355,7 +355,7 @@ subject of all that happens; once having turned within, you will find yourself b
 
 ## [65. A Quiet Mind Is All You Need](/65-a-quiet-mind-is-all-you-need/)
 
-**Q:**&ensp;It is all very tempting, but how am I to proceed to realise my universal being?
+**Q:**&ensp;It is all very tempting, but how am I to proceed to realise my universal beïng?
 
 **M:**&ensp;You have two ways: you can give your heart and mind to self-discovery, or you accept my words on trust and act accordingly. In other words, either you become totally self-concerned, or totally unself-concerned. It is the word ‘totally’ that is important. You must be extreme to reach the Supreme.
 
@@ -366,12 +366,12 @@ subject of all that happens; once having turned within, you will find yourself b
 
 …
 
-&emsp;I have told you already that knowledge is most useful in dealing with things. But it does not tell you how to deal with people and yourself, how to live a life. We are not talking of driving a car or earning money. For this you need experience. But for beïng a light unto yourself, material knowledge will not help you. You need something much more intimate and deeper than material knowledge, to be your self in the true sense of the word. Your outer life is unimportant. You can become a night watchman and live happily. It is what you are inwardly that matters. Your inner peace and joy you have to earn. It is much more difficult than earning money. No university can teach you to be yourself. The only way to learn is by practice. Right away begin to be yourself. Discard all you are not and go ever deeper. Just as a man digging a well discards what is not water until he reaches the water-bearing strata, so must you discard what is not your own until nothing is left which you can disown. You will find that what is left is nothing which the mind can hook on to. You are not even a human beïng. You just *are* — a point of awareness, coëxtensive with time and space and beyond both, the ultimate cause, itself uncaused. If you ask me, “Who are you?”, my answer would be, “Nothing in particular. Yet, I am”.
+&emsp;I have told you already that knowledge is most useful in dealing with things. But it does not tell you how to deal with people and yourself, how to live a life. We are not talking of driving a car or earning money. For this you need experiënce. But for beïng a light unto yourself, material knowledge will not help you. You need something much more intimate and deeper than material knowledge, to be your self in the true sense of the word. Your outer life is unimportant. You can become a night watchman and live happily. It is what you are inwardly that matters. Your inner peace and joy you have to earn. It is much more difficult than earning money. No university can teach you to be yourself. The only way to learn is by practice. Right away begin to be yourself. Discard all you are not and go ever deeper. Just as a man digging a well discards what is not water until he reaches the water-bearing strata, so must you discard what is not your own until nothing is left which you can disown. You will find that what is left is nothing which the mind can hook on to. You are not even a human beïng. You just *are* — a point of awareness, coëxtensive with time and space and beyond both, the ultimate cause, itself uncaused. If you ask me, “Who are you?”, my answer would be, “Nothing in particular. Yet, I am”.
 
 
-## [67. Experience Is Not The Real Thing](/67-experience-is-not-the-real-thing/)
+## [67. Experiënce Is Not The Real Thing](/67-experiënce-is-not-the-real-thing/)
 
-&emsp;Experience, however sublime, is not the real thing. By its very nature it comes and goes. Self-realisation is not an acquisition. It is more in the nature of understanding. Once arrived at, it cannot be lost. On the other hand, consciousness is changeful, flowing, undergoïng transformation from moment to moment. Do not hold on to consciousness and its contents. Consciousness held, ceases. To try to perpetuate a flash of insight or a burst of happiness is destructive to what it wants to preserve. What comes must go. The permanent is beyond all comings and goïngs. Go to the root of all experience, to the sense of beïng. Beyond beïng and not-beïng lies the immensity of the real. Try and try again.
+&emsp;Experiënce, however sublime, is not the real thing. By its very nature it comes and goes. Self-realisation is not an acquisition. It is more in the nature of understanding. Once arrived at, it cannot be lost. On the other hand, consciousness is changeful, flowing, undergoïng transformation from moment to moment. Do not hold on to consciousness and its contents. Consciousness held, ceases. To try to perpetuäte a flash of insight or a burst of happiness is destructive to what it wants to preserve. What comes must go. The permanent is beyond all comings and goïngs. Go to the root of all experiënce, to the sense of beïng. Beyond beïng and not-beïng lies the immensity of the real. Try and try again.
 
 …
 
@@ -394,7 +394,7 @@ You are so accustomed to think of yourselves as bodies having consciousness that
 
 ## [71. In Self-Awareness You Learn About Yourself](/71-in-self-awareness-you-learn-about-yourself/)
 
-&emsp;The person is merely the result of a misunderstanding. In reality, there is no such thing. Feelings, thoughts and actions race before the watcher in endless succession, leaving traces in the brain and creating an illusion of continuïty. A reflection of the watcher in the mind creates the sense of ‘I’ and the person acquires an apparently independent existence. In reality there is no person — only the watcher identifying himself with the ‘I’ and the ‘mine’. The teacher tells the watcher, “You are not this — there is nothing of yours in this except the little point of ‘I am’, which is the bridge between the watcher and his dream. ‘I am this, I am that’ is dream, while pure ‘I am’ has the stamp of reality on it. You have tasted so many things — all came to naught. Only the sense ‘I am’ persisted unchanged. Stay with the changeless among the changeful, until you are able to go beyond”.
+&emsp;The person is merely the result of a misunderstanding. In reality, there is no such thing. Feelings, thoughts and actions race before the watcher in endless succession, leaving traces in the brain and creäting an illusion of continuïty. A reflection of the watcher in the mind creätes the sense of ‘I’ and the person acquires an apparently independent existence. In reality there is no person — only the watcher identifying himself with the ‘I’ and the ‘mine’. The teacher tells the watcher, “You are not this — there is nothing of yours in this except the little point of ‘I am’, which is the bridge between the watcher and his dream. ‘I am this, I am that’ is dream, while pure ‘I am’ has the stamp of reality on it. You have tasted so many things — all came to naught. Only the sense ‘I am’ persisted unchanged. Stay with the changeless among the changeful, until you are able to go beyond”.
 
 
 ## [72. What is Pure, Unalloyed, Unattached Is Real](/72-what-is-pure-unalloyed-unattached-is-real/)

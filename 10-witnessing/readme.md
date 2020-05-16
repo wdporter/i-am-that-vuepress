@@ -1,6 +1,6 @@
 # 10. Witnessing
 
->…You must watch yourself continuously — particularly your mind — moment by moment, missing nothing. This witnessing is essential for the separation of the self from the not-self.
+>…You must watch yourself continuöusly — particularly your mind — moment by moment, missing nothing. This witnessing is essential for the separation of the self from the not-self.
 
 **Questioner:**&ensp;I am full of desires and want them fulfilled. How am I to get what I want?
 
@@ -36,7 +36,7 @@
 
 **Q:**&ensp;Results are in the future. How can I know what they will be?
 
-**M:**&ensp;Use your mind. Remember. Observe. You are not different from others. Most of their experiences are valid for you too. Think clearly and deeply; go into the entire structure of your desires and their ramifications. They are a most important part of your mental and emotional makeüp and powerfully affect your actions. Remember: you cannot abandon what you do not know. To go beyond yourself, you must know yourself.
+**M:**&ensp;Use your mind. Remember. Observe. You are not different from others. Most of their experiënces are valid for you too. Think clearly and deeply; go into the entire structure of your desires and their ramifications. They are a most important part of your mental and emotional make-up and powerfully affect your actions. Remember: you cannot abandon what you do not know. To go beyond yourself, you must know yourself.
 
 **Q:**&ensp;What does it mean to know myself? By knowing myself what exactly do I come to know?
 
@@ -44,7 +44,7 @@
 
 **Q:**&ensp;And not what I am?
 
-**M:**&ensp;What you are, you already are. By knowing what you are not, you are free of it and remain in your own natural state. It all happens quite spontaneously and effortlessly.
+**M:**&ensp;What you are, you already are. By knowing what you are not, you are free of it and remain in your own natural state. It all happens quite spontaneöusly and effortlessly.
 
 **Q:**&ensp;And what do I discover?
 

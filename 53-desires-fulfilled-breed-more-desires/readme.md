@@ -18,15 +18,15 @@
 
 **M:**&ensp;Let it kick. Just look at the kicking. And if you are too afraid of the society to kick convincingly look at that too. I know it is a painful business. But there is no remedy except one: the search for remedies must cease. 
 
-If you are angry or in pain, separate yourself from anger and pain and watch them. Externalisation is the first step to liberation. Step away and look. The physical events will go on happening, but by themselves they have no importance. It is the mind alone that matters. Whatever happens, you cannot kick and scream in an airline office or in a Bank. Society does not allow it. If you do not like their ways, or are not prepared to endure them, don’t fly or carry money. Walk, and if you cannot walk, don’t travel. If you deal with society you must accept its ways, for its ways are your ways. Your needs and demands have created them. Your desires are so complex and contradictory — no wonder the society you create is also complex and contradictory.
+If you are angry or in pain, separate yourself from anger and pain and watch them. Externalisation is the first step to liberation. Step away and look. The physical events will go on happening, but by themselves they have no importance. It is the mind alone that matters. Whatever happens, you cannot kick and scream in an airline office or in a Bank. Society does not allow it. If you do not like their ways, or are not prepared to endure them, don’t fly or carry money. Walk, and if you cannot walk, don’t travel. If you deal with society you must accept its ways, for its ways are your ways. Your needs and demands have creäted them. Your desires are so complex and contradictory — no wonder the society you creäte is also complex and contradictory.
 
-**Q:**&ensp;I do see and admit that the outer chaos is merely a reflection of my own inner disharmony. But what is the remedy?
+**Q:**&ensp;I do see and admit that the outer chäos is merely a reflection of my own inner disharmony. But what is the remedy?
 
 **M:**&ensp;Don’t seek remedies.
 
-**Q:**&ensp;Sometimes one is in a ‘state of grace’ and life is happy and harmonious. But such a state does not last! The mood changes and all goes wrong.
+**Q:**&ensp;Sometimes one is in a ‘state of grace’ and life is happy and harmoniöus. But such a state does not last! The mood changes and all goes wrong.
 
-**M:**&ensp;If you could only keep quiet, clear of memories and expectations, you would be able to discern the beautiful pattern of events. It is your restlessness that causes chaos.
+**M:**&ensp;If you could only keep quiet, clear of memories and expectations, you would be able to discern the beautiful pattern of events. It is your restlessness that causes chäos.
 
 **Q:**&ensp;For full three hours that I spent in the airline office I was practising patience and forbearance. It did not speed up matters.
 
@@ -34,11 +34,11 @@ If you are angry or in pain, separate yourself from anger and pain and watch the
 
 **Q:**&ensp;I can keep quiet for an hour in the morning. But the day is long and many things happen that throw me out of balance. It is easy to say, “be silent”, but to be silent when all is screaming in me and around me — please tell me how it is done.
 
-**M:**&ensp;All that needs doing can be done in peace and silence. There is no need to get upset.
+**M:**&ensp;All that needs doïng can be done in peace and silence. There is no need to get upset.
 
 **Q:**&ensp;It is all theory which does not fit the facts. I am returning to Europe with nothing to do there. My life is completely empty.
 
-**M:**&ensp;If you just try to keep quiet, all will come — the work, the strength for work, the right motive. Must you know everything beforehand? Don’t be anxious about your future — be quiet now and all will fall in place. The unexpected is bound to happen, while the anticipated may never come. Don’t tell me you cannot control your nature. You need not control it. Throw it overboard. Have no nature to fight, or to submit to. No experience will hurt you, provided you don’t make it into a habit. Of the entire universe you are the subtle cause. All is because you are. Grasp this point firmly and deeply and dwell on it repeatedly. To realise this as absolutely true, is liberation.
+**M:**&ensp;If you just try to keep quiet, all will come — the work, the strength for work, the right motive. Must you know everything beforehand? Don’t be anxious about your future — be quiet now and all will fall in place. The unexpected is bound to happen, while the anticipated may never come. Don’t tell me you cannot control your nature. You need not control it. Throw it overboard. Have no nature to fight, or to submit to. No experiënce will hurt you, provided you don’t make it into a habit. Of the entire universe you are the subtle cause. All is because you are. Grasp this point firmly and deeply and dwell on it repeatedly. To realise this as absolutely true, is liberation.
 
 **Q:**&ensp;If I am the seed of my universe, then a rotten seed I am! By the fruit the seed is known.
 

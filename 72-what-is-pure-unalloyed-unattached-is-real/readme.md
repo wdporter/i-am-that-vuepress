@@ -14,7 +14,7 @@ data-tippy-content="One of the six systems of the Hindu philosophy
 (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which 
 the individual spirit (<em>jivatma</em>) can be joined or united with the 
 universal spirit (<em>Paramatma</em>).">yoga</span>s in his past and had many 
-experiences that passed away. Now he claims no special abilities or knowledge 
+experiënces that passed away. Now he claims no special abilities or knowledge 
 — the only unusual thing about him is connected with sensations: he is unable 
 to separate the seer from the seen. For instance, when he sees a car rushing 
 at him, he does not know whether the car is rushing at him, or he at the car. 
@@ -98,7 +98,7 @@ put an end to it; to wake up and see things as they are.
 About your stay in Switzerland with that strange friend of yours: what did you 
 gain in his company?
 
-**Q:**&ensp;Nothing absolutely. His experience did not affect me at all. One 
+**Q:**&ensp;Nothing absolutely. His experiënce did not affect me at all. One 
 thing I have understood: there is nothing to search for. Wherever I may go, 
 nothing waits for me at the end of the journey. Discovery is not the result 
 of transportation.
@@ -107,11 +107,11 @@ of transportation.
 
 **Q:**&ensp;Do you call it <span data-tippy-content="Dispassion, indifference 
 to the pains and pleasures of the material world.">vairagya</span>, 
-relinquishment, renunciation?
+relinquishment, renunciätion?
 
 **M:**&ensp;There is nothing to renounce. Enough if you stop acquiring. To 
 give you must have, and to have you must take. Better not to take. It is 
-simpler than to practice renunciation, which leads to a dangerous form of 
+simpler than to practice renunciätion, which leads to a dangerous form of 
 ‘spiritual’ pride. 
 
 All this weighing, selecting, choosing, exchanging — it is all shopping in 
@@ -200,8 +200,8 @@ will remain.
 
 **M:**&ensp;In love there is not even the one — how can there be two? Love is 
 the refusal to separate, to make distinctions. Before you can think of unity, 
-you must first creäte duälity. When you truly love, you do not say, “I love 
-you”. Where there is ment activity, there is duälity.
+you must first creäte duality. When you truly love, you do not say, “I love 
+you”. Where there is ment activity, there is duality.
 
 **Q:**&ensp;What is it that brings me again and again to India? It cannot only 
 be the comparative cheapness of life here, nor the colourfulness and variety 
@@ -237,7 +237,7 @@ of place would not affect it.
 has to conform to environment to a much greater extent.
 
 **M:**&ensp;Why don’t you creäte your own environment? The world has only as 
-much power over you as you give it. Rebel. Go beyond duälity, make no 
+much power over you as you give it. Rebel. Go beyond duality, make no 
 difference between East and West.
 
 **Q:**&ensp;What can one do when one finds oneself in a very nonspiritual 
@@ -250,7 +250,7 @@ environment?
 **M:**&ensp;When you know your true beïng, you have no problems. You may 
 please your parents or not, marry or not, make a lot of money or not; it is 
 all the same to you. Just act according to circumstances, yet in close touch 
-with the facts, with the reälity in every situätion.
+with the facts, with the reality in every situätion.
 
 **Q:**&ensp;Is it not a very high state?
 
@@ -277,12 +277,12 @@ we are?
 to shapeless gold. Similarly, one must return to one’s original state before a 
 new name and form can emerge. Death is essential for renewal.
 
-**Q:**&ensp;You are always stressing the need of going beyond, of aloofness, 
+**Q:**&ensp;You are always stressing the need of goïng beyond, of aloofness, 
 of solitude. You hardly ever use the words ‘right’ and ‘wrong’. Why?
 
 **M:**&ensp;It is right to be oneself, it is wrong not to be. All else is 
 conditional. You are eager to separate right from wrong because you need some 
-basis for action. You are always after doing something or other. But 
+basis for action. You are always after doïng something or other. But 
 personally motivated action based on some scale of values, aiming at some 
 result, is worse than inaction, for its fruits are always bitter.
 
@@ -291,12 +291,12 @@ result, is worse than inaction, for its fruits are always bitter.
 **M:**&ensp;Of course. Awareness is dynamic, love is beïng. Awareness is love 
 in action. By itself the mind can actualise any number of possibilities, but 
 unless they are prompted by love, they are valueless. Love precedes creätion. 
-Without it there is only chaos.
+Without it there is only chäos.
 
 **Q:**&ensp;Where is the action in awareness?
 
 **M:**&ensp;You are so incurably operational! Unless there is movement, 
-restlessness, turmoil, you do not call it action. Chaos is movement for 
+restlessness, turmoil, you do not call it action. Chäos is movement for 
 movement’s sake. True action does not displace; it transforms. A change of 
 place is mere transportation; a change of heart is action. Just remember: 
 nothing perceivable is real. Activity is not action. Action is hidden, 
@@ -340,8 +340,8 @@ limited. All limitation is imaginary, only the unlimited is real.
 **Q:**&ensp;There are many like me. Yet each is different.
 
 **M:**&ensp;The totality of all projections is what is called <span 
-data-tippy-content="The great illusion, unreälity. <em>Maya</em> is the 
-illusive power that veils the reälity. <em>Maya</em> is the totality of all 
+data-tippy-content="The great illusion, unreality. <em>Maya</em> is the 
+illusive power that veils the reality. <em>Maya</em> is the totality of all 
 mental projections.">maha-maya</span>, the Great Illusion.
 
 **Q:**&ensp;But when you look at yourself, what do you see?
@@ -398,7 +398,7 @@ fixation, bondage.
 of the world. Otherwise, your past and your future decide for you. Between 
 what had happened and what must happen you are caught. Call it destiny or 
 <span data-tippy-content="Action or “the fruits of action”. <em>Karma</em> is 
-of three kinds: <em>sanchita</em> (accumulated from previous births), 
+of three kinds: <em>sanchita</em> (accumulated from previöus births), 
 <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the 
 present life) and <em>agami</em> (the current <em>karma</em> the result of 
 which will fructify in future).">karma</span>, but never freedom. First return 

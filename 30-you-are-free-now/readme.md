@@ -7,7 +7,7 @@ manifestation of your limitless capacity to <span
 style=font-style:normal>become</span>.
 
 **Questioner:**&ensp;There are so many theories about the nature of man and 
-universe. The creation theory, the illusion theory, the dream theory — any 
+universe. The creätion theory, the illusion theory, the dream theory — any 
 number of them. Which is true?
 
 **Maharaj:**&ensp;All are true, all are false. You can pick up whichever you 
@@ -20,7 +20,7 @@ some favour another. Theories are neither right nor wrong. They are attempts
 at explaining the inexplicable. It is not the theory that matters, but the way 
 it is beïng tested. It is the testing of the theory that makes it fruitful. 
 Experiment with any theory you like — if you are truly earnest and honest, the 
-attainment of reälity will be yours. As a living beïng you are caught in an 
+attainment of reality will be yours. As a living beïng you are caught in an 
 untenable and painful situätion and you are seeking a way out. You are beïng 
 offered several plans of your prison, none quite true. But they all are of 
 some value, only if you are in dead earnest. It is the earnestness that 
@@ -109,7 +109,7 @@ cannot get out of here and now.
 **Q:**&ensp;All my waking and dreaming I am conscious of myself. It does not 
 help me much.
 
-**M:**&ensp;You were aware of thinking, feeling, doing. You were not aware of 
+**M:**&ensp;You were aware of thinking, feeling, doïng. You were not aware of 
 your *beïng*.
 
 **Q:**&ensp;What is the new factor you want me to bring in?
@@ -123,22 +123,22 @@ taking part in them.
 which again is the result of non-awareness. By striving for awareness you 
 bring your mind together and strengthen it.
 
-**Q:**&ensp;I may be fully aware of what is going on, and yet quite unable to 
+**Q:**&ensp;I may be fully aware of what is goïng on, and yet quite unable to 
 influence it in any way.
 
-**M:**&ensp;You are mistaken. What is going on is a projection of your mind. A 
+**M:**&ensp;You are mistaken. What is goïng on is a projection of your mind. A 
 weak mind cannot control its own projections. Be aware, therefore, of your 
 mind and its projections. You cannot control what you do not know. On the 
 other hand, knowledge gives power. In practice it is very simple. To control 
 yourself — know yourself.
 
 **Q:**&ensp;Maybe, I can come to control myself, but shall I be able to deal 
-with the chaos in the world?
+with the chäos in the world?
 
-**M:**&ensp;There is no chaos in the world, except the chaos which your mind 
+**M:**&ensp;There is no chäos in the world, except the chäos which your mind 
 creätes. It is self-creäted in the sense that at its very centre is the false 
 idea of oneself as a thing different and separate from other things. In 
-reälity you are not a thing, nor are you separate. You are the infinite 
+reality you are not a thing, nor are you separate. You are the infinite 
 potentiality, the inexhaustible possibility. Because you *are*, all can be. 
 The universe is but a partial manifestation of your limitless capacity to 
 *become*.
@@ -169,7 +169,7 @@ elsewhere. You will not be distracted.
 
 **M:**&ensp;You are completely free even now. What you call destiny (<span 
 data-tippy-content="Action or “the fruits of action”. <em>Karma</em> is of 
-three kinds: <em>sanchita</em> (accumulated from previous births), 
+three kinds: <em>sanchita</em> (accumulated from previöus births), 
 <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the 
 present life) and <em>agami</em> (the current <em>karma</em> the result of 
 which will fructify in future).">karma</span>) is but the result of your own 

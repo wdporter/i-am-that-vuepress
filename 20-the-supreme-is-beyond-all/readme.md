@@ -12,7 +12,7 @@
 
 **Q:**&ensp;When I look at myself, I find I am several persons fighting amongst themselves for the use of the body.
 
-**M:**&ensp;They correspond to the various tendencies (<span data-tippy-content="“Imprints left on the subconscious by experiences in past lives or the present life and which determine and condition one’s desires and actions”. Mental impression, memory. Also called <em>vasana</em>, residual impression.">samskara</span>) of the mind.
+**M:**&ensp;They correspond to the variöus tendencies (<span data-tippy-content="“Imprints left on the subconscious by experiënces in past lives or the present life and which determine and condition one’s desires and actions”. Mental impression, memory. Also called <em>vasana</em>, residual impression.">samskara</span>) of the mind.
 
 **Q:**&ensp;Can I make peace between them?
 
@@ -32,9 +32,9 @@
 
 **Q:**&ensp;Shapes and names are all of one and the same God?
 
-**M:**&ensp;Again, it all depends on how you look at it. On the verbal level everything is relative. Absolutes should be experienced, not discussed.
+**M:**&ensp;Again, it all depends on how you look at it. On the verbal level everything is relative. Absolutes should be experiënced, not discussed.
 
-**Q:**&ensp;How is the Absolute experienced?
+**Q:**&ensp;How is the Absolute experiënced?
 
 **M:**&ensp;It is not an object to be recognised and stored up in memory. Rather, it is in the present and in feeling. It has more to do with the ‘how’ than with the ‘what’. It is in the quality, in the value; beïng the source of everything, it is in everything.
 
@@ -88,7 +88,7 @@
 
 **Q:**&ensp;Does the Supreme know itself? Is the Impersonal conscious?
 
-**M:**&ensp;The source of all has all. Whatever flows from it must be there already in seed form. And as a seed is the last of innumerable seeds and contains the experience and the promise of numberless forests, so does the Unknown contain all that was or could have been and all that shall or would be. The entire field of becoming is open and accessible; past and future coëxist in the eternal *now*.
+**M:**&ensp;The source of all has all. Whatever flows from it must be there already in seed form. And as a seed is the last of innumerable seeds and contains the experiënce and the promise of numberless forests, so does the Unknown contain all that was or could have been and all that shall or would be. The entire field of becoming is open and accessible; past and future coëxist in the eternal *now*.
 
 **Q:**&ensp;Are you living in the Supreme Unknown?
 
@@ -106,7 +106,7 @@
 
 **M:**&ensp;Silence knows itself. It is the silence of the silent mind when passions and desires are silenced.
 
-**Q:**&ensp;Do you experience desires occasionally?
+**Q:**&ensp;Do you experiënce desires occasionally?
 
 **M:**&ensp;Desires are just waves in the mind. You know a wave when you see one. A desire is just a thing among many. I feel no urge to satisfy it; no action needs be taken on it. Freedom from desire means this: the compulsion to satisfy is absent.
 
@@ -116,11 +116,11 @@
 
 **Q:**&ensp;Yet so many <span data-tippy-content="[<em>Atman</em> + doërship is <em>jiva</em>.] The individual soul. According to <em>Vedanta</em>, <em>jiva</em> comes into beïng as a result of the false identification of the <em>atman</em> with body, senses and mind.">jiva</span>s get into bodies. Surely it cannot be some error of judgement. There must be a purpose. What could it be?
 
-**M:**&ensp;To know itself the self must be faced with its opposite — the non-self. Desire leads to experience. Experience leads to discrimination, detachment, self-knowledge — and liberation. And what is liberation after all? To know that you are beyond birth and death. By forgetting who you are and imagining yourself a mortal creature, you created so much trouble for yourself that you have to wake up, as from a bad dream.
+**M:**&ensp;To know itself the self must be faced with its opposite — the non-self. Desire leads to experiënce. Experiënce leads to discrimination, detachment, self-knowledge — and liberation. And what is liberation after all? To know that you are beyond birth and death. By forgetting who you are and imagining yourself a mortal creäture, you creäted so much trouble for yourself that you have to wake up, as from a bad dream.
 
 Inquiry also wakes you up. You need not wait for suffering — enquiry into happiness is better, for the mind is in harmony and peace.
 
-**Q:**&ensp;Who exactly is the ultimate experiencer — the Self or the Unknown?
+**Q:**&ensp;Who exactly is the ultimate experiëncer — the Self or the Unknown?
 
 **M:**&ensp;The Self, of course.
 

@@ -33,7 +33,7 @@ images, ideas. The pure sense of beïng is usually crowded out.
 What are your means, your tools for the purification of the mind?
 
 **Q:**&ensp;Basically, man is afraid. He is afraid of himself most. I feel I 
-am like a man who is carrying a bomb that is going to explode. He cannot 
+am like a man who is carrying a bomb that is goïng to explode. He cannot 
 defuse it; he cannot throw it away. He is terribly frightened and is searching 
 frantically for a solution which he cannot find. To me, liberation is getting 
 rid of this bomb. I do not know much about the bomb. I only know that it comes 
@@ -61,11 +61,11 @@ cannot stop working.
 A normal state cannot be painful while a habit often leads to chronic pain.
 
 **Q:**&ensp;If it is not the natural or normal state of mind, then how does 
-one stop it? There must be a way to quiët the mind. How often I tell myself, 
+one stop it? There must be a way to quiet the mind. How often I tell myself, 
 “Enough, please stop this endless chatter of sentences repeated round and 
 round!”. But my mind would not stop. I feel that one can stop it for a while, 
 but not for long. Even the so-called ‘spiritual’ people use tricks to keep 
-their mind quiët. They repeat formulas, sing, pray, breathe forcibly or 
+their mind quiet. They repeat formulas, sing, pray, breathe forcibly or 
 gently, shake, rotate, concentrate, meditate, chase trances, cultivate virtues 
 — working all the time, in order to cease working, cease chasing, cease 
 moveïng. Were it not so tragic, it would be ridiculous.
@@ -75,11 +75,11 @@ vibrates at the least disturbance, while the honey, however disturbed, returns
 quickly to immobility.
 
 **Q:**&ensp;By its very nature, the mind is restless. It can perhaps be made 
-quiët, but it is not quiët by itself.
+quiet, but it is not quiet by itself.
 
 **M:**&ensp;You may have chronic fever and shiver all the time. It is desires 
 and fears that make the mind restless. Free from all negative emotions, it is 
-quiët.
+quiet.
 
 **Q:**&ensp;You cannot protect the child from negative emotions. As soon as it 
 is born it learns pain and fear. Hunger is a cruel master and it teaches 
@@ -91,14 +91,14 @@ sootheïng affect, but as soon as I am away from them, the old trouble starts.
 This is why I come periodically to India to seek the company of my <span 
 data-tippy-content="Spiritual teacher, preceptor.">guru</span>.
 
-**M:**&ensp;You think you are coming and going, passing through variöus states 
+**M:**&ensp;You think you are coming and goïng, passing through variöus states 
 and moods. I see things as they are: momentary events, presenting themselves 
 to me in rapid succession, deriving their beïng from me, yet definitely 
 neither me nor mine. Among phenomena I am not one, nor am I subject to any. I 
 am independent so simply and totally that your mind, accustomed to opposition 
-and deniäl, cannot grasp it. I mean literally what I say: I do not need to 
+and denial, cannot grasp it. I mean literally what I say: I do not need to 
 oppose or deny because it is clear to me that I cannot be the opposite or 
-deniäl of anything. I am just beyond, in a different dimension altogether. Do 
+denial of anything. I am just beyond, in a different dimension altogether. Do 
 not look for me in identification with or opposition to something — I am 
 where desire and fear are not. Now, what is your experiënce? Do you also feel 
 that you stand totally aloof from all transiënt things?
@@ -165,8 +165,8 @@ Sometimes the wonderful state of joyful peace dawns on me and I look and
 wonder, “how easily it comes and how intimate it seems, how totally my own. 
 Where was the need to strive so hard for a state so near at hand? This time, 
 surely, it has come to stay”. Yet how soon it all dissolves and leaves me 
-wondering, “was it a taste of reälity or another aberration?”. If it was 
-reälity, why did it go? Maybe some unique experiënce is needed to fix me for 
+wondering, “was it a taste of reality or another aberration?”. If it was 
+reality, why did it go? Maybe some unique experiënce is needed to fix me for 
 good in the new state and until the crucial experiënce comes, this game of 
 hide and seek must continue.
 
@@ -205,13 +205,13 @@ give all your attention to the level on which ‘I am’ is timelessly present.
 Soon you will realise that peace and happiness are in your very nature and it 
 is only seeking them through some particular channels that disturbs. Avoid the 
 disturbance, that is all. To seek there is no need — you would not seek what 
-you already have. You yourself are God, the Supreme Reälity. To begin with, 
+you already have. You yourself are God, the Supreme Reality. To begin with, 
 trust me, trust the Teacher. It enables you to make the first step — and then 
 your trust is justified by your own experiënce. In every walk of life, initial 
 trust is essential; without it little can be done. Every undertaking is an act 
 of faith. Even your daily bread you eat on trust! By remembering what I told 
 you, you will achieve everything. I am telling you again: You are the 
-all-pervading, all transcending reälity. Behave accordingly: Think, feel and 
+all-pervading, all transcending reality. Behave accordingly: Think, feel and 
 act in harmony with the whole and the actual experiënce of what I say will 
 dawn upon you in no time. No effort is needed. Have faith and act on it. 
 Please see that I want nothing from you. It is in your own interest that I 
@@ -253,7 +253,7 @@ results and the freedom of the universe is yours. Be effortless.
 
 **M:**&ensp;What needs doïng, do it. Don’t resist. Your balance must be 
 dynamic, based on doïng just the right thing from moment to moment. Don’t be a 
-child unwilling to grow up. Stereötyped gestures and postures will not help 
+child unwilling to grow up. Stereotyped gestures and postures will not help 
 you. Rely entirely on your clarity of thought, purity of motive and integrity 
 of action. You cannot possibly go wrong. Go beyond and leave all behind.
 
@@ -264,7 +264,7 @@ and go, necessarily, for the human brain cannot stand the tension for a long
 time. A prolonged ecstasy will burn out your brain unless it is extremely pure 
 and subtle. In nature nothing is at stand-still — everything pulsates, appears 
 and disappears. Heart, breath, digestion, sleep and wakeïng, birth and death — 
-everything comes and goes in waves. Rhythm, periodicity, harmonious 
+everything comes and goes in waves. Rhythm, periodicity, harmoniöus 
 alternation of extremes is the rule. No use rebelling against the very pattern 
 of life. If you seek the immutable, go beyond experiënce. When I say, 
 “remember ‘I am’ all the time”, I mean come back to it repeatedly. No 

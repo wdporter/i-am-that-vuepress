@@ -11,20 +11,20 @@ else.
 **Maharaj:**&ensp;Were I very rich, what difference would it make? I am what I 
 am. What else can I be? I am neither rich nor poor; I am myself.
 
-**Q:**&ensp;Yet you are experiencing pleasure and pain.
+**Q:**&ensp;Yet you are experiëncing pleasure and pain.
 
-**M:**&ensp;I am experiencing these in consciousness, but I am neither 
+**M:**&ensp;I am experiëncing these in consciousness, but I am neither 
 consciousness nor its content.
 
 **Q:**&ensp;You say that in our real beïng we are all equal. How is it that 
-your experience is so different from ours?
+your experiënce is so different from ours?
 
-**M:**&ensp;My actual experience is not different. It is my evaluation and 
+**M:**&ensp;My actual experiënce is not different. It is my evaluätion and 
 attitude that differ. I see the same world as you do, but not the same way. 
-There is nothing mysterious about it. Everybody sees the world through the 
+There is nothing mysteriöus about it. Everybody sees the world through the 
 idea he has of himself. As you think yourself to be, so you think the world to 
 be. If you imagine yourself as separate from the world, the world will appear 
-as separate from you and you will experience desire and fear. I do not see the 
+as separate from you and you will experiënce desire and fear. I do not see the 
 world as separate from me and so there is nothing for me to desire or fear.
 
 **Q:**&ensp;You are a point of light in the world. Not everybody is.
@@ -40,7 +40,7 @@ was like you; you will be like me.
 **Q:**&ensp;God made a most diversified world.
 
 **M:**&ensp;The diversity is in you only. See yourself as you are and you will 
-see the world as it is; a single block of reälity, indivisible, indescribable. 
+see the world as it is; a single block of reality, indivisible, indescribable. 
 Your own creätive power projects upon it a picture and all your questions 
 refer to the picture.
 
@@ -73,7 +73,7 @@ life the personal merges in the impersonal.
 
 **Q:**&ensp;How does the personal emerge from the impersonal?
 
-**M:**&ensp;The two are but aspects of one reälity. It is not correct to talk 
+**M:**&ensp;The two are but aspects of one reality. It is not correct to talk 
 of one preceding the other. All these ideas belong to the waking state.
 
 **Q:**&ensp;What brings in the waking state?
@@ -89,16 +89,16 @@ unaffected by whatever it contains. Bodily and mental troubles do not reach it
 
 **Q:**&ensp;What is real — the subjective or the objective? I am inclined to 
 believe that the objective universe is the real one and my subjective psyche 
-is changeful and transient. You seem to claim reälity for your inner, 
-subjective states and deny all reälity to the concrete, external world.
+is changeful and transient. You seem to claim reality for your inner, 
+subjective states and deny all reality to the concrete, external world.
 
 **M:**&ensp;Both the subjective and the objective are changeful and transient. 
 There is nothing real about them. Find the permanent in the fleeting, the one 
-constant factor in every experience.
+constant factor in every experiënce.
 
 **Q:**&ensp;What is this constant factor?
 
-**M:**&ensp;My giving it various names and pointing it out in many ways will 
+**M:**&ensp;My giving it variöus names and pointing it out in many ways will 
 not help you much unless you have the capacity to see. A man with poor vision 
 will not see the parrot on the branch of a tree however much you may prompt 
 him to look. At best he will see your pointed finger. First purify your 
@@ -185,7 +185,7 @@ of pure awareness.
 
 **Q:**&ensp;How am I to get such stainless mirror?
 
-**M:**&ensp;Obviously, by removing stains. See the stains and remove them. The 
+**M:**&ensp;Obviöusly, by removing stains. See the stains and remove them. The 
 ancient teaching is fully valid.
 
 **Q:**&ensp;What is seeing and what is removing?
@@ -204,7 +204,7 @@ know it as unwanted.
 
 **Q:**&ensp;How awful! So the universe is of no value?
 
-**M:**&ensp;It is of tremendous value. By going beyond it you realise yourself.
+**M:**&ensp;It is of tremendous value. By goïng beyond it you realise yourself.
 
 **Q:**&ensp;But why did it come into beïng in the first plance?
 

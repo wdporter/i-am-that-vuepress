@@ -32,7 +32,7 @@
 
 **Q:**&ensp;Yes, we see a regular sequence in all life. Who maintains the order? Is there an inner ruler, who lays down laws and enforces order?
 
-**M:**&ensp;Everything moves according to its nature. Where is the need of a policeman? Every action creates a reäction which balances and neutralises the action. Everything happens, but there is a continuous cancelling out, and in the end it is as if nothing happened.
+**M:**&ensp;Everything moves according to its nature. Where is the need of a policeman? Every action creätes a reäction which balances and neutralises the action. Everything happens, but there is a continuöus cancelling out, and in the end it is as if nothing happened.
 
 **Q:**&ensp;Do not console me with final harmonies. The accounts tally, but the loss is mine.
 
@@ -42,9 +42,9 @@
 
 **M:**&ensp;You can have it as you like. You can distinguish a pattern in your life or see merely a chain of accidents. Explanations are meant to please the mind. They need not be true. Reality is indefinable and indescribable.
 
-**Q:**&ensp;Sir, you are evading my question! I want to know how *you* look at it. Wherever we look we find a structure of unbelievable intelligence and beauty. How can I believe that the universe is formless and chaotic? Your world, the world in which you live, may be formless, but it need not be chaotic.
+**Q:**&ensp;Sir, you are evading my question! I want to know how *you* look at it. Wherever we look we find a structure of unbelievable intelligence and beauty. How can I believe that the universe is formless and chäotic? Your world, the world in which you live, may be formless, but it need not be chäotic.
 
-**M:**&ensp;The objective universe has structure, is orderly and beautiful. Nobody can deny it. But structure and pattern imply constraint and compulsion. My world is absolutely free; everything in it is self-determined. Therefore I keep on saying that all happens by itself. There is order in my world too, but it is not imposed from outside. It comes spontaneously and immediately because of its timelessness. Perfection is not in the future. It is *now*.
+**M:**&ensp;The objective universe has structure, is orderly and beautiful. Nobody can deny it. But structure and pattern imply constraint and compulsion. My world is absolutely free; everything in it is self-determined. Therefore I keep on saying that all happens by itself. There is order in my world too, but it is not imposed from outside. It comes spontaneöusly and immediately because of its timelessness. Perfection is not in the future. It is *now*.
 
 **Q:**&ensp;Does your world affect mine?
 
@@ -52,11 +52,11 @@
 
 **Q:**&ensp;Is not attention an attitude of mind?
 
-**M:**&ensp;Yes, when the mind is eager for reality, it gives attention. There is nothing wrong with your world; it is your thinking yourself to be separate from it that creates disorder. Selfishness is the source of all evil.
+**M:**&ensp;Yes, when the mind is eager for reality, it gives attention. There is nothing wrong with your world; it is your thinking yourself to be separate from it that creätes disorder. Selfishness is the source of all evil.
 
 **Q:**&ensp;I am coming back to my question: Before I was born, did my inner self decide the details of my life, or was it entirely accidental and at the mercy of heredity and circumstances?
 
-**M:**&ensp;Those who claim to have selected their father and mother and decided how they are going to live their next life may know for themselves. I know for myself. I was never born.
+**M:**&ensp;Those who claim to have selected their father and mother and decided how they are goïng to live their next life may know for themselves. I know for myself. I was never born.
 
 **Q:**&ensp;I see you sitting in front of me and answering my questions.
 
@@ -68,7 +68,7 @@
 
 **Q:**&ensp;It requires intelligence and energy to build and maintain a living body. Where do they come from?
 
-**M:**&ensp;There is only imagination. The intelligence and power are all used up in your imagination. It has absorbed you so completely that you just cannot grasp how far from reality you have wandered. No doubt, imagination is richly creative. Universe within universe are built on it. Yet they are all in space and time, past and future, which just do not exist.
+**M:**&ensp;There is only imagination. The intelligence and power are all used up in your imagination. It has absorbed you so completely that you just cannot grasp how far from reality you have wandered. No doubt, imagination is richly creätive. Universe within universe are built on it. Yet they are all in space and time, past and future, which just do not exist.
 
 **Q:**&ensp;I recently read a report about a little girl who was very cruelly handled in her early childhood. She was badly mutilated and disfigured and grew up in an orphanage, completely estranged from its surroundings. This little girl was quiet and obedient, but completely indifferent. One of the nuns who was looking after the children was convinced that the girl was not mentally retarded, but merely withdrawn, irresponsive. A psychoänalyst was asked to take up the case and for two full years he would see the child once a week and try to break the wall of isolation. She was docile and well-behaved, but would give no attention to her doctor. He brought her a toy house with rooms and movable furniture and dolls representing a father, mother and their children. It brought out a response — the girl became interested. One day the old hurts revived and came to the surface. Gradually she recovered, a number of operations brought back her face and body to normal and she grew into an efficient and attractive young woman. It took the doctor more than five years, but the work was done. He was a real <span data-tippy-content="Spiritual teacher, preceptor.">guru</span>! He did not put down conditions nor talk about readiness and eligibility. Without faith and without hope, out of love only, he tried and tried again.
 
@@ -118,11 +118,11 @@ What you call realisation is a natural thing. When you are ready, your *guru* wi
 
 **Q:**&ensp;Yes, I see your point. Now, how am I to go into <span data-tippy-content="Superconscious state, profound meditation, trance, rapturous absorption. A practice of <em>yoga</em> in which the seeker (<em>sadhaka</em>) becomes one with the object of his meditation (<em>sadhya</em>), thus attaining unqualified bliss. “<em>Samadhi</em> is a state in which you transcend the bounds of your body, mind and self-identity, and merge into an undifferentiated unity with all that is”.">samadhi</span>?
 
-**M:**&ensp;If you are in the right state, whatever you see will put you into *samadhi*. After all, *samadhi* is nothing unusual. When the mind is intensely interested, it becomes one with the object of interest — the seer and the seen become one in seeïng, the hearer and the heard become one in hearing, the lover and the loved become one in loving. Every experience can be the ground for *samadhi*.
+**M:**&ensp;If you are in the right state, whatever you see will put you into *samadhi*. After all, *samadhi* is nothing unusual. When the mind is intensely interested, it becomes one with the object of interest — the seer and the seen become one in seeïng, the hearer and the heard become one in hearing, the lover and the loved become one in loving. Every experiënce can be the ground for *samadhi*.
 
 **Q:**&ensp;Are you always in a state of *samadhi*?
 
-**M:**&ensp;Of course not. *Samadhi* is a state of mind, after all. I am beyond all experience, even of *samadhi*. I am the great devourer and destroyer: whatever I touch dissolves into void (*akash*).
+**M:**&ensp;Of course not. *Samadhi* is a state of mind, after all. I am beyond all experiënce, even of *samadhi*. I am the great devourer and destroyer: whatever I touch dissolves into void (*akash*).
 
 **Q:**&ensp;I need *samadhi*s for self-realisation.
 

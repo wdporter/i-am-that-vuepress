@@ -8,11 +8,11 @@
 
 **Q:**&ensp;When I paint, there is only the painting and myself.
 
-**M:**&ensp;What are you doing there?
+**M:**&ensp;What are you doïng there?
 
 **Q:**&ensp;I paint.
 
-**M:**&ensp;No, you don’t. You see the painting going on. You are watching only; all else happens.
+**M:**&ensp;No, you don’t. You see the painting goïng on. You are watching only; all else happens.
 
 **Q:**&ensp;The picture is painting itself? Or is there some deeper ‘me’ or some god who is painting?
 
@@ -66,7 +66,7 @@
 
 **M:**&ensp;‘I am’ denotes the inner, ‘there is’ denotes the outer. Both are based on the sense of beïng.
 
-**Q:**&ensp;Is it the same as the experience of existence?
+**Q:**&ensp;Is it the same as the experiënce of existence?
 
 **M:**&ensp;To exist means to be something: a thing, a feeling, a thought, an idea. All existence is particular. Only beïng is universal, in the sense that every beïng is compatible with every other beïng. Existences clash, beïng — never. Existence means becoming, change, birth and death and birth again, while in beïng there is silent peace.
 

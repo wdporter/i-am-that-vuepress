@@ -6,7 +6,7 @@
 
 **Maharaj:**&ensp;From the highest point of view, the world has no cause.
 
-**Q:**&ensp;But what is your own experience?
+**Q:**&ensp;But what is your own experiënce?
 
 **M:**&ensp;Everything is uncaused. The world has no cause.
 
@@ -62,7 +62,7 @@ But why worry so much about causation? What do causes matter when things themsel
 
 **Q:**&ensp;I know it is not possible! All I want to know is if there are causes for everything and whether the causes can be influenced, thereby affecting the events?
 
-**M:**&ensp;To influence events, you need not know the causes. What a roundabout way of doing things! Are you not the source and the end of every event? Control it at the source itself.
+**M:**&ensp;To influence events, you need not know the causes. What a roundabout way of doïng things! Are you not the source and the end of every event? Control it at the source itself.
 
 **Q:**&ensp;Every morning I pick up the newspaper and read with dismay that the world’s sorrows — poverty, hatred and wars — continue unabated. My questions concern the fact of sorrow, the cause, the remedy. Don’t brush me off saying that it is Buddhism! Don’t label me. Your insistence on causelessness removes all hope of the world ever changing.
 
@@ -76,7 +76,7 @@ But why worry so much about causation? What do causes matter when things themsel
 
 **M:**&ensp;You have creäted them out of your own desires and fears — you deal with them. All is due to your having forgotten your own beïng. Having given reality to the picture on the screen, you love its people and suffer for them and seek to save them. It is just not so. You must begin with yourself. There is no other way. Work, of course. There is no harm in working.
 
-**Q:**&ensp;Your universe seems to contain every possible experience. The individual traces a line through it and experiences pleasant and unpleasant states. This gives rise to questioning and seeking, which broaden the outlook and enable the individual to go beyond his narrow and self-creäted world, limited and self-centred. This personal world can be changed — in time. The universe is timeless and perfect.
+**Q:**&ensp;Your universe seems to contain every possible experiënce. The individual traces a line through it and experiënces pleasant and unpleasant states. This gives rise to questioning and seeking, which broaden the outlook and enable the individual to go beyond his narrow and self-creäted world, limited and self-centred. This personal world can be changed — in time. The universe is timeless and perfect.
 
 **M:**&ensp;To take appearance for reality is a grievous sin and the cause of all calamities. You are the all-pervading, eternal and infinitely creätive awareness: consciousness. All else is local and temporary. Don’t forget what you are. In the meantime work to your heart’s content. Work and knowledge should go hand in hand.
 

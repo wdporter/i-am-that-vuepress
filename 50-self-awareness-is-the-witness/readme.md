@@ -20,7 +20,7 @@ fruits of action”. <em>Karma</em> is of three kinds: <em>sanchita</em>
 <em>karma</em> to be worked out in the present life) and <em>agami</em> (the 
 current <em>karma</em> the result of which will fructify in 
 future).">karma</span>. It is essentially the witness as well as the residue 
-of the accumulated experiences, the seat of memory, the connecting link (<span 
+of the accumulated experiënces, the seat of memory, the connecting link (<span 
 data-tippy-content="The connecting link between all beïngs. The string-like 
 supporter of the manifested worlds, hence the pure consciousness which is the 
 substratum of all beïngs. <em>Maharaj</em> uses the word for the accumulated 
@@ -50,17 +50,17 @@ all-exclusive Life, in which birth is death and death is birth.
 **Q:**&ensp;The Absolute or Life you talk about — is it real, or a mere theory 
 to cover up our ignorance?
 
-**M:**&ensp;Both. To the mind, a theory; in itself — a reälity. It is reälity 
+**M:**&ensp;Both. To the mind, a theory; in itself — a reality. It is reality 
 in its spontaneöus and total rejection of the false. Just as light destroys 
 darkness by its very presence, so does the absolute destroy imagination. To 
-see that all knowledge is a form of ignorance is itself a movement of reälity. 
+see that all knowledge is a form of ignorance is itself a movement of reality. 
 The witness is not a person. The person comes into beïng when there is a basis 
 for it, an organism, a body. In it the absolute is reflected as awareness. 
 Pure awareness becomes self-awareness. When there is a self, self-awareness is 
 the witness. When there is no self to witness, there is no witnessing either. 
 It is all very simple; it is the presence of the person that complicates. See 
 that there is no such thing as a permanently separate person and all becomes 
-clear. Awareness–mind–matter — they are one reälity in its two aspects as 
+clear. Awareness–mind–matter — they are one reality in its two aspects as 
 immoveäble and moveäble, and the three attributes of inertia, energy and 
 harmony.
 
@@ -107,13 +107,13 @@ knows that no gold is lost.
 **M:**&ensp;Death is natural, the manner of dying is man-made. Separateness 
 causes fear and aggression, which again cause violence. Do away with man-made 
 separations and all this horror of people killing each other will surely end. 
-But in reälity there is no killing and no dying. The real does not die; the 
+But in reality there is no killing and no dying. The real does not die; the 
 unreal never lived. Set your mind right and all will be right. When you know 
 that the world is one, that humanity is one, you will act accordingly. But 
 first of all you must attend to the way you feel, think and live. Unless there 
 is order in yourself, there can be no order in the world. 
 
-In reälity, nothing happens. Onto the screen of the mind, destiny forever 
+In reality, nothing happens. Onto the screen of the mind, destiny forever 
 projects its pictures, memories of former projections, and thus illusion 
 constantly renews itself. The pictures come and go — light intercepted by 
 ignorance. See the light and disregard the picture.
@@ -135,7 +135,7 @@ body? The misunderstanding is based on your idea that you are the body.
 Examine the idea, see its inherent contradictions and realise that your 
 present existence is like a shower of sparks, each spark lasting a second and 
 the shower itself — only a minute or two. Surely a thing of which the 
-beginning is the end, can have no middle. Respect your terms. Reälity cannot 
+beginning is the end, can have no middle. Respect your terms. Reality cannot 
 be momentary. It is timeless, but timelessness is not duration.
 
 **Q:**&ensp;I admit that the world in which I live is not the real world. But 
@@ -151,7 +151,7 @@ put into words — and dive deeply within yourself and find yourself, this alone
 will solve all your problems and leave you in full mastery of every situätion, 
 because you will not be dominated by your ideas about the situätion. Take an 
 example: You are in the company of an attractive woman. You get ideas about 
-her and this creates a sexual situätion. A problem is creäted and you start 
+her and this creätes a sexual situätion. A problem is creäted and you start 
 looking for books on continence or enjoyment. Were you a baby, both of you 
 could be naked and together without any problem arising. Just stop thinking 
 you are the bodies and the problems of love and sex will lose their meaning. 

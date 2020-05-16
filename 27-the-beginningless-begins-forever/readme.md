@@ -2,7 +2,7 @@
 
 >The beginningless begins forever. In the same way, I give eternally because I have nothing. To be nothing, to have nothing, to keep nothing for oneself is the greatest gift, the highest generosity.
 
-**Questioner:**&ensp;The other day I was asking you about the two ways of growth, renunciation and enjoyment (<span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span> and <span data-tippy-content="Sense enjoyment, experience of worldly joys and sorrows.">bhoga</span>). The difference is not so great as it looks — the <span data-tippy-content="One who practices <em>yoga</em>.">yogi</span> renounces to enjoy; the <span data-tippy-content="A <em>bhogi</em> is one involved in worldly joys and sorrows. <em>bhoga marga</em>, is the path of worldly pursuits — joys and sorrows.">bhogi</span> enjoys to renounce. The *ogi* renounces first, the *bhogi* enjoys first.
+**Questioner:**&ensp;The other day I was asking you about the two ways of growth, renunciätion and enjoyment (<span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span> and <span data-tippy-content="Sense enjoyment, experiënce of worldly joys and sorrows.">bhoga</span>). The difference is not so great as it looks — the <span data-tippy-content="One who practices <em>yoga</em>.">yogi</span> renounces to enjoy; the <span data-tippy-content="A <em>bhogi</em> is one involved in worldly joys and sorrows. <em>bhoga marga</em>, is the path of worldly pursuits — joys and sorrows.">bhogi</span> enjoys to renounce. The *ogi* renounces first, the *bhogi* enjoys first.
 
 **Maharaj:**&ensp;So what? Leave the *yogi* to his *yoga* and the *bhogi* to his *bhoga*.
 
@@ -18,7 +18,7 @@
 
 **M:**&ensp;It is a matter of wanting much or beïng satisfied with little. The *yogi* is ambitious while the *bhogi* is merely adventurous. Your *bhogi* seems to be richer and more interesting, but it is not so in reality. The *yogi* is narrow as the sharp edge of the knife. He has to be — to cut deep and smoothly, to penetrate unerringly the many layers of the false. The *bhogi* worships at many altars; the *yogi* serves none but his own true Self. 
 
-There is no purpose in opposing the *yogi* to the *bhogi*. The way of outgoing (<span data-tippy-content="Penchant, predilection towards worldly life.">pravritti</span>) necessarily precedes the way of returning (<span data-tippy-content="Liberation from worldly existence, renunciation.">nivritti</span>). To sit in judgement and allot marks is ridiculous. Everything contributes to the ultimate perfection. Some say there are three aspects of reality: truth, wisdom and bliss. He who seeks Truth becomes a *yogi*; he who seeks wisdom becomes a *jnani*; he who seeks happiness becomes the man of action.
+There is no purpose in opposing the *yogi* to the *bhogi*. The way of outgoïng (<span data-tippy-content="Penchant, predilection towards worldly life.">pravritti</span>) necessarily precedes the way of returning (<span data-tippy-content="Liberation from worldly existence, renunciätion.">nivritti</span>). To sit in judgement and allot marks is ridiculous. Everything contributes to the ultimate perfection. Some say there are three aspects of reality: truth, wisdom and bliss. He who seeks Truth becomes a *yogi*; he who seeks wisdom becomes a *jnani*; he who seeks happiness becomes the man of action.
 
 **Q:**&ensp;We are told of the bliss of non-duality.
 
@@ -28,7 +28,7 @@ There is no purpose in opposing the *yogi* to the *bhogi*. The way of outgoing (
 
 **M:**&ensp;The difference is between giving and grasping. Whatever the way of approach, in the end all becomes one.
 
-**Q:**&ensp;If there be no difference in the goal, why discriminate between various approaches?
+**Q:**&ensp;If there be no difference in the goal, why discriminate between variöus approaches?
 
 **M:**&ensp;Let each act according to his nature. The ultimate purpose will be served in any case. All your discriminations and classifications are quite all right, but they do not exist in my case. As the description of a dream may be detailed and accurate, though without having any foundation, so does your pattern fit nothing but your own assumptions. You begin with an idea and you end with the same idea under a different garb.
 
@@ -48,15 +48,15 @@ All division is in the mind (<span data-tippy-content="Individual consciousness.
 
 **Q:**&ensp;As a witness, you are working or at rest?
 
-**M:**&ensp;Witnessing is an experience and rest is freedom from experience.
+**M:**&ensp;Witnessing is an experiënce and rest is freedom from experiënce.
 
 **Q:**&ensp;Can’t they coëxist, as the tumult of the waves and the quiet of the deep coëxist in the ocean?
 
-**M:**&ensp;Beyond the mind there is no such thing as experience. Experience is a dual state. You cannot talk of reality as an experience. Once this is understood, you will no longer look for beïng and becoming as separate and opposite. In reality they are one and inseparable, like roots and branches of the same tree. Both can exist only in the light of consciousness, which again arises in the wake of the sense ‘I am’. This is the primary fact. If you miss it, you miss all.
+**M:**&ensp;Beyond the mind there is no such thing as experiënce. Experiënce is a dual state. You cannot talk of reality as an experiënce. Once this is understood, you will no longer look for beïng and becoming as separate and opposite. In reality they are one and inseparable, like roots and branches of the same tree. Both can exist only in the light of consciousness, which again arises in the wake of the sense ‘I am’. This is the primary fact. If you miss it, you miss all.
 
-**Q:**&ensp;Is the sense of beïng a product of experience only? The great saying (<span data-tippy-content="The sublime pronouncement. Four <em>Upanishad</em>ic declarations, expressing the highest <em>Vedant</em>ic truths, are known as <em>Maha-vakya</em>s. They are: <em>Prajnanam Brahman</em> (consciousness is Brahman), <em>aham Brahmasmi</em> (I am Brahman), <em>tat tvam asi</em> (That Thou Art) and <em>ayam atma Brahma</em> (the self is Brahman).">mahavakya</span>), <span data-tippy-content="[<em>tat</em>, that + <em>sat</em>, truth, beïng, reality] That is the truth. The sacred text is “<em>Om Tat Sat</em>” in which <em>Brahman</em> is identified by each of the three words.">tatsat</span> — is it a mere mode of mentation?
+**Q:**&ensp;Is the sense of beïng a product of experiënce only? The great saying (<span data-tippy-content="The sublime pronouncement. Four <em>Upanishad</em>ic declarations, expressing the highest <em>Vedant</em>ic truths, are known as <em>Maha-vakya</em>s. They are: <em>Prajnanam Brahman</em> (consciousness is Brahman), <em>aham Brahmasmi</em> (I am Brahman), <em>tat tvam asi</em> (That Thou Art) and <em>ayam atma Brahma</em> (the self is Brahman).">mahavakya</span>), <span data-tippy-content="[<em>tat</em>, that + <em>sat</em>, truth, beïng, reality] That is the truth. The sacred text is “<em>Om Tat Sat</em>” in which <em>Brahman</em> is identified by each of the three words.">tatsat</span> — is it a mere mode of mentation?
 
-**M:**&ensp;Whatever is spoken is speech only. Whatever is thought is thought only. The real meaning is unexplainable, although experienceable. The *mahavakya* is true, but your ideas are false, for all ideas (<span data-tippy-content="Imagination, fancy.">kalpana</span>) are false.
+**M:**&ensp;Whatever is spoken is speech only. Whatever is thought is thought only. The real meaning is unexplainable, although experiënceable. The *mahavakya* is true, but your ideas are false, for all ideas (<span data-tippy-content="Imagination, fancy.">kalpana</span>) are false.
 
 **Q:**&ensp;Is the conviction, ‘I Am That’ false?
 
@@ -74,9 +74,9 @@ All division is in the mind (<span data-tippy-content="Individual consciousness.
 
 **M:**&ensp;Beïng shines as knowing, knowing is warm in love. It is all one. You imagine separations and trouble yourself with questions. Don’t concern yourself overmuch with formulations. Pure beïng cannot be described.
 
-**Q:**&ensp;Unless a thing is knowable and enjoyable, it is of no use to me. It must become a part of my experience, first of all.
+**Q:**&ensp;Unless a thing is knowable and enjoyable, it is of no use to me. It must become a part of my experiënce, first of all.
 
-**M:**&ensp;You are dragging down reality to the level of experience. How can reality depend on experience, when it is the very ground (<span data-tippy-content="Support.">adhar</span>) of experience. Reality is in the very fact of experience, not in its nature. Experience is, after all, a state of mind, while beïng is definitely not a state of mind.
+**M:**&ensp;You are dragging down reality to the level of experiënce. How can reality depend on experiënce, when it is the very ground (<span data-tippy-content="Support.">adhar</span>) of experiënce. Reality is in the very fact of experiënce, not in its nature. Experiënce is, after all, a state of mind, while beïng is definitely not a state of mind.
 
 **Q:**&ensp;Again I am confused! Is beïng separate from knowing?
 
@@ -84,7 +84,7 @@ All division is in the mind (<span data-tippy-content="Individual consciousness.
 
 **Q:**&ensp;I can see now that *sat* and *chit* are one. But what about bliss (*ananda*)? Beïng and consciousness are always present together, but bliss flashes only occasionally.
 
-**M:**&ensp;The undisturbed state of beïng is bliss; the disturbed state is what appears as the world. In non-duality there is bliss; in duality — experience. What comes and goes is experience with its duality of pain and pleasure. Bliss is not to be known. One is always bliss, but never blissful. Bliss is not an attribute.
+**M:**&ensp;The undisturbed state of beïng is bliss; the disturbed state is what appears as the world. In non-duality there is bliss; in duality — experiënce. What comes and goes is experiënce with its duality of pain and pleasure. Bliss is not to be known. One is always bliss, but never blissful. Bliss is not an attribute.
 
 **Q:**&ensp;I have another question to ask: Some *yogi*s attain their goal but it is of no use to others. They do not know or are not able to share. Those who can share what they have initiate others. Where lies the difference?
 
@@ -112,7 +112,7 @@ All division is in the mind (<span data-tippy-content="Individual consciousness.
 
 **Q:**&ensp;Is there no self-concern left?
 
-**M:**&ensp;Of course I am self-concerned, but the self is all. In practice it takes the shape of goodwill, unfailing and universal. You may call it love, all-pervading, all-redeeming. Such love is supremely active — without the sense of doing.
+**M:**&ensp;Of course I am self-concerned, but the self is all. In practice it takes the shape of goodwill, unfailing and universal. You may call it love, all-pervading, all-redeeming. Such love is supremely active — without the sense of doïng.
 
 <script>
 export default {

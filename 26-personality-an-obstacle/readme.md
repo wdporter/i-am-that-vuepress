@@ -6,7 +6,7 @@
 
 **Maharaj:**&ensp;In what way are your common people *yogi*s?
 
-**Q:**&ensp;Their ultimate goal is the same. What the *yogi* secures by renunciation (<span data-tippy-content="Renunciation. <em>Tyaga</em> is the renunciation of the fruits of all works: i.e., the <em>tyagi</em> should perform <em>karma</em> with detachment and with no desire for results.">tyaga</span>) the common man realises through experience (<span data-tippy-content="Sense enjoyment, experience of worldly joys and sorrows.">bhoga</span>). The way of *bhoga* is unconscious and therefore repetitive and protracted, while the way of *yoga* is deliberate and intense and therefore can be more rapid.
+**Q:**&ensp;Their ultimate goal is the same. What the *yogi* secures by renunciätion (<span data-tippy-content="Renunciätion. <em>Tyaga</em> is the renunciätion of the fruits of all works: i.e., the <em>tyagi</em> should perform <em>karma</em> with detachment and with no desire for results.">tyaga</span>) the common man realises through experiënce (<span data-tippy-content="Sense enjoyment, experiënce of worldly joys and sorrows.">bhoga</span>). The way of *bhoga* is unconscious and therefore repetitive and protracted, while the way of *yoga* is deliberate and intense and therefore can be more rapid.
 
 **M:**&ensp;Maybe the periods of *yoga* and *bhoga* alternate. First <span data-tippy-content="A <em>bhogi</em> is one involved in worldly joys and sorrows. <em>bhoga marga</em>, is the path of worldly pursuits — joys and sorrows.">bhogi</span>, then *yogi*, then again *bhogi*, then again *yogi*.
 
@@ -34,7 +34,7 @@
 
 **M:**&ensp;Yes, the freedom of the stone and much more besides. Freedom unlimited and conscious.
 
-**Q:**&ensp;Is not personality required for gathering experience?
+**Q:**&ensp;Is not personality required for gathering experiënce?
 
 **M:**&ensp;As you are now, the personality is only an obstacle. Self-identification with the body may be good for an infant, but true growing up depends on getting the body out of the way. Normally, one should outgrow body-based desires early in life. Even the *bhogi*, who does not refuse enjoyments, need not hanker after the ones he has tasted. Habit, desire for repetition, frustrates both the *yogi* and the *bhogi*.
 
@@ -52,7 +52,7 @@
 
 **Q:**&ensp;Sharada Devi, wife of Sri Ramakrishna Paramahamsa, used to scold his disciples for too much effort. She compared them to mangoes on the tree which are beïng plucked before they are ripe. “Why hurry?”, she used to ask. “Wait till you are fully ripe, mellow and sweet”.
 
-**M:**&ensp;How right she was! There are so many who take the dawn for the noon, a momentary experience for full realisation, and destroy even the little they gain by excess of pride. Humility and silence are essential for a <span data-tippy-content="Spiritual aspirant.">sadhaka</span>, however advanced. Only a fully ripened <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> can allow himself complete spontaneïty.
+**M:**&ensp;How right she was! There are so many who take the dawn for the noon, a momentary experiënce for full realisation, and destroy even the little they gain by excess of pride. Humility and silence are essential for a <span data-tippy-content="Spiritual aspirant.">sadhaka</span>, however advanced. Only a fully ripened <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> can allow himself complete spontaneïty.
 
 **Q:**&ensp;It seems there are schools of *yoga* where the student, after illumination, is obliged to keep silent for seven or twelve or fifteen or even twenty-five years. Even Bhagavan Sri Ramana Maharshi imposed on himself twenty years of silence before he began to teach.
 
@@ -64,11 +64,11 @@
 
 **Q:**&ensp;Buddha too, has said that for the attainment of <span data-tippy-content="“A state of ‘ultimate’ peace that is achieved with the uprooting and final dissolution of the volitional formations”. Liberation from matter and union with the Supreme Spirit (Brahman).">nirvana</span> one must go to living beïngs. Consciousness needs life to grow.
 
-**M:**&ensp;The world itself is contact — the totality of all contacts actualised in consciousness. The spirit touches matter and consciousness results. Such consciousness, when tainted with memory and expectation, becomes bondage. Pure experience does not bind; experience caught between desire and fear is impure and creates <span data-tippy-content="Action or “the fruits of action”. <em>Karma</em> is of three kinds: <em>sanchita</em> (accumulated from previous births), <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the present life) and <em>agami</em> (the current <em>karma</em> the result of which will fructify in future).">karma</span>.
+**M:**&ensp;The world itself is contact — the totality of all contacts actualised in consciousness. The spirit touches matter and consciousness results. Such consciousness, when tainted with memory and expectation, becomes bondage. Pure experiënce does not bind; experiënce caught between desire and fear is impure and creätes <span data-tippy-content="Action or “the fruits of action”. <em>Karma</em> is of three kinds: <em>sanchita</em> (accumulated from previous births), <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the present life) and <em>agami</em> (the current <em>karma</em> the result of which will fructify in future).">karma</span>.
 
 **Q:**&ensp;Can there be happiness in unity? Does not all happiness necessarily imply contact, hence duality?
 
-**M:**&ensp;There is nothing wrong with duality as long as it does not create conflict. Multiplicity and variety without strife is joy. In pure consciousness there is light. For warmth, contact is needed. Above the unity of beïng is the union of love. Love is the meaning and purpose of duality.
+**M:**&ensp;There is nothing wrong with duality as long as it does not creäte conflict. Multiplicity and variety without strife is joy. In pure consciousness there is light. For warmth, contact is needed. Above the unity of beïng is the union of love. Love is the meaning and purpose of duality.
 
 **Q:**&ensp;I am an adopted child. I do not know my own father. My mother died when I was born. My foster father, to please my foster mother, who was childless, adopted me — almost by accident. He is a simple man — a truck owner and driver. My mother keeps the house. I am twenty-four years old now. For the last two and a half years I have been travelling, restless, seeking. I want to live a good life, a holy life. What am I to do?
 
@@ -88,9 +88,9 @@
 
 **Q:**&ensp;Well, it is deep mystery to me. I am a simple man.
 
-**M:**&ensp;It is you who are deeply complex, mysterious, hard to understand. I am simplicity itself compared to you. I am what is — without any distinction whatsoëver into inner and outer, mine and yours, good and bad. What the world is, I am; what I am, the world is.
+**M:**&ensp;It is you who are deeply complex, mysteriöus, hard to understand. I am simplicity itself compared to you. I am what is — without any distinction whatsoëver into inner and outer, mine and yours, good and bad. What the world is, I am; what I am, the world is.
 
-**Q:**&ensp;How does it happen that each man creates his own world?
+**Q:**&ensp;How does it happen that each man creätes his own world?
 
 **M:**&ensp;When a number of people are asleep, each dreams his own dream. It is only on awakening the question of many different dreams arises and dissolves when they are all seen as dreams, as something imagined.
 

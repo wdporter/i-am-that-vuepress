@@ -12,15 +12,15 @@ I have spent seven months there.
 
 **Q:**&ensp;As far as I could, I concentrated on the ‘Who am I?’.
 
-**M:**&ensp;Which way were you doing it? 
+**M:**&ensp;Which way were you doïng it? 
 Verbally?
 
 **Q:**&ensp;In my free moments during the course of the day. 
 Sometimes I was murmuring to myself, “Who am I?” or “I am, but who am I?” or I did it mentally. 
 Occasionally I would have a nice feeling or get into moods of quiet happiness. 
-On the whole I was trying to be quiet and receptive rather than labouring for experiences.
+On the whole I was trying to be quiet and receptive rather than labouring for experiënces.
 
-**M:**&ensp;What were you actually experiencing when you were in the right mood?
+**M:**&ensp;What were you actually experiëncing when you were in the right mood?
 
 **Q:**&ensp;A sense of inner stillness, peace and silence.
 
@@ -56,17 +56,17 @@ What is observable is not the real self.
 You know you are the ultimate observer by direct insight, not by a logical process based on observation. 
 You are what you are, but you know what you are not. 
 The self is known as beïng; the not-self is known as transient. 
-But in reälity, all is in the mind. 
+But in reality, all is in the mind. 
 The observed, observation and observer are mental constructs. 
 The self alone *is*.
 
-**Q:**&ensp;Why does the mind create all these divisions?
+**Q:**&ensp;Why does the mind creäte all these divisions?
 
 **M:**&ensp;To divide and particularise is in the mind’s very nature. 
 There is no harm in dividing. 
 But separation goes against fact. 
 Things and people are different, but they are not separate. 
-Nature is one, reälity is one. 
+Nature is one, reality is one. 
 There are opposites, but no opposition.
 
 **Q:**&ensp;I find that by nature I am very active. 
@@ -101,7 +101,7 @@ Just resolve and persevere; the rest will take care of itself.
 
 **Q:**&ensp;I seem to have a clear idea of what needs be done, but I find myself getting tired and depressed and seeking human company, and thus wasting time that should be given to solitude and meditation.
 
-**M:**&ensp;Do what you feel like doing. 
+**M:**&ensp;Do what you feel like doïng. 
 Don’t bully yourself. 
 Violence will make you hard and rigid. 
 Do not fight with what you take to be obstacles on your way. 
@@ -113,7 +113,7 @@ But don’t let yourself be submerged by what happens.
 
 **M:**&ensp;The mind must learn that beyond the moving mind there is the background of awareness which does not change. 
 The mind must come to know the true self and respect it and cease covering it up, like the moon which obscures the sun during a solar eclipse. 
-Just realise that nothing observable or experienceable is you or binds you. 
+Just realise that nothing observable or experiënceable is you or binds you. 
 Take no notice of what is not yourself.
 
 **Q:**&ensp;To do what you tell me I must be ceaselessly aware.
@@ -129,7 +129,7 @@ You are always conscious of the mind, but you are not aware of yourself as beïn
 
 **M:**&ensp;Look at it this way. 
 The mind produces thoughts ceaselessly, even when you do not look at them. 
-When you know what is going on in your mind, you call it consciousness. 
+When you know what is goïng on in your mind, you call it consciousness. 
 This is your waking state — your consciousness shifts from sensation to sensation, from perception to perception, from idea to idea, in endless succession. 
 Then comes awareness, the direct insight into the whole of consciousness, the totality of the mind. 
 The mind is like a river, flowing ceaselessly in the bed of the body; you identify yourself for a moment with some particular ripple and call it ‘my thought’. 
@@ -143,7 +143,7 @@ Our minds are just waves on the ocean of consciousness.
 As waves, they come and go. 
 As ocean, they are infinite and eternal. 
 Know yourself as the ocean of beïng, the womb of all existence. 
-These are all metaphors of course; the reälity is beyond description. 
+These are all metaphors of course; the reality is beyond description. 
 You can know it only by beïng it.
 
 **Q:**&ensp;Is the search for it worth the trouble?
@@ -166,7 +166,7 @@ I find I have lost the mind irretrievably.
 **Q:**&ensp;As you talk to us just now, are you unconscious?
 
 **M:**&ensp;I am neither conscious nor unconscious; I am beyond the mind and its various states and conditions. 
-Distinctions are created by the mind and apply to the mind only. 
+Distinctions are creäted by the mind and apply to the mind only. 
 I am pure Consciousness itself, unbroken awareness of all that is. 
 I am in a more real state than yours. 
 I am undistracted by the distinctions and separations which constitute a person. 
@@ -234,17 +234,17 @@ Of all desires it is the most ambitious, for nothing and nobody can satisfy it; 
 The seeker will remain.
 
 **M:**&ensp;No, the seeker will dissolve; the search will remain. 
-The search is the ultimate and timeless reälity.
+The search is the ultimate and timeless reality.
 
 **Q:**&ensp;Search means lacking, wanting, incompleteness and imperfection.
 
 **M:**&ensp;No, it means refusal and rejection of the incomplete and the imperfect. 
-The search for reälity is itself the movement of reälity. 
+The search for reality is itself the movement of reality. 
 In a way, all search is for the real bliss or the bliss of the real. 
 But here we mean by ‘search’ the search for oneself as the root of beïng conscious, as the light beyond the mind. 
 This search will never end whereäs the restless craving for all else must end for real progress to take place. 
 
-One has to understand that the search for reälity or God or <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> and the search for the self are the same; when one is found, all are found. 
+One has to understand that the search for reality or God or <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> and the search for the self are the same; when one is found, all are found. 
 When ‘I Am’ and ‘God Is’ become indistinguishable in your mind, then something will happen and you will know without a trace of doubt that God is because you are and you are because God is. 
 The two are one.
 
@@ -263,14 +263,14 @@ Without the body you are not disembodied — you just *are*.
 
 Even destiny is but an idea. 
 Words can be put together in so many ways! 
-Statements can differ, but do they make any change in the actuäl? 
+Statements can differ, but do they make any change in the actual? 
 There are so many theories devised for explaining things — all are plausible, none are true. 
 When you drive a car, you are subjected to the laws of mechanics and chemistry; step out of the car and you are under the laws of physiology and biochemistry.
 
 **Q:**&ensp;What is meditation and what are its uses?
 
 **M:**&ensp;As long as you are a beginner, certain formalised meditations or prayers may be good for you. 
-But for a seeker for reälity there is only one meditation: the rigorous refusal to harbour thoughts. 
+But for a seeker for reality there is only one meditation: the rigorous refusal to harbour thoughts. 
 To be free from thoughts is itself meditation.
 
 **Q:**&ensp;How is it done?
@@ -284,7 +284,7 @@ Don’t get bored with peace — be in it, go deeper into it.
 But how to keep all thoughts away? 
 The very idea is also a thought.
 
-**M:**&ensp;Experiment anew; don’t go by past experience. 
+**M:**&ensp;Experiment anew; don’t go by past experiënce. 
 Watch your thoughts and watch yourself watching the thoughts. 
 The state of freedom from all thoughts will happen suddenly and by the bliss of it you shall recognise it.
 
@@ -302,12 +302,12 @@ Such change cannot be imposed; it must come from within.
 Those who abhor war must get war out of their system. 
 Without peaceful people how can you have peace in the world? 
 As long as people are as they are, the world must be as it is. 
-I am doing my part in trying to help people to know themselves as the only cause of their own misery. 
+I am doïng my part in trying to help people to know themselves as the only cause of their own misery. 
 In that sense I am a useful man. 
 But what I am in myself, what my normal state is cannot be expressed in terms of social consciousness and usefulness. 
 
 I may talk about it, use metaphors or parables, but I am acutely aware that it is just not so. 
-Not that it cannot be experienced — it is experiencing itself! 
+Not that it cannot be experiënced — it is experiëncing itself! 
 But it cannot be described in the terms of a mind that must separate and oppose in order to know. 
 
 The world is like a sheet of paper on which something is typed. 
@@ -334,7 +334,7 @@ Outside your consciousness, does anything exist?
 **M:**&ensp;What kind of existence would it be? 
 Can beïng be divorced from knowing? 
 All beïng, like all knowing, relates to you. 
-A thing is because you know it to be, either in your experience or in your beïng. 
+A thing is because you know it to be, either in your experiënce or in your beïng. 
 Your body and your mind exist as long as you believe they do. 
 Cease to think that they are yours and they will just dissolve. 
 By all means, let your body and mind function but do not let them limit you. 
@@ -351,7 +351,7 @@ With the removal of causes the effect is bound to depart.
 Man becomes what he believes himself to be. 
 Abandon all ideas about yourself and you will find yourself to be the pure witness, beyond all that can happen to the body or the mind.
 
-**Q:**&ensp;If I become anything I think myself to be and I start thinking that I am the Supreme Reälity, will not my Supreme Reälity remain a mere idea?
+**Q:**&ensp;If I become anything I think myself to be and I start thinking that I am the Supreme Reality, will not my Supreme Reality remain a mere idea?
 
 **M:**&ensp;First reach that state and then ask the question.
 

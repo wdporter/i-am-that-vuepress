@@ -50,7 +50,7 @@ Awareness comes as if from a higher dimension.
 
 **M:**&ensp;Before the spark is lit there is no witness to perceive the 
 difference. The person may be conscious, but is not aware of beïng conscious. 
-It is completely identified with what it thinks and feels and experiences. The 
+It is completely identified with what it thinks and feels and experiënces. The 
 darkness that is in it is of its own creätion. When the darkness is 
 questioned, it dissolves. The desire to question is planted by the *guru*. In 
 other words, the difference between the person and the witness is as between 
@@ -71,7 +71,7 @@ distort and you see the false as real.
 
 **M:**&ensp;The very desire to be ready means that the *guru* had come and the 
 flame is lit. It may be a stray word or a page in a book; the *guru*’s grace 
-works mysteriously.
+works mysteriöusly.
 
 **Q:**&ensp;Is there no such thing as self-preparation? We hear so much about 
 <span data-tippy-content="One of the six systems of the Hindu philosophy (from 
@@ -81,7 +81,7 @@ universal spirit (<em>Paramatma</em>).">yoga</span> <span
 data-tippy-content="The practice which produces success, 
 <em>siddhi</em>.">sadhana</span>.
 
-**M:**&ensp;It is not the person that is doing *sadhana*. The person is in 
+**M:**&ensp;It is not the person that is doïng *sadhana*. The person is in 
 unrest and resistant to the very end. It is the witness that works on the 
 person, on the totality of its illusions — past, present and future.
 
@@ -93,21 +93,21 @@ repetition?
 **M:**&ensp;The proof of the truth lies in its effect on the listener.
 
 **Q:**&ensp;Words can have a most powerful effect. By hearing or repeating 
-words, one can experience various kinds of trances. The listener’s experiences 
+words, one can experiënce various kinds of trances. The listener’s experiënces 
 may be induced and cannot be considered to be a proof.
 
-**M:**&ensp;The effect need not necessarily be an experience. It can be a 
+**M:**&ensp;The effect need not necessarily be an experiënce. It can be a 
 change in character, in motivation, in relationship to people and one’s self. 
 Trances and visions induced by words, drugs or any other sensory or mental 
 means are temporary and inconclusive. The truth of what is said here is 
 immovable and everlasting. And the proof of it is in the listener, in the deep 
 and permanent changes in his entire beïng. It is not something he can doubt 
-unless he doubts his own existence, which is unthinkable. When my experience 
-becomes your own experience also, what better proof do you want?
+unless he doubts his own existence, which is unthinkable. When my experiënce 
+becomes your own experiënce also, what better proof do you want?
 
-**Q:**&ensp;The experiencer is the proof of his experience.
+**Q:**&ensp;The experiëncer is the proof of his experiënce.
 
-**M:**&ensp;Quite, but the experiencer needs no proof. “I am, and I know I 
+**M:**&ensp;Quite, but the experiëncer needs no proof. “I am, and I know I 
 am”. You cannot ask for further proofs.
 
 **Q:**&ensp;Can there be true knowledge of things?
@@ -126,10 +126,10 @@ over, the absolute remains. The silence before the words were spoken — is it
 different from the silence that comes after? The silence is one, and without 
 it the words could not have been heard. It is always there — at the back of 
 the words. Shift your attention from words to silence and you will hear it. 
-The mind craves experience, the memory of which it takes for knowledge. The 
+The mind craves experiënce, the memory of which it takes for knowledge. The 
 <span data-tippy-content="The knower, especially of the higher knowledge 
 derived from meditation; “closely related to the knowledge of 
-Brahman”.">jnani</span> is beyond all experience and his memory is empty of 
+Brahman”.">jnani</span> is beyond all experiënce and his memory is empty of 
 the past. He is entirely unrelated to anything in particular. But the mind 
 craves for formulations and definitions, always eager to squeeze reality into 
 a verbal shape. Of everything it wants an idea, for without ideas the mind is 
@@ -212,7 +212,7 @@ the same to him.
 
 **Q:**&ensp;Before another century will pass, you will be dead to all around 
 you. Your body will be covered with flowers, then burnt and the ashes 
-scattered. That will be our experience. What will be yours?
+scattered. That will be our experiënce. What will be yours?
 
 **M:**&ensp;Time will come to an end. This is called the Great Death (<span 
 data-tippy-content="The final dissolution, the great death of all 
@@ -221,7 +221,7 @@ creätion.">maha-mrityu</span>), the death of time.
 **Q:**&ensp;Does it mean that the universe and its contents will come to an 
 end?
 
-**M:**&ensp;The universe is your personal experience. How can it be affected? 
+**M:**&ensp;The universe is your personal experiënce. How can it be affected? 
 You might have been delivering a lecture for two hours; where has it gone when 
 it is over? It has merged into silence in which the beginning, middle and end 
 of the lecture are all together. Time has come to a stop, it was, but is no 
@@ -278,12 +278,12 @@ with him”. Now the question is, are there two in us, the personal and the
 individual, the false self and the true self, or is it only a simile?
 
 **M:**&ensp;It is both. They appear to be two, but on investigation they are 
-found to be one. Duälity lasts only as long as it is not questioned. The 
+found to be one. Duality lasts only as long as it is not questioned. The 
 trinity of mind, self and spirit (<span data-tippy-content="Person, the outer 
 self.">vyakti</span>, <span data-tippy-content="Manifest matter, the evolved 
 nature. Opposite is <em>avyakta</em>.">vyakta</span>, <span 
 data-tippy-content="Unmanifest. Opposite is <em>vyakta</em>.">avyakta</span>), 
-when looked into, becomes unity. These are only modes of experiencing — of 
+when looked into, becomes unity. These are only modes of experiëncing — of 
 attachment, of detachment, of transcendence.
 
 **Q:**&ensp;Your assumption that we are in a dream state makes your position 
@@ -303,7 +303,7 @@ But you are afraid of freedom!
 
 **Q:**&ensp;Swami Ramdas had to deal with a similar request. Some devotees 
 collected round him one day and began to ask for liberation. Ramdas listened 
-smilingly and then suddenly he became serious and said, “You can have it, here 
+smilingly and then suddenly he became seriöus and said, “You can have it, here 
 and now — freedom absolute and permanent. Whoëver wants it, come forward”. 
 Nobody moved. Thrice he repeated the offer. None accepted. Then he said, “The 
 offer is withdrawn”.

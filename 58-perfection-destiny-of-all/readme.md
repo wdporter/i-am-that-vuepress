@@ -70,7 +70,7 @@ Take your time, but once you have made up your mind to trust him, trust him abso
 It does not matter much if you do not accept him as your *guru* and are satisfied with his company only. 
 <span data-tippy-content="Association with the true and the wise people.">Satsang</span> alone can also take you to your goal, provided it is unmixed and undisturbed. 
 But once you accept somebody as your *guru*, listen, remember and obey. 
-Half-heartedness is a serious drawback and the cause of much self-created sorrow. 
+Half-heartedness is a seriöus drawback and the cause of much self-creäted sorrow. 
 The mistake is never the *guru*’s; it is always the obtuseness and stubbornness of the discipline that is at fault.
 
 **Q:**&ensp;Does the *guru* then dismiss or disqualify a disciple?
@@ -109,7 +109,7 @@ On the other hand, you take so much trouble in helping the person to realise him
 If the person is so unimportant, why be so concerned with his welfare? 
 Who cares for a shadow?
 
-**M:**&ensp;You have brought in duälity where there is none. 
+**M:**&ensp;You have brought in duality where there is none. 
 There is the body and there is the Self. 
 Between them is the mind, in which the Self is reflected as ‘I am’. 
 Because of the imperfections of the mind, its crude and restless nature, lack of discernment and insight, it takes itself to be the body, not the Self. 
@@ -133,7 +133,7 @@ This holds absolutely.
 
 **M:**&ensp;Look at it in terms of awareness. 
 Wider and deeper consciousness is higher. 
-All that lives works for protecting, perpetuating and expanding consciousness. 
+All that lives works for protecting, perpetuäting and expanding consciousness. 
 This is the world’s sole meaning and purpose. 
 It is the very essence of <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span> — ever raising the level of consciousness, discovery of new dimensions with their properties, qualities and powers. 
 In that sense the entire universe becomes a school of *yoga* (<span data-tippy-content="The field for <em>yoga</em>, the physical body in a philosophical sense (<em>kshetra</em>, field).">yogakshetra</span>).

@@ -23,11 +23,11 @@ The ‘I am’ is there because the world is there.
 
 **Q:**&ensp;Yes, it goes both ways. 
 I cannot separate the two, nor go beyond. 
-I cannot say something *is*, unless I experience it, just as I cannot say something is *not* because I do not experience it. 
-What is it that you experience that makes you speak with such assurance?
+I cannot say something *is*, unless I experiënce it, just as I cannot say something is *not* because I do not experiënce it. 
+What is it that you experiënce that makes you speak with such assurance?
 
 **M:**&ensp;I know myself as I am — timeless, spaceless, causeless. 
-You happen to not know, being engrossed as you are in other things.
+You happen to not know, beïng engrossed as you are in other things.
 
 
 **Q:**&ensp;Why am I so engrossed?
@@ -43,15 +43,15 @@ Investigate the vicious circle until you find yourself beyond it.
 
 **Q:**&ensp;Don’t I need your grace to take me beyond?
 
-**M:**&ensp;The grace of your Inner Reälity is timelessly with you. 
+**M:**&ensp;The grace of your Inner Reality is timelessly with you. 
 Your very asking for grace is a sign of it. 
 Do not worry about my grace, but do what you are told. 
-The doing is the proof of earnestness, not the expecting of grace.
+The doïng is the proof of earnestness, not the expecting of grace.
 
 **Q:**&ensp;What am I to be earnest about?
 
-**M:**&ensp;Assiduously investigate everything that crosses your field of attention. 
-With practice, the field will broaden and investigation will deepen until they become spontaneous and limitless.
+**M:**&ensp;Assiduöusly investigate everything that crosses your field of attention. 
+With practice, the field will broaden and investigation will deepen until they become spontaneöus and limitless.
 
 **Q:**&ensp;Are you not making realisation the result of practice? 
 Practice operates within the limitations of physical existence. 
@@ -86,7 +86,7 @@ These are mere attempts to express in words something very simple, yet altogethe
 
 **Q:**&ensp;Words should serve as a bridge to cross over.
 
-**M:**&ensp;Word refers to a state of mind, not to reälity. 
+**M:**&ensp;Word refers to a state of mind, not to reality. 
 The river, the two banks, the bridge across — these are all in the mind. 
 Words alone cannot take you beyond the mind. 
 There must be the immense longing for truth or absolute faith in the <span data-tippy-content="Spiritual teacher, preceptor.">guru</span>. 
@@ -116,7 +116,7 @@ I hardly know it.
 **M:**&ensp;There is nothing in the world that you cannot know when you know yourself. 
 Thinking yourself to be the body, you know the world as a collection of material things. 
 When you know yourself as a centre of consciousness, the world appears as the ocean of the mind. 
-When you know yourself as you are in reälity, you know the world as yourself.
+When you know yourself as you are in reality, you know the world as yourself.
 
 **Q:**&ensp;It all sounds very beautiful, but does not answer my question. 
 Why is there so much suffering in the world?
@@ -140,18 +140,18 @@ A dreamer has his own private nightmare and none suffers but himself.
 But what kind of dream is it that plays havoc in the lives of others?
 
 **M:**&ensp;Descriptions are many and contradictory. 
-Reälity is simple — all is one, harmony is the eternal law, none compels to suffer. 
+Reality is simple — all is one, harmony is the eternal law, none compels to suffer. 
 It is only when you try to describe and explain that the words fail you.
 
 **Q:**&ensp;I remember Gandhiji telling me once that the Self is not bound by the law of non-violence (<span data-tippy-content="Non-violence; abstaining from hurting others in thought, words or deed.">ahimsa</span>). 
 The Self has the freedom to impose suffering on its expressions in order to set them right.
 
-**M:**&ensp;On the level of duälity it may be so, but in reälity there is only the source, dark in itself, making
+**M:**&ensp;On the level of duality it may be so, but in reality there is only the source, dark in itself, making
 everything shine. 
 Unperceived, it causes perception. 
 Unfelt, it causes feeling. 
 Unthinkable, it causes thought. 
-Non-being, it gives birth to being. 
+Non-beïng, it gives birth to beïng. 
 It is the immovable background of motion. 
 Once you are there you are at home everywhere.
 
@@ -168,18 +168,18 @@ But its memories remain and their desires and fears.
 They supply the energy for a new person. 
 The real takes no part in it, but makes it possible by giving it the light.
 
-**Q:**&ensp;My difficulty is this: As I can see, every experience is its own reälity. 
-It is there — experienced. 
-The moment I question it and ask to whom it happens, who is the observer and so on, the experience is over and all I can investigate is only the memory of it. 
+**Q:**&ensp;My difficulty is this: As I can see, every experiënce is its own reality. 
+It is there — experiënced. 
+The moment I question it and ask to whom it happens, who is the observer and so on, the experiënce is over and all I can investigate is only the memory of it. 
 I cannot investigate the living moment — the *now*. 
 My awareness is of the past, not of the present. 
 When I am aware, I do not really live in the *now*, but only in the past. 
 Can there really be an awareness of the present?
 
-**M:**&ensp;What you are describing is not awareness at all, but only thinking about the experience. 
+**M:**&ensp;What you are describing is not awareness at all, but only thinking about the experiënce. 
 True awareness (<span data-tippy-content="True Awareness.">samvid</span>) is a state of pure witnessing without the least attempt to do anything about the event witnessed. 
 Your thoughts and feelings, words and actions may also be a part of the event; you watch all, unconcerned in the full light of clarity and understanding. 
-You understand precisely what is going on because it does not affect you. 
+You understand precisely what is goïng on because it does not affect you. 
 It may seem to be an attitude of cold aloofness, but it is not really so. 
 Once you are in it, you will find that you love what you see, whatever may be its nature. 
 This choiceless love is the touchstone of awareness. 
@@ -198,7 +198,7 @@ But if you learn to look at your consciousness as a sort of fever, personal and 
 
 **Q:**&ensp;Buddha said that life is suffering.
 
-**M:**&ensp;He must have meant that all consciousness is painful, which is obvious.
+**M:**&ensp;He must have meant that all consciousness is painful, which is obviöus.
 
 **Q:**&ensp;And does death offer deliverance?
 
@@ -218,7 +218,7 @@ But while life lasts, we affect each other deeply.
 
 **Q:**&ensp;Yes, as the poet says, “No man is an island”.
 
-**M:**&ensp;At the back of every experience is the Self and its interest in the experience. 
+**M:**&ensp;At the back of every experiënce is the Self and its interest in the experiënce. 
 Call it desire, call it love — words do not matter.
 
 **Q:**&ensp;Can I desire suffering? 
@@ -233,8 +233,8 @@ When the cause of suffering is seen and removed, suffering ceases.
 
 **M:**&ensp;To understand suffering, you must go beyond pain and pleasure. 
 Your own desires and fears prevent you from understanding and thereby helping others. 
-In reälity. there are no others, and by helping yourself you help everybody else. 
-If you are serious about the sufferings of mankind, you must perfect the only means of help you have — yourself. 
+In reality. there are no others, and by helping yourself you help everybody else. 
+If you are seriöus about the sufferings of mankind, you must perfect the only means of help you have — yourself. 
 
 **Q:**&ensp;You keep on saying that I am the creätor, preserver and destroyer of this world — omnipresent, omniscient, omnipotent. 
 When I ponder over what you say, I ask myself, “How is it that there is so much evil in my world”.
@@ -259,13 +259,13 @@ You may call the film ‘destiny’ (<span data-tippy-content="Destiny, <em>sanc
 
 **M:**&ensp;Ignorance of yourself, primarily. 
 Also, ignorance of the true nature of things, of their causes and effects. 
-You look round without understanding and take appearances for reälity. 
+You look round without understanding and take appearances for reality. 
 You believe you know the world and yourself — but it is only your ignorance that makes you say, “I know”. 
 Begin with the admission that you do not know and start from there. 
 
 There is nothing that can help the world more than your putting an end to ignorance. 
 Then you need not do anything in particular to help the world. 
-Your very being is a help, action or no action.
+Your very beïng is a help, action or no action.
 
 **Q:**&ensp;How can ignorance be known? 
 To know ignorance presupposes knowledge.
@@ -295,7 +295,7 @@ To know is not so very important.
 **Q:**&ensp;What you say is correct psychologically. 
 But when it comes to knowing others, knowing the world, my knowing that I do not know, does not help much.
 
-**M:**&ensp;Once you are inwardly integrated, outer knowledge comes to you spontaneously. 
+**M:**&ensp;Once you are inwardly integrated, outer knowledge comes to you spontaneöusly. 
 At every moment of your life, you know what you need to know. 
 In the ocean of the universal mind all knowledge is contained; it is yours on demand. 
 Most of it you may never need to know — but it is yours all the same. 

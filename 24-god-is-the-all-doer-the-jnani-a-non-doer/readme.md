@@ -1,6 +1,6 @@
 # 24. God Is the All-Doër, the *Jnani* a Non-Doër
 
->God is the all-doër, the <span style=font-style:normal>jnani</span> is a non-doër. God himself does not say, “I am doing all”. To Him things happen by their own nature. To the <span style=font-style:normal>jnani</span> all is done by God. He sees no difference between God and nature.
+>God is the all-doër, the <span style=font-style:normal>jnani</span> is a non-doër. God himself does not say, “I am doïng all”. To Him things happen by their own nature. To the <span style=font-style:normal>jnani</span> all is done by God. He sees no difference between God and nature.
 
 **Questioner:**&ensp;Some <span data-tippy-content="Enlightened beïngs">mahatma</span>s (enlightened beïngs) maintain that the world is neither an accident nor a play of God, but the result and expression of a mighty plan of work aimed at awakening and developing consciousness throughout the univer1se. From lifelessness to life, from unconsciousness to consciousness, from dullness to bright intelligence, from misapprehension to clarity — that is the direction in which the world moves ceaselessly and relentlessly. Of course, there are moments of rest and apparent darkness when the universe seems to be dormant, but the rest comes to an end and the work on consciousness is resumed. From our point of view the world is a valley of tears, a place to escape from as soon as possible and by every possible means. To enlightened beïngs the world is good and it serves a good purpose. They do not deny that the world is a mental structure and that ultimately all is one, but they see and say that the structure has meaning and serves a supremely desirable purpose. What we call the will of God is not a capricious whim of a playful deity, but the expression of an absolute necessity to grow in love and wisdom and power, to actualise the infinite potentials of life and consciousness. 
 
@@ -10,7 +10,7 @@ When God takes rest (<span data-tippy-content="Complete dissolution, merger of t
 
 Thus runs the story. The difference with your teaching is this: you insist that the world is no good and should be shunned. They say that distaste for the world is a passing stage, necessary yet temporary, and is soon replaced by an all-pervading love and a steady will to work with God.
 
-**Maharaj:**&ensp;All you say is right for the outgoing (<span data-tippy-content="Penchant, predilection towards worldly life.">pravritti</span>) path. For the path of return (<span data-tippy-content="Liberation from worldly existence, renunciation.">nivritti</span>), negating oneself is necessary. My stand I take where nothing (<span data-tippy-content="The great expanse, the timeless and spaceless reality; the Absolute beïng.">paramakash</span>) is; words do not reach there, nor thoughts. To the mind it is all darkness and silence. Then consciousness begins to stir and wakes up the mind (<span data-tippy-content="[*chit*, to perceive + *akash*, expanse, sky] Brahman in its aspect of limitless knowledge, the expanse of awareness. Variously used for consciousness, individual as well as universal.">chidakash</span>), which projects the world (<span data-tippy-content="The great expanse of existence, the universe of matter and energy.">mahadakash</span>), built of memory and imagination. Once the world comes into beïng, all you say may be so. It is in the nature of the mind to imagine goals, to strive towards them, to seek out means and ways, to display vision, energy and courage. These are divine attributes and I do not deny them. But I take my stand where no difference exists, where things are not, nor the minds that create them. There I am at home. Whatever happens does not affect me — things act on things, that is all. Free from memory and expectation, I am fresh, innocent and wholehearted. Mind is the great worker (<span data-tippy-content="The great doër. Mind is the great doër, for it is every busy, ever engaged in something or the other.">mahakarta</span>) and it needs rest. Needing nothing, I am unafraid. Whom should I be afraid of? There is no separation; we are not separate selves. There is only one Self: the Supreme Reality, in which the personal and the impersonal are one. 
+**Maharaj:**&ensp;All you say is right for the outgoïng (<span data-tippy-content="Penchant, predilection towards worldly life.">pravritti</span>) path. For the path of return (<span data-tippy-content="Liberation from worldly existence, renunciätion.">nivritti</span>), negating oneself is necessary. My stand I take where nothing (<span data-tippy-content="The great expanse, the timeless and spaceless reality; the Absolute beïng.">paramakash</span>) is; words do not reach there, nor thoughts. To the mind it is all darkness and silence. Then consciousness begins to stir and wakes up the mind (<span data-tippy-content="[*chit*, to perceive + *akash*, expanse, sky] Brahman in its aspect of limitless knowledge, the expanse of awareness. Variöusly used for consciousness, individual as well as universal.">chidakash</span>), which projects the world (<span data-tippy-content="The great expanse of existence, the universe of matter and energy.">mahadakash</span>), built of memory and imagination. Once the world comes into beïng, all you say may be so. It is in the nature of the mind to imagine goals, to strive towards them, to seek out means and ways, to display vision, energy and courage. These are divine attributes and I do not deny them. But I take my stand where no difference exists, where things are not, nor the minds that creäte them. There I am at home. Whatever happens does not affect me — things act on things, that is all. Free from memory and expectation, I am fresh, innocent and wholehearted. Mind is the great worker (<span data-tippy-content="The great doër. Mind is the great doër, for it is every busy, ever engaged in something or the other.">mahakarta</span>) and it needs rest. Needing nothing, I am unafraid. Whom should I be afraid of? There is no separation; we are not separate selves. There is only one Self: the Supreme Reality, in which the personal and the impersonal are one. 
 
 **Q:**&ensp;All I want is to be able to help the world.
 
@@ -18,7 +18,7 @@ Thus runs the story. The difference with your teaching is this: you insist that 
 
 **Q:**&ensp;But why do we do so?
 
-**M:**&ensp;Your mind projects a structure and you identify yourself with it. It is in the nature of desire to prompt the mind to create a world for its fulfillment. Even a small desire can start a long line of action; what about a strong desire? Desire can produce a universe; its powers are miraculous. Just as a small matchstick can set a huge forest on fire, so does a desire light the fires of manifestation. The very purpose of creation is the fulfillment of desire. The desire may be noble or ignoble; space (<span data-tippy-content="the void, an element of space, sky.">akash</span>) is neutral — one can fill it with what one likes. You must be very careful as to what you desire. And as to the people you want to help, they are in their respective worlds for the sake of their desires; there is no way of helping them except through their desires. You can only teach them to have right desires so that they may rise above them and be free from the urge to creäte and recreäte worlds of desires, abodes of pain and pleasure.
+**M:**&ensp;Your mind projects a structure and you identify yourself with it. It is in the nature of desire to prompt the mind to creäte a world for its fulfillment. Even a small desire can start a long line of action; what about a strong desire? Desire can produce a universe; its powers are miraculous. Just as a small matchstick can set a huge forest on fire, so does a desire light the fires of manifestation. The very purpose of creätion is the fulfillment of desire. The desire may be noble or ignoble; space (<span data-tippy-content="the void, an element of space, sky.">akash</span>) is neutral — one can fill it with what one likes. You must be very careful as to what you desire. And as to the people you want to help, they are in their respective worlds for the sake of their desires; there is no way of helping them except through their desires. You can only teach them to have right desires so that they may rise above them and be free from the urge to creäte and recreäte worlds of desires, abodes of pain and pleasure.
 
 **Q:**&ensp;A day must come when the show is wound up; a man must die, a universe come to an end.
 
@@ -34,15 +34,15 @@ Thus runs the story. The difference with your teaching is this: you insist that 
 
 **Q:**&ensp;There must be some difference.
 
-**M:**&ensp;God is the all-doër, the <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> is a non-doër. God himself does not say, “I am doing all”. To Him things happen by their own nature. To the *jnani* all is done by God. He sees no difference between God and nature. Both God and the *jnani* know themselves to be the immovable centre of the movable, the eternal witness of the transient. The centre is a point of void and the witness a point of pure awareness; they know themselves to be nothing, therefore nothing can resist them.
+**M:**&ensp;God is the all-doër, the <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> is a non-doër. God himself does not say, “I am doïng all”. To Him things happen by their own nature. To the *jnani* all is done by God. He sees no difference between God and nature. Both God and the *jnani* know themselves to be the immovable centre of the movable, the eternal witness of the transient. The centre is a point of void and the witness a point of pure awareness; they know themselves to be nothing, therefore nothing can resist them.
 
-**Q:**&ensp;How does this look and feel in your personal experience?
+**Q:**&ensp;How does this look and feel in your personal experiënce?
 
 **M:**&ensp;Beïng nothing, I am all. Everything is me, everything is mine. Just as my body moves by my mere thinking of the movement, so do things happen as I think of them. Mind you, I do nothing. I just see them happen.
 
 **Q:**&ensp;Do things happen as you want them to happen, or do you want them to happen as they happen?
 
-**M:**&ensp;Both. I accept and am accepted. I am all and all is me. Beïng the world, I am not afraid of the world. Beïng all, what am I to be afraid of? Water is not afraid of water, nor fire of fire. Also I am not afraid because I am nothing that can experience fear or can be in danger. I have no shape nor name. It is attachment to a name and shape that breeds fear. I am not attached. I am nothing, and nothing is afraid of no thing. On the contrary, everything is afraid of the Nothing, for when a thing touches Nothing, it becomes nothing. It is like a bottomless well — whatever falls into it disappears.
+**M:**&ensp;Both. I accept and am accepted. I am all and all is me. Beïng the world, I am not afraid of the world. Beïng all, what am I to be afraid of? Water is not afraid of water, nor fire of fire. Also I am not afraid because I am nothing that can experiënce fear or can be in danger. I have no shape nor name. It is attachment to a name and shape that breeds fear. I am not attached. I am nothing, and nothing is afraid of no thing. On the contrary, everything is afraid of the Nothing, for when a thing touches Nothing, it becomes nothing. It is like a bottomless well — whatever falls into it disappears.
 
 **Q:**&ensp;Isn’t God a person?
 
@@ -50,7 +50,7 @@ Thus runs the story. The difference with your teaching is this: you insist that 
 
 **Q:**&ensp;Can I change facts by changing my attitude?
 
-**M:**&ensp;The attitude is the fact. Take anger. I may be furious, pacing the room up and down; at the same time I know what I am, a centre of wisdom and love, an atom of pure existence. All subsides and the mind merges into silence.
+**M:**&ensp;The attitude is the fact. Take anger. I may be furiöus, pacing the room up and down; at the same time I know what I am, a centre of wisdom and love, an atom of pure existence. All subsides and the mind merges into silence.
 
 **Q:**&ensp;Still, you are angry sometimes.
 
@@ -70,7 +70,7 @@ Thus runs the story. The difference with your teaching is this: you insist that 
 
 **Q:**&ensp;We are attached to our personality. Our individuality, our beïng unlike others, we value very much. You seem to denounce both as useless. Your unmanifested — of what use is it to us?
 
-**M:**&ensp;Unmanifested, manifested, individuality, personality (<span data-tippy-content="The unconditioned, without form, qualities or attributes.">nirguna</span>, <span data-tippy-content="Manifested condition with the three <em>guna</em>s, qualities — <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. The Supreme Absolute conceived of as possessing qualities like love, mercy etc., as distinguished from the undifferentiated Absolute of the <em>Advaita Vedanta</em>.">saguna</span>, <span data-tippy-content="Manifest matter, the evolved nature. Opposite is <em>avyakta</em>.">vyakta</span>, <span data-tippy-content="Person, the outer self.">vyakti</span>) — all these are mere words, points of view, mental attitudes. There is no reality in them. The real is experienced in silence. You cling to personality; but you are conscious of beïng a person only when you are in trouble; when you are not in trouble you do not think of yourself.
+**M:**&ensp;Unmanifested, manifested, individuality, personality (<span data-tippy-content="The unconditioned, without form, qualities or attributes.">nirguna</span>, <span data-tippy-content="Manifested condition with the three <em>guna</em>s, qualities — <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. The Supreme Absolute conceived of as possessing qualities like love, mercy etc., as distinguished from the undifferentiated Absolute of the <em>Advaita Vedanta</em>.">saguna</span>, <span data-tippy-content="Manifest matter, the evolved nature. Opposite is <em>avyakta</em>.">vyakta</span>, <span data-tippy-content="Person, the outer self.">vyakti</span>) — all these are mere words, points of view, mental attitudes. There is no reality in them. The real is experiënced in silence. You cling to personality; but you are conscious of beïng a person only when you are in trouble; when you are not in trouble you do not think of yourself.
 
 **Q:**&ensp;You did not tell me the uses of the Unmanifested.
 
@@ -82,7 +82,7 @@ Thus runs the story. The difference with your teaching is this: you insist that 
 
 **Q:**&ensp;How is one to work then?
 
-**M:**&ensp;Neither for yourself nor for others, but for the work’s own sake. A thing worth doing is its own purpose and meaning. Make nothing a means to something else. Bind not. God does not creäte one thing to serve another. Each is made for its own sake. Because it is made for itself, it does not interfere. You are using things and people for purposes alien to them and you play havoc with the world and yourself.
+**M:**&ensp;Neither for yourself nor for others, but for the work’s own sake. A thing worth doïng is its own purpose and meaning. Make nothing a means to something else. Bind not. God does not creäte one thing to serve another. Each is made for its own sake. Because it is made for itself, it does not interfere. You are using things and people for purposes alien to them and you play havoc with the world and yourself.
 
 **Q:**&ensp;Our real beïng is all the time with us, you say. How is it that we do not notice it?
 
@@ -90,11 +90,11 @@ Thus runs the story. The difference with your teaching is this: you insist that 
 
 **Q:**&ensp;How does one bring to an end this sense of separateness?
 
-**M:**&ensp;By focussing the mind on ‘I am’, on the sense of beïng, ‘I am so-and-so’ dissolves; ‘I am a witness only’ remains and that too submerges in ‘I am all’. Then the all becomes the One and the One — yourself, not to be separate from me. Abandon the idea of a separate ‘I’ and the question of ‘whose experience?’ will not arise.
+**M:**&ensp;By focussing the mind on ‘I am’, on the sense of beïng, ‘I am so-and-so’ dissolves; ‘I am a witness only’ remains and that too submerges in ‘I am all’. Then the all becomes the One and the One — yourself, not to be separate from me. Abandon the idea of a separate ‘I’ and the question of ‘whose experiënce?’ will not arise.
 
-**Q:**&ensp;You speak from your own experience. How can I make it mine?
+**Q:**&ensp;You speak from your own experiënce. How can I make it mine?
 
-**M:**&ensp;You speak of my experience as different from your experience because you believe we are separate. But we are not. On a deeper level my experience is your experience. Dive deep within yourself and you will find it easily and simply. Go in the direction of ‘I am’.
+**M:**&ensp;You speak of my experiënce as different from your experiënce because you believe we are separate. But we are not. On a deeper level my experiënce is your experiënce. Dive deep within yourself and you will find it easily and simply. Go in the direction of ‘I am’.
 
 <script>
 export default {

@@ -2,7 +2,7 @@
 
 >Happiness comes from the self and can be found in the self only. Find your real self (*svarupa*) and all else will come with it… ideas of movement, of restlessness, of pleasure and pain are all in the mind. The Self stands beyond the mind, aware, but unconcerned.
 
-**Questioner:**&ensp;As a child, fairly often I experienced states of complete happiness, verging on ecstasy. Later, they ceased. But since I came to India they reäppeared, particularly after I met you. Yet, these states, however wonderful, are not lasting. They come and go and there is no knowing when they will come back.
+**Questioner:**&ensp;As a child, fairly often I experiënced states of complete happiness, verging on ecstasy. Later, they ceased. But since I came to India they reäppeared, particularly after I met you. Yet, these states, however wonderful, are not lasting. They come and go and there is no knowing when they will come back.
 
 **Maharaj:**&ensp;How can anything be steady in a mind which itself is not steady?
 
@@ -12,11 +12,11 @@
 
 **Q:**&ensp;How is it done?
 
-**M:**&ensp;Refuse all thoughts except one: the thought ‘I am’. The mind will rebel in the beginning, but with patience and perseverance it will yield and keep quiet. Once you are quiet, things will begin to happen spontaneously and quite naturally, without any interference on your part.
+**M:**&ensp;Refuse all thoughts except one: the thought ‘I am’. The mind will rebel in the beginning, but with patience and perseverance it will yield and keep quiet. Once you are quiet, things will begin to happen spontaneöusly and quite naturally, without any interference on your part.
 
 **Q:**&ensp;Can I avoid this protracted battle with my mind?
 
-**M:**&ensp;Yes, you can. Just live your life as it comes, but alertly, watchfully, allowing everything to happen as it happens, doing the natural things the natural way, suffering, rejoicing — as life brings. This also is a way.
+**M:**&ensp;Yes, you can. Just live your life as it comes, but alertly, watchfully, allowing everything to happen as it happens, doïng the natural things the natural way, suffering, rejoicing — as life brings. This also is a way.
 
 **Q:**&ensp;Well, then I can as well marry, have children, run a business … be happy.
 
@@ -62,7 +62,7 @@
 
 **M:**&ensp;How do you know what is pleasant and what is not?
 
-**Q:**&ensp;From past experience, of course.
+**Q:**&ensp;From past experiënce, of course.
 
 **M:**&ensp;Guided by memory you have been pursuing the pleasant and shunning the unpleasant. Have you succeeded?
 
@@ -82,7 +82,7 @@
 
 **M:**&ensp;Be alert. Question, observe, investigate; learn all you can about confusion, how it operates, what it does to you and others. By beïng clear about confusion, you become clear of confusion.
 
-**Q:**&ensp;When I look into myself, I find my strongest desire is to create a monument, to build something which will outlast me. Even when I think of a home, wife and child, it is because it is a lasting, solid testimony to myself.
+**Q:**&ensp;When I look into myself, I find my strongest desire is to creäte a monument, to build something which will outlast me. Even when I think of a home, wife and child, it is because it is a lasting, solid testimony to myself.
 
 **M:**&ensp;Right, build yourself a monument. How do you propose to do it?
 
@@ -90,7 +90,7 @@
 
 **M:**&ensp;Surely you can see for yourself that nothing is permanent. All wears out, breaks down, dissolves. The very ground on which you build gives way. What can you build that will outlast all?
 
-**Q:**&ensp;Intellectually, verbally, I am aware that all is transient. Yet, somehow my heart wants permanency. I want to create something that lasts.
+**Q:**&ensp;Intellectually, verbally, I am aware that all is transient. Yet, somehow my heart wants permanency. I want to creäte something that lasts.
 
 **M:**&ensp;Then you must build it of something lasting. What do you have that is lasting? Neither your body nor mind will last. You must look elsewhere.
 
@@ -100,7 +100,7 @@
 
 **Q:**&ensp;I was born, I shall die.
 
-**M:**&ensp;Can you truly say you were not before you were born and can you possibly say when dead, “Now I am no more”? You cannot say from your own experience that you are not. You can only say, “I am”. Others, too, cannot tell you, “you are not”.
+**M:**&ensp;Can you truly say you were not before you were born and can you possibly say when dead, “Now I am no more”? You cannot say from your own experiënce that you are not. You can only say, “I am”. Others, too, cannot tell you, “you are not”.
 
 **Q:**&ensp;There is no ‘I am’ in sleep.
 

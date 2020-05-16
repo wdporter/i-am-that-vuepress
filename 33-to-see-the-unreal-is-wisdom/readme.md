@@ -38,7 +38,7 @@ body–mind, the mind–body or even pure mind — when did it begin?
 **M:**&ensp;You cannot speak of a beginning of consciousness. The very idea of 
 beginning and time are within consciousness. To talk meaningfully of the 
 beginning of anything, you must step out of it. And the moment you step out, 
-you realise that there is no such thing and never was. There is only reälity, 
+you realise that there is no such thing and never was. There is only reality, 
 in which no thing has any beïng on its own. Like waves are inseparable from 
 the ocean, so is all existence rooted in beïng.
 
@@ -98,11 +98,11 @@ in the midst of light?
 the darkness. When we are absorbed in other things, in the not-self, we forget 
 the self. There is nothing unnatural about it. But, why forget the self 
 through excess of attachment? Wisdom lies in never forgetting the self as the 
-ever-present source of both the experiencer and his experience.
+ever-present source of both the experiëncer and his experiënce.
 
-**Q:**&ensp;In my present state the ‘I am the body’ idea comes spontaneously, 
+**Q:**&ensp;In my present state the ‘I am the body’ idea comes spontaneöusly, 
 while the ‘I am pure beïng’ idea must be imposed on the mind as something true 
-but not experienced.
+but not experiënced.
 
 **M:**&ensp;Yes, <span data-tippy-content="The practice which produces 
 success, <em>siddhi</em>.">sadhana</span> (practice) consists in reminding 
@@ -136,11 +136,11 @@ the source of all, and of all — the final destination. Nothing is external.
 
 **M:**&ensp;There is nothing wrong with the idea of a body, or even with the 
 idea ‘I am the body’. But limiting oneself to only one body is a mistake. In 
-reälity, all existence, every form, is my own and within my consciousness. I 
+reality, all existence, every form, is my own and within my consciousness. I 
 cannot tell what I am because words can describe only what I am not. I am, and 
 because I am, all is. But I am beyond consciousness and, therefore, in 
 consciousness I cannot say what I am. Yet, I am. The question ‘who am I?’ has 
-no answer. No experience can answer it, for the self is beyond experience.
+no answer. No experiënce can answer it, for the self is beyond experiënce.
 
 **Q:**&ensp;Still, the question ‘Who am I’ must be of some use.
 
@@ -192,7 +192,7 @@ question. There is no ‘my self’ and ‘his self’. There is *the* Self, the
 Self of all. Misled by the diversity of names and shapes, minds and bodies, 
 you imagine multiple selves. We both are the self, but you seem to be 
 unconvinced. This talk of personal self and universal self is the learner’s 
-stage; go beyond, don’t be stuck in duälity.
+stage; go beyond, don’t be stuck in duality.
 
 **Q:**&ensp;Let us come back to the man in need of help. He comes to you.
 
@@ -204,7 +204,7 @@ that the help takes varies according to the need.
 **Q:**&ensp;Why must he come here to get advice? Can’t he get it from within?
 
 **M:**&ensp;He will not listen. His mind is turned outward. But in fact all 
-experience is in the mind, and even his coming to me and getting help is all 
+experiënce is in the mind, and even his coming to me and getting help is all 
 within himself. Instead of finding an answer within himself, he imagines an 
 answer from without. To me, there is no me, no man and no giving. All this is 
 merely a flicker in the mind. I am infinite peace and silence in which nothing 
@@ -229,12 +229,12 @@ nature. Call it creätivity. Out of a lump of gold you can make many ornaments
 — each will remain gold. Similarly, in whatever role I may appear and whatever 
 function I may perform — I remain what I am: the ‘I am’ — immovable, 
 unshakeable, independent. What you call the universe, or nature, is my 
-spontaneous creätivity. Whatever happens — happens. But such is my nature that 
+spontaneöus creätivity. Whatever happens — happens. But such is my nature that 
 all ends in joy.
 
 **Q:**&ensp;I have a case of a boy gone blind because his stupid mother fed 
 him methyl alcohol. I am requesting you to help him. You are full of 
-compassion and, obviously, eager to help. By what power can you help him?
+compassion and, obviöusly, eager to help. By what power can you help him?
 
 **M:**&ensp;His case is registered in consciousness. It is there — indelibly. 
 Consciousness will operate.
@@ -262,7 +262,7 @@ components and then ask questions.
 **Q:**&ensp;How strangely your mind works!
 
 **M:**&ensp;You are strange, not me. I am normal. I am sane. I see things as 
-they are, and therefore I am not afraid of them. But you are afraid of reälity.
+they are, and therefore I am not afraid of them. But you are afraid of reality.
 
 **Q:**&ensp;Why should I be?
 
@@ -295,7 +295,7 @@ takes to spiritual practice, and realises his true beïng. Is such progress
 ruled by causality or is it accidental?
 
 **M:**&ensp;From my point of view, everything happens by itself, quite 
-spontaneously. But man imagines that he works for an incentive, towards a 
+spontaneöusly. But man imagines that he works for an incentive, towards a 
 goal. He has always a reward in mind and strives for it. 
 
 **Q:**&ensp;A crude, unevolved man will not work without a reward. Is it not 
@@ -306,7 +306,7 @@ that to grow is in the nature of consciousness. He will progress from motive
 to motive and will chase <span data-tippy-content="Spiritual teacher, 
 preceptor.">guru</span>s for the fulfilment of his desires. When by the laws 
 of his beïng he finds the way of return (<span data-tippy-content="Liberation 
-from worldly existence, renunciation.">nivritti</span>), he abandons all 
+from worldly existence, renunciätion.">nivritti</span>), he abandons all 
 motives, for his interest in the world is over. He wants nothing — neither 
 from others nor from himself. He dies to all and becomes the All. To want 
 nothing and do nothing — that is true creätion! To watch the universe emerging 
@@ -325,7 +325,7 @@ egoïsm.">rajas</span>) work together and keep clarity and harmony (<span
 data-tippy-content="Beïng, existence, true essence. In <em>yoga</em> the 
 quality of purity or goodness.">sattva</span>) down. *Tamas* and *rajas* must 
 be conquered before *sattva* can appear. It will all come in due course, quite 
-spontaneously.
+spontaneöusly.
 
 **Q:**&ensp;Is there no need of effort then?
 
@@ -339,7 +339,7 @@ Get hold of the main thing: that the world and the self are one and perfect.
 Only your attitude is faulty and needs reädjustment. This process or 
 reädjustment is what you call *sadhana*. You come to it by putting an end to 
 indolence and using all your energy to clear the way for clarity and charity. 
-But in reälity, these all are signs of inevitable growth. Don’t be afraid, 
+But in reality, these all are signs of inevitable growth. Don’t be afraid, 
 don’t resist, don’t delay. Be what you are. There is nothing to be afraid of. 
 Trust and try. Experiment honestly. Give your real beïng a chance to shape 
 your life. You will not regret it.

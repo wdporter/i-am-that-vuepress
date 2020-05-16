@@ -21,20 +21,20 @@ Were I to take you to be a mere body; there would be no benefit to you from my a
 No true teacher indulges in opinions. 
 He sees things as they are and shows them as they are. 
 If you take people to be what they think themselves to be, you will only hurt them as they hurt themselves so grievously all the time. 
-But if you see them as they are in reälity, it will do them enormous good. 
+But if you see them as they are in reality, it will do them enormous good. 
 If they ask you what to do, what practices to adopt, which way of life to follow, answer, “Do nothing, just be. 
 In beïng all happens naturally”.
 
 **Q:**&ensp;It seems to me that in your talks you use the words ‘naturally’ and ‘accidentally’ indiscriminately. 
 I feel there is a deep difference in the meaning of the two words. 
 The natural is orderly, subject to law; one can trust nature.
-The accidental is chaotic, unexpected, unpredictable. 
+The accidental is chäotic, unexpected, unpredictable. 
 One could plead that everything is natural, subject to nature’s laws; to maintain that everything is accidental, without any cause, is surely an exaggeration.
 
 **M:**&ensp;Would you like it better if I use the word ‘spontaneöus’ instead of ‘accidental’?
 
 **Q:**&ensp;You may use the word ‘spontaneöus’ or ‘natural’ as opposed to ‘accidental’. 
-In the accidental there is the element of disorder, of chaos. 
+In the accidental there is the element of disorder, of chäos. 
 An accident is always a breach of rules, an exception, a surprise.
 
 **M:**&ensp;Is not life itself a stream of surprises?
@@ -52,7 +52,7 @@ There may be so-called ‘lucky accidents’, but they only prove the rule that 
 **M:**&ensp;I feel there is a misunderstanding. 
 By ‘accidental’ I mean something to which no known law applies. 
 When I say everything is accidental, uncaused, I only mean that the causes and the laws according to which they operate are beyond our knowing or even imagining. 
-If you call what you take to be orderly, harmonious and predictable ‘natural’, then what obeys higher laws and is moved by higher powers may be called spontaneöus. 
+If you call what you take to be orderly, harmoniöus and predictable ‘natural’, then what obeys higher laws and is moved by higher powers may be called spontaneöus. 
 Thus, we shall have two natural orders: the personal and predictable, and the impersonal or super-personal and unpredictable. 
 Call it lower nature and higher nature and drop the word ‘accidental’. 
 As you grow in knowledge and insight, the borderline between lower and higher nature keeps on receding, but the two remain until they are seen as one. 
@@ -69,7 +69,7 @@ The known is the past.
 **Q:**&ensp;I can take my stand on what I feel I am. 
 I am an individual, a person among persons. 
 Some people are integrated and harmonised, and some are not. 
-Some live effortlessly, respond spontaneöusly to every situätion correctly, doing full justice to the need of the moment, while others fumble, err and generally make a nuisance of themselves. 
+Some live effortlessly, respond spontaneöusly to every situätion correctly, doïng full justice to the need of the moment, while others fumble, err and generally make a nuisance of themselves. 
 The harmonised people may be called natural, ruled by law, while the disintegrated are chaötic and subject to accidents.
 
 **M:**&ensp;The very idea of chaös presupposes the sense of the orderly, the organic, the interrelated. 
@@ -79,7 +79,7 @@ Chaös and cosmos: are they not two aspects of the same state?
 
 **M:**&ensp;Yes, in the sense that not all the laws of beïng are known and not all events are predictable. 
 The more you are able to understand, the more the universe becomes satisfactory, emotionally and mentally. 
-Reälity is good and beautiful; we create the chaös.
+Reality is good and beautiful; we creäte the chaös.
 
 **Q:**&ensp;If you mean to say that it is the free will of man that causes accidents, I would agree. 
 But we have not yet discussed free will.
@@ -88,7 +88,7 @@ But we have not yet discussed free will.
 
 **Q:**&ensp;You may put it that way, but do not tell me that the two are one. 
 Talk to me in my own language — the language of an individual in search of happiness. 
-I do not want to be misled by non-duälistic talks.
+I do not want to be misled by non-dualistic talks.
 
 **M:**&ensp;What makes you believe that you are a separate individual?
 
@@ -122,7 +122,7 @@ I shall become a nobody, a nothing!
 
 **M:**&ensp;Exactly. 
 As nothing and nobody you are safe and happy. 
-You can have the experience for the asking. 
+You can have the experiënce for the asking. 
 Just try. 
 
 But let us go back to what is accidental and what is spontaneöus or natural. 
@@ -133,7 +133,7 @@ Only in the mind of man there is chaös.
 The mind does not grasp the whole — its focus is very narrow. 
 It sees fragments only and fails to perceive the picture. 
 It is like a man who hears sounds but does not understand the language; he may accuse the speaker of meaningless jabbering and be altogether wrong. 
-What to one is a chaotic stream of sounds is a beautiful poem to another. 
+What to one is a chäotic stream of sounds is a beautiful poem to another. 
 
 King Janaka once dreamt that he was a beggar. 
 On waking up he asked his <span data-tippy-content="Spiritual teacher, preceptor.">guru</span>, Vasishta, “Am I a king dreaming of beïng a beggar or a beggar dreaming of beïng a king?”. 
@@ -150,10 +150,10 @@ Janaka said, “Yes, I am neither king nor beggar; I am the dispassionate witnes
 
 The *guru* said, “This is your last illusion: that you are a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> — that you are different from, and superior to, the common man. 
 Again you identify yourself with your mind; in this case a well-behaved and, in every way, an exemplary mind. 
-As long as you see the least difference, you are a stranger to reälity; you are on the level of the mind. 
+As long as you see the least difference, you are a stranger to reality; you are on the level of the mind. 
 When the ‘I am myself’ goes, the ‘I am all’ comes. 
 When the ‘I am all’ goes, ‘I am’ comes. 
-When even ‘I am’ goes, reälity alone *is* and in it every ‘I am’ is preserved and glorified. 
+When even ‘I am’ goes, reality alone *is* and in it every ‘I am’ is preserved and glorified. 
 Diversity without separateness is the Ultimate that the mind can touch. 
 Beyond that all activity ceases, because in it all goals are reached and all purposes fulfilled”.
 

@@ -44,7 +44,7 @@
 
 **Q:**&ensp;You use the words ‘aware’ and ‘conscious’. Are they not the same?
 
-**M:**&ensp;Awareness is primordial: it is the original state, beginningless, endless, uncaused, unsupported, without parts, without change. Consciousness is on contact, a reflection against a surface, a state of duality. There can be no consciousness without awareness, but there can be awareness without consciousness, as in deep sleep. Awareness is absolute, but consciousness is relative to its content — consciousness is always of something. Consciousness is partial and changeful; awareness is total, changeless, calm and silent — and it is the common matrix of every experience.
+**M:**&ensp;Awareness is primordial: it is the original state, beginningless, endless, uncaused, unsupported, without parts, without change. Consciousness is on contact, a reflection against a surface, a state of duality. There can be no consciousness without awareness, but there can be awareness without consciousness, as in deep sleep. Awareness is absolute, but consciousness is relative to its content — consciousness is always of something. Consciousness is partial and changeful; awareness is total, changeless, calm and silent — and it is the common matrix of every experiënce.
 
 **Q:**&ensp;How does one go beyond consciousness into awareness?
 

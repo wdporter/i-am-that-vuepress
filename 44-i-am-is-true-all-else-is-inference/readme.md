@@ -42,7 +42,7 @@ Is not to say, “I am ignorant” a part of ignorance?
 All I can say truly is, “I am”; all else is inference. 
 But the inference has become a habit. 
 Destroy all habits of thinking and seeïng. 
-The sense ‘I am’ is the manifestation of a deeper cause, which you may call self, God, Reälity or by any other name. 
+The sense ‘I am’ is the manifestation of a deeper cause, which you may call self, God, Reality or by any other name. 
 The ‘I am’ is in the world, but it is the key which can open the door out of the world. 
 The moon dancing on the water is seen in the water, but it is caused by the moon in the sky and not by the water.
 
@@ -51,7 +51,7 @@ I can admit that the world in which I live and move and have my beïng is of my 
 The world of my own creätion may be quite unlike the ultimate, the real world, just like the cinema screen is quite unlike the pictures projected onto it. 
 Nevertheless, this absolute world exists, quite independent of myself.
 
-**M:**&ensp;Quite so — the world of Absolute Reälity, onto which your mind has projected a world of relative unreälity, is independent of yourself, for the very simple reason that it *is* yourself. 
+**M:**&ensp;Quite so — the world of Absolute Reality, onto which your mind has projected a world of relative unreality, is independent of yourself, for the very simple reason that it *is* yourself. 
 
 **Q:**&ensp;Is there no contradiction in terms? 
 How can independence prove identity?
@@ -59,7 +59,7 @@ How can independence prove identity?
 **M:**&ensp;Examine the motion of change and you will see. 
 What can change while you do not change can be said to be independent of you. 
 But what is changeless must be one with whatever else is changeless. 
-For duälity implies interaction and interaction means change. 
+For duality implies interaction and interaction means change. 
 In other words, the absolutely material and the absolutely spiritual, the totally objective and the totally subjective are identical both in substance and essence.
 
 **Q:**&ensp;Like in a three-dimensional picture, the light forms its own screen.
@@ -88,24 +88,24 @@ Just as the colours in this carpet are brought out by light but light is not the
 That which creätes and sustains the world — you may call it God or providence; but ultimately, you are the proof that God exists, not the other way round. 
 For, before any question about God can be put, you must be there to put it.
 
-**Q:**&ensp;God is an experience in time, but the experiencer is timeless.
+**Q:**&ensp;God is an experiënce in time, but the experiëncer is timeless.
 
-**M:**&ensp;Even the experiencer is secondary. 
+**M:**&ensp;Even the experiëncer is secondary. 
 Primary is the infinite expanse of consciousness, the eternal possibility, the immeasurable potential of all that was, is and will be. 
 When you look at anything, it is the ultimate you see, but you imagine that you see a cloud or a tree. 
 
 Learn to look without imagination, to listen without distortion; that is all. 
-Stop attributing names and shapes to the essentially nameless and formless; realise that every mode of perception is subjective, that what is seen or heard, touched or smelled, felt or thought, expected or imagined is in the mind and not in reälity, and you will experience peace and freedom from fear. 
+Stop attributing names and shapes to the essentially nameless and formless; realise that every mode of perception is subjective, that what is seen or heard, touched or smelled, felt or thought, expected or imagined is in the mind and not in reality, and you will experiënce peace and freedom from fear. 
 
 Even the sense of ‘I am’ is composed of the pure light and the sense of beïng. 
 The ‘I’ is there even without the ‘am’. 
 So is the pure light there whether you say ‘I’ or not. 
 Become aware of that pure light and you will never lose it. 
-The beïngness in beïng, the awareness in consciousness, the interest in every experience — it is not describable, yet perfectly accessible, for there is nothing else.
+The beïngness in beïng, the awareness in consciousness, the interest in every experiënce — it is not describable, yet perfectly accessible, for there is nothing else.
 
 **Q:**&ensp;You talk of reality directly — as the all-pervading, ever-present, eternal, all-knowing, all-energising first cause. 
-There are other teachers who refuse to discuss reälity at all. 
-They say reälity is beyond the mind, while all discussions are within the realm of the mind, which is the home of the unreal. 
+There are other teachers who refuse to discuss reality at all. 
+They say reality is beyond the mind, while all discussions are within the realm of the mind, which is the home of the unreal. 
 Their approach is negative: they pinpoint the unreal and thus go beyond it into the real.
 
 **M:**&ensp;The difference lies in the words only. 
@@ -113,7 +113,7 @@ After all, when I talk of the real, I describe it as not-unreal, space-less, tim
 It comes to the same. 
 As long as it leads to enlightenment, what does the wording matter? 
 Does it matter whether you pull the cart or push it, as long as it is kept rolling? 
-You may feel attracted to reälity at one time and repelled from the false at another; these are only moods which alternate — both are needed for perfect freedom. 
+You may feel attracted to reality at one time and repelled from the false at another; these are only moods which alternate — both are needed for perfect freedom. 
 You may go one way or another, but each time it will be the right way at the moment; just go whole-heartedly and don’t waste time on doubting or hesitating. 
 Many kinds of food are needed to make the child grow; but the act of eating is the same. 
 Theoretically, all approaches are good; in practice, and at a given moment, you proceed by one road only. 
@@ -124,7 +124,7 @@ Neither your body nor mind can give you what you seek — the beïng and knowing
 **Q:**&ensp;Surely there is something valid and valuable in every approach.
 
 **M:**&ensp;In each case, the value lies in bringing you to the need of seeking within. 
-Playing with various approaches may be due to resistance to going within, to the fear of having to abandon the illusion of beïng something or somebody in particular. 
+Playing with variöus approaches may be due to resistance to goïng within, to the fear of having to abandon the illusion of beïng something or somebody in particular. 
 To find water you do not dig small pits all over the place, but drill deep in one place only. 
 Similarly, to find your self you have to explore your self. 
 When you realise that you are the light of the world, you will also realise that you are the love of it; that to know is to love and to love is to know. 

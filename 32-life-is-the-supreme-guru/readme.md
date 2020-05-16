@@ -13,7 +13,7 @@ death, but the young have no such hope. Some of us may refuse to kill, but
 none can refuse to be killed. Can we hope to set the world right within our 
 lifetime?
 
-**Maharaj:**&ensp;What makes you think that the world is going to perish?
+**Maharaj:**&ensp;What makes you think that the world is goïng to perish?
 
 **Q:**&ensp;The instruments of destruction have become unbelievably potent. 
 Also, our very productivity has become destructive of nature and of our 
@@ -197,9 +197,9 @@ on it.
 **Q:**&ensp;A thing so universal cannot be wrong.
 
 **M:**&ensp;Not wrong, of course. In its own place and time nothing is wrong. 
-But when you are concerned with truth, with reälity, you must question every 
+But when you are concerned with truth, with reality, you must question every 
 thing, your very life. By asserting the necessity of sensory and intellectual 
-experience you narrow down your inquiry to search for comfort.
+experiënce you narrow down your inquiry to search for comfort.
 
 **Q:**&ensp;I seek happiness, not comfort.
 

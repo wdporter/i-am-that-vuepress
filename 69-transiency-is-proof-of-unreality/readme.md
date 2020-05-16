@@ -14,7 +14,7 @@
 
 **M:**&ensp;Good.
 
-**Q:**&ensp;What are you doing, sir?
+**Q:**&ensp;What are you doïng, sir?
 
 **M:**&ensp;Sitting.
 
@@ -46,21 +46,21 @@ Shall I ask you? What is the purpose of your moving from place to place?
 
 **Q:**&ensp;I am the mirror and the world is the image?
 
-**M:**&ensp;You can see both the image and the mirror. You are neither. Who are you? Don’t go by formulas. The answer is not in words. The nearest you can say in words is, “I am what makes perception possible, the life beyond the experiencer and his experience0148. 
+**M:**&ensp;You can see both the image and the mirror. You are neither. Who are you? Don’t go by formulas. The answer is not in words. The nearest you can say in words is, “I am what makes perception possible, the life beyond the experiëncer and his experiënce0148. 
 
 Now, Can you separate yourself both from the mirror and the image in the mirror and stand completely alone, all by yourself?
 
 **Q:**&ensp;No, I cannot.
 
-**M:**&ensp;How do you know that you cannot? There are so many things you are doing without knowing how to do it. You digest, you circulate your blood and you move your muscles — all without knowing how. In the same way, you perceive, you feel, you think, without knowing the why and how of it. Similarly, you are yourself without knowing it. There is nothing wrong with you as the Self. It is what it is to perfection. It is the mirror that is not clear and true and therefore gives you false images. You need not correct yourself — only set right your idea of yourself. Learn to separate yourself from the image and the mirror; keep on remembering, “I am neither the mind nor its ideas”. Do it patiently and with convictions and you will surely come to the direct vision of yourself as the source of being–knowing–loving; eternal, all-embracing, all-pervading. You are the infinite focussed in a body. Now you see the body only. Try earnestly and you will come to see the infinite only.
+**M:**&ensp;How do you know that you cannot? There are so many things you are doïng without knowing how to do it. You digest, you circulate your blood and you move your muscles — all without knowing how. In the same way, you perceive, you feel, you think, without knowing the why and how of it. Similarly, you are yourself without knowing it. There is nothing wrong with you as the Self. It is what it is to perfection. It is the mirror that is not clear and true and therefore gives you false images. You need not correct yourself — only set right your idea of yourself. Learn to separate yourself from the image and the mirror; keep on remembering, “I am neither the mind nor its ideas”. Do it patiently and with convictions and you will surely come to the direct vision of yourself as the source of beïng–knowing–loving; eternal, all-embracing, all-pervading. You are the infinite focussed in a body. Now you see the body only. Try earnestly and you will come to see the infinite only.
 
-**Q:**&ensp;The experience of reality — when it comes, does it last?
+**Q:**&ensp;The experiënce of reality — when it comes, does it last?
 
-**M:**&ensp;All experience is necessarily transient. But the ground of all experience is immovable. Nothing that may be called an event will last. But some events purify the mind and some stain it. Moments of deep insight and all-embracing love purify the mind, while desires and fears, envies and anger, blind beliefs and intellectual arrogance pollute and dull the psyche.
+**M:**&ensp;All experiënce is necessarily transient. But the ground of all experiënce is immovable. Nothing that may be called an event will last. But some events purify the mind and some stain it. Moments of deep insight and all-embracing love purify the mind, while desires and fears, envies and anger, blind beliefs and intellectual arrogance pollute and dull the psyche.
 
 **Q:**&ensp;Is self-realisation so important?
 
-**M:**&ensp;Without it you will be consumed by desires and fears repeating themselves meaninglessly in endless suffering. Most people do not know that there can be an end to pain. But once they have heard the good news, obviously going beyond all strife and struggle is the most urgent task that there is. You know that you can be free and now it is up to you. Either you remain forever hungry and thirsty, longing, searching, grabbing, holding, ever losing and sorrowing, or go out whole-heartedly in search of the state of timeless perfection to which nothing can be added, from which nothing can be taken away. In it, all desires and fears are absent, not because they were given up, but because they have lost their meaning.
+**M:**&ensp;Without it you will be consumed by desires and fears repeating themselves meaninglessly in endless suffering. Most people do not know that there can be an end to pain. But once they have heard the good news, obviöusly goïng beyond all strife and struggle is the most urgent task that there is. You know that you can be free and now it is up to you. Either you remain forever hungry and thirsty, longing, searching, grabbing, holding, ever losing and sorrowing, or go out whole-heartedly in search of the state of timeless perfection to which nothing can be added, from which nothing can be taken away. In it, all desires and fears are absent, not because they were given up, but because they have lost their meaning.
 
 **Q:**&ensp;So far I have been following you. Now, what am I expected to do?
 
@@ -68,11 +68,11 @@ Now, Can you separate yourself both from the mirror and the image in the mirror 
 
 **Q:**&ensp;Surely, there are degrees of realisation.
 
-**M:**&ensp;There are no steps to self-realisation. There is nothing gradual about it. It happens suddenly and is irreversible. You rotate into a new dimension, seen from which the previous ones are mere abstractions. Just like at sunrise you see things as they are, so on self-realisation you see everything as it is. The world of illusions is left behind.
+**M:**&ensp;There are no steps to self-realisation. There is nothing gradual about it. It happens suddenly and is irreversible. You rotate into a new dimension, seen from which the previöus ones are mere abstractions. Just like at sunrise you see things as they are, so on self-realisation you see everything as it is. The world of illusions is left behind.
 
 **Q:**&ensp;In the state of realisation do things change? They become colourful and full of meaning?
 
-**M:**&ensp;The experience is quite right, but it is not the experience of reality (<span data-tippy-content="Experience of the everlasting reality.">sadanubhava</span>), but of harmony (<span data-tippy-content="Experience (<em>anubhava</em>) of the true harmony of the universe (<em>sattva</em>, being).">sattvanubhava</span>) of the universe.
+**M:**&ensp;The experiënce is quite right, but it is not the experiënce of reality (<span data-tippy-content="Experiënce of the everlasting reality.">sadanubhava</span>), but of harmony (<span data-tippy-content="Experiënce (<em>anubhava</em>) of the true harmony of the universe (<em>sattva</em>, beïng).">sattvanubhava</span>) of the universe.
 
 **Q:**&ensp;Nevertheless, there is progress.
 
@@ -80,7 +80,7 @@ Now, Can you separate yourself both from the mirror and the image in the mirror 
 
 **Q:**&ensp;I am physically and mentally at peace. What more do I need?
 
-**M:**&ensp;Yours may not be the ultimate state. You will recognise that you have returned to your natural state by a complete absence of all desire and fear. After all, at the root of all desire and fear is the feeling of not being what you are. Just as a dislocated joint causes pain only as long as it is out of shape and is forgotten as soon as it is set right, so is all self-concern a symptom of mental distortion which disappears as soon as one is in the normal state.
+**M:**&ensp;Yours may not be the ultimate state. You will recognise that you have returned to your natural state by a complete absence of all desire and fear. After all, at the root of all desire and fear is the feeling of not beïng what you are. Just as a dislocated joint causes pain only as long as it is out of shape and is forgotten as soon as it is set right, so is all self-concern a symptom of mental distortion which disappears as soon as one is in the normal state.
 
 **Q:**&ensp;Yes, but what is the *sadhana* for achieving the natural state?
 
@@ -96,7 +96,7 @@ Now, Can you separate yourself both from the mirror and the image in the mirror 
 
 **Q:**&ensp;Everything changes; the background also changes. There is no need of a changeless background to notice changes. The self is momentary — it is merely the point where the past meets the future.
 
-**M:**&ensp;Of course the self based on memory is momentary. But such self demands unbroken continuïty behind it. You know from experience that there are gaps when your self is forgotten. What brings it back to life? What wakes you up in the morning? There must be some constant factor bridging the gaps in consciousness. If you watch carefully you will find that even your daily consciousness is in flashes, with gaps intervening all the time. What is in the gaps? What can there be but your real being, which is timeless? Mind and mindlessness are one to it.
+**M:**&ensp;Of course the self based on memory is momentary. But such self demands unbroken continuïty behind it. You know from experiënce that there are gaps when your self is forgotten. What brings it back to life? What wakes you up in the morning? There must be some constant factor bridging the gaps in consciousness. If you watch carefully you will find that even your daily consciousness is in flashes, with gaps intervening all the time. What is in the gaps? What can there be but your real beïng, which is timeless? Mind and mindlessness are one to it.
 
 **Q:**&ensp;Is there any particular place you would advise me to go to for spiritual attainment?
 
@@ -104,19 +104,19 @@ Now, Can you separate yourself both from the mirror and the image in the mirror 
 
 **Q:**&ensp;What is the cause of the urge to roam about?
 
-**M:**&ensp;There is no cause. You merely dream that you roam about. In a few years your stay in India will appear as a dream to you. You will dream some other dream at that time. Do realise that it is not you who moves from dream to dream, but the dreams flow before you and you are the immutable witness. No happening affects your real being — this is the absolute truth.
+**M:**&ensp;There is no cause. You merely dream that you roam about. In a few years your stay in India will appear as a dream to you. You will dream some other dream at that time. Do realise that it is not you who moves from dream to dream, but the dreams flow before you and you are the immutable witness. No happening affects your real beïng — this is the absolute truth.
 
 **Q:**&ensp;Cannot I move about physically and keep steady inwardly?
 
 **M:**&ensp;You can, but what purpose does it serve? If you are earnest, you will find that in the end you will get fed up with roaming and regret the waste of energy and time. To find your self you need not take a single step.
 
-**Q:**&ensp;Is there any difference between the experience of the Self (<span data-tippy-content="The Supreme Self, the individual soul. <em>Atman</em> is beyond all the three <em>gunas</em> of <em>prakriti</em>. It is not the <em>atman</em> that acts but only the <em>prakriti</em>.">atman) and of the Absolute (<span data-tippy-content="The Absolute, the Ultimate Reality, whose characteristics are absolute existence (<em>sat</em>), absolute consciousness (<em>chit</em>) and absolute bliss (<em>ananda</em>). According to Shankaracharya, <em>Brahman</em>, the Absolute has five different phases: <em>Hiranyagarbha</em>, the Cosmic Self; <em>Ishvara</em>, the personal god in the form of an avatar; <em>jiva</em>, the individual soul; <em>prakriti</em>, the perishable nature and <em>shakti</em>, the creätive power.">Brahman</span>)?
+**Q:**&ensp;Is there any difference between the experiënce of the Self (<span data-tippy-content="The Supreme Self, the individual soul. <em>Atman</em> is beyond all the three <em>gunas</em> of <em>prakriti</em>. It is not the <em>atman</em> that acts but only the <em>prakriti</em>.">atman) and of the Absolute (<span data-tippy-content="The Absolute, the Ultimate Reality, whose characteristics are absolute existence (<em>sat</em>), absolute consciousness (<em>chit</em>) and absolute bliss (<em>ananda</em>). According to Shankaracharya, <em>Brahman</em>, the Absolute has five different phases: <em>Hiranyagarbha</em>, the Cosmic Self; <em>Ishvara</em>, the personal god in the form of an avatar; <em>jiva</em>, the individual soul; <em>prakriti</em>, the perishable nature and <em>shakti</em>, the creätive power.">Brahman</span>)?
 
-**M:**&ensp;There can be no experience of the Absolute, as it is beyond all experience. On the other hand, the self is the experiencing factor in every experience and thus, in a way, validates the multiplicity of experiences. The world may be full of things of great value, but if there is nobody to buy them, they have no price. The Absolute contains everything experienceable, but without the experiencer they are as nothing. That which makes the experience possible is the Absolute. That which makes it actual is the Self.
+**M:**&ensp;There can be no experiënce of the Absolute, as it is beyond all experiënce. On the other hand, the self is the experiëncing factor in every experiënce and thus, in a way, validates the multiplicity of experiënces. The world may be full of things of great value, but if there is nobody to buy them, they have no price. The Absolute contains everything experiënceable, but without the experiëncer they are as nothing. That which makes the experiënce possible is the Absolute. That which makes it actual is the Self.
 
-**Q:**&ensp;Don’t we reach the Absolute through a gradation of experiences? Beginning with the grossest, we end with the most sublime.
+**Q:**&ensp;Don’t we reach the Absolute through a gradation of experiënces? Beginning with the grossest, we end with the most sublime.
 
-**M:**&ensp;There can be no experience without desire for it. There can be gradation between desires, but between the most sublime desire and the freedom from all desire there is an abyss which must be crossed. The unreal may look real, but it is transient. The real is not afraid of time.
+**M:**&ensp;There can be no experiënce without desire for it. There can be gradation between desires, but between the most sublime desire and the freedom from all desire there is an abyss which must be crossed. The unreal may look real, but it is transient. The real is not afraid of time.
 
 **Q:**&ensp;Is not the unreal the expression of the real?
 

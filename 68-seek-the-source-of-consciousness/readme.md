@@ -1,6 +1,6 @@
 # 68. Seek the Source of Consciousness
 
->Be aware of being conscious and seek the source of consciousness. That is all. Very little can be conveyed in words. It is the doing as I tell you that will bring light, not my telling you. The means do not matter much; it is the desire, the urge, the earnestness that count.
+>Be aware of beïng conscious and seek the source of consciousness. That is all. Very little can be conveyed in words. It is the doïng as I tell you that will bring light, not my telling you. The means do not matter much; it is the desire, the urge, the earnestness that count.
 
 **Questioner:**&ensp;We were talking the other day about the ways of the modern Western mind and the difficulty it finds in submitting to the moral and intellectual discipline of the *Vedanta*. One of the obstacles lies in the young European’s or American’s preöccupation with the disastrous condition of the world and the urgent need of setting it right. 
 
@@ -26,7 +26,7 @@ They have no patience with people like you who preach personal improvement as a 
 
 **Q:**&ensp;Even death is a need?
 
-**M:**&ensp;Having lived a long and fruitful life, you feel the need to die. Only when wrongly applied are desire and fear are destructive. By all means, desire the right and fear the wrong. But when people desire what is wrong and fear what is right, they create chaos and despair.
+**M:**&ensp;Having lived a long and fruitful life, you feel the need to die. Only when wrongly applied are desire and fear are destructive. By all means, desire the right and fear the wrong. But when people desire what is wrong and fear what is right, they creäte chäos and despair.
 
 **Q:**&ensp;What is right and what is wrong?
 
@@ -34,7 +34,7 @@ They have no patience with people like you who preach personal improvement as a 
 
 **Q:**&ensp;When we talk of helping humanity, we mean a struggle against disorder and suffering.
 
-**M:**&ensp;You merely talk of helping. Have you ever helped, really helped, a single man? Have you ever put one soul beyond the need of further help? Can you give a man character, based on full realisation of his duties and opportunities at least, if not on the insight into his true being? When you do not know what is good for yourself, how can you know what is good for others?
+**M:**&ensp;You merely talk of helping. Have you ever helped, really helped, a single man? Have you ever put one soul beyond the need of further help? Can you give a man character, based on full realisation of his duties and opportunities at least, if not on the insight into his true beïng? When you do not know what is good for yourself, how can you know what is good for others?
 
 **Q:**&ensp;The adequate supply of means of livelihood is good for all. You may be God himself, but you need a well-fed body to talk to us.
 
@@ -56,7 +56,7 @@ You are so accustomed to think of yourselves as bodies having consciousness that
 
 Now we are talking to each other. For this presence is needed — unless we are present, we cannot talk. But presence by itself is not enough. There must also be the desire to talk. 
 
-Above all, we want to remain conscious. We shall bear every suffering and humiliation, but we would rather remain conscious. Unless we revolt against this craving for experience and let go the manifested altogether, there can be no relief. We shall remain trapped.
+Above all, we want to remain conscious. We shall bear every suffering and humiliation, but we would rather remain conscious. Unless we revolt against this craving for experiënce and let go the manifested altogether, there can be no relief. We shall remain trapped.
 
 **Q:**&ensp;You say you are the silent witness and also you are beyond consciousness. Is there no contradiction in it? If you are beyond consciousness, what are you the witness to?
 
@@ -64,7 +64,7 @@ Above all, we want to remain conscious. We shall bear every suffering and humili
 
 **Q:**&ensp;How can I reach you then?
 
-**M:**&ensp;Be aware of being conscious and seek the source of consciousness. That is all. Very little can be conveyed in words. It is the doing as I tell you that will bring light, not my telling you. The means do not matter much; it is the desire, the urge, the earnestness that count.
+**M:**&ensp;Be aware of beïng conscious and seek the source of consciousness. That is all. Very little can be conveyed in words. It is the doïng as I tell you that will bring light, not my telling you. The means do not matter much; it is the desire, the urge, the earnestness that count.
 
 <script>
 export default {
