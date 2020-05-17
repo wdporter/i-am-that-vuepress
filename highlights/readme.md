@@ -322,6 +322,44 @@ dwelling in your mind on ‘I am’, ‘I know’, ‘I love’ — with the wil
 reaching the deepest meaning of these words.
 
 
+## [53. Desires Fulfilled Breed More Desires](/53-desires-fulfilled-breed-more-desires/)
+
+&emsp;Let it kick. Just look at the kicking. And if you are too afraid of 
+society to kick convincingly, look at that too. I know it is a painful 
+business. But there is no remedy — except one: the search for remedies must 
+cease. 
+
+&emsp;If you are angry or in pain, separate yourself from anger and pain and 
+watch them. Externalisation is the first step to liberation. Step away and 
+look. The physical events will go on happening, but by themselves they have no 
+importance. It is the mind alone that matters. Whatever happens, you cannot 
+kick and scream in an airline office or in a bank. Society does not allow it. 
+If you do not like their ways or are not prepared to endure them, don’t fly or 
+carry money. Walk, and if you cannot walk, don’t travel. If you deal with 
+society, you must accept its ways, for its ways are your ways. Your needs and 
+demands have created them. Your desires are so complex and contradictory — no 
+wonder the society you create is also complex and contradictory.
+
+…
+
+**M:**&ensp;Nature is neither pleasant nor painful. It is all intelligence and 
+beauty. Pain and pleasure are in the mind. Change your scale of values and all 
+will change. Pleasure and pain are mere disturbances of the senses; treat them 
+equally and there will be only bliss. And the world is what you make it; by 
+all means make it happy. Only contentment can make you happy — desires 
+fulfilled breed more desires. Keeping away from all desires and contentment in 
+what comes by itself is a very fruitful state — a precondition to the state of 
+fullness. Don’t distrust its apparent sterility and emptiness. Believe me — it 
+is the satisfaction of desires that breeds misery. Freedom from desires is 
+bliss.
+
+**Q:**&ensp;There are things that we need.
+
+**M:**&ensp;What you need will come to you if you do not ask for what you do 
+not need. Yet only few people reach this state of complete dispassion and 
+detachment. It is a very high state, the very threshold of liberation.
+
+
 ## [62. In the Supreme, the Witness Appears](/62-in-the-supreme-the-witness-appears/)
 
 **Q:**&ensp;How is it that here, my mind is engaged in high topics and finds dwelling on them easy and pleasant, but when I return home I find myself forgetting all l have learnt here, worrying and fretting, unable to remember my real nature even for a moment. What may be the cause?

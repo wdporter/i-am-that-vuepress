@@ -28,9 +28,9 @@ If you are angry or in pain, separate yourself from anger and pain and watch the
 
 **M:**&ensp;If you could only keep quiet, clear of memories and expectations, you would be able to discern the beautiful pattern of events. It is your restlessness that causes chaos.
 
-**Q:**&ensp;For full three hours that I spent in the airline office I was practising patience and forbearance. It did not speed up matters.
+**Q:**&ensp;For the full three hours that I spent in the airline office, I was practising patience and forbearance. It did not speed up matters.
 
-**M:**&ensp;At least it did not slow them down, as your kicking would have surely done! You want immediate results! We do not dispense magic here. Everybody does the same mistake: refusing the means, but wanting the ends. You want peace and harmony in the world, but refuse to have them in yourself. Follow my advice implicitly and you will not be disappointed. I cannot solve your problem by mere words. You have to act on what I told you and persevere. It is not the right advice that liberates, but the action based on it. Just like a doctor, after giving the patient an injection, tells him, “Now, keep quiet. Do nothing more, just keep quiet”. I am telling you, you have got your ‘injection’, now keep quiet, just keep quiet. You have nothing else to do. My <span data-tippy-content="Spiritual teacher, preceptor.">Guru</span> did the same. He would tell me something and then said, “Now keep quiet. Don’t go on ruminating all the time. Stop. Be silent”.
+**M:**&ensp;At least it did not slow them down, as your kicking would have surely done! You want immediate results! We do not dispense magic here. Everybody makes the same mistake: refusing the means, but wanting the ends. You want peace and harmony in the world, but refuse to have them in yourself. Follow my advice implicitly and you will not be disappointed. I cannot solve your problem by mere words. You have to act on what I told you and persevere. It is not the right advice that liberates, but the action based on it. Just like a doctor who, after giving the patient an injection, tells him, “Now, keep quiet. Do nothing more, just keep quiet”. I am telling you, you have got your ‘injection’, now keep quiet, just keep quiet. You have nothing else to do. My <span data-tippy-content="Spiritual teacher, preceptor.">Guru</span> did the same. He would tell me something and then say, “Now keep quiet. Don’t go on ruminating all the time. Stop. Be silent”.
 
 **Q:**&ensp;I can keep quiet for an hour in the morning. But the day is long and many things happen that throw me out of balance. It is easy to say, “be silent”, but to be silent when all is screaming in me and around me — please tell me how it is done.
 
@@ -38,7 +38,7 @@ If you are angry or in pain, separate yourself from anger and pain and watch the
 
 **Q:**&ensp;It is all theory which does not fit the facts. I am returning to Europe with nothing to do there. My life is completely empty.
 
-**M:**&ensp;If you just try to keep quiet, all will come — the work, the strength for work, the right motive. Must you know everything beforehand? Don’t be anxious about your future — be quiet now and all will fall in place. The unexpected is bound to happen, while the anticipated may never come. Don’t tell me you cannot control your nature. You need not control it. Throw it overboard. Have no nature to fight, or to submit to. No experience will hurt you, provided you don’t make it into a habit. Of the entire universe you are the subtle cause. All is because you are. Grasp this point firmly and deeply and dwell on it repeatedly. To realise this as absolutely true, is liberation.
+**M:**&ensp;If you just try to keep quiet, all will come — the work, the strength for work, the right motive. Must you know everything beforehand? Don’t be anxious about your future — be quiet now and all will fall into place. The unexpected is bound to happen, while the anticipated may never come. Don’t tell me you cannot control your nature. You need not control it. Throw it overboard. Have no nature to fight or to submit to. No experience will hurt you, provided you don’t make it into a habit. Of the entire universe, you are the subtle cause. All is because you are. Grasp this point firmly and deeply and dwell on it repeatedly. To realise this as absolutely true is liberation.
 
 **Q:**&ensp;If I am the seed of my universe, then a rotten seed I am! By the fruit the seed is known.
 
@@ -46,23 +46,23 @@ If you are angry or in pain, separate yourself from anger and pain and watch the
 
 **Q:**&ensp;It is full of pain.
 
-**M:**&ensp;Nature is neither pleasant nor painful. It is all intelligence and beauty. Pain and pleasure are in the mind. Change your scale of values and all will change. Pleasure and pain are mere disturbances of the senses; treat them equally and there will be only bliss. And the world is what you make it; by all means make it happy. Only contentment can make you happy — desires fulfilled breed more desires. Keeping away from all desires, and contentment in what comes by itself, is a very fruitful state — a precondition to the state of fullness. Don’t distrust its apparent sterility and emptiness. Believe me, it is the satisfaction of desires that breeds misery. Freedom from desires is bliss.
+**M:**&ensp;Nature is neither pleasant nor painful. It is all intelligence and beauty. Pain and pleasure are in the mind. Change your scale of values and all will change. Pleasure and pain are mere disturbances of the senses; treat them equally and there will be only bliss. And the world is what you make it; by all means make it happy. Only contentment can make you happy — desires fulfilled breed more desires. Keeping away from all desires and contentment in what comes by itself is a very fruitful state — a precondition to the state of fullness. Don’t distrust its apparent sterility and emptiness. Believe me — it is the satisfaction of desires that breeds misery. Freedom from desires is bliss.
 
-**Q:**&ensp;There are things we need.
+**Q:**&ensp;There are things that we need.
 
-**M:**&ensp;What you need will come to you, if you do not ask for what you do not need. Yet only few people reach this state of complete dispassion and detachment. It is a very high state, the very threshold of liberation.
+**M:**&ensp;What you need will come to you if you do not ask for what you do not need. Yet only few people reach this state of complete dispassion and detachment. It is a very high state, the very threshold of liberation.
 
-**Q:**&ensp;I have been barren for the last two years, desolate and empty and often was I praying for death to come.
+**Q:**&ensp;I have been barren for the last two years — desolate and empty and often was I praying for death to come.
 
-**M:**&ensp;Well, with your coming here events have started rolling. Let things happen as they happen — they will sort themselves out nicely in the end. You need not strain towards the future — the future will come to you on its own. For some time longer you will remain sleep-walking, as you do now, bereft of meaning and assurance; but this period will end and you will find your work both fruitful and easy. There are always moments when one feels empty and estranged. Such moments are most desirable for it means the soul had cast its moorings and is sailing for distant places. This is detachment — when the old is over and the new has not yet come. If you are afraid, the state may be distressing; but there is really nothing to be afraid of. Remember the instruction: whatever you come across — go beyond.
+**M:**&ensp;Well, with your coming here, events have started rolling. Let things happen as they happen — they will sort themselves out nicely in the end. You need not strain towards the future — the future will come to you on its own. For some time longer you will remain sleep-walking as you do now, bereft of meaning and assurance; but this period will end and you will find your work both fruitful and easy. There are always moments when one feels empty and estranged. Such moments are most desirable, for it means the soul had cast its moorings and is sailing for distant places. This is detachment — when the old is over and the new has not yet come. If you are afraid, the state may be distressing, but there is really nothing to be afraid of. Remember the instruction: whatever you come across — go beyond.
 
-**Q:**&ensp;The Buddhas rule: to remember what needs to be remembered. But I find it so difficult to remember the right thing at the right moment. With me forgetting seems to be the rule!
+**Q:**&ensp;The Buddha’s rule: to remember what needs to be remembered. But I find it so difficult to remember the right thing at the right moment. With me forgetting seems to be the rule!
 
 **M:**&ensp;It is not easy to remember when every situation brings up a storm of desires and fears. Craving born of memory is also the destroyer of memory.
 
 **Q:**&ensp;How am I to fight desire? There is nothing stronger.
 
-**M:**&ensp;The waters of life are thundering over the rocks of objects — desirable or hateful. Remove the rocks by insight and detachment and the same waters will flow deep and silent and swift, in greater volume and with greater power. Don’t be theoretical about it, give time to thought and consideration; if you desire to be free, neglect not the nearest step to freedom. It is like climbing a mountain: not a step can be missed. One step less — and the summit is not reached.
+**M:**&ensp;The waters of life are thundering over the rocks of objects — desirable or hateful. Remove the rocks by insight and detachment and the same waters will flow deep, and silent and swift, in greater volume and with greater power. Don’t be theoretical about it; give time to thought and consideration. If you desire to be free, do not neglect the nearest step to freedom. It is like climbing a mountain — not a step can be missed. One step less — and the summit is not reached.
 
 <script>
 export default {
