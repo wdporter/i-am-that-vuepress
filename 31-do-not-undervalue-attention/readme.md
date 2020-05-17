@@ -1,7 +1,7 @@
 # 31. Do Not Undervalue Attention
 
 >Do not undervalue attention: it means interest and also love. To know, to do, 
-to discover or to creäte; you must give your heart to it — which means 
+to discover or to create; you must give your heart to it — which means 
 attention. All the blessings flow from it.
 
 **Questioner:**&ensp;As I look at you, you seem to be a poor man with very 
@@ -11,20 +11,20 @@ else.
 **Maharaj:**&ensp;Were I very rich, what difference would it make? I am what I 
 am. What else can I be? I am neither rich nor poor; I am myself.
 
-**Q:**&ensp;Yet you are experiëncing pleasure and pain.
+**Q:**&ensp;Yet you are experiencing pleasure and pain.
 
-**M:**&ensp;I am experiëncing these in consciousness, but I am neither 
+**M:**&ensp;I am experiencing these in consciousness, but I am neither 
 consciousness nor its content.
 
-**Q:**&ensp;You say that in our real beïng we are all equal. How is it that 
-your experiënce is so different from ours?
+**Q:**&ensp;You say that in our real being we are all equal. How is it that 
+your experience is so different from ours?
 
-**M:**&ensp;My actual experiënce is not different. It is my evaluätion and 
+**M:**&ensp;My actual experience is not different. It is my evaluation and 
 attitude that differ. I see the same world as you do, but not the same way. 
-There is nothing mysteriöus about it. Everybody sees the world through the 
+There is nothing mysterious about it. Everybody sees the world through the 
 idea he has of himself. As you think yourself to be, so you think the world to 
 be. If you imagine yourself as separate from the world, the world will appear 
-as separate from you and you will experiënce desire and fear. I do not see the 
+as separate from you and you will experience desire and fear. I do not see the 
 world as separate from me and so there is nothing for me to desire or fear.
 
 **Q:**&ensp;You are a point of light in the world. Not everybody is.
@@ -41,11 +41,11 @@ was like you; you will be like me.
 
 **M:**&ensp;The diversity is in you only. See yourself as you are and you will 
 see the world as it is; a single block of reality, indivisible, indescribable. 
-Your own creätive power projects upon it a picture and all your questions 
+Your own creative power projects upon it a picture and all your questions 
 refer to the picture.
 
 **Q:**&ensp;A Tibetan <span data-tippy-content="One who practices 
-<em>yoga</em>.">yogi</span> wrote that God creätes the world for a purpose and 
+<em>yoga</em>.">yogi</span> wrote that God creates the world for a purpose and 
 runs it according to a plan. The purpose is good and the plan is most wise.
 
 **M:**&ensp;All this is temporary — while I am dealing with the eternal. Gods 
@@ -78,7 +78,7 @@ of one preceding the other. All these ideas belong to the waking state.
 
 **Q:**&ensp;What brings in the waking state?
 
-**M:**&ensp;At the root of all creätion lies desire. Desire and imagination 
+**M:**&ensp;At the root of all creation lies desire. Desire and imagination 
 foster and reïnforce each other. The fourth state (<span 
 data-tippy-content="The superconscious state of <em>samadhi</em>, 
 (<em>turiya</em>, fourth), the fourth state of soul in which it becomes one 
@@ -94,11 +94,11 @@ subjective states and deny all reality to the concrete, external world.
 
 **M:**&ensp;Both the subjective and the objective are changeful and transient. 
 There is nothing real about them. Find the permanent in the fleeting, the one 
-constant factor in every experiënce.
+constant factor in every experience.
 
 **Q:**&ensp;What is this constant factor?
 
-**M:**&ensp;My giveïng it variöus names and pointing it out in many ways will 
+**M:**&ensp;My giving it various names and pointing it out in many ways will 
 not help you much unless you have the capacity to see. A man with poor vision 
 will not see the parrot on the branch of a tree however much you may prompt 
 him to look. At best he will see your pointed finger. First purify your 
@@ -124,7 +124,7 @@ good intentions, quite alive on the level of theory, find no roots in my
 day-to-day life. To tell me that I am not honest does not help me, for I just 
 do not know how to make myself honest.
 
-**M:**&ensp;You are neither honest nor dishonest — giveïng names to mental 
+**M:**&ensp;You are neither honest nor dishonest — giving names to mental 
 states is good only for expressing your approval or disapproval. The problem 
 is not yours — it is your mind’s only. Begin by disassociating yourself from 
 your mind. Resolutely remind yourself that you are not the mind and that its 
@@ -137,7 +137,7 @@ and I should be more earnest! I know it and admit it and only ask you — how is
 it done?
 
 **M:**&ensp;At least you are asking! That is good enough for a start. Go on 
-pondering, wondering, beïng anxious to find a way. Be conscious of yourself, 
+pondering, wondering, being anxious to find a way. Be conscious of yourself, 
 watch your mind, give it your full attention. Don’t look for quick results; 
 there may be none within your noticing. Unknown to you, your psyche will 
 undergo a change: there will be more clarity in your thinking, charity in your 
@@ -153,9 +153,9 @@ constituents (<em>guna</em>s) of the cosmic substance: <em>sattva</em>,
 <em>rajas</em> and <em>tamas</em>.">tamas</span> and <span 
 data-tippy-content="Motivity, activity, energy. One of the three 
 <em>guna</em>s or qualities of matter: <em>sattva</em>, <em>rajas</em> and 
-<em>tamas</em>. In <em>yoga</em>, egoïsm.">rajas</span>). Attention, 
+<em>tamas</em>. In <em>yoga</em>, egoism.">rajas</span>). Attention, 
 alertness, awareness, clarity, liveliness and vitality are all manifestations 
-of integrity, oneness with your true nature (<span data-tippy-content="Beïng, 
+of integrity, oneness with your true nature (<span data-tippy-content="Being, 
 existence, true essence. In <em>yoga</em> the quality of purity or 
 goodness.">sattva</span>). It is in the nature of *sattva* to reconcile and 
 neutralise *tamas* and *rajas* and rebuild the personality in accordance with 
@@ -165,7 +165,7 @@ ever attentive and obedient.
 **Q:**&ensp;And I shall come to it through mere attention?
 
 **M:**&ensp;Do not undervalue attention: It means interest and also love. To 
-know, to do, to discover or to creäte, you must give your heart to it — which 
+know, to do, to discover or to create, you must give your heart to it — which 
 means attention. All the blessings flow from it.
 
 **Q:**&ensp;You advise us to concentrate on ‘I am’. Is this too a form of 
@@ -185,10 +185,10 @@ of pure awareness.
 
 **Q:**&ensp;How am I to get such stainless mirror?
 
-**M:**&ensp;Obviöusly, by removeïng stains. See the stains and remove them. The 
+**M:**&ensp;Obviously, by removing stains. See the stains and remove them. The 
 ancient teaching is fully valid.
 
-**Q:**&ensp;What is seeïng and what is removeïng?
+**Q:**&ensp;What is seeing and what is removing?
 
 **M:**&ensp;The nature of the perfect mirror is such that you cannot see it. 
 Whatever you can see is bound to be a stain. Turn away from it, give it up, 
@@ -204,9 +204,9 @@ know it as unwanted.
 
 **Q:**&ensp;How awful! So the universe is of no value?
 
-**M:**&ensp;It is of tremendous value. By goïng beyond it you realise yourself.
+**M:**&ensp;It is of tremendous value. By going beyond it you realise yourself.
 
-**Q:**&ensp;But why did it come into beïng in the first plance?
+**Q:**&ensp;But why did it come into being in the first plance?
 
 **M:**&ensp;You will know it when it ends.
 

@@ -1,6 +1,6 @@
 # 41. Develop the Witness Attitude
 
->Develop the witness attitude and you will find in your own experiënce that detachment brings control. 
+>Develop the witness attitude and you will find in your own experience that detachment brings control. 
 The state of witnessing is full of power — there is nothing passive about it.
 
 **Questioner:**&ensp;What is the daily and hourly state of mind of a realised man? 
@@ -18,7 +18,7 @@ What matters is their outlook, their attitude, which is that of total detachment
 Does he not suffer?
 
 **M:**&ensp;He suffers with those who suffer. 
-The event itself is of little importance, but he is full of compassion for the suffering beïng, whether alive or dead, in the body or out of it. 
+The event itself is of little importance, but he is full of compassion for the suffering being, whether alive or dead, in the body or out of it. 
 After all, love and compassion are his very nature. 
 He is one with all that lives and love is that oneness in action.
 
@@ -70,9 +70,9 @@ The entire universe is his body, all life is his life. As in a city of lights, w
 The whole is an abstraction; the particular, the concrete, is real.
 
 **M:**&ensp;That is what you say. To me it may be the other way — the whole is real, but the part comes and goes. 
-The particular is born and reborn, changeïng name and shape; the *jnani* is the Changeless Reality which makes the changeful possible. 
+The particular is born and reborn, changing name and shape; the *jnani* is the Changeless Reality which makes the changeful possible. 
 But he cannot give you the conviction. 
-It must come with your own experiënce. 
+It must come with your own experience. 
 With me all is one, all is equal.
 
 **Q:**&ensp;Are sin and virtue one and the same?
@@ -136,8 +136,8 @@ Infinite in number are its names and shapes.
 All arise and all merge in the same ocean; the source of all is one. 
 Looking for causes and results is but the pastime of the mind. 
 What *is* is lovable. 
-Love is not a result; it is the very ground of beïng. 
-Wherever you go, you will find beïng, consciousness and love. 
+Love is not a result; it is the very ground of being. 
+Wherever you go, you will find being, consciousness and love. 
 Why make preferences?
 
 **Q:**&ensp;When, by natural causes, thousands and millions of lives are extinguished (as happens in floods and earthquakes), I do not grieve. 
@@ -173,7 +173,7 @@ How can the mind be a part of nature?
 **Q:**&ensp;If nature is in the mind and the mind is my own, I should be able to control nature, which is not really the case. 
 Forces beyond my control determine my behaviour.
 
-**M:**&ensp;Develop the witness attitude and you will find in your own experiënce that detachment brings control. 
+**M:**&ensp;Develop the witness attitude and you will find in your own experience that detachment brings control. 
 The state of witnessing is full of power — there is nothing passive about it.
 
 <script>

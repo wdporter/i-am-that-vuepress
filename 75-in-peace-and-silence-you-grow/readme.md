@@ -5,7 +5,7 @@ In the end you reach a state of non-grasping, of joyful non-attachment, of inner
 
 **Questioner:**&ensp;The Indian tradition tells us that the <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> is indispensable. 
 What is he indispensable for? 
-A mother is indispensable for giveïng the child a body. 
+A mother is indispensable for giving the child a body. 
 But she does not give the soul. 
 Her role is limited. 
 How is it with the *guru*? 
@@ -17,7 +17,7 @@ All others merely show the way.
 
 **Q:**&ensp;I am not concerned with the inner *guru*, only with the one that shows the way. 
 There are people who believe that without a *guru*, <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span> is inaccessible. 
-They are ever in search of the right *guru*, changeïng one for another. 
+They are ever in search of the right *guru*, changing one for another. 
 Of what value are such *guru*s?
 
 **M:**&ensp;They are temporary, time-bounded *guru*s. 
@@ -87,13 +87,13 @@ We talk of it as having independent existence.
 It hasn’t.
 
 **M:**&ensp;The outer and the inner self are both are imagined. 
-The obsession of beïng an ‘I’ needs another obsession with a ‘super I’ to get cured, as one needs a second thorn to remove the first thorn, or a poison to neutralise another poison. 
+The obsession of being an ‘I’ needs another obsession with a ‘super I’ to get cured, as one needs a second thorn to remove the first thorn, or a poison to neutralise another poison. 
 All assertion calls for a denial, but this is the first step only. 
 The next is to go beyond both.
 
-**Q:**&ensp;I do understand that the outer *guru* is needed to call my attention to my self and to the urgent need for doïng something about my self. 
+**Q:**&ensp;I do understand that the outer *guru* is needed to call my attention to my self and to the urgent need for doing something about my self. 
 I also understand how helpless he is when it comes to any deep change in me. 
-But here you bring in the <span data-tippy-content="The true spiritual teacher.">sadguru</span>, the inner *guru*, beginningless, changeless, the root of beïng, the standing promise, the certain goal. 
+But here you bring in the <span data-tippy-content="The true spiritual teacher.">sadguru</span>, the inner *guru*, beginningless, changeless, the root of being, the standing promise, the certain goal. 
 Is he a concept or a reality?
 
 **M:**&ensp;He is the only reality. 
@@ -140,7 +140,7 @@ I just obeyed.
 I did not follow any particular course of breathing, meditation or study of scriptures. 
 Whatever happened, I would turn away my attention from it and remain with the sense ‘I am’. 
 It may look too simple, even crude. 
-My only reason for doïng it was that my *guru* told me so. 
+My only reason for doing it was that my *guru* told me so. 
 Yet it worked! 
 Obedience is a powerful solvent of all desires and fears.
 
@@ -152,15 +152,15 @@ In the end you reach a state of non-grasping, of joyful non-attachment, of inner
 
 **M:**&ensp;All happens by itself. 
 Neither the seeker. nor the *guru* do anything. 
-Things happen as they happen; blame or praise are apportioned later, after the sense of doërship appearing.
+Things happen as they happen; blame or praise are apportioned later, after the sense of doership appearing.
 
 **Q:**&ensp;How strange! 
-Surely the doër comes before the deed.
+Surely the doer comes before the deed.
 
-**M:**&ensp;It is the other way round: the deed is a fact, the doër a mere concept. 
-Your very language shows that while the deed is certain, the doër is dubious; shifting responsibility is a game peculiarly human. 
+**M:**&ensp;It is the other way round: the deed is a fact, the doer a mere concept. 
+Your very language shows that while the deed is certain, the doer is dubious; shifting responsibility is a game peculiarly human. 
 Considering the endless list of factors required for anything to happen, one can only admit that everything is responsible for everything, however remote. 
-Doërship is a myth born from the illusions of ‘me’ and ‘the mine’.
+Doership is a myth born from the illusions of ‘me’ and ‘the mine’.
 
 **Q:**&ensp;How powerful the illusion is.
 
@@ -177,22 +177,22 @@ Is it the outer self or the inner?
 **M:**&ensp;You have invented words like effort, inner, outer, self and so forth, and seek to impose them on reality. 
 Things just happen to be as they are, but we want to build them into a pattern laid down by the structure of our language. 
 So strong is this habit that we tend to deny reality to what cannot be verbalised. 
-We just refuse to see that words are mere symbols related by convention and habit to repeated experiënces.
+We just refuse to see that words are mere symbols related by convention and habit to repeated experiences.
 
 **Q:**&ensp;What is the value of spiritual books?
 
-**M:**&ensp;They help in dispelling ignoreänce. 
+**M:**&ensp;They help in dispelling ignorance. 
 They are useful in the beginning but become a hindrance in the end. 
 One must know when to discard them.
 
-**Q:**&ensp;What is the link between <span data-tippy-content="The Supreme Self, the individual soul. <em>Atman</em> is beyond all the three <em>gunas</em> of <em>prakriti</em>. It is not the <em>atman</em> that acts but only the  <em>prakriti</em>.">atma</span> and <span data-tippy-content="Beïng, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>, between the self and the universal harmony?
+**Q:**&ensp;What is the link between <span data-tippy-content="The Supreme Self, the individual soul. <em>Atman</em> is beyond all the three <em>gunas</em> of <em>prakriti</em>. It is not the <em>atman</em> that acts but only the  <em>prakriti</em>.">atma</span> and <span data-tippy-content="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>, between the self and the universal harmony?
 
 **M:**&ensp;As between the sun and its rays. 
 Harmony and beauty, understanding and affection are all expressions of reality. 
 It is reality in action, the impact of the spirit on matter. 
-<span data-tippy-content="Darkness, inertia, passivity. One of the three constituents (<em>gunas</em>) of the cosmic substance: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>.">Tamas</span> obscures, <span data-tippy-content="Motivity, activity, energy. One of the three <em>gunas</em> or qualities of matter: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, egoïsm.">rajas</span> distorts, *sattva* harmonises. 
+<span data-tippy-content="Darkness, inertia, passivity. One of the three constituents (<em>gunas</em>) of the cosmic substance: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>.">Tamas</span> obscures, <span data-tippy-content="Motivity, activity, energy. One of the three <em>gunas</em> or qualities of matter: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</span> distorts, *sattva* harmonises. 
 With the maturing of the *sattva*, all desires and fears come to an end. 
-The real beïng is reflected in the mind undistorted. 
+The real being is reflected in the mind undistorted. 
 Matter is redeemed, spirit revealed. 
 The two are seen as one. 
 They were always one, but the imperfect mind saw them as two. 
@@ -210,7 +210,7 @@ To escape from prison, one must unquestioningly obey instructions sent by those 
 
 **Q:**&ensp;The words of the *guru*, when merely heard, have little power. 
 One must have faith to obey them. 
-What creätes such faith?
+What creates such faith?
 
 **M:**&ensp;When the time comes, faith comes. 
 Everything comes in time. 
@@ -219,12 +219,12 @@ The *guru* is always ready to share, but there are no takers.
 **Q:**&ensp;Yes, Sri Ramana Maharshi used to say, “*Guru*s there are many, but where are the disciples?”.
 
 **M:**&ensp;Well, in the course of time everything happens. 
-All will come through — not a single soul (<span data-tippy-content="[<em>Atman</em> + doërship is <em>jiva</em>.] The individual soul. According to <em>Vedanta</em>, <em>jiva</em> comes into beïng as a result of the false identification of the <em>atman</em> with body, senses and mind.">jiva</span>) shall be lost.
+All will come through — not a single soul (<span data-tippy-content="[<em>Atman</em> + doership is <em>jiva</em>.] The individual soul. According to <em>Vedanta</em>, <em>jiva</em> comes into being as a result of the false identification of the <em>atman</em> with body, senses and mind.">jiva</span>) shall be lost.
 
-**Q:**&ensp;I am very much afraid of takeïng intellectual understanding for realisation. 
-I may talk of truth without knowing it, and may know it without a single word beïng said. 
+**Q:**&ensp;I am very much afraid of takeing intellectual understanding for realisation. 
+I may talk of truth without knowing it, and may know it without a single word being said. 
 
-I understand these conversations are goïng to be published. 
+I understand these conversations are going to be published. 
 What will be their effect on the reader?
 
 **M:**&ensp;In the attentive and thoughtful reader they will ripen and bring out flowers and fruits. 

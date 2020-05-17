@@ -8,7 +8,7 @@
 
 **Q:**&ensp;What happened? What was the change?
 
-**M:**&ensp;Pleasure and pain lost their sway over me. I was free from desire and fear. I found myself full, needing nothing. I saw that in the ocean of pure awareness, on the surface of the universal consciousness, the numberless waves of the phenomenal worlds arise and subside beginninglessly and endlessly. As consciousness, they are all me. As events, they are all mine. There is a mysterious power that looks after them. That power is awareness, Self, Life, God, whatever name you give it. It is the foundation, the ultimate support of all that is, just like gold is the basis for all gold jewelry. And it is so intimately ours! Abstract the name and shape from the jewelry and the gold becomes obvious. Be free of name and form and of the desires and fears they creäte, then what remains?
+**M:**&ensp;Pleasure and pain lost their sway over me. I was free from desire and fear. I found myself full, needing nothing. I saw that in the ocean of pure awareness, on the surface of the universal consciousness, the numberless waves of the phenomenal worlds arise and subside beginninglessly and endlessly. As consciousness, they are all me. As events, they are all mine. There is a mysterious power that looks after them. That power is awareness, Self, Life, God, whatever name you give it. It is the foundation, the ultimate support of all that is, just like gold is the basis for all gold jewelry. And it is so intimately ours! Abstract the name and shape from the jewelry and the gold becomes obvious. Be free of name and form and of the desires and fears they create, then what remains?
 
 **Q:**&ensp;Nothingness.
 
@@ -24,7 +24,7 @@
 
 **Q:**&ensp;Is there no such thing as immortality?
 
-**M:**&ensp;When life and death are seen as essential to each other, as two aspects of one beïng, *that* is immortality. To see the end in the beginning and the beginning in the end is the intimation of eternity. Definitely, immortality is not continuity. Only the process of change continues. Nothing lasts.
+**M:**&ensp;When life and death are seen as essential to each other, as two aspects of one being, *that* is immortality. To see the end in the beginning and the beginning in the end is the intimation of eternity. Definitely, immortality is not continuity. Only the process of change continues. Nothing lasts.
 
 **Q:**&ensp;Awareness lasts?
 
@@ -32,17 +32,17 @@
 
 **Q:**&ensp;Within the field of your consciousness there is also *your* body.
 
-**M:**&ensp;Of course. But the idea ‘my body’, as different from other bodies, is not there. To me it is ‘*a* body’, not ‘my body’, ‘*a* mind’, not ‘my mind’. The mind looks after the body all right, I need not interfere. What needs to be done is beïng done in the normal and natural way. 
+**M:**&ensp;Of course. But the idea ‘my body’, as different from other bodies, is not there. To me it is ‘*a* body’, not ‘my body’, ‘*a* mind’, not ‘my mind’. The mind looks after the body all right, I need not interfere. What needs to be done is being done in the normal and natural way. 
 
-You may not be quite conscious of your physiological functions, but when it comes to thoughts and feelings, desires and fears, you become acutely self-conscious. To me, these too are largely unconscious. I find myself talking to people, or doïng things quite correctly and appropriately, without beïng very much conscious of them. It looks as if I live my physical, waking life automatically, reäcting spontaneöusly and accurately.
+You may not be quite conscious of your physiological functions, but when it comes to thoughts and feelings, desires and fears, you become acutely self-conscious. To me, these too are largely unconscious. I find myself talking to people, or doing things quite correctly and appropriately, without being very much conscious of them. It looks as if I live my physical, waking life automatically, reäcting spontaneously and accurately.
 
-**Q:**&ensp;Does this spontaneöus response come as a result of realisation or by training?
+**Q:**&ensp;Does this spontaneous response come as a result of realisation or by training?
 
-**M:**&ensp;Both. Devotion to your goal makes you live a clean and orderly life, given to search for truth and to helping people, and realisation makes noble virtue easy and spontaneöus by removeïng for good the obstacles in the shape of desires and fears and wrong ideas.
+**M:**&ensp;Both. Devotion to your goal makes you live a clean and orderly life, given to search for truth and to helping people, and realisation makes noble virtue easy and spontaneous by removing for good the obstacles in the shape of desires and fears and wrong ideas.
 
 **Q:**&ensp;Don’t you have desires and fears any more?
 
-**M:**&ensp;My destiny was to be born a simple man, a commoner, a humble tradesman, with little of formal education. My life was of the common kind, with common desires and fears. When, through my faith in my teacher and obedience to his words, I realised my true beïng, I left behind my human nature to look after itself until its destiny is exhausted. Occasionally an old reäction, emotional or mental, happens in the mind, but it is at once noticed and discarded. After all, as long as one is burdened with a person, one is exposed to its idiosyncracies and habits.
+**M:**&ensp;My destiny was to be born a simple man, a commoner, a humble tradesman, with little of formal education. My life was of the common kind, with common desires and fears. When, through my faith in my teacher and obedience to his words, I realised my true being, I left behind my human nature to look after itself until its destiny is exhausted. Occasionally an old reäction, emotional or mental, happens in the mind, but it is at once noticed and discarded. After all, as long as one is burdened with a person, one is exposed to its idiosyncracies and habits.
 
 **Q:**&ensp;Are you not afraid of death?
 
@@ -58,7 +58,7 @@ You may not be quite conscious of your physiological functions, but when it come
 
 **Q:**&ensp;Sorry. But I just do not understand. You say you are bodiless and mindless, while I see you very much alive and articulate.
 
-**M:**&ensp;A tremendously complex work is goïng on all the time in your brain and body — are you conscious of it? Not at all. Yet for an outsider all seems to be goïng on intelligently and purposefully. Why not admit that one’s entire personal life may sink largely below the threshold of consciousness and yet proceed sanely and smoothly?
+**M:**&ensp;A tremendously complex work is going on all the time in your brain and body — are you conscious of it? Not at all. Yet for an outsider all seems to be going on intelligently and purposefully. Why not admit that one’s entire personal life may sink largely below the threshold of consciousness and yet proceed sanely and smoothly?
 
 **Q:**&ensp;Is it normal?
 
@@ -66,7 +66,7 @@ You may not be quite conscious of your physiological functions, but when it come
 
 **Q:**&ensp;Don’t you become a robot?
 
-**M:**&ensp;What harm is there in makeïng automatic what is habitual and repetitive? It is automatic anyhow. But when it is also chäotic it causes pain and suffering and calls for attention. The entire purpose of a clean and well-ordered life is to liberate man from the thrall of chäos and the burden of sorrow.
+**M:**&ensp;What harm is there in making automatic what is habitual and repetitive? It is automatic anyhow. But when it is also chäotic it causes pain and suffering and calls for attention. The entire purpose of a clean and well-ordered life is to liberate man from the thrall of chäos and the burden of sorrow.
 
 **Q:**&ensp;You seem to be in favour of a computerised life.
 

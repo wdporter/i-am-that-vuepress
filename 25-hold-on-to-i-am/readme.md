@@ -24,15 +24,15 @@
 
 **Q:**&ensp;Surely there is a difference between the living and the dead. You speak of the living as dead and of the dead as living.
 
-**M:**&ensp;Why do you fret at one man dying and care little for the millions dying every day? Entire universes are imploding and exploding every moment — am I to cry over them? One thing is quite clear to me: all that is lives and moves and has its beïng in consciousness, and I am in and beyond that consciousness. I am in it as the witness; I am beyond it as Beïng.
+**M:**&ensp;Why do you fret at one man dying and care little for the millions dying every day? Entire universes are imploding and exploding every moment — am I to cry over them? One thing is quite clear to me: all that is lives and moves and has its being in consciousness, and I am in and beyond that consciousness. I am in it as the witness; I am beyond it as Being.
 
 **Q:**&ensp;Surely, you care when your child is ill, don’t you?
 
-**M:**&ensp;I don’t get flustered. I just do the needful. I do not worry about the future. A right response to every situätion is in my nature. I do not stop to think what to do. I act and move on. Results do not affect me. I do not even care whether they are good or bad. Whatever they are, they are — if they come back to me, I deal with them afresh. Or, rather, I happen to deal with them afresh. There is no sense of purpose in my doïng anything. Things happens as they happen — not because I make them happen, but it is because I *am* that they happen. In reality nothing ever happens. When the mind is restless, it makes <span data-tippy-content="One of the gods of the Hindu trinity — Brahma, the creätor; Vishnu, the preserver; and Shiva, the destroyer. Shiva actually means auspicious, propitious. Destruction ofthe cosmos by the god Shiva is a propitious act, for destruction precedes creätion. Shiva is absolute love of the ‘I-principle’ in a man. As a destroyer, he brings about the total annihilation of the human ego.">Shiva</span> dance, like the restless waters of the lake make the moon dance. It is all appearance, due to wrong ideas.
+**M:**&ensp;I don’t get flustered. I just do the needful. I do not worry about the future. A right response to every situation is in my nature. I do not stop to think what to do. I act and move on. Results do not affect me. I do not even care whether they are good or bad. Whatever they are, they are — if they come back to me, I deal with them afresh. Or, rather, I happen to deal with them afresh. There is no sense of purpose in my doing anything. Things happens as they happen — not because I make them happen, but it is because I *am* that they happen. In reality nothing ever happens. When the mind is restless, it makes <span data-tippy-content="One of the gods of the Hindu trinity — Brahma, the creator; Vishnu, the preserver; and Shiva, the destroyer. Shiva actually means auspicious, propitious. Destruction ofthe cosmos by the god Shiva is a propitious act, for destruction precedes creation. Shiva is absolute love of the ‘I-principle’ in a man. As a destroyer, he brings about the total annihilation of the human ego.">Shiva</span> dance, like the restless waters of the lake make the moon dance. It is all appearance, due to wrong ideas.
 
 **Q:**&ensp;Surely, you are aware of many things and behave according to their nature. You treat a child as a child and an adult as an adult.
 
-**M:**&ensp;Just as the taste of salt pervades the great ocean and every single drop of sea-water carries the same flavour, so every experiënce gives me the touch of reality, the ever-fresh realisation of my own beïng.
+**M:**&ensp;Just as the taste of salt pervades the great ocean and every single drop of sea-water carries the same flavour, so every experience gives me the touch of reality, the ever-fresh realisation of my own being.
 
 **Q:**&ensp;Do I exist in your world as you exist in mine?
 
@@ -40,7 +40,7 @@
 
 **Q:**&ensp;There are many points in consciousness; are there as many worlds?
 
-**M:**&ensp;Take dream for an example. In a hospital there may be many patients, all sleeping, all dreaming, each dreaming his own private, personal dream, unrelated, unaffected, but having one single factor in common — illness. Similarly, we have divorced ourselves in our imagination from the real world of common experiënce and enclosed ourselves in a cloud of personal desire and fears, images and thoughts, ideas and concepts.
+**M:**&ensp;Take dream for an example. In a hospital there may be many patients, all sleeping, all dreaming, each dreaming his own private, personal dream, unrelated, unaffected, but having one single factor in common — illness. Similarly, we have divorced ourselves in our imagination from the real world of common experience and enclosed ourselves in a cloud of personal desire and fears, images and thoughts, ideas and concepts.
 
 **Q:**&ensp;This I can understand. But what is the cause of the tremendous variety of the personal worlds?
 
@@ -60,7 +60,7 @@
 
 **Q:**&ensp;Is it not a calamity to forget oneself?
 
-**M:**&ensp;As bad as to remember oneself continuöusly. There is a state beyond forgetting and not forgetting — the natural state. To remember, to forget — these are all states of mind, thought-bound, word-bound. Take for example, the idea of beïng born. I am told I was born. I do not remember. I am told I shall die. I do not expect it. You tell me I have forgotten or I lack imagination. But I just cannot remember what never happened, nor expect the patently impossible. Bodies are born and bodies die, but what is it to me? Bodies come and go in consciousness and consciousness itself has its roots in me. I am life and mine are mind and body.
+**M:**&ensp;As bad as to remember oneself continuously. There is a state beyond forgetting and not forgetting — the natural state. To remember, to forget — these are all states of mind, thought-bound, word-bound. Take for example, the idea of being born. I am told I was born. I do not remember. I am told I shall die. I do not expect it. You tell me I have forgotten or I lack imagination. But I just cannot remember what never happened, nor expect the patently impossible. Bodies are born and bodies die, but what is it to me? Bodies come and go in consciousness and consciousness itself has its roots in me. I am life and mine are mind and body.
 
 **Q:**&ensp;You say at the root of the world is self-forgetfulness. To forget I must remember, “What did I forget to remember?”. I have not forgotten that I am.
 
@@ -84,7 +84,7 @@
 
 **Q:**&ensp;Since time immemorial, during innumerable births, I build and improve and beautify my world. It is neither perfect nor unreal. It is a process.
 
-**M:**&ensp;You are mistaken. The world has no existence apart from you. At every moment it is but a reflection of yourself. You creäte it, you destroy it.
+**M:**&ensp;You are mistaken. The world has no existence apart from you. At every moment it is but a reflection of yourself. You create it, you destroy it.
 
 **Q:**&ensp;And build it again, improved.
 
@@ -96,7 +96,7 @@
 
 **Q:**&ensp;How do you view it?
 
-**M:**&ensp;It is a stage on which a world drama is beïng played. The quality of the performance is all that matters; not what the actors say and do, but how they say and do it.
+**M:**&ensp;It is a stage on which a world drama is being played. The quality of the performance is all that matters; not what the actors say and do, but how they say and do it.
 
 **Q:**&ensp;I do not like this <span data-tippy-content="Play, sport, the cosmos looked upon as the divine play; “effortless or playful relation between the Absolute,or Brahman, and the contingent world”.">lila</span> (play) idea. I would rather compare the world to a work-yard in which we are the builders.
 
@@ -104,7 +104,7 @@
 
 **Q:**&ensp;Do you mean to say that God is just having fun, that he is engaged in purposeless action?
 
-**M:**&ensp;God is not only true and good, he is also beautiful (<span data-tippy-content="The true, the good, the beautiful.">satyam–shivam–sundaram</span>). He creätes beauty for the joy of it.
+**M:**&ensp;God is not only true and good, he is also beautiful (<span data-tippy-content="The true, the good, the beautiful.">satyam–shivam–sundaram</span>). He creates beauty for the joy of it.
 
 **Q:**&ensp;Well, then beauty is his purpose!
 
@@ -116,9 +116,9 @@
 
 **Q:**&ensp;You speak of <span data-tippy-content="“The ideal; pure and true essence (nature)” of an entity or existence. It can thus be concluded as “the self-existent or universal spirit, Brahman”. Opposite is ‘<em>asat</em>’.">sat</span>–<span data-tippy-content="Universal consciousness.">chit</span>–<span data-tippy-content="Bliss, happiness.">ananda</span>. That I am is obvious. That I know is obvious. That I am happy is not at all obvious. Where has my happiness gone?
 
-**M:**&ensp;Be fully aware of your own beïng and you will be in bliss consciously. Because you take your mind off yourself and make it dwell on what you are not, you lose your sense of well-beïng, of beïng well.
+**M:**&ensp;Be fully aware of your own being and you will be in bliss consciously. Because you take your mind off yourself and make it dwell on what you are not, you lose your sense of well-being, of being well.
 
-**Q:**&ensp;There are two paths before us: the path of effort (<span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). Yoga teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span> <span data-tippy-content="Path.">marga</span>) and the path of ease (<span data-tippy-content="Sense enjoyment, experiënce of worldly joys and sorrows.">bhoga</span> *marga*). Both lead to the same goal: liberation.
+**Q:**&ensp;There are two paths before us: the path of effort (<span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). Yoga teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span> <span data-tippy-content="Path.">marga</span>) and the path of ease (<span data-tippy-content="Sense enjoyment, experience of worldly joys and sorrows.">bhoga</span> *marga*). Both lead to the same goal: liberation.
 
 **M:**&ensp;Why do you call *bhoga* a path? How can ease bring you perfection?
 
@@ -130,9 +130,9 @@
 
 I am a humble man and cannot venture judgements of value. Both the *yogi* and the *bhogi*, after all, are concerned with the search for happiness. The *Yygi* wants it permanent, the *bhogi* is satisfied with the intermittent. Often the *bhogi* strives harder than the *yogi*.
 
-**M:**&ensp;What is your happiness worth when you have to strive and labour for it? True happiness is spontaneöus and effortless.
+**M:**&ensp;What is your happiness worth when you have to strive and labour for it? True happiness is spontaneous and effortless.
 
-**Q:**&ensp;All beïngs seek happiness; only he means differ. Some seek it within and are therefore called *yogi*s; some seek it without and are condemned as *bhogi*s. Yet they need each other.
+**Q:**&ensp;All beings seek happiness; only he means differ. Some seek it within and are therefore called *yogi*s; some seek it without and are condemned as *bhogi*s. Yet they need each other.
 
 **M:**&ensp;Pleasure and pain alternate. Happiness is unshakeable. What you can seek and find is not the real thing. Find what you have never lost; find the inalienable.
 

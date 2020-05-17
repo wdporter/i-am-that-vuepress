@@ -8,19 +8,19 @@ style=font-style:normal>guru</span> is within.
 
 **Questioner:**&ensp;We two came from far off countries; one of us is British, 
 the other American. The world in which we were born is falling apart and, 
-beïng young, we are concerned. The old people hope they will die their own 
+being young, we are concerned. The old people hope they will die their own 
 death, but the young have no such hope. Some of us may refuse to kill, but 
 none can refuse to be killed. Can we hope to set the world right within our 
 lifetime?
 
-**Maharaj:**&ensp;What makes you think that the world is goïng to perish?
+**Maharaj:**&ensp;What makes you think that the world is going to perish?
 
 **Q:**&ensp;The instruments of destruction have become unbelievably potent. 
 Also, our very productivity has become destructive of nature and of our 
 cultural and social values.
 
 **M:**&ensp;You are talking of the present times. It has been so everywhere 
-and always. But the distressing situätion may be temporary and local. Once 
+and always. But the distressing situation may be temporary and local. Once 
 over, it will be forgotten.
 
 **Q:**&ensp;The scale of the impending catastrophe is unbelievably large. We 
@@ -31,8 +31,8 @@ There is as much death when a million die as when one perishes.
 
 **Q:**&ensp;Nature kills by the millions, but this does not frighten me. There 
 may be tragedy or mystery in it, but no cruelty. What horrifies me is man-made 
-suffering, destruction and desolation. Nature is magnificent in its doïngs and 
-undoïngs. But there is meanness and madness in the acts of man.
+suffering, destruction and desolation. Nature is magnificent in its doings and 
+undoings. But there is meanness and madness in the acts of man.
 
 **M:**&ensp;Right. So, it is not suffering and death that are your problem, but 
 the meanness and madness at their root. Is not meanness also a form of 
@@ -51,19 +51,19 @@ luxury! We need plenty of it to set the world right, but who will provide it?
 **M:**&ensp;You can spend an eternity looking elsewhere for truth and love, 
 intelligence and goodwill, and imploring God and man — all in vain. You must 
 begin in yourself, with yourself — this is the inexorable law. You cannot 
-change the image without changeïng the face. First realise that your world is 
+change the image without changing the face. First realise that your world is 
 only a reflection of yourself and stop finding fault with the reflection. 
 Attend to yourself; set yourself right mentally and emotionally. The physical 
 will follow automatically. You talk so much of reforms — economic, social, 
 political. Leave alone the reforms and mind the reformer. What kind of world 
-can a man creäte who is stupid, greedy and heartless?
+can a man create who is stupid, greedy and heartless?
 
 **Q:**&ensp;If we have to wait for a change of heart, we shall have to wait 
 indefinitely. Yours is a counsel of perfection, which is also a counsel of 
-despair. When all are perfect, the world will be perfect. What useless truïsm!
+despair. When all are perfect, the world will be perfect. What useless truism!
 
 **M:**&ensp;I did not say that. I only said that you cannot change the world 
-before changeïng yourself. I did not say, “before changeïng everybody”. It is 
+before changing yourself. I did not say, “before changing everybody”. It is 
 neither necessary nor possible to change others. But if you can change 
 yourself, you will find that no other change is needed. To change the picture 
 you merely change the film, you do not attack the cinema screen!
@@ -89,7 +89,7 @@ such a common world of things and forces, it is not the world in which we
 live. Ours is a world of feelings and ideas, of attractions and repulsions, of 
 scales and values, of motives and incentives — a mental world altogether. 
 Biologically, we need very little — our problems are of a different order. 
-Problems creäted by desires and fears and wrong ideas can be solved only on 
+Problems created by desires and fears and wrong ideas can be solved only on 
 the level of the mind. You must conquer your mind and for this you must go 
 beyond it.
 
@@ -137,7 +137,7 @@ from you? I wish you well — such is my nature. Why should I mislead you?
 
 Common sense, too, will tell you that to fulfill a desire you must keep your 
 mind on it. If you want to know your true nature, you must have yourself in 
-mind all the time until the secret of your beïng stands revealed.
+mind all the time until the secret of your being stands revealed.
 
 **Q:**&ensp;Why should self-remembrance bring one to self-realisation?
 
@@ -167,18 +167,18 @@ steadiness and depth of your devotion to the task. Life itself is the Supreme
 personalise their source, you have an outer *guru*; when you take them from 
 life directly, the *guru* is within. Remember, wonder, ponder, live with it, 
 love it, grow into it, grow with it, make it your own — the word of your 
-*guru*, outer or inner. Put in all and you will get all. I was doïng it. All 
-my time I was giveïng to my *guru* and to what he told me.
+*guru*, outer or inner. Put in all and you will get all. I was doing it. All 
+my time I was giving to my *guru* and to what he told me.
 
 **Q:**&ensp;I am a writer by profession. Can you give me some advice for me 
 specifically?
 
 **M:**&ensp;Writing is both a talent and a skill. Grow in talent and develop 
-in skill. Desire what is worth desireïng and desire it well. Just like you pick 
+in skill. Desire what is worth desiring and desire it well. Just like you pick 
 your way in a crowd, passing between people, so you find your way between 
 events without missing your general direction. It is easy if you are earnest.
 
-**Q:**&ensp;So many times you mention the need of beïng earnest. But we are 
+**Q:**&ensp;So many times you mention the need of being earnest. But we are 
 not men of single will — we are congeries of desires and needs, instincts and 
 promptings. They crawl over each other, sometimes one, sometimes another 
 dominating, but never for long.
@@ -199,7 +199,7 @@ on it.
 **M:**&ensp;Not wrong, of course. In its own place and time nothing is wrong. 
 But when you are concerned with truth, with reality, you must question every 
 thing, your very life. By asserting the necessity of sensory and intellectual 
-experiënce you narrow down your inquiry to search for comfort.
+experience you narrow down your inquiry to search for comfort.
 
 **Q:**&ensp;I seek happiness, not comfort.
 
@@ -216,7 +216,7 @@ the proximity of a saint or sage is conducive to liberation and no other means
 are needed. Why don’t you organise an *ashram* so that people can live near 
 you?
 
-**M:**&ensp;The moment I creäte an institution I become its prisoner. As a 
+**M:**&ensp;The moment I create an institution I become its prisoner. As a 
 matter of fact, I am available to all. Common roof and food will not make 
 people more welcome. ‘Living near’ does not mean breathing the same air. It 
 means trusting and obeying, not letting the good intentions of the teacher go 

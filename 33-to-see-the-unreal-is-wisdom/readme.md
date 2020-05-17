@@ -2,7 +2,7 @@
 
 >To a <span style=font-style:normal>jnani</span> nothing has beginning or an 
 ending. As salt dissolves in water, so does everything dissolve into pure 
-beïng. Wisdom is eternally negating the unreal. To see the unreal is wisdom…
+being. Wisdom is eternally negating the unreal. To see the unreal is wisdom…
 
 **Questioner:**&ensp;Does a <span data-tippy-content="The knower, especially 
 of the higher knowledge derived from meditation; “closely related to the 
@@ -18,7 +18,7 @@ changes, all is as it is — timelessly.
 **Q:**&ensp;You say the *jnani* is beyond. Beyond what? Beyond knowledge?
 
 **M:**&ensp;Knowledge has its rising and setting. Consciousness comes into 
-beïng and goes out of beïng. It is a matter of daily occurrence and 
+being and goes out of being. It is a matter of daily occurrence and 
 observation. We all know that sometimes we are conscious and sometimes not. 
 When we are not conscious, it appears to us as a darkness or a blank. But a 
 *jnani* is aware of himself as neither conscious nor unconscious, but purely 
@@ -27,7 +27,7 @@ aware, a witness to the three states of the mind and their contents.
 **Q:**&ensp;When does this witnessing begin?
 
 **M:**&ensp;To a *jnani* nothing has beginning or an ending. As salt dissolves 
-in water, so does everything dissolve into pure beïng. Wisdom is eternally 
+in water, so does everything dissolve into pure being. Wisdom is eternally 
 negating the unreal. To see the unreal is wisdom. Beyond this lies the 
 inexpressible.
 
@@ -39,8 +39,8 @@ body–mind, the mind–body or even pure mind — when did it begin?
 beginning and time are within consciousness. To talk meaningfully of the 
 beginning of anything, you must step out of it. And the moment you step out, 
 you realise that there is no such thing and never was. There is only reality, 
-in which no thing has any beïng on its own. Like waves are inseparable from 
-the ocean, so is all existence rooted in beïng.
+in which no thing has any being on its own. Like waves are inseparable from 
+the ocean, so is all existence rooted in being.
 
 **Q:**&ensp;The fact is that here and now I am asking you: When did the 
 feeling ‘I am the body’ arise? At my birth? This morning?
@@ -82,7 +82,7 @@ transitory states be considered real?
 
 **M:**&ensp;They are all strung on the basic idea ‘I am the body’. But even 
 this is a mental state and does not last. It comes and goes like all other 
-states. The illusion of beïng the body–mind is there only because it is not 
+states. The illusion of being the body–mind is there only because it is not 
 investigated. Non-investigation is the thread on which all the states of mind 
 are strung. It is like darkness in a closed room. It is there — apparently. 
 But when the room is opened, where does it go? It goes nowhere, because it was 
@@ -98,15 +98,15 @@ in the midst of light?
 the darkness. When we are absorbed in other things, in the not-self, we forget 
 the self. There is nothing unnatural about it. But, why forget the self 
 through excess of attachment? Wisdom lies in never forgetting the self as the 
-ever-present source of both the experiëncer and his experiënce.
+ever-present source of both the experiencer and his experience.
 
-**Q:**&ensp;In my present state the ‘I am the body’ idea comes spontaneöusly, 
-while the ‘I am pure beïng’ idea must be imposed on the mind as something true 
-but not experiënced.
+**Q:**&ensp;In my present state the ‘I am the body’ idea comes spontaneously, 
+while the ‘I am pure being’ idea must be imposed on the mind as something true 
+but not experienced.
 
 **M:**&ensp;Yes, <span data-tippy-content="The practice which produces 
 success, <em>siddhi</em>.">sadhana</span> (practice) consists in reminding 
-oneself forcibly of one’s pure ‘beïng-ness’, of not beïng anything in 
+oneself forcibly of one’s pure ‘being-ness’, of not being anything in 
 particular, nor a sum of particulars nor even the totality of all particulars, 
 which make up a universe. All exists in the mind, even the body is an 
 integration in the mind of a vast number of sensory perceptions and each 
@@ -115,7 +115,7 @@ perception also a mental state. If you say, “I am the body”, prove it.
 **Q:**&ensp;Here it is.
 
 **M:**&ensp;Only when you think of it. Both mind and body are intermittent 
-states. The sum total of these flashes creätes the illusion of existence. 
+states. The sum total of these flashes creates the illusion of existence. 
 Enquire what is permanent in the transient, real in the unreal. This is 
 *sadhana*.
 
@@ -123,13 +123,13 @@ Enquire what is permanent in the transient, real in the unreal. This is
 
 **M:**&ensp;Think of yourself by all means. Only don’t bring the idea of a 
 body into the picture. There is only a stream of sensations, perceptions, 
-memories and ideas. The body is an abstraction, creäted by our tendency to 
+memories and ideas. The body is an abstraction, created by our tendency to 
 seek unity in diversity — which again is not wrong.
 
-**Q:**&ensp;I am beïng told that to think ‘I am the body’ is a blemish in the 
+**Q:**&ensp;I am being told that to think ‘I am the body’ is a blemish in the 
 mind.
 
-**M:**&ensp;Why talk like this? Such expressions creäte problems. The self is 
+**M:**&ensp;Why talk like this? Such expressions create problems. The self is 
 the source of all, and of all — the final destination. Nothing is external.
 
 **Q:**&ensp;When the body idea becomes obsessive, is it not altogether wrong?
@@ -140,7 +140,7 @@ reality, all existence, every form, is my own and within my consciousness. I
 cannot tell what I am because words can describe only what I am not. I am, and 
 because I am, all is. But I am beyond consciousness and, therefore, in 
 consciousness I cannot say what I am. Yet, I am. The question ‘who am I?’ has 
-no answer. No experiënce can answer it, for the self is beyond experiënce.
+no answer. No experience can answer it, for the self is beyond experience.
 
 **Q:**&ensp;Still, the question ‘Who am I’ must be of some use.
 
@@ -179,7 +179,7 @@ sundaram</span> (the true, the good, the beautiful.).
 **Q:**&ensp;When a man comes to you for advice and you give him advice, from 
 where does it come and by what power does it help?
 
-**M:**&ensp;His own beïng affects his mind and induces a response.
+**M:**&ensp;His own being affects his mind and induces a response.
 
 **Q:**&ensp;And what is your role?
 
@@ -204,9 +204,9 @@ that the help takes varies according to the need.
 **Q:**&ensp;Why must he come here to get advice? Can’t he get it from within?
 
 **M:**&ensp;He will not listen. His mind is turned outward. But in fact all 
-experiënce is in the mind, and even his coming to me and getting help is all 
+experience is in the mind, and even his coming to me and getting help is all 
 within himself. Instead of finding an answer within himself, he imagines an 
-answer from without. To me, there is no me, no man and no giveïng. All this is 
+answer from without. To me, there is no me, no man and no giving. All this is 
 merely a flicker in the mind. I am infinite peace and silence in which nothing 
 appears, for all that appears — disappears. Nobody comes for help, nobody 
 offers help, nobody gets help. It is all but a display in consciousness.
@@ -217,7 +217,7 @@ does not matter, but the fact does.
 
 **M:**&ensp;This is the stand the body–mind takes. The pure mind sees things 
 as they are — bubbles in consciousness. These bubbles are appearing, 
-disappearing and reäppearing — without having real beïng. No particular cause 
+disappearing and reäppearing — without having real being. No particular cause 
 can be ascribed to them, for each is caused by all and affects all. Each 
 bubble is a body and all these bodies are mine.
 
@@ -225,16 +225,16 @@ bubble is a body and all these bodies are mine.
 rightly?
 
 **M:**&ensp;There is no power as separate from me. It is inherent in my very 
-nature. Call it creätivity. Out of a lump of gold you can make many ornaments 
+nature. Call it creativity. Out of a lump of gold you can make many ornaments 
 — each will remain gold. Similarly, in whatever role I may appear and whatever 
 function I may perform — I remain what I am: the ‘I am’ — immovable, 
 unshakeable, independent. What you call the universe, or nature, is my 
-spontaneöus creätivity. Whatever happens — happens. But such is my nature that 
+spontaneous creativity. Whatever happens — happens. But such is my nature that 
 all ends in joy.
 
 **Q:**&ensp;I have a case of a boy gone blind because his stupid mother fed 
 him methyl alcohol. I am requesting you to help him. You are full of 
-compassion and, obviöusly, eager to help. By what power can you help him?
+compassion and, obviously, eager to help. By what power can you help him?
 
 **M:**&ensp;His case is registered in consciousness. It is there — indelibly. 
 Consciousness will operate.
@@ -255,7 +255,7 @@ predestined?
 **M:**&ensp;How else? All things contain their future. The boy appears in 
 consciousness. I am beyond. I do not issue orders to consciousness. I know 
 that it is in the nature of awareness to set things right. Let consciousness 
-look after its creätions! The boy’s sorrow, your pity, my listening and my 
+look after its creations! The boy’s sorrow, your pity, my listening and my 
 consciousness acting — all this is one single fact. don’t split it into 
 components and then ask questions.
 
@@ -266,16 +266,16 @@ they are, and therefore I am not afraid of them. But you are afraid of reality.
 
 **Q:**&ensp;Why should I be?
 
-**M:**&ensp;It is ignoreänce of yourself that makes you afraid and also unaware 
+**M:**&ensp;It is ignorance of yourself that makes you afraid and also unaware 
 that you are afraid. Don’t try not to be afraid. Break down the wall of 
-ignoreänce first. 
+ignorance first. 
 
 People are afraid to die, because they do not know what death is. The *jnani* 
 has died before his death, he saw that there was nothing to be afraid of. The 
-moment you know your real beïng, you are afraid of nothing. Death gives 
+moment you know your real being, you are afraid of nothing. Death gives 
 freedom and power. To be free in the world, you must die to the world. Then 
 the universe is your own; it becomes your body, an expression and a tool. The 
-happiness of beïng absolutely free is beyond description. On the other hand, 
+happiness of being absolutely free is beyond description. On the other hand, 
 he who is afraid of freedom cannot die.
 
 **Q:**&ensp;You mean that one who cannot die cannot live?
@@ -286,30 +286,30 @@ To crave is to slave.
 **Q:**&ensp;Does it follow that if you are saved, the world is saved?
 
 **M:**&ensp;As a whole the world does not need saving. Man makes mistakes and 
-creätes sorrow; when it enters the field of awareness, the consciousness of a 
+creates sorrow; when it enters the field of awareness, the consciousness of a 
 *jnani*, it is set right. Such is his nature.
 
 **Q:**&ensp;We can observe what may be called ‘spiritual progress’. A selfish 
 man turns religious, controls himself, refines his thoughts and feelings, 
-takes to spiritual practice, and realises his true beïng. Is such progress 
+takes to spiritual practice, and realises his true being. Is such progress 
 ruled by causality or is it accidental?
 
 **M:**&ensp;From my point of view, everything happens by itself, quite 
-spontaneöusly. But man imagines that he works for an incentive, towards a 
+spontaneously. But man imagines that he works for an incentive, towards a 
 goal. He has always a reward in mind and strives for it. 
 
 **Q:**&ensp;A crude, unevolved man will not work without a reward. Is it not 
 right to offer him incentives?
 
-**M:**&ensp;He will creäte for himself incentives anyhow. He does not know 
+**M:**&ensp;He will create for himself incentives anyhow. He does not know 
 that to grow is in the nature of consciousness. He will progress from motive 
 to motive and will chase <span data-tippy-content="Spiritual teacher, 
 preceptor.">guru</span>s for the fulfilment of his desires. When by the laws 
-of his beïng he finds the way of return (<span data-tippy-content="Liberation 
-from worldly existence, renunciätion.">nivritti</span>), he abandons all 
+of his being he finds the way of return (<span data-tippy-content="Liberation 
+from worldly existence, renunciation.">nivritti</span>), he abandons all 
 motives, for his interest in the world is over. He wants nothing — neither 
 from others nor from himself. He dies to all and becomes the All. To want 
-nothing and do nothing — that is true creätion! To watch the universe emerging 
+nothing and do nothing — that is true creation! To watch the universe emerging 
 and subsiding in one’s heart is a wonder.
 
 **Q:**&ensp;The great obstacle to inner effort is boredom. The disciple gets 
@@ -321,11 +321,11 @@ cosmic substance: <em>sattava</em>, <em>rajas</em> and
 <em>tamas</em>.">tamas</span> and <span data-tippy-content="Motivity, 
 activity, energy. One of the three <em>guna</em>s or qualities of matter: 
 <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, 
-egoïsm.">rajas</span>) work together and keep clarity and harmony (<span 
-data-tippy-content="Beïng, existence, true essence. In <em>yoga</em> the 
+egoism.">rajas</span>) work together and keep clarity and harmony (<span 
+data-tippy-content="Being, existence, true essence. In <em>yoga</em> the 
 quality of purity or goodness.">sattva</span>) down. *Tamas* and *rajas* must 
 be conquered before *sattva* can appear. It will all come in due course, quite 
-spontaneöusly.
+spontaneously.
 
 **Q:**&ensp;Is there no need of effort then?
 
@@ -341,7 +341,7 @@ reädjustment is what you call *sadhana*. You come to it by putting an end to
 indolence and using all your energy to clear the way for clarity and charity. 
 But in reality, these all are signs of inevitable growth. Don’t be afraid, 
 don’t resist, don’t delay. Be what you are. There is nothing to be afraid of. 
-Trust and try. Experiment honestly. Give your real beïng a chance to shape 
+Trust and try. Experiment honestly. Give your real being a chance to shape 
 your life. You will not regret it.
 
 <script>

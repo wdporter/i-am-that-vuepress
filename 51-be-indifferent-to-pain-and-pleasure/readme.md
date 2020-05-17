@@ -16,38 +16,38 @@ systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join).
 
 **Q:**&ensp;A little nearer, maybe. It is hard work, you know.
 
-**M:**&ensp;The Self is near and the way to it is easy. All that needs doïng 
-is doïng nothing.
+**M:**&ensp;The Self is near and the way to it is easy. All that needs doing 
+is doing nothing.
 
 **Q:**&ensp;Yet I found my <span data-tippy-content="The practice which 
 produces success, <em>siddhi</em>.">sadhana</span> very difficult.
 
-**M:**&ensp;Your *sadhana* is to *be*. The doïng happens. Just be watchful. 
+**M:**&ensp;Your *sadhana* is to *be*. The doing happens. Just be watchful. 
 Where is the difficulty in remembering that you are? Your *are* all the time.
 
-**Q:**&ensp;The sense of beïng is there all the time — no doubt. But the field 
+**Q:**&ensp;The sense of being is there all the time — no doubt. But the field 
 of attention is often overrun by all sorts of mental events — emotions, 
-images, ideas. The pure sense of beïng is usually crowded out.
+images, ideas. The pure sense of being is usually crowded out.
 
 **M:**&ensp;What is your procedure for clearing the mind of the unnecessary? 
 What are your means, your tools for the purification of the mind?
 
 **Q:**&ensp;Basically, man is afraid. He is afraid of himself most. I feel I 
-am like a man who is carrying a bomb that is goïng to explode. He cannot 
+am like a man who is carrying a bomb that is going to explode. He cannot 
 defuse it; he cannot throw it away. He is terribly frightened and is searching 
 frantically for a solution which he cannot find. To me, liberation is getting 
 rid of this bomb. I do not know much about the bomb. I only know that it comes 
 from early childhood. I feel like the frightened child protesting passionately 
-against not beïng loved. The child is craveïng for love and because he does 
+against not being loved. The child is craving for love and because he does 
 not get it, he is afraid and angry. Sometimes I feel like killing somebody or 
 myself. This desire is so strong that I am constantly afraid. And I do not 
 know how to get free from fear. 
 
-You see, there is a difference between a Hindu mind and a Europeän mind. The 
-Hindu mind is comparatively simple. The Europeän is a much more complex beïng. 
-The Hindu is basically <span data-tippy-content="Beïng, existence, true 
+You see, there is a difference between a Hindu mind and a European mind. The 
+Hindu mind is comparatively simple. The European is a much more complex being. 
+The Hindu is basically <span data-tippy-content="Being, existence, true 
 essence. In <em>yoga</em> the quality of purity or goodness; <em>sattvic</em> 
-— pure, true.">sattv</span>ic. He does not understand the Europeän’s 
+— pure, true.">sattv</span>ic. He does not understand the European’s 
 restlessness, his tireless pursuit of what he thinks needs be done, his 
 greater general knowledge.
 
@@ -68,7 +68,7 @@ but not for long. Even the so-called ‘spiritual’ people use tricks to keep
 their mind quiet. They repeat formulas, sing, pray, breathe forcibly or 
 gently, shake, rotate, concentrate, meditate, chase trances, cultivate virtues 
 — working all the time, in order to cease working, cease chasing, cease 
-moveïng. Were it not so tragic, it would be ridiculous.
+moving. Were it not so tragic, it would be ridiculous.
 
 **M:**&ensp;The mind exists in two states: as water and as honey. The water 
 vibrates at the least disturbance, while the honey, however disturbed, returns 
@@ -87,21 +87,21 @@ dependence and hate. The child loves the mother because she feeds it and hates
 her because she is late with food. Our unconscious mind is full of conflicts 
 which overflow into the conscious. We live on a volcano; we are always in 
 danger. I agree that the company of people whose mind is peaceful has a very 
-sootheïng affect, but as soon as I am away from them, the old trouble starts. 
+soothing affect, but as soon as I am away from them, the old trouble starts. 
 This is why I come periodically to India to seek the company of my <span 
 data-tippy-content="Spiritual teacher, preceptor.">guru</span>.
 
-**M:**&ensp;You think you are coming and goïng, passing through variöus states 
+**M:**&ensp;You think you are coming and going, passing through various states 
 and moods. I see things as they are: momentary events, presenting themselves 
-to me in rapid succession, deriving their beïng from me, yet definitely 
+to me in rapid succession, deriving their being from me, yet definitely 
 neither me nor mine. Among phenomena I am not one, nor am I subject to any. I 
 am independent so simply and totally that your mind, accustomed to opposition 
 and denial, cannot grasp it. I mean literally what I say: I do not need to 
 oppose or deny because it is clear to me that I cannot be the opposite or 
 denial of anything. I am just beyond, in a different dimension altogether. Do 
 not look for me in identification with or opposition to something — I am 
-where desire and fear are not. Now, what is your experiënce? Do you also feel 
-that you stand totally aloof from all transiënt things?
+where desire and fear are not. Now, what is your experience? Do you also feel 
+that you stand totally aloof from all transient things?
 
 **Q:**&ensp;Yes, I do — occasionally. But at once a sense of danger sets in 
 and I feel isolated, outside all relationship with others. You see, here lies 
@@ -118,7 +118,7 @@ there can be no action.
 
 **M:**&ensp;Why do you talk of action? Are you ever acting? Some unknown power 
 acts and you imagine that you are acting. You are merely watching what happens 
-without beïng able to influence it in any way.
+without being able to influence it in any way.
 
 **Q:**&ensp;Why is there such a tremendous resistance in me against accepting 
 that I just can do nothing?
@@ -140,13 +140,13 @@ I lack, but the knowledge.
 **M:**&ensp;Not knowing the means is admittedly as bad as not having the 
 power! But let us drop the subject for the moment; after all, it is not 
 important why we feel helpless, as long as we see clearly that for the time 
-beïng we are helpless. 
+being we are helpless. 
 
 I am now seventy-four years old. And yet I feel that I am an infant. I feel 
 clearly that, in spite of all the changes, I am a child. My *guru* told me, 
 “That child, which is you even now, is your real self” (<span 
 data-tippy-content="One’s own form, nature, character.">svarupa</span>)”. Go 
-back to that state of pure beïng where the ‘I am’ is still in its purity, 
+back to that state of pure being where the ‘I am’ is still in its purity, 
 before it became contaminated with ‘this I am’ or ‘that I am’. Your burden is 
 of false self-identifications — abandon them all. My *guru* told me, “Trust 
 me. I tell you: You are divine. Take it as the absolute truth. Your joy is 
@@ -154,7 +154,7 @@ divine, your suffering is divine, too. All comes from God. Remember it always.
 You are God; your will alone is done”. I did believe him and soon realised how 
 wonderfully true and accurate his words were. I did not condition my mind by 
 thinking, “I am God”, “I am wonderful”, “I am beyond”. I simply followed his 
-instruction, which was to focus the mind on pure beïng, ‘I am’, and stay in 
+instruction, which was to focus the mind on pure being, ‘I am’, and stay in 
 it. I used to sit for hours together with nothing but the ‘I am’ in my mind, 
 and soon peace and joy and a deep all-embracing love became my normal state. 
 In it all disappeared: myself, my *guru*, the life I lived, the world around 
@@ -166,15 +166,15 @@ wonder, “how easily it comes and how intimate it seems, how totally my own.
 Where was the need to strive so hard for a state so near at hand? This time, 
 surely, it has come to stay”. Yet how soon it all dissolves and leaves me 
 wondering, “was it a taste of reality or another aberration?”. If it was 
-reality, why did it go? Maybe some unique experiënce is needed to fix me for 
-good in the new state and until the crucial experiënce comes, this game of 
+reality, why did it go? Maybe some unique experience is needed to fix me for 
+good in the new state and until the crucial experience comes, this game of 
 hide and seek must continue.
 
 **M:**&ensp;Your expectation of something unique and dramatic, of some 
 wonderful explosion, is merely hindering and delaying your self-realisation. 
 You are not to expect an explosion, for the explosion has already happened — 
 at the moment when you were born, when you realised yourself as 
-beïng–knowing–feeling. There is only one mistake you are makeïng: you take the 
+being–knowing–feeling. There is only one mistake you are making: you take the 
 inner for the outer and the outer for the inner. What is in you, you take to 
 be outside you and what is outside, you take to be in you. The mind and 
 feelings are external, but you take them to be intimate. You believe the world 
@@ -197,7 +197,7 @@ Do not struggle with your memories and thoughts; try only to include in your
 field of attention the other, more important questions like: “Who am I?”, “How 
 did I happen to be born?”, “Whence this universe around me?”, “What is real 
 and what is momentary?”. No memory will persist if you lose interest in it; it 
-is the emotional link that perpetuätes the bondage. You are always seeking 
+is the emotional link that perpetuates the bondage. You are always seeking 
 pleasure, avoiding pain; always after happiness and peace. Don’t you see that 
 it is your very search for happiness that makes you feel miserable? Try the 
 other way: Be indifferent to pain and pleasure, neither asking nor refusing, 
@@ -207,19 +207,19 @@ is only seeking them through some particular channels that disturbs. Avoid the
 disturbance, that is all. To seek there is no need — you would not seek what 
 you already have. You yourself are God, the Supreme Reality. To begin with, 
 trust me, trust the Teacher. It enables you to make the first step — and then 
-your trust is justified by your own experiënce. In every walk of life, initial 
-trust is essential; without it little can be done. Every undertakeïng is an act 
+your trust is justified by your own experience. In every walk of life, initial 
+trust is essential; without it little can be done. Every undertakeing is an act 
 of faith. Even your daily bread you eat on trust! By remembering what I told 
 you, you will achieve everything. I am telling you again: You are the 
 all-pervading, all transcending reality. Behave accordingly: Think, feel and 
-act in harmony with the whole and the actual experiënce of what I say will 
+act in harmony with the whole and the actual experience of what I say will 
 dawn upon you in no time. No effort is needed. Have faith and act on it. 
 Please see that I want nothing from you. It is in your own interest that I 
 speak because, above all, you love yourself and you want yourself to be 
 secure and happy. Don’t be ashamed of it; don’t deny it. It is natural and 
 good to love oneself. Only you should know what exactly it is that you love. 
 It is not the body that you love, it is Life: perceiving, feeling, thinking, 
-doïng, loveïng, striveïng, creäteïng. It is that Life you love, which is you, 
+doing, loving, striving, creating. It is that Life you love, which is you, 
 which is all. Realise it in its totality, beyond all divisions and 
 limitations, and all your desires will merge in it, for the greater contains 
 the smaller. Therefore find yourself, for in finding that you find all. 
@@ -234,7 +234,7 @@ reaching the deepest meaning of these words.
 Unknown, then you merely say, “I do not know what I am”. If you know God as 
 you know yourself, you need not say it. Best is the simple feeling ‘I am’. 
 Dwell on it patiently. Here patience is wisdom; don’t think of failure. There 
-can be no failure in this undertakeïng.
+can be no failure in this undertakeing.
 
 **Q:**&ensp;My thoughts will not let me.
 
@@ -242,7 +242,7 @@ can be no failure in this undertakeïng.
 let them be, whatever they are. Your very fighting them gives them life. Just 
 disregard. Look through. Remember to remember: “Whatever happens — happens 
 because I am”. All reminds you that you *are*. Take full advantage of the fact 
-that to experiënce you must *be*. You need not stop thinking. Just cease beïng 
+that to experience you must *be*. You need not stop thinking. Just cease being 
 interested. It is disinterestedness that liberates. Don’t hold on, that is 
 all. The world is made of rings. The hooks are all yours. Make straight your 
 hooks and nothing can hold you. Give up your addictions. There is nothing else 
@@ -251,8 +251,8 @@ results and the freedom of the universe is yours. Be effortless.
 
 **Q:**&ensp;Life is effort. There are so many things to do.
 
-**M:**&ensp;What needs doïng, do it. Don’t resist. Your balance must be 
-dynamic, based on doïng just the right thing from moment to moment. Don’t be a 
+**M:**&ensp;What needs doing, do it. Don’t resist. Your balance must be 
+dynamic, based on doing just the right thing from moment to moment. Don’t be a 
 child unwilling to grow up. Stereotyped gestures and postures will not help 
 you. Rely entirely on your clarity of thought, purity of motive and integrity 
 of action. You cannot possibly go wrong. Go beyond and leave all behind.
@@ -263,14 +263,14 @@ of action. You cannot possibly go wrong. Go beyond and leave all behind.
 and go, necessarily, for the human brain cannot stand the tension for a long 
 time. A prolonged ecstasy will burn out your brain unless it is extremely pure 
 and subtle. In nature nothing is at stand-still — everything pulsates, appears 
-and disappears. Heart, breath, digestion, sleep and wakeïng, birth and death — 
-everything comes and goes in waves. Rhythm, periodicity, harmoniöus 
+and disappears. Heart, breath, digestion, sleep and waking, birth and death — 
+everything comes and goes in waves. Rhythm, periodicity, harmonious 
 alternation of extremes is the rule. No use rebelling against the very pattern 
-of life. If you seek the immutable, go beyond experiënce. When I say, 
+of life. If you seek the immutable, go beyond experience. When I say, 
 “remember ‘I am’ all the time”, I mean come back to it repeatedly. No 
 particular thought can be mind’s natural state, only silence. Not the idea of 
 silence but silence itself. When the mind is in its natural state, it reverts 
-to silence spontaneöusly after every experiënce or, rather, every experiënce 
+to silence spontaneously after every experience or, rather, every experience 
 happens against the background of silence. 
 
 Now, what you have learnt here becomes the seed. You may forget it — 

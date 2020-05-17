@@ -7,7 +7,7 @@ manifestation of your limitless capacity to <span
 style=font-style:normal>become</span>.
 
 **Questioner:**&ensp;There are so many theories about the nature of man and 
-universe. The creätion theory, the illusion theory, the dream theory — any 
+universe. The creation theory, the illusion theory, the dream theory — any 
 number of them. Which is true?
 
 **Maharaj:**&ensp;All are true, all are false. You can pick up whichever you 
@@ -18,10 +18,10 @@ like best.
 **M:**&ensp;These are all ways of putting words together. Some favour one way, 
 some favour another. Theories are neither right nor wrong. They are attempts 
 at explaining the inexplicable. It is not the theory that matters, but the way 
-it is beïng tested. It is the testing of the theory that makes it fruitful. 
+it is being tested. It is the testing of the theory that makes it fruitful. 
 Experiment with any theory you like — if you are truly earnest and honest, the 
-attainment of reality will be yours. As a living beïng you are caught in an 
-untenable and painful situätion and you are seeking a way out. You are beïng 
+attainment of reality will be yours. As a living being you are caught in an 
+untenable and painful situation and you are seeking a way out. You are being 
 offered several plans of your prison, none quite true. But they all are of 
 some value, only if you are in dead earnest. It is the earnestness that 
 liberates and not the theory.
@@ -58,8 +58,8 @@ one-pointedness of the mind — you come back to earnestness, sincerity,
 honesty. When you are in dead earnest, you bend every incident, every second 
 of your life to your purpose. You do not waste time and energy on other 
 things. You are totally dedicated, call it will, love or plain honesty. We are 
-complex beïngs, at war within and without. We contradict ourselves all the 
-time, undoïng today the work of yesterday. No wonder we are stuck. A little 
+complex beings, at war within and without. We contradict ourselves all the 
+time, undoing today the work of yesterday. No wonder we are stuck. A little 
 integrity would make a lot of difference.
 
 **Q:**&ensp;What is more powerful, desire or destiny?
@@ -79,7 +79,7 @@ and circumstances, by opportunities and accidents, by what we call destiny.
 desire. Other urges will lead me astray. My desire is not strong enough, even 
 if it has my approval. Other desires, which I disapprove of, are stronger.
 
-**M:**&ensp;Maybe you are deceiving yourself. Maybe you are giveïng expression 
+**M:**&ensp;Maybe you are deceiving yourself. Maybe you are giving expression 
 to your real desires and the ones you approve of are kept on the surface for 
 the sake of respectability.
 
@@ -100,7 +100,7 @@ cannot get out of here and now.
 
 **Q:**&ensp;But what *can* I do here and now?
 
-**M:**&ensp;You can be aware of your beïng — here and now.
+**M:**&ensp;You can be aware of your being — here and now.
 
 **Q:**&ensp;That is all?
 
@@ -109,13 +109,13 @@ cannot get out of here and now.
 **Q:**&ensp;All my waking and dreaming I am conscious of myself. It does not 
 help me much.
 
-**M:**&ensp;You were aware of thinking, feeling, doïng. You were not aware of 
-your *beïng*.
+**M:**&ensp;You were aware of thinking, feeling, doing. You were not aware of 
+your *being*.
 
 **Q:**&ensp;What is the new factor you want me to bring in?
 
 **M:**&ensp;The attitude of pure witnessing, of watching the events without 
-takeïng part in them.
+takeing part in them.
 
 **Q:**&ensp;What will it do to me?
 
@@ -123,10 +123,10 @@ takeïng part in them.
 which again is the result of non-awareness. By striving for awareness you 
 bring your mind together and strengthen it.
 
-**Q:**&ensp;I may be fully aware of what is goïng on, and yet quite unable to 
+**Q:**&ensp;I may be fully aware of what is going on, and yet quite unable to 
 influence it in any way.
 
-**M:**&ensp;You are mistaken. What is goïng on is a projection of your mind. A 
+**M:**&ensp;You are mistaken. What is going on is a projection of your mind. A 
 weak mind cannot control its own projections. Be aware, therefore, of your 
 mind and its projections. You cannot control what you do not know. On the 
 other hand, knowledge gives power. In practice it is very simple. To control 
@@ -136,7 +136,7 @@ yourself — know yourself.
 with the chäos in the world?
 
 **M:**&ensp;There is no chäos in the world, except the chäos which your mind 
-creätes. It is self-creäted in the sense that at its very centre is the false 
+creates. It is self-created in the sense that at its very centre is the false 
 idea of oneself as a thing different and separate from other things. In 
 reality you are not a thing, nor are you separate. You are the infinite 
 potentiality, the inexhaustible possibility. Because you *are*, all can be. 
@@ -169,7 +169,7 @@ elsewhere. You will not be distracted.
 
 **M:**&ensp;You are completely free even now. What you call destiny (<span 
 data-tippy-content="Action or “the fruits of action”. <em>Karma</em> is of 
-three kinds: <em>sanchita</em> (accumulated from previöus births), 
+three kinds: <em>sanchita</em> (accumulated from previous births), 
 <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the 
 present life) and <em>agami</em> (the current <em>karma</em> the result of 
 which will fructify in future).">karma</span>) is but the result of your own 
@@ -180,8 +180,8 @@ death.
 
 **M:**&ensp;Only when the alternative is worse than death. But such readiness 
 to die flows from the same source as the will to live, a source deeper even 
-than life itself. To be a living beïng is not the ultimate state; there is 
-something beyond, much more wonderful, which is neither beïng nor non-beïng, 
+than life itself. To be a living being is not the ultimate state; there is 
+something beyond, much more wonderful, which is neither being nor non-being, 
 neither living nor non-living. It is a state of pure awareness, beyond the 
 limitations of space and time. Once the illusion that the body–mind is oneself 
 is abandoned, death loses its terror; it becomes a part of living.

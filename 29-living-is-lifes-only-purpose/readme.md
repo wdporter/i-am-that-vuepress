@@ -8,25 +8,25 @@
 
 **Q:**&ensp;Who fails? The person (<span data-tippy-content="Person, the outer self.">vyakti</span>) or the self (<span data-tippy-content="Manifest matter, the evolved nature. Opposite is <em>avyakta</em>.">vyakta</span>)?
 
-**M:**&ensp;The question is wrongly put. There is no question of failure, neither in the short run nor in the long. It is like travelling a long and arduöus road in an unknown country. Of all the innumerable steps there is only the last which brings you to your destination. Yet you woul not consider all previöus steps as failures. Each brought you nearer to your goal, even when you had to turn back to bypass an obstacle. In reality each step brings you to your goal because to be always on the move, learning, discovering, unfolding, is your eternal destiny. Living is life’s only purpose. The self does not identify itself with success or failure — the very idea of becoming this or that is unthinkable. The self understands that success and failure are relative and related, that they are the very fabric of life. Learn from both and go beyond. If you have not learned, repeat.
+**M:**&ensp;The question is wrongly put. There is no question of failure, neither in the short run nor in the long. It is like travelling a long and arduous road in an unknown country. Of all the innumerable steps there is only the last which brings you to your destination. Yet you woul not consider all previous steps as failures. Each brought you nearer to your goal, even when you had to turn back to bypass an obstacle. In reality each step brings you to your goal because to be always on the move, learning, discovering, unfolding, is your eternal destiny. Living is life’s only purpose. The self does not identify itself with success or failure — the very idea of becoming this or that is unthinkable. The self understands that success and failure are relative and related, that they are the very fabric of life. Learn from both and go beyond. If you have not learned, repeat.
 
 **Q:**&ensp;What am I to learn?
 
-**M:**&ensp;To live without self-concern. For this you must know your own true beïng (<span data-tippy-content="One’s own form, nature, character.">svarupa</span>) as indomitable, fearless, ever victoriöus. Once you know with absolute certainty that nothing can trouble you but your own imagination, you come to disregard your desires and fears, concepts and ideas, and live by truth alone.
+**M:**&ensp;To live without self-concern. For this you must know your own true being (<span data-tippy-content="One’s own form, nature, character.">svarupa</span>) as indomitable, fearless, ever victorious. Once you know with absolute certainty that nothing can trouble you but your own imagination, you come to disregard your desires and fears, concepts and ideas, and live by truth alone.
 
 **Q:**&ensp;What may be the reason that some people succeed and others fail in *yoga*? Is it destiny or character or just accident?
 
-**M:**&ensp;Nobody ever fails in *yoga*. It is all a matter of the rate of progress. It is slow in the beginning and rapid in the end. When one is fully matured, realisation is explosive. It takes place spontaneöusly or at the slightest hint. The quick is not better than the slow. Slow ripening and rapid flowering alternate. Both are natural and right. 
+**M:**&ensp;Nobody ever fails in *yoga*. It is all a matter of the rate of progress. It is slow in the beginning and rapid in the end. When one is fully matured, realisation is explosive. It takes place spontaneously or at the slightest hint. The quick is not better than the slow. Slow ripening and rapid flowering alternate. Both are natural and right. 
 
 Yet, all this is so in the mind only. As I see it, there is really nothing of the kind. In the great mirror of consciousness images arise and disappear and only memory gives them continuity. And memory is material — destructible, perishable and transient. On such flimsy foundations we build a sense of personal existence — vague, intermittent, dreamlike. This vague persuasion, ‘I am so-and-so’ obscures the changeless state of pure awareness and makes us believe that we are born to suffer and to die.
 
 **Q:**&ensp;Just as a child cannot help growing, so does a man, compelled by nature, make progress. Why exert oneself? Where is the need of *yoga*?
 
-**M:**&ensp;There is progress all the time. Everything contributes to progress. But this is the progress of ignoreänce. The circles of ignoreänce may be ever widening, yet it remains a bondage all the same. In due course a <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> appears to teach and inspire us to practise *yoga* and a ripening takes place; as a result of which, the immemorial night of ignoreänce dissolves before the rising sun of wisdom. But in reality nothing happened. The sun is always there, there is no night to it; the mind, blinded by the ‘I am the body’ idea, spins out endlessly its thread of illusion.
+**M:**&ensp;There is progress all the time. Everything contributes to progress. But this is the progress of ignorance. The circles of ignorance may be ever widening, yet it remains a bondage all the same. In due course a <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> appears to teach and inspire us to practise *yoga* and a ripening takes place; as a result of which, the immemorial night of ignorance dissolves before the rising sun of wisdom. But in reality nothing happened. The sun is always there, there is no night to it; the mind, blinded by the ‘I am the body’ idea, spins out endlessly its thread of illusion.
 
 **Q:**&ensp;If all is a part of a natural process, where is the need of effort?
 
-**M:**&ensp;Even effort is a part of it. When ignoreänce becomes obstinate and hard and the character gets perverted, effort and the pain of it become inevitable. In complete obedience to nature there is no effort. The seed of spiritual life grows in silence and in darkness until its appointed hour.
+**M:**&ensp;Even effort is a part of it. When ignorance becomes obstinate and hard and the character gets perverted, effort and the pain of it become inevitable. In complete obedience to nature there is no effort. The seed of spiritual life grows in silence and in darkness until its appointed hour.
 
 **Q:**&ensp;We come across some great people, who, in their old age, become childish, petty, quarrelsome and spiteful. How could they deteriorate so much?
 
@@ -38,13 +38,13 @@ Yet, all this is so in the mind only. As I see it, there is really nothing of th
 
 **Q:**&ensp;I was told that a realised man will never do anything unseemly. He will always behave in an exemplary way.
 
-**M:**&ensp;Who sets the example? Why should a liberated man necessarily follow conventions? The moment he becomes predictable, he cannot be free. His freedom lies in his beïng free to fulfil the need of the moment, to obey the necessity of the situätion. Freedom to do what one likes is really bondage, while beïng free to do what one must, what is right, is real freedom.
+**M:**&ensp;Who sets the example? Why should a liberated man necessarily follow conventions? The moment he becomes predictable, he cannot be free. His freedom lies in his being free to fulfil the need of the moment, to obey the necessity of the situation. Freedom to do what one likes is really bondage, while being free to do what one must, what is right, is real freedom.
 
-**Q:**&ensp;Still there must be some way of makeïng out who has realised and who has not. If one is indistinguishable from the other, of what use is he?
+**Q:**&ensp;Still there must be some way of making out who has realised and who has not. If one is indistinguishable from the other, of what use is he?
 
 **M:**&ensp;He who knows himself has no doubts about it. Nor does he care whether others recognise his state or not. Rare is the realised man who discloses his realisation and fortunate are those who have met him, for he does it for their abiding welfare.
 
-**Q:**&ensp;When one looks around, one is appalled by the volume of unnecessary suffering that is goïng on. People who should be helped are not getting help. Imagine a big hospital ward full of incurables, tossing and moaning. Were you given the authority to kill them all and end their torture, would you not do so?
+**Q:**&ensp;When one looks around, one is appalled by the volume of unnecessary suffering that is going on. People who should be helped are not getting help. Imagine a big hospital ward full of incurables, tossing and moaning. Were you given the authority to kill them all and end their torture, would you not do so?
 
 **M:**&ensp;I would leave it to them to decide.
 
@@ -54,7 +54,7 @@ Yet, all this is so in the mind only. As I see it, there is really nothing of th
 
 **Q:**&ensp;What about cause and effect?
 
-**M:**&ensp;Each moment contains the whole of the past and creätes the whole of the future.
+**M:**&ensp;Each moment contains the whole of the past and creates the whole of the future.
 
 **Q:**&ensp;But past and future exist?
 
@@ -62,7 +62,7 @@ Yet, all this is so in the mind only. As I see it, there is really nothing of th
 
 **Q:**&ensp;Still, you are in favour of relieving suffering, even through destruction of the incurably diseased body.
 
-**M:**&ensp;Again, you look from outside while I look from within. I do not see a sufferer, I *am* the sufferer. I know him from within and do what is right spontaneöusly and effortlessly. I follow no rules nor lay down rules. I flow with life — faithfully and irresistibly.
+**M:**&ensp;Again, you look from outside while I look from within. I do not see a sufferer, I *am* the sufferer. I know him from within and do what is right spontaneously and effortlessly. I follow no rules nor lay down rules. I flow with life — faithfully and irresistibly.
 
 **Q:**&ensp;Still you seem to be a very practical man in full control of your immediate surroundings.
 
@@ -70,11 +70,11 @@ Yet, all this is so in the mind only. As I see it, there is really nothing of th
 
 **Q:**&ensp;Yet you cannot help another much.
 
-**M:**&ensp;Surely, I can help. You too can help. Everybody can help. But the suffering is all the time recreäted. Man alone can destroy in himself the roots of pain. Others can only help with the pain, but not with its cause, which is the abysmal stupidity of mankind.
+**M:**&ensp;Surely, I can help. You too can help. Everybody can help. But the suffering is all the time recreated. Man alone can destroy in himself the roots of pain. Others can only help with the pain, but not with its cause, which is the abysmal stupidity of mankind.
 
 **Q:**&ensp;Will this stupidity ever come to an end?
 
-**M:**&ensp;In man — of course. Any moment. In humanity (as we know it) — after very many years. In creätion — never, for creätion itself is rooted in ignoreänce; matter itself is ignoreänce. Not to know, and not to know that one does not know, is the cause of endless suffering.
+**M:**&ensp;In man — of course. Any moment. In humanity (as we know it) — after very many years. In creation — never, for creation itself is rooted in ignorance; matter itself is ignorance. Not to know, and not to know that one does not know, is the cause of endless suffering.
 
 **Q:**&ensp;We are told of the great <span data-tippy-content="Incarnation.">avatar</span>s, the saviours of the world.
 
@@ -84,7 +84,7 @@ Yet, all this is so in the mind only. As I see it, there is really nothing of th
 
 **M:**&ensp;Which world do you want to save? The world of your own projection? Save it yourself. My world? Show me my world and I shall deal with it. I am not aware of any world separate from myself, which I am free to save or not to save. What business have you with saving the world, when all the world needs is to be saved *from* you? Get out of the picture and see whether there is anything left to save.
 
-**Q:**&ensp;You seem to stress the point that without you, your world would not have existed and therefore the only thing you can do for it is to wind up the show. This is not a way out. Even if the world were of my own creätion, this knowledge does not save it, it only explains it. The question remains: why did I creäte such a wretched world and what can I do to change it? You seem to say, “forget it all and admire your own glory”. Surely, you don’t mean it. The description of a disease and its causes does not cure it. What we need is the right medicine.
+**Q:**&ensp;You seem to stress the point that without you, your world would not have existed and therefore the only thing you can do for it is to wind up the show. This is not a way out. Even if the world were of my own creation, this knowledge does not save it, it only explains it. The question remains: why did I create such a wretched world and what can I do to change it? You seem to say, “forget it all and admire your own glory”. Surely, you don’t mean it. The description of a disease and its causes does not cure it. What we need is the right medicine.
 
 **M:**&ensp;The description and causation *are* the remedy for a disease caused by obtuseness and stupidity. Just like a deficiency disease is cured through the supply of the missing factor, so are the diseases of living cured by a good dose of intelligent detachment (<span data-tippy-content="Discrimination; discrimination between the true and the false, the real and the unreal. <em>Viveka</em> is an expression of the spiritual consciousness hidden behind the mind. It leads to <em>vairagya</em>.">viveka</span>–<span data-tippy-content="Dispassion, indifference to the pains and pleasures of the material world.">vairagya</span>).
 
@@ -106,7 +106,7 @@ Yet, all this is so in the mind only. As I see it, there is really nothing of th
 
 **Q:**&ensp;If I start the practice of dismissing everything as a dream, where will it lead me?
 
-**M:**&ensp;Wherever it leads you, it will be a dream. The very idea of goïng beyond the dream is illusory. Why go anywhere? Just realise that you are dreaming a dream you call the world, and stop looking for ways out. The dream is not your problem. Your problem is that you like one part of your dream and not another. Love all or none of it, and stop complaining. When you have seen the dream as a dream, you have done all that needs be done.
+**M:**&ensp;Wherever it leads you, it will be a dream. The very idea of going beyond the dream is illusory. Why go anywhere? Just realise that you are dreaming a dream you call the world, and stop looking for ways out. The dream is not your problem. Your problem is that you like one part of your dream and not another. Love all or none of it, and stop complaining. When you have seen the dream as a dream, you have done all that needs be done.
 
 **Q:**&ensp;Is dreaming caused by thinking?
 

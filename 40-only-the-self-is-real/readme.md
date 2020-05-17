@@ -36,14 +36,14 @@ my state is my own — totally uncaused, independent, unassailable.
 **Q:**&ensp;Like a play on the stage?
 
 **M:**&ensp;The play was written, planned and rehearsed. The world just spouts 
-into beïng out of nothing and returns to nothing.
+into being out of nothing and returns to nothing.
 
-**Q:**&ensp;Is there no creätor? Was not the world in the mind of <span 
-data-tippy-content="One of the gods of the Hindu trinity: Brahma, the creätor; 
+**Q:**&ensp;Is there no creator? Was not the world in the mind of <span 
+data-tippy-content="One of the gods of the Hindu trinity: Brahma, the creator; 
 Vishnu, the preserver; Shiva, the destroyer.">Brahma</span> before it was 
-creäted?
+created?
 
-**M:**&ensp;As long as you are outside my state, you will have creätors, 
+**M:**&ensp;As long as you are outside my state, you will have creators, 
 preservers and destroyers, but once with me you will know the Self only and 
 see yourself in all.
 
@@ -63,12 +63,12 @@ pains, weakness, and the approaching end. How does a *jnani* feel as an old
 man? How does his inner self look at his own senility?
 
 **M:**&ensp;As he gets older, he grows more and more happy and peaceful. After 
-all, he is goïng home. Like a traveller nearing his destination and collecting 
+all, he is going home. Like a traveller nearing his destination and collecting 
 his luggage, he leaves the train without regret.
 
 **Q:**&ensp;Surely there is a contradiction. We are told the *jnani* is beyond 
 all change. His happiness neither grows nor wanes. How can he grow happier 
-because of beïng old, and that in spite of physical weakness and so on?
+because of being old, and that in spite of physical weakness and so on?
 
 **M:**&ensp;There is no contradiction. The reel of destiny is coming to its 
 end — the mind is happy. The mist of bodily existence is lifting — the burden 
@@ -86,10 +86,10 @@ affectionate detachment.
 **M:**&ensp;It is there, but it does not matter. Whatever state I am in, I see 
 it as a state of mind to be accepted as it is.
 
-**Q:**&ensp;Pain is pain. You experiënce it all the same.
+**Q:**&ensp;Pain is pain. You experience it all the same.
 
-**M:**&ensp;He who experiënces the body experiënces its pains and pleasures. I 
-am neither the body, nor the experiëncer of the body.
+**M:**&ensp;He who experiences the body experiences its pains and pleasures. I 
+am neither the body, nor the experiencer of the body.
 
 **Q:**&ensp;Let us say you are twenty-five years old. Your marriage is 
 arranged and performed and the household duties crowd upon you. How would you 
@@ -97,33 +97,33 @@ feel?
 
 **M:**&ensp;Just as I feel now. You keep on insisting that my inner state is 
 moulded by outer events. It is just not so. Whatever happens, I remain. At the 
-root of my beïng is pure awareness, a speck of intense light. This speck, by 
-its very nature, radiates and creätes pictures in space and events in time — 
-effortlessly and spontaneöusly. As long as it is merely aware, there are no 
-problems. But when the discriminative mind comes into beïng and creätes 
+root of my being is pure awareness, a speck of intense light. This speck, by 
+its very nature, radiates and creates pictures in space and events in time — 
+effortlessly and spontaneously. As long as it is merely aware, there are no 
+problems. But when the discriminative mind comes into being and creates 
 distinctions, pleasure and pain arise. During sleep the mind is in abeyance 
-and so are pain and pleasure. The process of creätion continues, but no notice 
+and so are pain and pleasure. The process of creation continues, but no notice 
 is taken. The mind is a form of consciousness, and consciousness is an aspect 
-of life. Life creätes everything but the Supreme is beyond all.
+of life. Life creates everything but the Supreme is beyond all.
 
 **Q:**&ensp;The Supreme is the master and consciousness — his servant.
 
 **M:**&ensp;The master is *in* consciousness, not beyond it. In terms of 
-consciousness the Supreme is creätion and dissolution, concretion and 
+consciousness the Supreme is creation and dissolution, concretion and 
 abstraction, the focal and the universal. It is also neither. Words do not 
 reach there, nor mind.
 
-**Q:**&ensp;The *jnani* seems to be a very lonely beïng, all by himself.
+**Q:**&ensp;The *jnani* seems to be a very lonely being, all by himself.
 
-**M:**&ensp;He is alone, but he is all. He is not even a beïng. He is the 
-beïngness of all beïngs. Not even that. No words apply. He is what he is, the 
+**M:**&ensp;He is alone, but he is all. He is not even a being. He is the 
+beingness of all beings. Not even that. No words apply. He is what he is, the 
 ground from which all grows.
 
 **Q:**&ensp;Are you not afraid to die?
 
 **M:**&ensp;I shall tell you how my <span data-tippy-content="Spiritual 
 teacher, preceptor.">guru</span>’s *guru* died. After announcing that his end 
-was nearing, he stopped eating, without changeïng the routine of his daily 
+was nearing, he stopped eating, without changing the routine of his daily 
 life. On the eleventh day, at prayer time he was singing and clapping 
 vigorously and suddenly died! Just like that, between two movements, like a 
 blown out candle. Everybody dies as he lives. I am not afraid of death because 
@@ -166,8 +166,8 @@ aspect of reality they know nothing. It is extremely important to let them
 know that there is reality and it is to be found in the freedom of 
 consciousness from matter and its limitations and distortions. Most of the 
 people in the world just do not know that there is reality which can be found 
-and experiënced in consciousness. It seems very important that they should 
-hear the good news from somebody who has actually experiënced it. Such 
+and experienced in consciousness. It seems very important that they should 
+hear the good news from somebody who has actually experienced it. Such 
 witnesses have always existed and their testimony is precious.
 
 **M:**&ensp;Of course. The gospel of self-realisation, once heard, will never 

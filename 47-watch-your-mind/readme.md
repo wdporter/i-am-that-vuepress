@@ -11,7 +11,7 @@ Yet the social urgencies and pressures are so great, personal desires and fears 
 How to strike a balance between the need for a <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> and the difficulty in obeying him implicitly? 
 
 **Maharaj:**&ensp;What is done under pressure of society and circumstances does not matter much, for it is mostly mechanical, mere reäcting to impacts. 
-It is enough to watch oneself dispassionately to isolate oneself completely from what is goïng on. 
+It is enough to watch oneself dispassionately to isolate oneself completely from what is going on. 
 What has been done blindly, without minding, may add to one’s <span data-tippy-content="Action or “the fruits of action”. <em>Karma</em> is of three kinds: <em>sanchita</em> (accumulated from previous births), <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the present life) and <em>agami</em> (the current <em>karma</em> the result of which will fructify in future).">karma</span> — otherwise it hardly matters. 
 The *guru* demands one thing only: clarity and intensity of purpose, a sense of responsibility for oneself. 
 The very reality of the world must be questioned. 
@@ -44,7 +44,7 @@ What is important is not to miss the opportunity when it presents itself.
 If you are earnest you will use your leisure fully. 
 That is enough.
 
-**Q:**&ensp;In my search for the essential and discarding the unessential, is there any scope for creätive living? 
+**Q:**&ensp;In my search for the essential and discarding the unessential, is there any scope for creative living? 
 For instance, I love painting. 
 Will it help me if I give my leisure hours to painting?
 
@@ -53,7 +53,7 @@ Also, you must have moments of complete inner peace and quiet when your mind is 
 If you miss it, you miss the entire thing. 
 If you do not, the silence of the mind will dissolve and absorb all else. 
 
-Your difficulty lies in your wanting reality and beïng afraid of it at the same time. 
+Your difficulty lies in your wanting reality and being afraid of it at the same time. 
 You are afraid of it because you do not know it. 
 The familiar things are known; you feel secure with them. 
 The unknown is uncertain and therefore dangerous. 
@@ -72,16 +72,16 @@ Be like that infant: instead of trying to be this or that, be happy to *be*.
 You will be a fully awakened witness of the field of consciousness. 
 But there should be no feelings and ideas to stand between you and the field.
 
-**Q:**&ensp;To be content with mere beïng seems to be a most selfish way of passing time.
+**Q:**&ensp;To be content with mere being seems to be a most selfish way of passing time.
 
-**M:**&ensp;A most worthy way of beïng selfish! 
-By all means be selfish by foregoïng everything but the Self. 
+**M:**&ensp;A most worthy way of being selfish! 
+By all means be selfish by foregoing everything but the Self. 
 When you love the Self and nothing else, you go beyond the selfish and the unselfish. 
 All distinctions lose their meaning. 
 Love of one and love of all merge together in love, pure and simple, addressed to none, denied to none. 
 Stay in that love, go deeper and deeper into it, investigate yourself and love the investigation, and you will solve not only your own problems but also the problems of humanity. 
 You will know what to do. 
-Do not ask superficial questions; apply yourself to fundamentals, to the very roots of your beïng.
+Do not ask superficial questions; apply yourself to fundamentals, to the very roots of your being.
 
 **Q:**&ensp;Is there a way for me to speed up my self-realisation?
 
@@ -100,21 +100,21 @@ And I did!
 Now I am desperate that so soon I have to leave for England.
 
 **M:**&ensp;You are like a newly born child. 
-It was there before, but not conscious of its beïng. 
-At its birth a world arose in it, and with it the consciousness of beïng. 
+It was there before, but not conscious of its being. 
+At its birth a world arose in it, and with it the consciousness of being. 
 Now you have just to grow in consciousness, that is all. 
 The child is the king of the world — when it grows up, it takes charge of its kingdom. 
-Imagine that in its infancy it fell seriöusly ill and the physician cured it. 
+Imagine that in its infancy it fell seriously ill and the physician cured it. 
 Does it mean that the young king owes his kingdom to the physician? 
 Only perhaps as one of the contributing factors. 
 There were so many others; all contributed. 
-But the main factor, the most crucial, was the fact of beïng born the son of a king. 
+But the main factor, the most crucial, was the fact of being born the son of a king. 
 Similarly, the *guru* may help. 
 But the main thing that helps is to have reality within. 
 It will assert itself. 
 Your coming here definitely helped you. 
-It is not the only thing that is goïng to help you. 
-The main thing is your own beïng. 
+It is not the only thing that is going to help you. 
+The main thing is your own being. 
 Your very earnestness testifies to it.
 
 **Q:**&ensp;Does my pursuing a vocation deny my earnestness?
@@ -130,15 +130,15 @@ Try it.
 **M:**&ensp;Never faithfully, never steadily. 
 Otherwise you would not be asking such questions. 
 You are asking because you are not sure of yourself. 
-And you are not sure of yourself because you never paid attention to yourself, only to your experiënces. 
-Be interested in yourself beyond all experiënce, be with yourself, love yourself; the ultimate security is found only in self-knowledge. 
+And you are not sure of yourself because you never paid attention to yourself, only to your experiences. 
+Be interested in yourself beyond all experience, be with yourself, love yourself; the ultimate security is found only in self-knowledge. 
 The main thing is earnestness. 
 Be honest with yourself and nothing will betray you. 
 Virtues and powers are mere tokens for children to play with. 
 They are useful in the world, but do not take you out of it. 
 To go beyond, you need alert immobility, quiet attention.
 
-**Q:**&ensp;What then becomes of one’s physical beïng?
+**Q:**&ensp;What then becomes of one’s physical being?
 
 **M:**&ensp;As long as you are healthy, you live on.
 

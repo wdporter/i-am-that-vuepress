@@ -13,7 +13,7 @@ of the Sampradaya lay stress on bhakti, devotion; others on jnana, knowledge; st
 the union with the ultimate. In the fourteenth century we find Svatmarama Svami, the great
 Hathayogin, bemoaning ‘the darkness arising out of multiplicity of opinions’ to displel which he lit the
 lamp of his famous work Hathayogapradipika.
-According to some learned commentators, the Nath Gurus propound that the entire creätion is born
+According to some learned commentators, the Nath Gurus propound that the entire creation is born
 out of nada (sound), the divine principle, and bindu (light), the physical principle and the Supreme
 Reality from which these two principles emanate is Shiva. Liberation according to them is merging
 of the soul into Shiva through the process of laya, dissolution of the human ego, the sense of I-ness.
@@ -51,7 +51,7 @@ Sampradaya he said: "The Navnath Sampradaya is only a tradition, a way of teachi
 It does not denote a level of consciousness. If you accept a Navnath Sampradaya teacher as your
 Guru, you join his Sampradaya... Your belonging is a matter of your own feeling and conviction.
 After all it is all verbal and formal. In reality there is neither Guru nor disciple, neither theory nor
-practice, neither ignoreänce nor realisation. It all depends upon what you take yourself to be. Know
+practice, neither ignorance nor realisation. It all depends upon what you take yourself to be. Know
 yourself correctly. There is no substitute for self-knowledge"
 The teaching of Nath Sampradaya offers the seeker the royal road to liberation, a road in which all
 the four by-lanes of bhakti, jnana, karma and dhyana of Lord Shiva, in his hagiography, entitled

@@ -8,11 +8,11 @@
 
 **Q:**&ensp;When I paint, there is only the painting and myself.
 
-**M:**&ensp;What are you doïng there?
+**M:**&ensp;What are you doing there?
 
 **Q:**&ensp;I paint.
 
-**M:**&ensp;No, you don’t. You see the painting goïng on. You are watching only; all else happens.
+**M:**&ensp;No, you don’t. You see the painting going on. You are watching only; all else happens.
 
 **Q:**&ensp;The picture is painting itself? Or is there some deeper ‘me’ or some god who is painting?
 
@@ -28,19 +28,19 @@
 
 **Q:**&ensp;How do *you* look at the world?
 
-**M:**&ensp;I see a painter painting a picture. The picture I call the world, the painter I call God. I am neither. I do not creäte, nor am I creäted. I contain all, nothing contains me.
+**M:**&ensp;I see a painter painting a picture. The picture I call the world, the painter I call God. I am neither. I do not create, nor am I created. I contain all, nothing contains me.
 
 **Q:**&ensp;When I see a tree, a face or a sunset, the picture is perfect. When I close my eyes, the image in my mind is faint and hazy. If it is my mind that projects the picture, why need I open my eyes to see a lovely flower and with eyes closed I can only see it vaguely?
 
-**M:**&ensp;It is because your outer eyes are better than your inner eyes. Your mind is all turned outward. As you learn to watch your mental world, you will find it even more colourful and perfect than what the body can provide. Of course, you will need some training. But why argue? You imagine that the picture must come from the painter who actually painted it. All the time you look for origins and causes. Causality is in the mind only; memory gives the illusion of continuïty and repetitiveness creätes the idea of causality. When things repeatedly happen together, we tend to see a causal link between them. It creätes a mental habit, but a habit is not a necessity.
+**M:**&ensp;It is because your outer eyes are better than your inner eyes. Your mind is all turned outward. As you learn to watch your mental world, you will find it even more colourful and perfect than what the body can provide. Of course, you will need some training. But why argue? You imagine that the picture must come from the painter who actually painted it. All the time you look for origins and causes. Causality is in the mind only; memory gives the illusion of continuity and repetitiveness creates the idea of causality. When things repeatedly happen together, we tend to see a causal link between them. It creates a mental habit, but a habit is not a necessity.
 
 **Q:**&ensp;You have just said that the world is made by God.
 
 **M:**&ensp;Remember that language is an instrument of the mind; it is made by the mind, for the mind. Once you admit a cause, then God is the ultimate cause and the world the effect. They are different, but not separate.
 
-**Q:**&ensp;People talk of seeïng God.
+**Q:**&ensp;People talk of seeing God.
 
-**M:**&ensp;When you see the world you see God. There is no seeïng God apart from the world. Beyond the world, to see God is to be God. The light by which you see the world, which is God, is the tiny little spark ‘I am’ — apparently so small, yet the first and the last in every act of knowing and loving.
+**M:**&ensp;When you see the world you see God. There is no seeing God apart from the world. Beyond the world, to see God is to be God. The light by which you see the world, which is God, is the tiny little spark ‘I am’ — apparently so small, yet the first and the last in every act of knowing and loving.
 
 **Q:**&ensp;Must I see the world to see God?
 
@@ -48,29 +48,29 @@
 
 **Q:**&ensp;What remains?
 
-**M:**&ensp;You remain as pure beïng.
+**M:**&ensp;You remain as pure being.
 
 **Q:**&ensp;And what becomes of the world and of God?
 
-**M:**&ensp;Pure beïng (<span data-tippy-content="Unmanifest. Opposite is <em>vyakta</em>">avyakta</span>).
+**M:**&ensp;Pure being (<span data-tippy-content="Unmanifest. Opposite is <em>vyakta</em>">avyakta</span>).
 
-**Q:**&ensp;Is it the same as the Great Expanse (<span data-tippy-content="The great expanse, the timeless and spaceless reality; the Absolute beïng.">paramakash</span>)?
+**Q:**&ensp;Is it the same as the Great Expanse (<span data-tippy-content="The great expanse, the timeless and spaceless reality; the Absolute being.">paramakash</span>)?
 
 **M:**&ensp;You may call it so. Words do not matter, for they do not reach it. They turn back in utter negation.
 
 **Q:**&ensp;How can I see the world as God? What does it mean to see the world as God?
 
-**M:**&ensp;It is like entering a dark room. You see nothing — you may touch, but you do not see — no colours, no outlines. The window opens and the room is flooded with light. Colours and shapes come into beïng. The window is the giver of light, but not the source of it. The sun is the source. Similarly, matter is like the dark room; consciousness — the window — flooding matter with sensations and perceptions, and the supreme is the sun, the source both of matter and of light. The window may be closed or open, but the sun shines all the time. It makes all the difference to the room, but none to the sun. Yet all this is secondary to the tiny little thing which is the ‘I am’. Without the ‘I am’ there is nothing. All knowledge is about the ‘I am’. False ideas about this ‘I am’ lead to bondage; right knowledge leads to freedom and happiness.
+**M:**&ensp;It is like entering a dark room. You see nothing — you may touch, but you do not see — no colours, no outlines. The window opens and the room is flooded with light. Colours and shapes come into being. The window is the giver of light, but not the source of it. The sun is the source. Similarly, matter is like the dark room; consciousness — the window — flooding matter with sensations and perceptions, and the supreme is the sun, the source both of matter and of light. The window may be closed or open, but the sun shines all the time. It makes all the difference to the room, but none to the sun. Yet all this is secondary to the tiny little thing which is the ‘I am’. Without the ‘I am’ there is nothing. All knowledge is about the ‘I am’. False ideas about this ‘I am’ lead to bondage; right knowledge leads to freedom and happiness.
 
 **Q:**&ensp;Is ‘I am’ and ‘there is’ the same?
 
-**M:**&ensp;‘I am’ denotes the inner, ‘there is’ denotes the outer. Both are based on the sense of beïng.
+**M:**&ensp;‘I am’ denotes the inner, ‘there is’ denotes the outer. Both are based on the sense of being.
 
-**Q:**&ensp;Is it the same as the experiënce of existence?
+**Q:**&ensp;Is it the same as the experience of existence?
 
-**M:**&ensp;To exist means to be something: a thing, a feeling, a thought, an idea. All existence is particular. Only beïng is universal, in the sense that every beïng is compatible with every other beïng. Existences clash, beïng — never. Existence means becoming, change, birth and death and birth again, while in beïng there is silent peace.
+**M:**&ensp;To exist means to be something: a thing, a feeling, a thought, an idea. All existence is particular. Only being is universal, in the sense that every being is compatible with every other being. Existences clash, being — never. Existence means becoming, change, birth and death and birth again, while in being there is silent peace.
 
-**Q:**&ensp;If I creäte the world, why have I made it bad?
+**Q:**&ensp;If I create the world, why have I made it bad?
 
 **M:**&ensp;Everyone lives in his own world. Not all the worlds are equally good or bad.
 

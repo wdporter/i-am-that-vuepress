@@ -1,18 +1,18 @@
 # 14. Appearances and the Reality
 
->To take appearance for reality is a grievous sin and the cause of all calamities. You are the all-pervading, eternal and infinitely creätive awareness: consciousness. All else is local and temporary. Don’t forget what you are.
+>To take appearance for reality is a grievous sin and the cause of all calamities. You are the all-pervading, eternal and infinitely creative awareness: consciousness. All else is local and temporary. Don’t forget what you are.
 
 **Questioner:**&ensp;Repeatedly you have said that events are causeless: a thing just happens and no cause can be assigned to it. Surely everything has a cause or several causes. How am I to understand the causelessness of things?
 
 **Maharaj:**&ensp;From the highest point of view, the world has no cause.
 
-**Q:**&ensp;But what is your own experiënce?
+**Q:**&ensp;But what is your own experience?
 
 **M:**&ensp;Everything is uncaused. The world has no cause.
 
-**Q:**&ensp;I am not enquiring about the causes that led to the creätion of the world. Who has seen the creätion of the world? It may even be without a beginning, always existing. But I am not talking of the world. I take the world to exist — somehow. It contains so many things. Surely, each must have a cause or several causes.
+**Q:**&ensp;I am not enquiring about the causes that led to the creation of the world. Who has seen the creation of the world? It may even be without a beginning, always existing. But I am not talking of the world. I take the world to exist — somehow. It contains so many things. Surely, each must have a cause or several causes.
 
-**M:**&ensp;Once you creäte for yourself a world in time and space, governed by causality, you are bound to search for and find causes for everything. You put the question and impose an answer.
+**M:**&ensp;Once you create for yourself a world in time and space, governed by causality, you are bound to search for and find causes for everything. You put the question and impose an answer.
 
 **Q:**&ensp;My question is very simple: I see all kinds of things and I understand that each must have a cause or a number of causes. You say they are uncaused — from your point of view. But, to you nothing has been and, therefore, the question of causation does not arise. Yet you seem to admit the existence of things, but deny them causation. This is what I cannot grasp. Once you accept the existence of things, why reject their causes?
 
@@ -34,7 +34,7 @@ But why worry so much about causation? What do causes matter when things themsel
 
 **Q:**&ensp;I am afraid. I am afraid of falling asleep over my so-called absolute certainties. For living a life decently, absolutes don’t help. When you need a shirt, you buy cloth, call a tailor and so on. 
 
-**M:**&ensp;All this talk shows ignoreänce.
+**M:**&ensp;All this talk shows ignorance.
 
 **Q:**&ensp;And what is the knower’s view?
 
@@ -62,25 +62,25 @@ But why worry so much about causation? What do causes matter when things themsel
 
 **Q:**&ensp;I know it is not possible! All I want to know is if there are causes for everything and whether the causes can be influenced, thereby affecting the events?
 
-**M:**&ensp;To influence events, you need not know the causes. What a roundabout way of doïng things! Are you not the source and the end of every event? Control it at the source itself.
+**M:**&ensp;To influence events, you need not know the causes. What a roundabout way of doing things! Are you not the source and the end of every event? Control it at the source itself.
 
-**Q:**&ensp;Every morning I pick up the newspaper and read with dismay that the world’s sorrows — poverty, hatred and wars — continue unabated. My questions concern the fact of sorrow, the cause, the remedy. Don’t brush me off saying that it is Buddhism! Don’t label me. Your insistence on causelessness removes all hope of the world ever changeïng.
+**Q:**&ensp;Every morning I pick up the newspaper and read with dismay that the world’s sorrows — poverty, hatred and wars — continue unabated. My questions concern the fact of sorrow, the cause, the remedy. Don’t brush me off saying that it is Buddhism! Don’t label me. Your insistence on causelessness removes all hope of the world ever changing.
 
 **M:**&ensp;You are confused because you believe that you are in the world, not the world in you. Who came first: you or your parents? You imagine that you were born at a certain time and place and that you have a father and a mother, a body and a name. This is your sin and your calamity! Surely you can change your world if you work at it. By all means, work. Who is stopping you? I have never discouraged you. Causes or no causes, you have made this world and you can change it. 
 
 **Q:**&ensp;A causeless world is entirely beyond my control.
 
-**M:**&ensp;On the contrary, a world of which you are the only source and ground is fully within your power to change. What is creäted can be always dissolved and recreäted. All will happen as you want it, provided you really want it.
+**M:**&ensp;On the contrary, a world of which you are the only source and ground is fully within your power to change. What is created can be always dissolved and recreated. All will happen as you want it, provided you really want it.
 
 **Q:**&ensp;All I want to know is how to deal with the world’s sorrows.
 
-**M:**&ensp;You have creäted them out of your own desires and fears — you deal with them. All is due to your having forgotten your own beïng. Having given reality to the picture on the screen, you love its people and suffer for them and seek to save them. It is just not so. You must begin with yourself. There is no other way. Work, of course. There is no harm in working.
+**M:**&ensp;You have created them out of your own desires and fears — you deal with them. All is due to your having forgotten your own being. Having given reality to the picture on the screen, you love its people and suffer for them and seek to save them. It is just not so. You must begin with yourself. There is no other way. Work, of course. There is no harm in working.
 
-**Q:**&ensp;Your universe seems to contain every possible experiënce. The individual traces a line through it and experiënces pleasant and unpleasant states. This gives rise to questioning and seeking, which broaden the outlook and enable the individual to go beyond his narrow and self-creäted world, limited and self-centred. This personal world can be changed — in time. The universe is timeless and perfect.
+**Q:**&ensp;Your universe seems to contain every possible experience. The individual traces a line through it and experiences pleasant and unpleasant states. This gives rise to questioning and seeking, which broaden the outlook and enable the individual to go beyond his narrow and self-created world, limited and self-centred. This personal world can be changed — in time. The universe is timeless and perfect.
 
-**M:**&ensp;To take appearance for reality is a grievous sin and the cause of all calamities. You are the all-pervading, eternal and infinitely creätive awareness: consciousness. All else is local and temporary. Don’t forget what you are. In the meantime work to your heart’s content. Work and knowledge should go hand in hand.
+**M:**&ensp;To take appearance for reality is a grievous sin and the cause of all calamities. You are the all-pervading, eternal and infinitely creative awareness: consciousness. All else is local and temporary. Don’t forget what you are. In the meantime work to your heart’s content. Work and knowledge should go hand in hand.
 
-**Q:**&ensp;My own feeling is that my spiritual development is not in my hands. Makeïng one’s own plans and carrying them out leads nowhere. I just run in circles round myself. When God considers the fruit to be ripe, He will pluck it and eat it. Whichever fruit seems green to Him will remain on the world’s tree for another day.
+**Q:**&ensp;My own feeling is that my spiritual development is not in my hands. Making one’s own plans and carrying them out leads nowhere. I just run in circles round myself. When God considers the fruit to be ripe, He will pluck it and eat it. Whichever fruit seems green to Him will remain on the world’s tree for another day.
 
 **M:**&ensp;You think God knows you? Even the world He does not know.
 

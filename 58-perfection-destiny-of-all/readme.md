@@ -12,8 +12,8 @@ How does the contemplation of ‘I am’ affect me?
 **Maharaj:**&ensp;The very fact of observation alters the observer and the observed. 
 After all, what prevents the insight into one’s true nature is the weakness and obtuseness of the mind and its tendency to skip the subtle and focus on the gross only. 
 When you follow my advice and try to keep your mind on the notion of ‘I am’ only, you become fully aware of your mind and its vagaries. 
-Awareness, beïng lucid harmony (<span data-tippy-content="Beïng, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>) in action, dissolves dullness and quiets the restlessness of the mind and gently, but steadily, changes its very substance. 
-This change need not be spectacular; it may be hardly noticeäble — yet it is a deep and fundamental shift from darkness to light, from inadvertence to awareness.
+Awareness, being lucid harmony (<span data-tippy-content="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>) in action, dissolves dullness and quiets the restlessness of the mind and gently, but steadily, changes its very substance. 
+This change need not be spectacular; it may be hardly noticable — yet it is a deep and fundamental shift from darkness to light, from inadvertence to awareness.
 
 **Q:**&ensp;Must it be the ‘I am’ formula? 
 Will not any other sentence do? 
@@ -22,8 +22,8 @@ If I concentrate on ‘there is a table’, will it not serve the same purpose?
 **M:**&ensp;As an exercise in concentration — yes. 
 But it will not take you beyond the idea of a table. 
 You are not interested in tables — you want to know yourself. 
-For this, keep steadily in the focus of consciousness the only clue you have: your certainty of beïng. 
-Be with it, play with it, ponder over it, delve deeply into it, until the shell of ignoreänce breaks open and you emerge into the realm of reality.
+For this, keep steadily in the focus of consciousness the only clue you have: your certainty of being. 
+Be with it, play with it, ponder over it, delve deeply into it, until the shell of ignorance breaks open and you emerge into the realm of reality.
 
 **Q:**&ensp;Is there any causal link between my focusing the ‘I am’ and the breaking of the shell?
 
@@ -70,7 +70,7 @@ Take your time, but once you have made up your mind to trust him, trust him abso
 It does not matter much if you do not accept him as your *guru* and are satisfied with his company only. 
 <span data-tippy-content="Association with the true and the wise people.">Satsang</span> alone can also take you to your goal, provided it is unmixed and undisturbed. 
 But once you accept somebody as your *guru*, listen, remember and obey. 
-Half-heartedness is a seriöus drawback and the cause of much self-creäted sorrow. 
+Half-heartedness is a serious drawback and the cause of much self-created sorrow. 
 The mistake is never the *guru*’s; it is always the obtuseness and stubbornness of the discipline that is at fault.
 
 **Q:**&ensp;Does the *guru* then dismiss or disqualify a disciple?
@@ -104,7 +104,7 @@ At the right time he arranges everything affectionately and effectively.
 Where a messenger or guide is needed, he sends the *guru* to do the needful.
 
 **Q:**&ensp;There is one thing I cannot grasp. 
-You speak of the inner self as wise and good and beautiful and in every way perfect, and of the person as mere reflection without a beïng of its own. 
+You speak of the inner self as wise and good and beautiful and in every way perfect, and of the person as mere reflection without a being of its own. 
 On the other hand, you take so much trouble in helping the person to realise himself. 
 If the person is so unimportant, why be so concerned with his welfare? 
 Who cares for a shadow?
@@ -115,7 +115,7 @@ Between them is the mind, in which the Self is reflected as ‘I am’.
 Because of the imperfections of the mind, its crude and restless nature, lack of discernment and insight, it takes itself to be the body, not the Self. 
 All that is needed is to purify the mind so that it can realise its identity with the Self. 
 When the mind merges in the Self, the body presents no problems. 
-It remains what it is, an instrument of cognition and action, the tool and the expression of the creätive fire within. 
+It remains what it is, an instrument of cognition and action, the tool and the expression of the creative fire within. 
 The ultimate value of the body is that it serves to discover the cosmic body, which is the universe in its entirety. 
 As you realise yourself in manifestation, you keep on discovering that you are ever more than what you have imagined.
 
@@ -133,16 +133,16 @@ This holds absolutely.
 
 **M:**&ensp;Look at it in terms of awareness. 
 Wider and deeper consciousness is higher. 
-All that lives works for protecting, perpetuäting and expanding consciousness. 
+All that lives works for protecting, perpetuating and expanding consciousness. 
 This is the world’s sole meaning and purpose. 
 It is the very essence of <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span> — ever raising the level of consciousness, discovery of new dimensions with their properties, qualities and powers. 
 In that sense the entire universe becomes a school of *yoga* (<span data-tippy-content="The field for <em>yoga</em>, the physical body in a philosophical sense (<em>kshetra</em>, field).">yogakshetra</span>).
 
-**Q:**&ensp;Is perfection the destiny of all human beïngs?
+**Q:**&ensp;Is perfection the destiny of all human beings?
 
-**M:**&ensp;Of all living beïngs — ultimately. 
+**M:**&ensp;Of all living beings — ultimately. 
 The possibility becomes a certainty when the notion of enlightenment appears in the mind. 
-Once a living beïng has heard and understood that deliverance is within his reach, he will never forget, for it is the first message from within. 
+Once a living being has heard and understood that deliverance is within his reach, he will never forget, for it is the first message from within. 
 It will take root and grow and in due course take the blessed shape of the *guru*.
 
 **Q:**&ensp;So all we are concerned with is the redemption of the mind?

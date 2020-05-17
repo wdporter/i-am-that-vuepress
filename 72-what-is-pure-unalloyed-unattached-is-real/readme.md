@@ -14,7 +14,7 @@ data-tippy-content="One of the six systems of the Hindu philosophy
 (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which 
 the individual spirit (<em>jivatma</em>) can be joined or united with the 
 universal spirit (<em>Paramatma</em>).">yoga</span>s in his past and had many 
-experiënces that passed away. Now he claims no special abilities or knowledge 
+experiences that passed away. Now he claims no special abilities or knowledge 
 — the only unusual thing about him is connected with sensations: he is unable 
 to separate the seer from the seen. For instance, when he sees a car rushing 
 at him, he does not know whether the car is rushing at him, or he at the car. 
@@ -73,14 +73,14 @@ out of it.
 **M:**&ensp;It may take a thousand years, but really no time is required. All 
 you need is to be in dead earnest. Here the will is the deed. If you are 
 sincere, you have it. After all, it is a matter of attitude. Nothing stops you 
-from beïng a <span data-tippy-content="The knower, especially of the higher 
+from being a <span data-tippy-content="The knower, especially of the higher 
 knowledge derived from meditation; “closely related to the knowledge of 
-Brahman”.">jnani</span> here and now except fear. You are afraid of beïng 
-impersonal, of impersonal beïng. It is all quite simple. Turn away from your 
-desires and fears and from the thoughts they creäte and you are at once in 
+Brahman”.">jnani</span> here and now except fear. You are afraid of being 
+impersonal, of impersonal being. It is all quite simple. Turn away from your 
+desires and fears and from the thoughts they create and you are at once in 
 your natural state.
 
-**Q:**&ensp;No question of reconditioning, changeïng or eliminating the mind?
+**Q:**&ensp;No question of reconditioning, changing or eliminating the mind?
 
 **M:**&ensp;Absolutely none. Leave your mind alone, that is all. Don’t go 
 along with it. After all there is no such thing as mind apart from thoughts 
@@ -98,7 +98,7 @@ put an end to it; to wake up and see things as they are.
 About your stay in Switzerland with that strange friend of yours: what did you 
 gain in his company?
 
-**Q:**&ensp;Nothing absolutely. His experiënce did not affect me at all. One 
+**Q:**&ensp;Nothing absolutely. His experience did not affect me at all. One 
 thing I have understood: there is nothing to search for. Wherever I may go, 
 nothing waits for me at the end of the journey. Discovery is not the result 
 of transportation.
@@ -107,18 +107,18 @@ of transportation.
 
 **Q:**&ensp;Do you call it <span data-tippy-content="Dispassion, indifference 
 to the pains and pleasures of the material world.">vairagya</span>, 
-relinquishment, renunciätion?
+relinquishment, renunciation?
 
 **M:**&ensp;There is nothing to renounce. Enough if you stop acquiring. To 
 give you must have, and to have you must take. Better not to take. It is 
-simpler than to practice renunciätion, which leads to a dangerous form of 
+simpler than to practice renunciation, which leads to a dangerous form of 
 ‘spiritual’ pride. 
 
-All this weighing, selecting, choosing, exchangeïng — it is all shopping in 
+All this weighing, selecting, choosing, exchanging — it is all shopping in 
 some ‘spiritual’ market. What is your business there? What deal are you out to 
 strike? When you are not out for business, what is the use of this endless 
 anxiety of choice? Restlessness takes you nowhere. Something prevents you from 
-seeïng that there is nothing you need. Find it out and see its falseness. It 
+seeing that there is nothing you need. Find it out and see its falseness. It 
 is like having swallowed some poison and suffering from unquenchable craving 
 for water. Instead of drinking beyond all measure, why not eliminate the 
 poison and be free of this burning thirst?
@@ -157,7 +157,7 @@ universe without the witness: there can be no witness without the universe.
 
 **M:**&ensp;He who is beyond time — the Unnameable. A glowing ember, moved 
 round and round quickly enough, appears as a glowing circle. When the movement 
-ceases, the ember remains. Similarly, the ‘I am’ in movement creätes the 
+ceases, the ember remains. Similarly, the ‘I am’ in movement creates the 
 world. The ‘I am’ at peace becomes the Absolute. You are like a man with an 
 electric torch walking through a gallery. You can see only what is within the 
 beam. The rest is in darkness.
@@ -165,7 +165,7 @@ beam. The rest is in darkness.
 **Q:**&ensp;If I project the world, I should be able to change it.
 
 **M:**&ensp;Of course you can. But you must cease identifying yourself with it 
-and go beyond. Then you have the power to destroy and recreäte.
+and go beyond. Then you have the power to destroy and recreate.
 
 **Q:**&ensp;All I want is to be free.
 
@@ -184,23 +184,23 @@ dream, you have forgotten your true self.
 
 **Q:**&ensp;Without the world there is no place for love.
 
-**M:**&ensp;Quite so. All these attributes — beïng, consciousness, love and 
+**M:**&ensp;Quite so. All these attributes — being, consciousness, love and 
 beauty — are reflections of the real in the world. No real — no reflection.
 
 **Q:**&ensp;The world is full of desirable things and people. How can I 
 imagine it non-existent?
 
 **M:**&ensp;Leave the desirables to those who desire. Change the current of 
-your desire from takeïng to giveïng. The passion for giveïng, for sharing, will 
+your desire from takeing to giving. The passion for giving, for sharing, will 
 naturally wash the idea of an external world out of your mind, and the idea of 
-giveïng as well. Only the pure radiance of love, beyond giveïng and receiving, 
+giving as well. Only the pure radiance of love, beyond giving and receiving, 
 will remain.
 
 **Q:**&ensp;In love there must be duality; the lover and the beloved.
 
 **M:**&ensp;In love there is not even the one — how can there be two? Love is 
 the refusal to separate, to make distinctions. Before you can think of unity, 
-you must first creäte duality. When you truly love, you do not say, “I love 
+you must first create duality. When you truly love, you do not say, “I love 
 you”. Where there is ment activity, there is duality.
 
 **Q:**&ensp;What is it that brings me again and again to India? It cannot only 
@@ -217,8 +217,8 @@ cosmic substance: <em>sattva</em>, <em>rajas</em> and
 <em>tamas</em>.">tamas</span> and <span data-tippy-content="Motivity, 
 activity, energy. One of the three <em>gunas</em> or qualities of matter: 
 <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, 
-egoïsm.">rajas</span>. In India there is more of <span 
-data-tippy-content="Beïng, existence, true essence. In <em>yoga</em> the 
+egoism.">rajas</span>. In India there is more of <span 
+data-tippy-content="Being, existence, true essence. In <em>yoga</em> the 
 quality of purity or goodness.">sattva</span>, of harmony and balance.
 
 **M:**&ensp;Can’t you go beyond the <span data-tippy-content="Attributes, 
@@ -236,7 +236,7 @@ of place would not affect it.
 **Q:**&ensp;In India, spiritual life is easy. It is not so in the West. One 
 has to conform to environment to a much greater extent.
 
-**M:**&ensp;Why don’t you creäte your own environment? The world has only as 
+**M:**&ensp;Why don’t you create your own environment? The world has only as 
 much power over you as you give it. Rebel. Go beyond duality, make no 
 difference between East and West.
 
@@ -247,10 +247,10 @@ environment?
 
 **Q:**&ensp;There may be clashes at home. Parents rarely understand.
 
-**M:**&ensp;When you know your true beïng, you have no problems. You may 
+**M:**&ensp;When you know your true being, you have no problems. You may 
 please your parents or not, marry or not, make a lot of money or not; it is 
 all the same to you. Just act according to circumstances, yet in close touch 
-with the facts, with the reality in every situätion.
+with the facts, with the reality in every situation.
 
 **Q:**&ensp;Is it not a very high state?
 
@@ -263,7 +263,7 @@ of. Fearlessness is the door to the Supreme.
 **M:**&ensp;Fearlessness comes by itself when you see that there is nothing to 
 be afraid of. When you walk on a crowded street, you just bypass people. Some 
 you see, some you just glance at, but you do not stop. It is the stopping that 
-creätes the bottleneck. Keep moveïng! Disregard names and shapes, don’t be 
+creates the bottleneck. Keep moving! Disregard names and shapes, don’t be 
 attached to them; your attachment is your bondage.
 
 **Q:**&ensp;What should I do when a man slaps me on my face?
@@ -277,20 +277,20 @@ we are?
 to shapeless gold. Similarly, one must return to one’s original state before a 
 new name and form can emerge. Death is essential for renewal.
 
-**Q:**&ensp;You are always stressing the need of goïng beyond, of aloofness, 
+**Q:**&ensp;You are always stressing the need of going beyond, of aloofness, 
 of solitude. You hardly ever use the words ‘right’ and ‘wrong’. Why?
 
 **M:**&ensp;It is right to be oneself, it is wrong not to be. All else is 
 conditional. You are eager to separate right from wrong because you need some 
-basis for action. You are always after doïng something or other. But 
+basis for action. You are always after doing something or other. But 
 personally motivated action based on some scale of values, aiming at some 
 result, is worse than inaction, for its fruits are always bitter.
 
 **Q:**&ensp;Are awareness and love one and the same?
 
-**M:**&ensp;Of course. Awareness is dynamic, love is beïng. Awareness is love 
+**M:**&ensp;Of course. Awareness is dynamic, love is being. Awareness is love 
 in action. By itself the mind can actualise any number of possibilities, but 
-unless they are prompted by love, they are valueless. Love precedes creätion. 
+unless they are prompted by love, they are valueless. Love precedes creation. 
 Without it there is only chäos.
 
 **Q:**&ensp;Where is the action in awareness?
@@ -302,11 +302,11 @@ place is mere transportation; a change of heart is action. Just remember:
 nothing perceivable is real. Activity is not action. Action is hidden, 
 unknown, unknowable. You can only know the fruit.
 
-**Q:**&ensp;Is not God the all-doër?
+**Q:**&ensp;Is not God the all-doer?
 
-**M:**&ensp;Why do you bring in an outer doër? The world recreätes itself out 
+**M:**&ensp;Why do you bring in an outer doer? The world recreates itself out 
 of itself. It is an endless process, the transitory begetting the transitory. 
-It is your ego that makes you think that there must be a doër. You creäte a 
+It is your ego that makes you think that there must be a doer. You create a 
 God in your own image, however dismal the image. Through the film of your mind 
 you project a world and also a God to give it cause and purpose. It is all 
 imagination — step out of it.
@@ -328,9 +328,9 @@ assumptions parading as facts.
 
 **M:**&ensp;I too do not exist. All existence is imaginary.
 
-**Q:**&ensp;Is *beïng*, too, imaginary?
+**Q:**&ensp;Is *being*, too, imaginary?
 
-**M:**&ensp;Pure beïng, filling all and beyond all, is not existence which is 
+**M:**&ensp;Pure being, filling all and beyond all, is not existence which is 
 limited. All limitation is imaginary, only the unlimited is real.
 
 **Q:**&ensp;When you look at me, what do you see?
@@ -384,11 +384,11 @@ act accordingly.
 
 **Q:**&ensp;Where do I come in?
 
-**M:**&ensp;You make it possible by giveïng it attention.
+**M:**&ensp;You make it possible by giving it attention.
 
 **Q:**&ensp;Is there no such thing as free will? Am I not free to desire?
 
-**M:**&ensp;Oh no, you are compelled to desire. In Hinduïsm the very idea of 
+**M:**&ensp;Oh no, you are compelled to desire. In Hinduism the very idea of 
 free will is non-existent, so there is no word for it. Will is commitment, 
 fixation, bondage.
 
@@ -398,11 +398,11 @@ fixation, bondage.
 of the world. Otherwise, your past and your future decide for you. Between 
 what had happened and what must happen you are caught. Call it destiny or 
 <span data-tippy-content="Action or “the fruits of action”. <em>Karma</em> is 
-of three kinds: <em>sanchita</em> (accumulated from previöus births), 
+of three kinds: <em>sanchita</em> (accumulated from previous births), 
 <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the 
 present life) and <em>agami</em> (the current <em>karma</em> the result of 
 which will fructify in future).">karma</span>, but never freedom. First return 
-to your true beïng and then act from the heart of love.
+to your true being and then act from the heart of love.
 
 **Q:**&ensp;Within the manifested, what is the stamp of the unmanifested?
 

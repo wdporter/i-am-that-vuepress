@@ -26,7 +26,7 @@
 
 **M:**&ensp;No doubt it is very pleasant to feel fit. Is pleasure all you expected from *yoga*?
 
-**Q:**&ensp;The joy of well-beïng is the reward of *hatha yoga*. But *yoga* in general yields more than that. It answers many questions.
+**Q:**&ensp;The joy of well-being is the reward of *hatha yoga*. But *yoga* in general yields more than that. It answers many questions.
 
 **M:**&ensp;What do you mean by *yoga*?
 
@@ -66,11 +66,11 @@ You say you want to pacify your mind. Is he who wants to pacify the mind himself
 
 **Q:**&ensp;So what should one to do?
 
-**M:**&ensp;Through *yoga* you have accumulated knowledge and experiënce. This cannot be denied. But of what use is it all to you? *Yoga* means union, joining. What have you reünited, rejoined?
+**M:**&ensp;Through *yoga* you have accumulated knowledge and experience. This cannot be denied. But of what use is it all to you? *Yoga* means union, joining. What have you reünited, rejoined?
 
 **Q:**&ensp;I am trying to rejoin the personality back to the real self.
 
-**M:**&ensp;The personality (<span data-tippy-content="Person, the outer self.">vyakti</span>) is but a product of imagination. The self (<span data-tippy-content="Manifest matter, the evolved nature. Opposite is <em>avyakta</em>.">vyakta</span>) is the victim of this imagination. It is the takeïng yourself to be what you are not that binds you. The person cannot be said to exist in its own; it is the self that believes there is a person and is conscious of beïng it. Beyond the self lies the unmanifested (<span data-tippy-content="Unmanifest. Opposite is <em>vyakta</em>.">avyakta</span>), the causeless cause of everything. Even to talk of reüniting the person with the self is not right, because there is no person, only a mental picture given a false reality by conviction. Nothing was divided and there is nothing to unite.
+**M:**&ensp;The personality (<span data-tippy-content="Person, the outer self.">vyakti</span>) is but a product of imagination. The self (<span data-tippy-content="Manifest matter, the evolved nature. Opposite is <em>avyakta</em>.">vyakta</span>) is the victim of this imagination. It is the takeing yourself to be what you are not that binds you. The person cannot be said to exist in its own; it is the self that believes there is a person and is conscious of being it. Beyond the self lies the unmanifested (<span data-tippy-content="Unmanifest. Opposite is <em>vyakta</em>.">avyakta</span>), the causeless cause of everything. Even to talk of reüniting the person with the self is not right, because there is no person, only a mental picture given a false reality by conviction. Nothing was divided and there is nothing to unite.
 
 **Q:**&ensp;*Yoga* helps in the search for and the finding of the self.
 
@@ -82,11 +82,11 @@ You say you want to pacify your mind. Is he who wants to pacify the mind himself
 
 **Q:**&ensp;The true knowledge of the self.
 
-**M:**&ensp;True knowledge of the self is not a knowledge. It is not something that you find by searching, by looking everywhere. It is not to be found in space or time. Knowledge is but a memory, a pattern of thought, a mental habit. All these are motivated by pleasure and pain. It is because you are goaded by pleasure and pain that you are in search of knowledge. Beïng oneself is completely beyond all motivation. You cannot be yourself for some reason. You *are* yourself, and no reason is needed.
+**M:**&ensp;True knowledge of the self is not a knowledge. It is not something that you find by searching, by looking everywhere. It is not to be found in space or time. Knowledge is but a memory, a pattern of thought, a mental habit. All these are motivated by pleasure and pain. It is because you are goaded by pleasure and pain that you are in search of knowledge. Being oneself is completely beyond all motivation. You cannot be yourself for some reason. You *are* yourself, and no reason is needed.
 
-**Q:**&ensp;By doïng *yoga* I shall find peace.
+**Q:**&ensp;By doing *yoga* I shall find peace.
 
-**M:**&ensp;Can there be peace apart from yourself? Are you talking from your own experiënce or from books only? Your book knowledge is useful to begin with, but soon it must be given up for direct experiënce, which by its very nature is inexpressible. Words can be used for destruction also: of words images are built, by words they are destroyed. You got yourself into your present state through verbal thinking; you must get out of it the same way.
+**M:**&ensp;Can there be peace apart from yourself? Are you talking from your own experience or from books only? Your book knowledge is useful to begin with, but soon it must be given up for direct experience, which by its very nature is inexpressible. Words can be used for destruction also: of words images are built, by words they are destroyed. You got yourself into your present state through verbal thinking; you must get out of it the same way.
 
 **Q:**&ensp;I did attain a degree of inner peace. Am I to destroy it?
 
@@ -94,27 +94,27 @@ You say you want to pacify your mind. Is he who wants to pacify the mind himself
 
 **Q:**&ensp;What are the means to such perception?
 
-**M:**&ensp;In life nothing can be had without overcoming obstacles. The obstacles to the clear perception of one’s true beïng are desire for pleasure and fear of pain. It is the pleasure–pain motivation that stands in the way. The very freedom from all motivation, the state in which no desire arises is the natural state.
+**M:**&ensp;In life nothing can be had without overcoming obstacles. The obstacles to the clear perception of one’s true being are desire for pleasure and fear of pain. It is the pleasure–pain motivation that stands in the way. The very freedom from all motivation, the state in which no desire arises is the natural state.
 
-**Q:**&ensp;Such giveïng up of desires — does it need time?
+**Q:**&ensp;Such giving up of desires — does it need time?
 
-**M:**&ensp;If you leave it to time, millions of years will be needed. Giveïng up desire after desire is a lengthy process with the end never in sight. Leave alone your desires and fears and give your entire attention to the subject, to he who is behind the experiënce of desire and fear. Ask: “who desires?”. Let each desire bring you back to yourself.
+**M:**&ensp;If you leave it to time, millions of years will be needed. Giving up desire after desire is a lengthy process with the end never in sight. Leave alone your desires and fears and give your entire attention to the subject, to he who is behind the experience of desire and fear. Ask: “who desires?”. Let each desire bring you back to yourself.
 
 **Q:**&ensp;The root of all desires and fears is the same — the longing for happiness.
 
 **M:**&ensp;The happiness you think of and long for is mere physical or mental satisfaction. Such sensory or mental pleasure is not the real, the absolute happiness.
 
-**Q:**&ensp;Even sensory and mental pleasures and the general sense of well-beïng which arises with physical and mental health must have their roots in reality.
+**Q:**&ensp;Even sensory and mental pleasures and the general sense of well-being which arises with physical and mental health must have their roots in reality.
 
-**M:**&ensp;They have their roots in imagination. A man who is given a stone and assured that it is a priceless diamond will be mightily pleased until he realises his mistake; in the same way, pleasures lose their tang and pains their barb when the self is known. Both are seen as what they are: conditional responses, mere reäctions, plain attractions and repulsions, based on memories or preconceptions. Usually pleasure and pain are experiënced when expected. It is all a matter of acquired habits and convictions.
+**M:**&ensp;They have their roots in imagination. A man who is given a stone and assured that it is a priceless diamond will be mightily pleased until he realises his mistake; in the same way, pleasures lose their tang and pains their barb when the self is known. Both are seen as what they are: conditional responses, mere reäctions, plain attractions and repulsions, based on memories or preconceptions. Usually pleasure and pain are experienced when expected. It is all a matter of acquired habits and convictions.
 
 **Q:**&ensp;Well, pleasure may be imaginary, but pain is real.
 
-**M:**&ensp;Pain and pleasure go always together. Freedom from one means freedom from both. If you do not care for pleasure, you will not be afraid of pain. But there is happiness which is neither, which is completely beyond. The happiness you know is describable and measurable. It is objective, so to speak. But the objective cannot be your own. It would be a grievous mistake to identify yourself with something external. This churning up of levels leads nowhere. Reality is beyond the subjective and objective, beyond all levels, beyond every distinction. Most definitely it is not their origin, source or root. These come from ignoreänce of reality, not from reality itself, which is indescribable, beyond beïng and not-beïng.
+**M:**&ensp;Pain and pleasure go always together. Freedom from one means freedom from both. If you do not care for pleasure, you will not be afraid of pain. But there is happiness which is neither, which is completely beyond. The happiness you know is describable and measurable. It is objective, so to speak. But the objective cannot be your own. It would be a grievous mistake to identify yourself with something external. This churning up of levels leads nowhere. Reality is beyond the subjective and objective, beyond all levels, beyond every distinction. Most definitely it is not their origin, source or root. These come from ignorance of reality, not from reality itself, which is indescribable, beyond being and not-being.
 
 **Q:**&ensp;Many teachers have I followed and many doctrines have I studied, yet none gave me what I wanted.
 
-**M:**&ensp;The desire to find the self will be surely fulfilled, provided you want nothing else. But you must be honest with yourself and really want nothing else. If in the meantime you want many other things and are engaged in their pursuit, your main purpose may be delayed until you grow wiser and cease beïng torn between contradictory urges. Go within, without swerving, without ever looking outward.
+**M:**&ensp;The desire to find the self will be surely fulfilled, provided you want nothing else. But you must be honest with yourself and really want nothing else. If in the meantime you want many other things and are engaged in their pursuit, your main purpose may be delayed until you grow wiser and cease being torn between contradictory urges. Go within, without swerving, without ever looking outward.
 
 **Q:**&ensp;But my desires and fears are still there.
 
@@ -122,19 +122,19 @@ You say you want to pacify your mind. Is he who wants to pacify the mind himself
 
 **Q:**&ensp;I have understood very well that social service is an endless task because improvement and decay, progress and regress, go side by side. We can see it on all sides and on every level. What remains?
 
-**M:**&ensp;Whatever work you have undertaken — complete it. Do not take up new tasks unless it is called for by a concrete situätion of suffering and relief from suffering. Find yourself first and endless blessings will follow. Nothing profits the world as much as the abandoning of profits. A man who no longer thinks in terms of loss and gain is the truly non-violent man, for he is beyond all conflict.
+**M:**&ensp;Whatever work you have undertaken — complete it. Do not take up new tasks unless it is called for by a concrete situation of suffering and relief from suffering. Find yourself first and endless blessings will follow. Nothing profits the world as much as the abandoning of profits. A man who no longer thinks in terms of loss and gain is the truly non-violent man, for he is beyond all conflict.
 
 **Q:**&ensp;Yes, I was always attracted by the idea of <span data-tippy-content="Non-violence; abstaining from hurting others in thought, words or deed.">ahimsa</span> (non-violence).
 
-**M:**&ensp;Primarily, *ahimsa* means what it says: “don't hurt”. It is not doïng good that comes first, but ceasing to hurt, not adding to suffering. Pleasing others is not *ahimsa*.
+**M:**&ensp;Primarily, *ahimsa* means what it says: “don't hurt”. It is not doing good that comes first, but ceasing to hurt, not adding to suffering. Pleasing others is not *ahimsa*.
 
 **Q:**&ensp;I am not talking of pleasing, but I am all for helping others.
 
-**M:**&ensp;The only help worth giveïng is freeïng from the need for further help. Repeated help is no help at all. Do not talk of helping another unless you can put him beyond all need of help. 
+**M:**&ensp;The only help worth giving is freeing from the need for further help. Repeated help is no help at all. Do not talk of helping another unless you can put him beyond all need of help. 
 
 **Q:**&ensp;How does one go beyond the need of help? And can one help another to do so?
 
-**M:**&ensp;When you have understood that all existence, in separation and limitation, is painful, and when you are willing and able to live integrally, in oneness with all life, as pure beïng, you have gone beyond all need of help. You can help another by precept and example and, above all, by your beïng. You cannot give what you do not have and you don’t have what you are not. You can only give what you are — and of that you can give limitlessly.
+**M:**&ensp;When you have understood that all existence, in separation and limitation, is painful, and when you are willing and able to live integrally, in oneness with all life, as pure being, you have gone beyond all need of help. You can help another by precept and example and, above all, by your being. You cannot give what you do not have and you don’t have what you are not. You can only give what you are — and of that you can give limitlessly.
 
 **Q:**&ensp;But, is it true that all existence is painful?
 
@@ -148,15 +148,15 @@ You say you want to pacify your mind. Is he who wants to pacify the mind himself
 
 **M:**&ensp;Nor sorrow. Only freedom. Happiness depends on something or other and can be lost; freedom from everything depends on nothing and cannot be lost. Freedom from sorrow has no cause and, therefore, cannot be destroyed. Realise that freedom.
 
-**Q:**&ensp;Am I not born to suffer as a result of my past? Is freedom possible at all? Was I born of my own will? Am I not just a creäture?
+**Q:**&ensp;Am I not born to suffer as a result of my past? Is freedom possible at all? Was I born of my own will? Am I not just a creature?
 
 **M:**&ensp;What is birth and death but the beginning and the ending of a stream of events in consciousness? Because of the idea of separation and limitation they are painful. Momentary relief from pain we call pleasure — and we build castles in the air hoping for endless pleasure which we call happiness. It is all misunderstanding and misuse. Wake up, go beyond, live really.
 
 **Q:**&ensp;My knowledge is limited, my power negligible.
 
-**M:**&ensp;Beïng the source of both. The self is beyond both knowledge and power. The observable is in the mind. The nature of the self is pure awareness, pure witnessing, unaffected by the presence or absence of knowledge or liking. 
+**M:**&ensp;Being the source of both. The self is beyond both knowledge and power. The observable is in the mind. The nature of the self is pure awareness, pure witnessing, unaffected by the presence or absence of knowledge or liking. 
 
-Have your beïng outside this body of birth and death and all your problems will be solved. They exist because you believe yourself born to die. Undeceive yourself and be free. You are not a person.
+Have your being outside this body of birth and death and all your problems will be solved. They exist because you believe yourself born to die. Undeceive yourself and be free. You are not a person.
 
 <script>
 export default {

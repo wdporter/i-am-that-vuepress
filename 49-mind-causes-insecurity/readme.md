@@ -23,7 +23,7 @@ He sees things as they are and shows them as they are.
 If you take people to be what they think themselves to be, you will only hurt them as they hurt themselves so grievously all the time. 
 But if you see them as they are in reality, it will do them enormous good. 
 If they ask you what to do, what practices to adopt, which way of life to follow, answer, “Do nothing, just be. 
-In beïng all happens naturally”.
+In being all happens naturally”.
 
 **Q:**&ensp;It seems to me that in your talks you use the words ‘naturally’ and ‘accidentally’ indiscriminately. 
 I feel there is a deep difference in the meaning of the two words. 
@@ -31,9 +31,9 @@ The natural is orderly, subject to law; one can trust nature.
 The accidental is chäotic, unexpected, unpredictable. 
 One could plead that everything is natural, subject to nature’s laws; to maintain that everything is accidental, without any cause, is surely an exaggeration.
 
-**M:**&ensp;Would you like it better if I use the word ‘spontaneöus’ instead of ‘accidental’?
+**M:**&ensp;Would you like it better if I use the word ‘spontaneous’ instead of ‘accidental’?
 
-**Q:**&ensp;You may use the word ‘spontaneöus’ or ‘natural’ as opposed to ‘accidental’. 
+**Q:**&ensp;You may use the word ‘spontaneous’ or ‘natural’ as opposed to ‘accidental’. 
 In the accidental there is the element of disorder, of chäos. 
 An accident is always a breach of rules, an exception, a surprise.
 
@@ -52,7 +52,7 @@ There may be so-called ‘lucky accidents’, but they only prove the rule that 
 **M:**&ensp;I feel there is a misunderstanding. 
 By ‘accidental’ I mean something to which no known law applies. 
 When I say everything is accidental, uncaused, I only mean that the causes and the laws according to which they operate are beyond our knowing or even imagining. 
-If you call what you take to be orderly, harmoniöus and predictable ‘natural’, then what obeys higher laws and is moved by higher powers may be called spontaneöus. 
+If you call what you take to be orderly, harmonious and predictable ‘natural’, then what obeys higher laws and is moved by higher powers may be called spontaneous. 
 Thus, we shall have two natural orders: the personal and predictable, and the impersonal or super-personal and unpredictable. 
 Call it lower nature and higher nature and drop the word ‘accidental’. 
 As you grow in knowledge and insight, the borderline between lower and higher nature keeps on receding, but the two remain until they are seen as one. 
@@ -62,24 +62,24 @@ For, in fact, everything is most wonderfully inexplicable!
 
 **M:**&ensp;Science deals with names and shapes, quantities and qualities, patterns and laws; it is all right in its own place. 
 But life is to be lived; there is no time for analysis. 
-The response must be instantaneöus — hence the importance of the spontaneöus, the timeless. 
+The response must be instantaneous — hence the importance of the spontaneous, the timeless. 
 It is in the unknown that we live and move. 
 The known is the past.
 
 **Q:**&ensp;I can take my stand on what I feel I am. 
 I am an individual, a person among persons. 
 Some people are integrated and harmonised, and some are not. 
-Some live effortlessly, respond spontaneöusly to every situätion correctly, doïng full justice to the need of the moment, while others fumble, err and generally make a nuisance of themselves. 
-The harmonised people may be called natural, ruled by law, while the disintegrated are chaötic and subject to accidents.
+Some live effortlessly, respond spontaneously to every situation correctly, doing full justice to the need of the moment, while others fumble, err and generally make a nuisance of themselves. 
+The harmonised people may be called natural, ruled by law, while the disintegrated are chaotic and subject to accidents.
 
-**M:**&ensp;The very idea of chaös presupposes the sense of the orderly, the organic, the interrelated. 
-Chaös and cosmos: are they not two aspects of the same state?
+**M:**&ensp;The very idea of chaos presupposes the sense of the orderly, the organic, the interrelated. 
+Chaos and cosmos: are they not two aspects of the same state?
 
-**Q:**&ensp;But you seem to say that all is chaös, accidental, unpredictable.
+**Q:**&ensp;But you seem to say that all is chaos, accidental, unpredictable.
 
-**M:**&ensp;Yes, in the sense that not all the laws of beïng are known and not all events are predictable. 
+**M:**&ensp;Yes, in the sense that not all the laws of being are known and not all events are predictable. 
 The more you are able to understand, the more the universe becomes satisfactory, emotionally and mentally. 
-Reality is good and beautiful; we creäte the chaös.
+Reality is good and beautiful; we create the chaos.
 
 **Q:**&ensp;If you mean to say that it is the free will of man that causes accidents, I would agree. 
 But we have not yet discussed free will.
@@ -97,10 +97,10 @@ I function on my own.
 I consider myself primarily, and others only in relation to myself. 
 In short, I am busy with myself.
 
-**M:**&ensp;Well, go on beïng busy with yourself. 
+**M:**&ensp;Well, go on being busy with yourself. 
 On what business have you come here?
 
-**Q:**&ensp;On my old business of makeïng myself safe and happy. 
+**Q:**&ensp;On my old business of making myself safe and happy. 
 I confess I have not been too successful. 
 I am neither safe nor happy. 
 Therefore, you find me here. 
@@ -122,21 +122,21 @@ I shall become a nobody, a nothing!
 
 **M:**&ensp;Exactly. 
 As nothing and nobody you are safe and happy. 
-You can have the experiënce for the asking. 
+You can have the experience for the asking. 
 Just try. 
 
-But let us go back to what is accidental and what is spontaneöus or natural. 
-You said nature is orderly while accidents are a sign of chaös. 
-I denied the difference and said that we call an event accidental when its causes are untraceäble. 
-There is no place for chaös in nature. 
-Only in the mind of man there is chaös. 
+But let us go back to what is accidental and what is spontaneous or natural. 
+You said nature is orderly while accidents are a sign of chaos. 
+I denied the difference and said that we call an event accidental when its causes are untracäble. 
+There is no place for chaos in nature. 
+Only in the mind of man there is chaos. 
 The mind does not grasp the whole — its focus is very narrow. 
 It sees fragments only and fails to perceive the picture. 
 It is like a man who hears sounds but does not understand the language; he may accuse the speaker of meaningless jabbering and be altogether wrong. 
 What to one is a chäotic stream of sounds is a beautiful poem to another. 
 
 King Janaka once dreamt that he was a beggar. 
-On waking up he asked his <span data-tippy-content="Spiritual teacher, preceptor.">guru</span>, Vasishta, “Am I a king dreaming of beïng a beggar or a beggar dreaming of beïng a king?”. 
+On waking up he asked his <span data-tippy-content="Spiritual teacher, preceptor.">guru</span>, Vasishta, “Am I a king dreaming of being a beggar or a beggar dreaming of being a king?”. 
 
 The *guru* answered, “You are neither, you are both. 
 You are, and yet you are not what you think yourself to be. 
@@ -160,12 +160,12 @@ Beyond that all activity ceases, because in it all goals are reached and all pur
 **Q:**&ensp;Once the Supreme State is reached, can it be shared with others?
 
 **M:**&ensp;The Supreme State is universal, here and now; everybody already shares in it. 
-It is the state of beïng — knowing and liking. 
+It is the state of being — knowing and liking. 
 Who does not like to be or does not know his own existence? 
-But we take no advantage of this joy of beïng conscious, we do not go into it and purify it of all that is foreign to it. 
+But we take no advantage of this joy of being conscious, we do not go into it and purify it of all that is foreign to it. 
 This work of mental self-purification, the cleansing of the psyche, is essential. 
 Just as a speck in the eye, by causing inflammation, may wipe out the world, so the mistaken idea ‘I am the body–mind’ causes the self-concern which obscures the universe. 
-It is useless to fight the sense of beïng a limited and separate person unless the roots of it are laid bare. 
+It is useless to fight the sense of being a limited and separate person unless the roots of it are laid bare. 
 Selfishness is rooted in the mistaken ideas of oneself. 
 Clarification of the mind is <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span>.
 

@@ -2,7 +2,7 @@
 
 >All suffering is born of desire. True love is never frustrated. How can the sense of unity be frustrated? What can be frustrated is the desire for expression. Such desire is of the mind. As with all things mental, frustration is inevitable.
 
-**Questioner:**&ensp;I come from a far off country. I had some inner experiënces on my own and I would like to compare notes. 
+**Questioner:**&ensp;I come from a far off country. I had some inner experiences on my own and I would like to compare notes. 
 
 **Maharaj:**&ensp;By all means. Do you know yourself?
 
@@ -14,7 +14,7 @@
 
 **M:**&ensp;When you feel yourself everywhere in the world, do you remain separate from the world? Or, are you the world?
 
-**Q:**&ensp;Both. Sometimes I feel myself to be neither mind nor body, but one single all-seeïng eye. When I go deeper into it, I find myself to be all I see and the world and myself become one.
+**Q:**&ensp;Both. Sometimes I feel myself to be neither mind nor body, but one single all-seeing eye. When I go deeper into it, I find myself to be all I see and the world and myself become one.
 
 **M:**&ensp;Very well. What about desires? Do you have any?
 
@@ -24,7 +24,7 @@
 
 **Q:**&ensp;What can I do? They come, they go. l look at them. Sometimes I see my body and my mind engaged in fulfilling them.
 
-**M:**&ensp;Whose desires are beïng fulfilled?
+**M:**&ensp;Whose desires are being fulfilled?
 
 **Q:**&ensp;They are a part of the world in which I live. They are just as trees and clouds are there.
 
@@ -46,7 +46,7 @@
 
 **M:**&ensp;Do you need to work?
 
-**Q:**&ensp;I need it for the sake of money. I like it, because it puts me in touch with living beïngs.
+**Q:**&ensp;I need it for the sake of money. I like it, because it puts me in touch with living beings.
 
 **M:**&ensp;What do you need them for?
 
@@ -80,13 +80,13 @@
 
 **Q:**&ensp;How does self-identification happen?
 
-**M:**&ensp;The self by its nature knows itself only. For lack of experiënce whatever it perceives it takes to be itself. Battered, it learns to look out (<span data-tippy-content="Discrimination; discrimination between the true and the false, the real and the unreal. <em>Viveka</em> is an expression of the spiritual consciousness hidden behind the mind. It leads to <em>vairagya</em>.">viveka</span>) and to live alone (<span data-tippy-content="Dispassion, indifference to the pains and pleasures of the material world.">vairagya</span>). When right behaviour (<span data-tippy-content="Rest, repose, tolerance and renunciätion of all sectarian observances. In <em>Vedanta</em> one of the six acquirements (<em>sat-sampat</em>): <em>sama</em>, tranquility; <em>dama</em>, self-restraint; <em>uprati</em>, tolerance; <em>titiksha</em>, endurance; <em>sraddha</em>, faith; and <em>samadhana</em>, equipoise.">uparati</span>), becomes normal, a powerful inner urge (<span data-tippy-content="Right desire, which consists of earnestness to know the Ultimate Principle to attain liberation. In <em>Vedanta</em>, one of the four qualifications of the seeker of the Truth: right discrimination (<em>viveka</em>), right passion (<em>vairagya</em>), right conduct (<em>sat-sampat</em>) and right desire (<em>mumukshattva</em>). <em>Mumukshattva</em> is intense longing for liberation.">mukmukshattva</span>) makes it seek its source. The candle of the body is lighted and all becomes clear and bright (<span data-tippy-content="The light of the Self.">atmaprakash</span>).
+**M:**&ensp;The self by its nature knows itself only. For lack of experience whatever it perceives it takes to be itself. Battered, it learns to look out (<span data-tippy-content="Discrimination; discrimination between the true and the false, the real and the unreal. <em>Viveka</em> is an expression of the spiritual consciousness hidden behind the mind. It leads to <em>vairagya</em>.">viveka</span>) and to live alone (<span data-tippy-content="Dispassion, indifference to the pains and pleasures of the material world.">vairagya</span>). When right behaviour (<span data-tippy-content="Rest, repose, tolerance and renunciation of all sectarian observances. In <em>Vedanta</em> one of the six acquirements (<em>sat-sampat</em>): <em>sama</em>, tranquility; <em>dama</em>, self-restraint; <em>uprati</em>, tolerance; <em>titiksha</em>, endurance; <em>sraddha</em>, faith; and <em>samadhana</em>, equipoise.">uparati</span>), becomes normal, a powerful inner urge (<span data-tippy-content="Right desire, which consists of earnestness to know the Ultimate Principle to attain liberation. In <em>Vedanta</em>, one of the four qualifications of the seeker of the Truth: right discrimination (<em>viveka</em>), right passion (<em>vairagya</em>), right conduct (<em>sat-sampat</em>) and right desire (<em>mumukshattva</em>). <em>Mumukshattva</em> is intense longing for liberation.">mukmukshattva</span>) makes it seek its source. The candle of the body is lighted and all becomes clear and bright (<span data-tippy-content="The light of the Self.">atmaprakash</span>).
 
 **Q:**&ensp;What is the real cause of suffering?
 
 **M:**&ensp;Self-identification with the limited (<span data-tippy-content="Personality, limited self-identification with the body.">vyaktitva</span>). Sensations as such, however strong, do not cause suffering. It is the mind, bewildered by wrong ideas, addicted to thinking, “I am this, I am that”, that fears loss and craves gain and suffers when frustrated.
 
-**Q:**&ensp;A friend of mine used to have horrible dreams night after night. Goïng to sleep would terrorise him. Nothing could help him.
+**Q:**&ensp;A friend of mine used to have horrible dreams night after night. Going to sleep would terrorise him. Nothing could help him.
 
 **M:**&ensp;Company of the truly good (<span data-tippy-content="Association with the true and the wise people.">satsang</span>) would help him.
 
@@ -100,15 +100,15 @@
 
 **Q:**&ensp;Why is life so full of contradictions?
 
-**M:**&ensp;It serves to break down mental pride. We must realise how poor and powerless we are. As long as we delude ourselves by what we imagine ourselves to be, to know, to have, to do, we are in a sad plight indeed. Only in complete self-negation there is a chance to discover our real beïng.
+**M:**&ensp;It serves to break down mental pride. We must realise how poor and powerless we are. As long as we delude ourselves by what we imagine ourselves to be, to know, to have, to do, we are in a sad plight indeed. Only in complete self-negation there is a chance to discover our real being.
 
 **Q:**&ensp;Why so much stress on self-negation?
 
 **M:**&ensp;As much as on self-realisation. The false self must be abandoned before the real self can be found.
 
-**Q:**&ensp;The self you choose to call false is to me most distressingly real. It is the only self I know. What you call the real self is a mere concept, a way of speaking, a creäture of the mind, an attractive ghost. My daily self is not a beauty, I admit, but it is my own and only self. You say I am, or have, another self. Do you see it — is it a reality to you, or do you want me to believe what you yourself don’t see?
+**Q:**&ensp;The self you choose to call false is to me most distressingly real. It is the only self I know. What you call the real self is a mere concept, a way of speaking, a creature of the mind, an attractive ghost. My daily self is not a beauty, I admit, but it is my own and only self. You say I am, or have, another self. Do you see it — is it a reality to you, or do you want me to believe what you yourself don’t see?
 
-**M:**&ensp;Don’t jump to conclusions rashly. The concrete need not be the real, the conceived need not be false. Perceptions based on sensations and shaped by memory imply a perceiver whose nature you never cared to examine. Give it your full attention, examine it with loving care and you will discover heights and depths of beïng which you did not dream of, engrossed as you are in your puny image of yourself.
+**M:**&ensp;Don’t jump to conclusions rashly. The concrete need not be the real, the conceived need not be false. Perceptions based on sensations and shaped by memory imply a perceiver whose nature you never cared to examine. Give it your full attention, examine it with loving care and you will discover heights and depths of being which you did not dream of, engrossed as you are in your puny image of yourself.
 
 **Q:**&ensp;I must be in the right mood to examine myself fruitfully.
 
@@ -124,7 +124,7 @@
 
 **Q:**&ensp;What is the place of sex in love?
 
-**M:**&ensp;Love is a state of beïng. Sex is energy. Love is wise, sex is blind. Once the true nature of love and sex is understood there will be no conflict or confusion.
+**M:**&ensp;Love is a state of being. Sex is energy. Love is wise, sex is blind. Once the true nature of love and sex is understood there will be no conflict or confusion.
 
 **Q:**&ensp;There is so much sex without love.
 

@@ -6,9 +6,9 @@
 
 **Maharaj:**&ensp;It is all a matter of focus. Your mind is focussed on the world; mine is focussed on reality. It is like the moon in daylight — when the sun shines, the moon is hardly visible. Or watch how you take your food. As long as it is in your mouth, you are conscious of it; once swallowed, it does not concern you any longer. It would be troublesome to have it constantly in mind until it is eliminated. The mind should normally be in abeyance — incessant activity is a morbid state. The universe works by itself — that I know. What else do I need to know?
 
-**Q:**&ensp;So a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> knows what he is doïng only when he turns his mind to it; otherwise he just acts, without beïng concerned.
+**Q:**&ensp;So a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> knows what he is doing only when he turns his mind to it; otherwise he just acts, without being concerned.
 
-**M:**&ensp;The average man is not conscious of his body as such. He is conscious of his sensations, feelings and thoughts. Even these, once detachment sets in, move away from the centre of consciousness and happen spontaneöusly and effortlessly.
+**M:**&ensp;The average man is not conscious of his body as such. He is conscious of his sensations, feelings and thoughts. Even these, once detachment sets in, move away from the centre of consciousness and happen spontaneously and effortlessly.
 
 **Q:**&ensp;What then is in the centre of consciousness?
 
@@ -30,9 +30,9 @@
 
 **M:**&ensp;That’s what you say! I know there is a world which includes this body and this mind, but I do not consider them to be more ‘mine’ than other minds and bodies. They are there, in time and space, but I am timeless and spaceless.
 
-**Q:**&ensp;But since all exists by your light, are you not the creätor of the world?
+**Q:**&ensp;But since all exists by your light, are you not the creator of the world?
 
-**M:**&ensp;I am neither the potentiality nor the actualisation nor the actuality of things. In my light they come and go as the specks of dust dancing in the sun-beam. The light illumines the specks but does not depend on them. Nor can it be said to creäte them. It cannot be even said to know them.
+**M:**&ensp;I am neither the potentiality nor the actualisation nor the actuality of things. In my light they come and go as the specks of dust dancing in the sun-beam. The light illumines the specks but does not depend on them. Nor can it be said to create them. It cannot be even said to know them.
 
 **Q:**&ensp;I am asking you a question and you are answering. Are you conscious of the question and the answer?
 
@@ -42,9 +42,9 @@
 
 **M:**&ensp;What does ‘witness’ mean? Mere knowledge. It rained and now the rain is over. I did not get wet. I know it rained, but I am not affected. I just witnessed the rain.
 
-**Q:**&ensp;The fully realised man, spontaneöusly abiding in the supreme state, appears to eat, drink and so on. Is he aware of it or not?
+**Q:**&ensp;The fully realised man, spontaneously abiding in the supreme state, appears to eat, drink and so on. Is he aware of it or not?
 
-**M:**&ensp;That in which consciousness happens, the universal consciousness or mind, we call the ‘ether’ of consciousness. All the objects of consciousness form the universe. What is beyond both, supporting both, is the supreme state, a state of utter stillness and silence. Whoëver goes there disappears. It is unreachable by words or mind. You may call it God or <span data-tippy-content="The Supreme Reality.">Parabrahman</span> or Supreme Reality, but these are names given by the mind. It is the nameless, contentless, effortless and spontaneöus state, beyond beïng and not beïng.
+**M:**&ensp;That in which consciousness happens, the universal consciousness or mind, we call the ‘ether’ of consciousness. All the objects of consciousness form the universe. What is beyond both, supporting both, is the supreme state, a state of utter stillness and silence. Whoëver goes there disappears. It is unreachable by words or mind. You may call it God or <span data-tippy-content="The Supreme Reality.">Parabrahman</span> or Supreme Reality, but these are names given by the mind. It is the nameless, contentless, effortless and spontaneous state, beyond being and not being.
 
 **Q:**&ensp;But does one remain conscious?
 
@@ -58,13 +58,13 @@
 
 **M:**&ensp;God is not running the world.
 
-**Q:**&ensp;Then who is doïng it?
+**Q:**&ensp;Then who is doing it?
 
 **M:**&ensp;Nobody. All happens by itself. You are asking the question and you are supplying the answer. And you know the answer when you ask the question. All is a play in consciousness. All divisions are illusory. You can know the false only. The true you must yourself *be*.
 
 **Q:**&ensp;There is the witnessed consciousness and there is the witnessing consciousness. Is the second the supreme?
 
-**M:**&ensp;There are the two — the person and the witness, the observer. When you see them as one and go beyond, you are in the supreme state. It is not perceivable because it is what makes perception possible. It is beyond beïng and not beïng. It is neither the mirror nor the image in the mirror. It is what *is* — the timeless reality, unbelievably hard and solid.
+**M:**&ensp;There are the two — the person and the witness, the observer. When you see them as one and go beyond, you are in the supreme state. It is not perceivable because it is what makes perception possible. It is beyond being and not being. It is neither the mirror nor the image in the mirror. It is what *is* — the timeless reality, unbelievably hard and solid.
 
 **Q:**&ensp;The *jnani* — is he the witness or the Supreme?
 
@@ -72,13 +72,13 @@
 
 **Q:**&ensp;But he remains a person?
 
-**M:**&ensp;When you believe yourself to be a person, you see persons everywhere. In reality there are no persons, only threads of memories and habits. At the moment of realisation, the person ceases. Identity remains, but identity is not a person — it is inherent in the reality itself. The person has no beïng in itself; it is a reflection in the mind of the witness, the ‘I am’, which again is a mode of beïng.
+**M:**&ensp;When you believe yourself to be a person, you see persons everywhere. In reality there are no persons, only threads of memories and habits. At the moment of realisation, the person ceases. Identity remains, but identity is not a person — it is inherent in the reality itself. The person has no being in itself; it is a reflection in the mind of the witness, the ‘I am’, which again is a mode of being.
 
 **Q:**&ensp;Is the Supreme conscious?
 
-**M:**&ensp;Neither conscious nor unconscious — I am telling you from experiënce.
+**M:**&ensp;Neither conscious nor unconscious — I am telling you from experience.
 
-**Q:**&ensp;<span data-tippy-content="Cognitive consciousness, pure awareness, higher consciousness.">Prajnanam</span> <span data-tippy-content="One of the gods of the Hindu trinity: Brahma, the creätor; Vishnu, the preserver; Shiva, the destroyer.">Brahma</span>. What is this *Prajna*?
+**Q:**&ensp;<span data-tippy-content="Cognitive consciousness, pure awareness, higher consciousness.">Prajnanam</span> <span data-tippy-content="One of the gods of the Hindu trinity: Brahma, the creator; Vishnu, the preserver; Shiva, the destroyer.">Brahma</span>. What is this *Prajna*?
 
 **M:**&ensp;It is the unself-conscious knowledge of life itself.
 
@@ -104,15 +104,15 @@
 
 **Q:**&ensp;If time and space are mere illusions and you are beyond, please tell me — what is the weather in New York? Is it hot or raining there?
 
-**M:**&ensp;How can I tell you? Such things need special training. Or, one can just travel to New York. I may be quite certain that I am beyond time and space, and yet unable to locate myself at will at some point of time and space. I am not interested enough; I see no purpose in undergoïng a special *yogi*c training. I have just heard of New York. To me it is a word. Why should I know more than the word conveys? Every atom may be a universe as complex as ours. Must I know them all? I can — if I train.
+**M:**&ensp;How can I tell you? Such things need special training. Or, one can just travel to New York. I may be quite certain that I am beyond time and space, and yet unable to locate myself at will at some point of time and space. I am not interested enough; I see no purpose in undergoing a special *yogi*c training. I have just heard of New York. To me it is a word. Why should I know more than the word conveys? Every atom may be a universe as complex as ours. Must I know them all? I can — if I train.
 
 **Q:**&ensp;In asking the question about the weather in New York, where did I make the mistake?
 
-**M:**&ensp;The world and the mind are states of beïng. The supreme is not a state. It pervades all states, but it is not a state of something else. It is entirely uncaused, independent, complete in itself; beyond time and space, mind and matter.
+**M:**&ensp;The world and the mind are states of being. The supreme is not a state. It pervades all states, but it is not a state of something else. It is entirely uncaused, independent, complete in itself; beyond time and space, mind and matter.
 
 **Q:**&ensp;By what sign do you recognise it?
 
-**M:**&ensp;That’s the point: it leaves no traces. There is nothing to recognise it by. It must be seen directly, by giveïng up all search for signs and approaches. When all names and forms have been given up, the real is with you. You need not seek it. Plurality and diversity are the play of the mind only. Reality is one.
+**M:**&ensp;That’s the point: it leaves no traces. There is nothing to recognise it by. It must be seen directly, by giving up all search for signs and approaches. When all names and forms have been given up, the real is with you. You need not seek it. Plurality and diversity are the play of the mind only. Reality is one.
 
 **Q:**&ensp;If reality leaves no evidence, there is no speaking about it.
 
@@ -128,7 +128,7 @@
 
 **Q:**&ensp;What is the place of <span data-tippy-content="Superconscious state, profound meditation, trance, rapturous absorption. A practice of <em>yoga</em> in which the seeker (<em>sadhaka</em>) becomes one with the object of his meditation (<em>sadhya</em>), thus attaining unqualified bliss. “<em>Samadhi</em> is a state in which you transcend the bounds of your body, mind and self-identity, and merge into an undifferentiated unity with all that is”.">samadhi</span>?
 
-**M:** Not makeïng use of one’s consciousness is *samadhi*. You just leave your mind alone. You want nothing, neither from your body nor from your mind.
+**M:** Not making use of one’s consciousness is *samadhi*. You just leave your mind alone. You want nothing, neither from your body nor from your mind.
 
 <script>
 export default {

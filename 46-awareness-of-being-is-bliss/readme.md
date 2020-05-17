@@ -1,8 +1,8 @@
-# 46. Awareness of Beïng iIs Bliss
+# 46. Awareness of Being iIs Bliss
 
->… It is a matter of actual experiënce that the self has beïng independent of mind and body. 
-It is beïng, awareness, bliss. 
-Awareness of beïng is bliss.
+>… It is a matter of actual experience that the self has being independent of mind and body. 
+It is being, awareness, bliss. 
+Awareness of being is bliss.
 
 **Questioner:**&ensp;By profession, I am a physician. 
 I began with surgery, continued with psychiatry, and also wrote some books on mental health and healing by faith. 
@@ -26,7 +26,7 @@ And can there be a mind without food?
 **Q:**&ensp;The body is built and maintained by food. 
 Without food the mind usually goes weak. 
 But the mind is not mere food. 
-There is a transforming factor which creätes a mind in the body. 
+There is a transforming factor which creates a mind in the body. 
 What is that transforming factor?
 
 **M:**&ensp;Just like the wood produces fire which is not wood, so does the body produce the mind which is not the body. 
@@ -39,7 +39,7 @@ Is the enjoyer also a result of food, or is it independent?
 **Q:**&ensp;The perceiver is independent.
 
 **M:**&ensp;How do you know? 
-Speak from your own experiënce. 
+Speak from your own experience. 
 You are not the body nor the mind. 
 You say so. 
 How do you know?
@@ -63,19 +63,19 @@ You have not, nor can you have, any other proof.
 You are yourself, you know yourself, you love yourself. 
 Whatever the mind does, it does for the love of its own self. 
 The very nature of the self is love. 
-It is loved, loveïng and loveäble. 
+It is loved, loving and lovable. 
 It is the self that makes the body and the mind so interesting, so very dear. 
 The very attention given to them comes from the self.
 
 **Q:**&ensp;If the self is not the body nor the mind, can it exist without the body and the mind?
 
 **M:**&ensp;Yes, it can. 
-It is a matter of actual experiënce that the self has beïng independent of mind and body. 
-It is beïng, awareness, bliss. 
-Awareness of beïng is bliss.
+It is a matter of actual experience that the self has being independent of mind and body. 
+It is being, awareness, bliss. 
+Awareness of being is bliss.
 
-**Q:**&ensp;It may be a matter of actual experiënce to you, but it is not my case. 
-How can I come to the same experiënce? 
+**Q:**&ensp;It may be a matter of actual experience to you, but it is not my case. 
+How can I come to the same experience? 
 What practices to follow, what exercises to take up?
 
 **M:**&ensp;To know that you are neither body nor mind, watch yourself steadily and live unaffected by your body and mind, completely aloof, as if you were dead. 
@@ -86,11 +86,11 @@ It means you have no vested interests either in the body or in the mind.
 **M:**&ensp;I am not asking you to commit suicide, nor can you. 
 You can only kill the body; you cannot stop the mental process, nor can you put an end to the person you think you are. 
 Just remain unaffected. 
-This complete aloofness, unconcern with mind and body, is the best proof that at the core of your beïng you are neither mind nor body. 
+This complete aloofness, unconcern with mind and body, is the best proof that at the core of your being you are neither mind nor body. 
 What happens to the body and the mind may not be within your power to change, but you can always put an end to your imagining yourself to be body and mind. 
 Whatever happens, remind yourself that only your body and mind are affected, not your self. 
-The more earnest you are at remembering what needs to be remembered, the sooner will you be aware of yourself as you are, for memory will become experiënce. 
-Earnestness reveals beïng. 
+The more earnest you are at remembering what needs to be remembered, the sooner will you be aware of yourself as you are, for memory will become experience. 
+Earnestness reveals being. 
 What is imagined and willed becomes actuality — here lies the danger as well as the way out. 
 
 Tell me — what steps have you taken to separate your real self, that in you which is changeless, from your body and mind?
@@ -111,7 +111,7 @@ Desire carries me away.
 **M:**&ensp;Increase and widen your desires until nothing but reality can fulfill them. 
 It is not desire that is wrong, but its narrowness and smallness. 
 Desire is devotion. 
-By all means, be devoted to the real, the infinite, the eternal heart of beïng. 
+By all means, be devoted to the real, the infinite, the eternal heart of being. 
 Transform desire into love. 
 All you want is to be happy. 
 All your desires, whatever they may be, are expressions of your longing for happiness. 
@@ -138,12 +138,12 @@ Indulgence is the stupid way, austerity is the wise way.
 
 **Q:**&ensp;What is austerity?
 
-**M:**&ensp;Once you have gone through an experiënce, not to go through it again is austerity. 
+**M:**&ensp;Once you have gone through an experience, not to go through it again is austerity. 
 To eschew the unnecessary is austerity. 
 Not to anticipate pleasure or pain is austerity. 
 Having things under control at all times is austerity. 
 Desire by itself is not wrong. 
-It is life itself, the urge to grow in knowledge and experiënce. 
+It is life itself, the urge to grow in knowledge and experience. 
 
 It is the choices you make that are wrong. 
 To imagine that some little thing — food, sex, power, fame — will make you happy is to deceive yourself. 
@@ -173,8 +173,8 @@ It should be the starting point for high adventure.
 
 **Q:**&ensp;Do you advise me to come to India repeatedly?
 
-**M:**&ensp;If you are earnest, you don’t need moveïng about. 
-You are yourself wherever you are and you creäte your own climate. 
+**M:**&ensp;If you are earnest, you don’t need moving about. 
+You are yourself wherever you are and you create your own climate. 
 Locomotion and transportation will not give you salvation. 
 You are not the body and dragging the body from place to place will take you nowhere. 
 Your mind is free to roam the three worlds — make full use of it.
@@ -203,8 +203,8 @@ Unless you have realised them as one with yourself, you cannot love them.
 Don’t pretend to be what you are not; don’t refuse to be what you are. 
 Your love of others is the *result* of self-knowledge, not its cause. 
 Without self-realisation, no virtue is genuine. 
-When you know beyond all doubting that the same life flows through all that is and you are that life, you will love all naturally and spontaneöusly. 
-When you realise the depth and fullness of your love of yourself, you know that every living beïng and the entire universe are included in your affection. 
+When you know beyond all doubting that the same life flows through all that is and you are that life, you will love all naturally and spontaneously. 
+When you realise the depth and fullness of your love of yourself, you know that every living being and the entire universe are included in your affection. 
 But when you look at anything as separate from you, you cannot love it for you are afraid of it. 
 Alienation causes fear and fear deepens alienation. 
 It is a vicious circle. 

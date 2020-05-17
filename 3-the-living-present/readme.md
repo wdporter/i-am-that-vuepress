@@ -1,12 +1,12 @@
 # 3. The Living Present
 
 >There is something exceptional, unique, about the present event, which the 
-previöus or the coming do not have. There is a livingness about it, an 
+previous or the coming do not have. There is a livingness about it, an 
 actuality; it stands out as if illuminated. There is the ‘stamp of reality’ on 
 the actual, which the past and the future do not have.
 
 **Questioner:**&ensp;As I can see, there is nothing wrong with my body or with 
-my real beïng. Both are not of my makeïng and need not be improved upon. What 
+my real being. Both are not of my making and need not be improved upon. What 
 has gone wrong is the ‘inner body’, call it mind, consciousness, <span 
 data-tippy-content="The psyche, mind. Mind in a collective sense, including 
 intelligence (<em>buddhi</em>), ego (<em>ahamkara</em>) and mind 
@@ -33,7 +33,7 @@ and chokes, yet they are there, obscuring and destroying.
 
 **M:**&ensp;Surely, the memory of an event cannot pass for the event itself. 
 Nor can the anticipation. There is something exceptional, unique, about the 
-present event, which the previöus or the coming do not have. There is a 
+present event, which the previous or the coming do not have. There is a 
 livingness about it, an actuality; it stands out as if illuminated. There is 
 the ‘stamp of reality’ on the actual which the past and the future do not have.
 
@@ -41,7 +41,7 @@ the ‘stamp of reality’ on the actual which the past and the future do not ha
 
 **M:**&ensp;There is nothing peculiar in the present event to make it 
 different from the past and future. For a moment, the past was actual and the 
-future will become so. What makes the present so different? Obviöusly, my 
+future will become so. What makes the present so different? Obviously, my 
 presence. I am real for I am always *now*, in the present, and what is with me 
 now shares in my reality. The past is in memory, the future — in imagination. 
 There is nothing in the present event itself that makes it stand out as real. 
@@ -62,13 +62,13 @@ momentary reality to the transient actuality.
 
 **M:**&ensp;You need not say it is unknown, for you see it in constant 
 operation. Since you were born, has it ever changed? Things and thoughts have 
-been changeïng all the time. But the feeling that what is now is real has never 
+been changing all the time. But the feeling that what is now is real has never 
 changed, even in dream.
 
-**Q:**&ensp;In deep sleep there is no experiënce of the present reality.
+**Q:**&ensp;In deep sleep there is no experience of the present reality.
 
 **M:**&ensp;The blankness of deep sleep is due entirely to the lack of 
-specific memories. But a general memory of well-beïng is there. There is a 
+specific memories. But a general memory of well-being is there. There is a 
 difference in feeling when we say, “I was deeply asleep”, from, “I was absent”.
 
 **Q:**&ensp;We shall repeat the question we began with: between life’s source 
@@ -108,7 +108,7 @@ in the part and the part as totally related to the whole?
 
 **Q:**&ensp;The other mind — where does one look for it?
 
-**M:**&ensp;In the goïng beyond the limiting, dividing and opposing mind. In 
+**M:**&ensp;In the going beyond the limiting, dividing and opposing mind. In 
 ending the mental process as we know it. When this comes to an end, that mind 
 is born.
 
@@ -122,7 +122,7 @@ frustrated, ultimately victorious.
 **Q:**&ensp;Between the spirit and the body, is it love that provides the 
 bridge?
 
-**M:**&ensp;What else? Mind creätes the abyss, the heart crosses it.
+**M:**&ensp;What else? Mind creates the abyss, the heart crosses it.
 
 <script>
 export default {

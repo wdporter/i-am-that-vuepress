@@ -21,7 +21,7 @@ What is the attitude of the new self to the old?
 **Q:**&ensp;The new just looks at the old. 
 It is neither friendly nor inimical. 
 It just accepts the old self along with everything else. 
-It does not deny its beïng, but does not accept its value and validity.
+It does not deny its being, but does not accept its value and validity.
 
 **M:**&ensp;The new is the total denial of the old. 
 The permissive new is not really new. 
@@ -35,7 +35,7 @@ What is their relation?
 They coëxist.
 
 **M:**&ensp;When you talk of the old self and new, whom do you have in mind? 
-As there is continuïty in memory between the two, each remembering the other, how can you speak of two selves?
+As there is continuity in memory between the two, each remembering the other, how can you speak of two selves?
 
 **Q:**&ensp;One is a slave to habits, the other is not. 
 One conceptualises, the other is free from all ideas.
@@ -59,24 +59,24 @@ When the new emerges, the old is no longer.
 You cannot speak of the new and the conflict in the same breath. 
 Even the effort of striving for the new self is of the old. 
 Wherever there is conflict, effort, struggle, striving, longing for a change, the new is not. 
-To what extent are you free from the habitual tendency to creäte and perpetuäte conflicts?
+To what extent are you free from the habitual tendency to create and perpetuate conflicts?
 
 **Q:**&ensp;I cannot say that I am now a different man. 
 But I did discover new things about myself, states so unlike what I knew before, that I feel justified in calling them new.
 
 **M:**&ensp;The old self is your own self. 
 The state which sprouts suddenly and without cause carries no stain of self — you may call it ‘God’. 
-What is seedless and rootless, what does not sprout and grow, flower and fruit, what comes into beïng suddenly and in full glory, mysteriously and marvellously, you may call that ‘God’. 
+What is seedless and rootless, what does not sprout and grow, flower and fruit, what comes into being suddenly and in full glory, mysteriously and marvellously, you may call that ‘God’. 
 It is entirely unexpected yet inevitable, infinitely familiar yet most surprising, beyond all hope yet absolutely certain. 
 Because it is without cause, it is without hindrance. 
 It obeys one law only: the law of freedom. 
-Anything that implies a continuïty, a sequence, a passing from stage to stage, cannot be the real. 
+Anything that implies a continuity, a sequence, a passing from stage to stage, cannot be the real. 
 There is no progress in reality; it is final, perfect, unrelated.
 
 **Q:**&ensp;How can I bring it about?
 
-**M:**&ensp;You can do nothing to bring it about, but you can avoid creäting obstacles. 
-Watch your mind, how it comes into beïng, how it operates. 
+**M:**&ensp;You can do nothing to bring it about, but you can avoid creating obstacles. 
+Watch your mind, how it comes into being, how it operates. 
 As you watch your mind, you discover your self as the watcher. 
 When you stand motionless, only watching, you discover your self as the light behind the watcher. 
 The source of light is dark, unknown is the source of knowledge. 
@@ -86,8 +86,8 @@ It is not in the sky nor in the all-pervading ether.
 God is all that is great and wonderful; I am nothing, have nothing, can do nothing. 
 Yet all comes out of me — the source is me; the root, the origin, is me. 
 
-When reality explodes in you, you may call it experiënce of God. 
-Or, rather, it is God experiëncing you. 
+When reality explodes in you, you may call it experience of God. 
+Or, rather, it is God experiencing you. 
 God knows you when you know yourself. 
 Reality is not the result of a process; it is an explosion. 
 It is definitely beyond the mind, but all you can do is to know your mind well. 
@@ -102,7 +102,7 @@ After a day’s work sleep comes.
 Now, do I go to sleep or does inadvertence — characteristic of the sleeping state — come to me? 
 In other words, we are awake because we are asleep. 
 We do not wake up into a really waking state. 
-In the waking state, the world emerges due to ignoreänce and takes one into a waking-dream state. 
+In the waking state, the world emerges due to ignorance and takes one into a waking-dream state. 
 Both sleep and waking are misnomers. 
 We are only dreaming. 
 True waking and true sleeping only the <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> knows. 
@@ -123,7 +123,7 @@ All I ask you to do is to look at yourself, towards yourself, into yourself.
 **Q:**&ensp;To what purpose?
 
 **M:**&ensp;You live, you feel, you think. 
-By giveïng attention to your living, feeling and thinking, you free yourself from them and go beyond them. 
+By giving attention to your living, feeling and thinking, you free yourself from them and go beyond them. 
 Your personality dissolves and only the witness remains. 
 Then you go beyond the witness. 
 Do not ask how it happens. 
@@ -139,29 +139,29 @@ You let them come and go.
 
 **M:**&ensp;Consciousness does not shine by itself. 
 It shines by a light beyond it. 
-Having seen the dream-like quality of consciousness, look for the light in which it appears, which gives it beïng. 
+Having seen the dream-like quality of consciousness, look for the light in which it appears, which gives it being. 
 There is the content of consciousness as well as the awareness of it.
 
 **Q:**&ensp;I know and I know that I know.
 
 **M:**&ensp;Quite so, provided the second knowledge is unconditional and timeless. 
 Forget the known, but remember that you are the knower. 
-Don’t be all the time immersed in your experiënces. 
-Remember that you are beyond the experiëncer, ever unborn and deathless. 
+Don’t be all the time immersed in your experiences. 
+Remember that you are beyond the experiencer, ever unborn and deathless. 
 In remembering it, the quality of pure knowledge will emerge — the light of unconditional awareness.
 
-**Q:**&ensp;At what point does one experiënce reality?
+**Q:**&ensp;At what point does one experience reality?
 
-**M:**&ensp;Experiënce is of change — it comes and goes. 
-Reality is not an event; it cannot be experiënced. 
+**M:**&ensp;Experience is of change — it comes and goes. 
+Reality is not an event; it cannot be experienced. 
 It is not perceivable in the same way as an event is perceivable. 
 If you wait for an event to take place, for the coming of reality, you will wait for ever, for reality neither comes nor goes. 
 It is to be perceived, not expected. 
 It is not to be prepared for and anticipated. 
 But the very longing and search for reality is the movement, operation and action of reality. 
 All you can do is to grasp the central point that reality is not an event and does not happen, and that whatever happens, whatever comes and goes, is not reality. 
-See the event as event only, the transient as transient and experiënce as mere experiënce and you have done all you can. 
-Then you are vulnerable to reality, no longer armoured against it as you were when you gave reality to events and experiënces. 
+See the event as event only, the transient as transient and experience as mere experience and you have done all you can. 
+Then you are vulnerable to reality, no longer armoured against it as you were when you gave reality to events and experiences. 
 But as soon as there is some like or dislike, you have drawn a screen.
 
 **Q:**&ensp;Would you say that reality expresses itself in action rather than in knowledge? 
@@ -181,7 +181,7 @@ All happens as it needs, yet nothing happens.
 I do what seems to be necessary, but at the same time I know that nothing is necessary, that life itself is only make-believe.
 
 **Q:**&ensp;Why then live at all? 
-Why all this unnecessary coming and goïng, waking and sleeping, eating and digesting?
+Why all this unnecessary coming and going, waking and sleeping, eating and digesting?
 
 **M:**&ensp;Nothing is done by me; everything just happens. 
 I do not expect, I do not plan, I just watch events happening, knowing them to be unreal.
@@ -191,7 +191,7 @@ I do not expect, I do not plan, I just watch events happening, knowing them to b
 **M:**&ensp;The three states rotate as usual — there is waking and sleeping and waking again, but they do not happen to me. 
 They just happen. 
 To me nothing ever happens. 
-There is something changeless, motionless, immovable, rock-like, unassailable; a solid mass of pure beïng–consciousness–bliss. 
+There is something changeless, motionless, immovable, rock-like, unassailable; a solid mass of pure being–consciousness–bliss. 
 I am never out of it. 
 Nothing can take me out of it — no torture, no calamity.
 
@@ -207,7 +207,7 @@ I am hardly aware of them.
 **M:**&ensp;There was no coming. 
 It was so — always. 
 There was discovery and it was sudden. 
-Just as at birth you discover the world suddenly, as suddenly I discovered my real beïng.
+Just as at birth you discover the world suddenly, as suddenly I discovered my real being.
 
 **Q:**&ensp;Was it clouded over and your <span data-tippy-content="The practice which produces success, <em>siddhi</em>.">sadhana</span> dissolved the mist? 
 When your true state became clear to you, did it remain clear, or did it get obscured again? 

@@ -1,6 +1,6 @@
 # 16. Desirelessness, the Highest Bliss
 
->The state of craving for anything blocks all deeper experiënce. Nothing of 
+>The state of craving for anything blocks all deeper experience. Nothing of 
 value can happen to a mind which knows exactly what it wants … The highest 
 happiness, the greatest freedom. Desirelessness is the highest bliss.
 
@@ -10,27 +10,27 @@ other things, also abandoning the body?
 
 **Maharaj:**&ensp;What do you mean by ‘realisation’ and ‘liberation’?
 
-**Q:**&ensp;By *realisation* I mean a wonderful experiënce of peace, goodness 
+**Q:**&ensp;By *realisation* I mean a wonderful experience of peace, goodness 
 and beauty, when the world makes sense and there is an all-pervading unity of 
-both substance and essence. While such experiënce does not last, it cannot be 
+both substance and essence. While such experience does not last, it cannot be 
 forgotten. It shines in the mind, both as memory and longing. I know what I am 
-talking about, for I have had such experiënces. 
+talking about, for I have had such experiences. 
 
 By *liberation* I mean to be permanently in that wonderful state. What I am 
 asking is whether liberation is compatible with the survival of the body.
 
 **M:**&ensp;What is wrong with the body?
 
-**Q:**&ensp;The body is so weak and short-lived. It creätes needs and 
+**Q:**&ensp;The body is so weak and short-lived. It creates needs and 
 cravings. It limits one grievously.
 
 **M:**&ensp;So what? Let the physical expressions be limited. But liberation 
 is of the self from its false and self-imposed ideas; it is not contained in 
-some particular experiënce, however gloriöus.
+some particular experience, however glorious.
 
 **Q:**&ensp;Does it last for ever?
 
-**M:**&ensp;All experiënce is time-bound. Whatever has a beginning must have 
+**M:**&ensp;All experience is time-bound. Whatever has a beginning must have 
 an end.
 
 **Q:**&ensp;So liberation, in my sense of the word, does not exist?
@@ -39,10 +39,10 @@ an end.
 free to be conscious. Nobody can take this away from you. Do you ever know 
 yourself non-existing or unconscious?
 
-**Q:**&ensp;I may not remember, but that does not disprove my beïng 
+**Q:**&ensp;I may not remember, but that does not disprove my being 
 occasionally unconscious.
 
-**M:**&ensp;Why not turn away from the experiënce to the experiëncer and 
+**M:**&ensp;Why not turn away from the experience to the experiencer and 
 realise the full import of the only true statement you can make: “I am”?
 
 **Q:**&ensp;How is it done?
@@ -51,22 +51,22 @@ realise the full import of the only true statement you can make: “I am”?
 merge in it until your mind and feeling become one. By repeated attempts you 
 will stumble on the right balance of attention and affection. and your mind 
 will be firmly established in the thought-feeling ‘I am’. Whatever you think, 
-say or do, this sense of immutable and affectionate beïng remains as the 
+say or do, this sense of immutable and affectionate being remains as the 
 ever-present background of the mind.
 
 **Q:**&ensp;And you call it liberation?
 
-**M:**&ensp;I call it normal. What is wrong with beïng, knowing and acting 
+**M:**&ensp;I call it normal. What is wrong with being, knowing and acting 
 effortlessly and happily? Why consider it so unusual as to expect the 
 immediate destruction of the body? What is wrong with the body that it should 
 die? Correct your attitude to your body and leave it alone. Don’t pamper, 
-don’t torture. Just keep it goïng, most of the time below the threshold of 
+don’t torture. Just keep it going, most of the time below the threshold of 
 conscious attention.
 
-**Q:**&ensp;The memory of my wonderful experiënces haunts me. I want them back.
+**Q:**&ensp;The memory of my wonderful experiences haunts me. I want them back.
 
 **M:**&ensp;Because you want them back, you cannot have them. The state of 
-craving for anything blocks all deeper experiënce. Nothing of value can happen 
+craving for anything blocks all deeper experience. Nothing of value can happen 
 to a mind which knows exactly what it wants. For nothing the mind can 
 visualise and want is of much value.
 
@@ -79,7 +79,7 @@ Desirelessness is the highest bliss.
 to fulfill my longings.
 
 **M:**&ensp;You are free to fulfill your longings. As a matter of fact, you 
-are doïng nothing else.
+are doing nothing else.
 
 **Q:**&ensp;I try, but there are obstacles which leave me frustrated.
 
@@ -103,14 +103,14 @@ energy is infinite — because He wants nothing for Himself. Be like Him and all
 your desires will be fulfilled. The higher your aims and vaster your desires, 
 the more energy you will have for their fulfillment. Desire the good of all 
 and the universe will work with you. But if you want your own pleasure, you 
-must earn it the hard way. Before desireïng, deserve.
+must earn it the hard way. Before desiring, deserve.
 
 **Q:**&ensp;I am engaged in the study of philosophy, sociology and education. 
 I think more mental development is needed before I can dream of 
 self-realisation. Am I on the right track?
 
 **M:**&ensp;To earn a livelihood some specialised knowledge is needed. General 
-knowledge develops the mind, no doubt. But if you are goïng to spend your life 
+knowledge develops the mind, no doubt. But if you are going to spend your life 
 in amassing knowledge, you build a wall around yourself. To go beyond the 
 mind, a well-furnished mind is not needed.
 
@@ -120,19 +120,19 @@ mind, a well-furnished mind is not needed.
 
 **Q:**&ensp;What shall I find beyond the mind?
 
-**M:**&ensp;The direct experiënce of beïng, knowing and loving.
+**M:**&ensp;The direct experience of being, knowing and loving.
 
 **Q:**&ensp;How does one go beyond the mind?
 
 **M:**&ensp;There are many starting points — they all lead to the same goal. 
 You may begin with selfless work, abandoning the fruits of action; you may 
-then give up thinking and end in giveïng up all desires. Here, giveïng up (<span 
-data-tippy-content="Renunciätion. <em>Tyaga</em> is the renunciätion of the 
+then give up thinking and end in giving up all desires. Here, giving up (<span 
+data-tippy-content="Renunciation. <em>Tyaga</em> is the renunciation of the 
 fruits of all works: i.e., the <em>tyagi</em> should perform <em>karma</em> 
 with detachment and with no desire for results.">tyaga</span>) is the 
 operational factor. Or, you may not bother about any thing you want, think or 
 do and just stay put in the thought and feeling ‘I am’, focussing ‘I am’ 
-firmly in your mind. All kinds of experiënce may come to you — remain unmoved 
+firmly in your mind. All kinds of experience may come to you — remain unmoved 
 in the knowledge that all perceivable is transient and only the ‘I am’ endures.
 
 **Q:**&ensp;I cannot give all my life to such practices. I have my duties to attend to.
@@ -141,7 +141,7 @@ in the knowledge that all perceivable is transient and only the ‘I am’ endur
 emotionally involved and which is beneficial and does not cause suffering will 
 not bind you. You may be engaged in several directions and work with enormous 
 zest, yet remain inwardly free and quiet, with a mirror-like mind, which 
-reflects all, without beïng affected.
+reflects all, without being affected.
 
 **Q:**&ensp;Is such a state realisable?
 
@@ -170,7 +170,7 @@ to the goal, for he is the goal.
 
 **Q:**&ensp;The inner teacher is not easily reached.
 
-**M:**&ensp;Since he is in you and with you, the difficulty cannot be seriöus. 
+**M:**&ensp;Since he is in you and with you, the difficulty cannot be serious. 
 Look within, and you will find him.
 
 **Q:**&ensp;When I look within, I find sensations and perceptions, thoughts 
@@ -234,13 +234,13 @@ which you pass beyond.
 
 **Q:**&ensp;What is the purpose of meditation?
 
-**M:**&ensp;Seeïng the false as the false is meditation. This must go on all 
+**M:**&ensp;Seeing the false as the false is meditation. This must go on all 
 the time.
 
 **Q:**&ensp;We are told to meditate regularly.
 
 **M:**&ensp;Deliberate daily exercise in discrimination between the true and 
-the false and renunciätion of the false is meditation. There are many kinds of 
+the false and renunciation of the false is meditation. There are many kinds of 
 meditation to begin with, but they all merge finally into one.
 
 **Q:**&ensp;Please tell me which road to self-realisation is the shortest.

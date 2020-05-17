@@ -1,10 +1,10 @@
 # 44. ‘I Am’ Is True, All Else Is Inference
 
 >By no effort of logic or imagination can you change the ‘I am’ into ‘I am not’. 
-In the very denial of your beïng you assert it. 
+In the very denial of your being you assert it. 
 Once you realise that the world is your own projection, you are free of it.
 
-**Maharaj:**&ensp;The perceiver of the world – is he prior to the world, or does he come into beïng along with the world?
+**Maharaj:**&ensp;The perceiver of the world – is he prior to the world, or does he come into being along with the world?
 
 **Questioner:**&ensp;What a strange question! 
 Why do you ask such questions?
@@ -12,12 +12,12 @@ Why do you ask such questions?
 **M:**&ensp;Unless you know the correct answer, you will not find peace.
 
 **Q:**&ensp;When I wake up in the morning, the world is already there, waiting for me. 
-Surely the world comes into beïng first. 
+Surely the world comes into being first. 
 I do, but much later, at the earliest at my birth. 
 The body mediates between me and the world. 
 Without the body there would be neither me nor the world.
 
-**M:**&ensp;The body appears in your mind, your mind is the content of your consciousness, you are the motionless witness of the river of consciousness which changes eternally without changeïng you in any way. 
+**M:**&ensp;The body appears in your mind, your mind is the content of your consciousness, you are the motionless witness of the river of consciousness which changes eternally without changing you in any way. 
 Your own changelessness is so obvious that you do not notice it. 
 Have a good look at yourself and all these misapprehensions and misconceptions will dissolve. 
 Just as all the little watery lives are in water and cannot be without water, so all the universe is in you and cannot be without you.
@@ -32,23 +32,23 @@ The word exists in memory, memory comes into consciousness, consciousness exists
 
 **Q:**&ensp;Still, I do not see how can the world be in me when the opposite, “I am in the world” is so obvious.
 
-**M:**&ensp;Even to say, “I am the world, the world is me”, is a sign of ignoreänce. 
-But when I keep in mind and confirm in life my identity with the world, a power arises in me which destroys the ignoreänce, burns it up completely.
+**M:**&ensp;Even to say, “I am the world, the world is me”, is a sign of ignorance. 
+But when I keep in mind and confirm in life my identity with the world, a power arises in me which destroys the ignorance, burns it up completely.
 
-**Q:**&ensp;Is the witness of ignoreänce separate from ignoreänce? 
-Is not to say, “I am ignorant” a part of ignoreänce?
+**Q:**&ensp;Is the witness of ignorance separate from ignorance? 
+Is not to say, “I am ignorant” a part of ignorance?
 
 **M:**&ensp;Of course. 
 All I can say truly is, “I am”; all else is inference. 
 But the inference has become a habit. 
-Destroy all habits of thinking and seeïng. 
+Destroy all habits of thinking and seeing. 
 The sense ‘I am’ is the manifestation of a deeper cause, which you may call self, God, Reality or by any other name. 
 The ‘I am’ is in the world, but it is the key which can open the door out of the world. 
 The moon dancing on the water is seen in the water, but it is caused by the moon in the sky and not by the water.
 
 **Q:**&ensp;Still the main point seems to escape me. 
-I can admit that the world in which I live and move and have my beïng is of my own creätion, a projection of myself, of my imagination, on the unknown world, the world as it is, the world of ‘absolute matter’, whatever this matter may be. 
-The world of my own creätion may be quite unlike the ultimate, the real world, just like the cinema screen is quite unlike the pictures projected onto it. 
+I can admit that the world in which I live and move and have my being is of my own creation, a projection of myself, of my imagination, on the unknown world, the world as it is, the world of ‘absolute matter’, whatever this matter may be. 
+The world of my own creation may be quite unlike the ultimate, the real world, just like the cinema screen is quite unlike the pictures projected onto it. 
 Nevertheless, this absolute world exists, quite independent of myself.
 
 **M:**&ensp;Quite so — the world of Absolute Reality, onto which your mind has projected a world of relative unreality, is independent of yourself, for the very simple reason that it *is* yourself. 
@@ -76,32 +76,32 @@ Why not question your faith?
 No doubt, this world is painted by you on the screen of consciousness and is entirely your own private world. 
 Only your sense ‘I am’, though in the world, is not of the world. 
 By no effort of logic or imagination can you change the ‘I am’ into ‘I am not’. 
-In the very denial of your beïng you assert it. 
+In the very denial of your being you assert it. 
 Once you realise that the world is your own projection, you are free of it. 
 You need not free yourself of a world that does not exist except in your own imagination! 
 However the picture is, beautiful or ugly, you are painting it and you are not bound by it. 
-Realise that there is nobody to force it on you, that it is due to the habit of takeïng the imaginary to be real. 
+Realise that there is nobody to force it on you, that it is due to the habit of takeing the imaginary to be real. 
 See the Imaginary as imaginary and be free of fear. 
 
 Just as the colours in this carpet are brought out by light but light is not the colour, so is the world caused by you but you are not the world. 
 
-That which creätes and sustains the world — you may call it God or providence; but ultimately, you are the proof that God exists, not the other way round. 
+That which creates and sustains the world — you may call it God or providence; but ultimately, you are the proof that God exists, not the other way round. 
 For, before any question about God can be put, you must be there to put it.
 
-**Q:**&ensp;God is an experiënce in time, but the experiëncer is timeless.
+**Q:**&ensp;God is an experience in time, but the experiencer is timeless.
 
-**M:**&ensp;Even the experiëncer is secondary. 
+**M:**&ensp;Even the experiencer is secondary. 
 Primary is the infinite expanse of consciousness, the eternal possibility, the immeasurable potential of all that was, is and will be. 
 When you look at anything, it is the ultimate you see, but you imagine that you see a cloud or a tree. 
 
 Learn to look without imagination, to listen without distortion; that is all. 
-Stop attributing names and shapes to the essentially nameless and formless; realise that every mode of perception is subjective, that what is seen or heard, touched or smelled, felt or thought, expected or imagined is in the mind and not in reality, and you will experiënce peace and freedom from fear. 
+Stop attributing names and shapes to the essentially nameless and formless; realise that every mode of perception is subjective, that what is seen or heard, touched or smelled, felt or thought, expected or imagined is in the mind and not in reality, and you will experience peace and freedom from fear. 
 
-Even the sense of ‘I am’ is composed of the pure light and the sense of beïng. 
+Even the sense of ‘I am’ is composed of the pure light and the sense of being. 
 The ‘I’ is there even without the ‘am’. 
 So is the pure light there whether you say ‘I’ or not. 
 Become aware of that pure light and you will never lose it. 
-The beïngness in beïng, the awareness in consciousness, the interest in every experiënce — it is not describable, yet perfectly accessible, for there is nothing else.
+The beingness in being, the awareness in consciousness, the interest in every experience — it is not describable, yet perfectly accessible, for there is nothing else.
 
 **Q:**&ensp;You talk of reality directly — as the all-pervading, ever-present, eternal, all-knowing, all-energising first cause. 
 There are other teachers who refuse to discuss reality at all. 
@@ -119,18 +119,18 @@ Many kinds of food are needed to make the child grow; but the act of eating is t
 Theoretically, all approaches are good; in practice, and at a given moment, you proceed by one road only. 
 Sooner or later you are bound to discover that if you really want to find, you must dig at one place only — within. 
 
-Neither your body nor mind can give you what you seek — the beïng and knowing your self and the great peace that comes with it.
+Neither your body nor mind can give you what you seek — the being and knowing your self and the great peace that comes with it.
 
 **Q:**&ensp;Surely there is something valid and valuable in every approach.
 
 **M:**&ensp;In each case, the value lies in bringing you to the need of seeking within. 
-Playing with variöus approaches may be due to resistance to goïng within, to the fear of having to abandon the illusion of beïng something or somebody in particular. 
+Playing with various approaches may be due to resistance to going within, to the fear of having to abandon the illusion of being something or somebody in particular. 
 To find water you do not dig small pits all over the place, but drill deep in one place only. 
 Similarly, to find your self you have to explore your self. 
 When you realise that you are the light of the world, you will also realise that you are the love of it; that to know is to love and to love is to know. 
 
 Of all the affections, the love of oneself comes first. 
-Your love of the world is the reflection of your love of yourself, for your world is of your own creätion. 
+Your love of the world is the reflection of your love of yourself, for your world is of your own creation. 
 Light and love are impersonal, but they are reflected in your mind as knowing and wishing oneself well. 
 We are always friendly towards ourselves, but not always wise. 
 A <span data-tippy-content="One who practices <em>yoga</em>.">yogi</span> is a man whose goodwill is allied with wisdom.

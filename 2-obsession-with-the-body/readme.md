@@ -2,7 +2,7 @@
 
 >…get rid of the tendency to define yourself. All definitions apply to your 
 body only and to its expressions. Once this obsession with the body leaves, 
-you will revert to your natural state spontaneöusly and effortlessly.
+you will revert to your natural state spontaneously and effortlessly.
 
 **Questioner:**&ensp;Maharaj, you are sitting in front of me and I am here at 
 your feet. What is the basic difference between us?
@@ -51,7 +51,7 @@ happy. And miracles happen around you.
 **M:**&ensp;I know nothing about miracles, and I wonder whether nature admits 
 exceptions to her laws, unless we agree that everything is a miracle. As to my 
 mind, there is no such thing. There is consciousness in which everything 
-happens. It is quite obvious and within the experiënce of everybody. You just 
+happens. It is quite obvious and within the experience of everybody. You just 
 do not look carefully enough. Look well, and see what I see.
 
 **Q:**&ensp;What do you see?
@@ -64,7 +64,7 @@ motives and the results of your actions. Study the prison you have
 inadvertantly built around yourself. By knowing what you are not, you come to 
 know yourself. The way back to your self is through refusal and rejection. One 
 thing is certain: the real is not imaginary; it is not a product of the mind. 
-Even the sense ‘I am’ is not continuöus, though it is a useful pointer, it 
+Even the sense ‘I am’ is not continuous, though it is a useful pointer, it 
 shows where to seek but not what to seek. Just have a good look at it. Once 
 you are convinced that you cannot say truthfully about your self anything 
 except, “I Am” and that nothing that can be pointed at can be your self, the 
@@ -72,11 +72,11 @@ need for the ‘I am’ is over — you are no longer intent on verbalising what
 are. All you need is to get rid of the tendency to define yourself. All 
 definitions apply to your body only and to its expressions. Once this 
 obsession with the body leaves, you will revert to your natural state 
-spontaneöusly and effortlessly. The only difference between us is that I am 
+spontaneously and effortlessly. The only difference between us is that I am 
 aware of my natural state, while you are bemused. Just like gold made into 
 ornaments has no advantage over gold dust except when the mind makes it so, so 
-are we one in beïng — we differ only in appearance. We discover it by beïng 
-earnest, by searching, enquiring, questioning daily and hourly, by giveïng 
+are we one in being — we differ only in appearance. We discover it by being 
+earnest, by searching, enquiring, questioning daily and hourly, by giving 
 one’s life to this discovery.
 
 <script>

@@ -1,8 +1,8 @@
 # 18. To Know What You Are, Find What You Are Not
 
->To know what you are, you must first investigate and know what you are not. And to know what you are not, you must watch yourself carefully, rejecting all that does not necessarily go with the basic fact: ‘I am’ … Our usual attitude is of ‘I am this’. Consistently and perseveringly separate the ‘I am’ from ‘this’ or ‘that’ and try to feel what it means to <span style=font-style:normal>be</span>, just to <span style=font-style:normal>be</span>, without beïng ‘this’ or ‘that’.
+>To know what you are, you must first investigate and know what you are not. And to know what you are not, you must watch yourself carefully, rejecting all that does not necessarily go with the basic fact: ‘I am’ … Our usual attitude is of ‘I am this’. Consistently and perseveringly separate the ‘I am’ from ‘this’ or ‘that’ and try to feel what it means to <span style=font-style:normal>be</span>, just to <span style=font-style:normal>be</span>, without being ‘this’ or ‘that’.
 
-**Questioner:**&ensp;Your way of describing the universe as consisting of matter, mind and spirit is one of the many. There are other patterns to which the universe is expected to conform and one is at a loss to know which pattern is true and which is not. One ends by suspecting that all patterns are only verbal and that no pattern can contain reality. According to you, reality consists of three expanses: The expanse of matter–energy (<span data-tippy-content="The great expanse of existence, the universe of matter and energy.">mahadakash</span>), the expanse of consciousness (<span data-tippy-content="[<em>chit</em>, to perceive + <em>akash</em>, expanse, sky] <em>Brahman</em> in its aspect of limitless knowledge, the expanse of awareness. Variöusly used for consciousness, individual as well as universal.">chidakash</span>) and of pure spirit (<span data-tippy-content="The great expanse, the timeless and spaceless reality; the Absolute beïng.">paramakash</span>). The first is something that has both movement and inertia. That one we perceive. We also know that we perceive — we are conscious and also aware of beïng conscious. Thus, we have two: matter–energy and consciousness. Matter seems to be in space while energy is always in time, beïng connected with change and measured by the rate of change. Consciousness seems to be somehow here and now, in a single point of time and space. But you seem to suggest that consciousness too is universal — which makes it timeless, spaceless and impersonal. I can somehow understand that there is no contradiction between the timeless and spaceless and the here and now, but impersonal consciousness I cannot fathom. To me consciousness is always focalised, centred and individualised in a person. You seem to say that there can be perceiving without a perceiver, knowing without a knower, loving without a lover, acting without an actor. I feel that the trinity of knowing, knower and known can be seen in every movement of life. Consciousness implies a conscious beïng, an object of consciousness and the fact of beïng conscious. That which is conscious I call a person. A person lives in the world, is a part of it, affects it and is affected by it. 
+**Questioner:**&ensp;Your way of describing the universe as consisting of matter, mind and spirit is one of the many. There are other patterns to which the universe is expected to conform and one is at a loss to know which pattern is true and which is not. One ends by suspecting that all patterns are only verbal and that no pattern can contain reality. According to you, reality consists of three expanses: The expanse of matter–energy (<span data-tippy-content="The great expanse of existence, the universe of matter and energy.">mahadakash</span>), the expanse of consciousness (<span data-tippy-content="[<em>chit</em>, to perceive + <em>akash</em>, expanse, sky] <em>Brahman</em> in its aspect of limitless knowledge, the expanse of awareness. Variously used for consciousness, individual as well as universal.">chidakash</span>) and of pure spirit (<span data-tippy-content="The great expanse, the timeless and spaceless reality; the Absolute being.">paramakash</span>). The first is something that has both movement and inertia. That one we perceive. We also know that we perceive — we are conscious and also aware of being conscious. Thus, we have two: matter–energy and consciousness. Matter seems to be in space while energy is always in time, being connected with change and measured by the rate of change. Consciousness seems to be somehow here and now, in a single point of time and space. But you seem to suggest that consciousness too is universal — which makes it timeless, spaceless and impersonal. I can somehow understand that there is no contradiction between the timeless and spaceless and the here and now, but impersonal consciousness I cannot fathom. To me consciousness is always focalised, centred and individualised in a person. You seem to say that there can be perceiving without a perceiver, knowing without a knower, loving without a lover, acting without an actor. I feel that the trinity of knowing, knower and known can be seen in every movement of life. Consciousness implies a conscious being, an object of consciousness and the fact of being conscious. That which is conscious I call a person. A person lives in the world, is a part of it, affects it and is affected by it. 
 
 **Maharaj:**&ensp;Why don’t you enquire how real the world and the person are?
 
@@ -44,7 +44,7 @@
 
 **Q:**&ensp;Only in the sense of remaining alive. Not as a person.
 
-**M:**&ensp;Since you admit that as a person you have only intermittent existence, can you tell me what are you in the intervals in between experiëncing yourself as a person?
+**M:**&ensp;Since you admit that as a person you have only intermittent existence, can you tell me what are you in the intervals in between experiencing yourself as a person?
 
 **Q:**&ensp;I am, but not as a person. Since I am not conscious of myself in the intervals, I can only say that I exist, but not as a person.
 
@@ -52,7 +52,7 @@
 
 **Q:**&ensp;I would call it rather unconscious existence: I am, but I do not know that I am.
 
-**M:**&ensp;You have said just now, “I am, but I do not know that I am”. Could you possibly say it about your beïng in an unconscious state?
+**M:**&ensp;You have said just now, “I am, but I do not know that I am”. Could you possibly say it about your being in an unconscious state?
 
 **Q:**&ensp;No, I could not.
 
@@ -92,11 +92,11 @@
 
 **Q:**&ensp;I am the same person in my dreams.
 
-**M:**&ensp;Agreed. Let us consider them together — waking and dreaming. The difference is merely in continuïty. Were your dreams consistently continuöus, bringing back night after night the same surroundings and the same people, you would be at a loss to know which is the waking and which is the dream. Henceforth, when we talk of the waking state, we shall include the dream state too.
+**M:**&ensp;Agreed. Let us consider them together — waking and dreaming. The difference is merely in continuity. Were your dreams consistently continuous, bringing back night after night the same surroundings and the same people, you would be at a loss to know which is the waking and which is the dream. Henceforth, when we talk of the waking state, we shall include the dream state too.
 
 **Q:**&ensp;Agreed. I am a person in a conscious relation with a world. 
 
-**M:**&ensp;Are the world and the conscious relation with it essential to your beïng a person?
+**M:**&ensp;Are the world and the conscious relation with it essential to your being a person?
 
 **Q:**&ensp;Even immersed in a cave, I remain a person.
 
@@ -124,11 +124,11 @@
 
 **Q:**&ensp;It cannot be a dream, surely.
 
-**M:**&ensp;Even a dream has existence when it is cognised and enjoyed or endured. Whatever you think and feel has beïng. But it may not be what you take it to be. What you think to be a person may be something quite different.
+**M:**&ensp;Even a dream has existence when it is cognised and enjoyed or endured. Whatever you think and feel has being. But it may not be what you take it to be. What you think to be a person may be something quite different.
 
 **Q:**&ensp;I am what I know myself to be.
 
-**M:**&ensp;You cannot possibly say that you are what you think yourself to be! Your ideas about yourself change from day to day and from moment to moment. Your self image is the most changeful thing you have. It is utterly vulnerable, at the mercy of a passerby. A bereavement, the loss of a job, an insult, and your image of yourself, which you call your person, changes deeply. To know what you are, you must first investigate and know what you are not. And to know what you are not, you must watch yourself carefully, rejecting all that does not necessarily go with the basic fact: ‘I am’. The ideas: I am born at a given place, at a given time, from my parents, and now I am so-and-so, living at, married to, father of, employed by and so on, are not inherent in the sense ‘I am’. Our usual attitude is of ‘I am this’. Consistently and perseveringly separate the ‘I am’ from ‘this’ or ‘that’ and try to feel what it means to *be*, just to *be*, without beïng ‘this’ or ‘that’. All our habits go against it and the task of fighting them is long and hard sometimes, but clear understanding helps significantly. The more clearly you understand that on the level of the mind you can be described in negative terms only, the more quickly you will come to the end of your search and realise your limitless beïng.
+**M:**&ensp;You cannot possibly say that you are what you think yourself to be! Your ideas about yourself change from day to day and from moment to moment. Your self image is the most changeful thing you have. It is utterly vulnerable, at the mercy of a passerby. A bereavement, the loss of a job, an insult, and your image of yourself, which you call your person, changes deeply. To know what you are, you must first investigate and know what you are not. And to know what you are not, you must watch yourself carefully, rejecting all that does not necessarily go with the basic fact: ‘I am’. The ideas: I am born at a given place, at a given time, from my parents, and now I am so-and-so, living at, married to, father of, employed by and so on, are not inherent in the sense ‘I am’. Our usual attitude is of ‘I am this’. Consistently and perseveringly separate the ‘I am’ from ‘this’ or ‘that’ and try to feel what it means to *be*, just to *be*, without being ‘this’ or ‘that’. All our habits go against it and the task of fighting them is long and hard sometimes, but clear understanding helps significantly. The more clearly you understand that on the level of the mind you can be described in negative terms only, the more quickly you will come to the end of your search and realise your limitless being.
 
 <script>
 export default {

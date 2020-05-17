@@ -1,6 +1,6 @@
 # 70. God Is the End of All Desire and Knowledge
 
-> … God is the end of all desire and knowledge. … All desires must be given up because by desireïng you take the shape of your desires. When no desires remain, you revert to your natural state.
+> … God is the end of all desire and knowledge. … All desires must be given up because by desiring you take the shape of your desires. When no desires remain, you revert to your natural state.
 
 **Maharaj:**&ensp;Where are you coming from? What have you come for?
 
@@ -18,19 +18,19 @@
 
 **Q:**&ensp;But would he recognise you as a liberated man?
 
-**M:**&ensp;Of course. As a man recognises a man, so a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> recognises a *jnani*. You cannot appreciate what you have not experiënced. You are what you think yourself to be, but you cannot think yourself to be what you have not experiënced.
+**M:**&ensp;Of course. As a man recognises a man, so a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> recognises a *jnani*. You cannot appreciate what you have not experienced. You are what you think yourself to be, but you cannot think yourself to be what you have not experienced.
 
 **Q:**&ensp;To become an engineer, I must learn engineering. To become God, what must I learn?
 
 **M:**&ensp;You must unlearn everything. God is the end of all desire and knowledge.
 
-**Q:**&ensp;You mean to say that I become God merely by giveïng up the desire to become God?
+**Q:**&ensp;You mean to say that I become God merely by giving up the desire to become God?
 
-**M:**&ensp;All desires must be given up because by desireïng you take the shape of your desires. When no desires remain, you revert to your natural state.
+**M:**&ensp;All desires must be given up because by desiring you take the shape of your desires. When no desires remain, you revert to your natural state.
 
 **Q:**&ensp;How do I come to know that I have achieved perfection?
 
-**M:**&ensp;You cannot know perfection — you can know only imperfection. For knowledge to be, there must be separation and disharmony. You can know what you are not, but you cannot know your real beïng. You can only be what you are. The entire approach is through understanding, which is in the seeïng of the false as false. But to understand, you must observe from outside.
+**M:**&ensp;You cannot know perfection — you can know only imperfection. For knowledge to be, there must be separation and disharmony. You can know what you are not, but you cannot know your real being. You can only be what you are. The entire approach is through understanding, which is in the seeing of the false as false. But to understand, you must observe from outside.
 
 **Q:**&ensp;The *Vedant*ic concept of *maya*, illusion, applies to the manifested. Therefore our knowledge of the manifested is unreliable. But we should be able to trust our knowledge of the unmanifested.
 
@@ -40,15 +40,15 @@
 
 **M:**&ensp;The knower knows the known. Do you know the knower? Who is the knower of the knower? You want to know the unmanifested. Can you say you know the manifested?
 
-**Q:**&ensp;I know things and ideas and their relations. It is the sum total of all my experiënces.
+**Q:**&ensp;I know things and ideas and their relations. It is the sum total of all my experiences.
 
 **M:**&ensp;All?
 
-**Q:**&ensp;Well, all actual experiënces. I admit I cannot know what did not happen.
+**Q:**&ensp;Well, all actual experiences. I admit I cannot know what did not happen.
 
-**M:**&ensp;If the manifested is the sum total of all actual experiëncers, including their experiënces, how much of the total do you know? A very small part indeed. And what is the little you know?
+**M:**&ensp;If the manifested is the sum total of all actual experiencers, including their experiences, how much of the total do you know? A very small part indeed. And what is the little you know?
 
-**Q:**&ensp;Some sensory experiënces as related to myself.
+**Q:**&ensp;Some sensory experiences as related to myself.
 
 **M:**&ensp;Not even that. You only know that you reäct. Who reäcts and to what, you do not know. You know on contact that you exist — ‘I am’. The ‘I am this’, ‘I am that’ are imaginary.
 
@@ -66,21 +66,21 @@
 
 **Q:**&ensp;I came to India in search of a <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span> teacher. I am still in search.
 
-**M:**&ensp;What kind of *yoga* do you want to practice, the *yoga* of getting, or the *yoga* of giveïng up?
+**M:**&ensp;What kind of *yoga* do you want to practice, the *yoga* of getting, or the *yoga* of giving up?
 
 **Q:**&ensp;Don’t they come to the same in the end?
 
-**M:**&ensp;How can they? One enslaves, the other liberates. The motive matters supremely. Freedom comes through renunciätion. All possession is bondage.
+**M:**&ensp;How can they? One enslaves, the other liberates. The motive matters supremely. Freedom comes through renunciation. All possession is bondage.
 
-**Q:**&ensp;What I have the strength and the courage to hold on to, why should I give it up? And if I have not the strength, how can I give up? I do not understand this need for giveïng up. When I want something, why should I not pursue it? Renunciätion is for the weak.
+**Q:**&ensp;What I have the strength and the courage to hold on to, why should I give it up? And if I have not the strength, how can I give up? I do not understand this need for giving up. When I want something, why should I not pursue it? Renunciation is for the weak.
 
-**M:**&ensp;If you do not have the wisdom and the strength to give up, just look at your possessions. Your mere looking will burn them up. If you can stand outside your mind, you will soon find that total renunciätion of possessions and desires is the most obviöusly reasonable thing to do. 
+**M:**&ensp;If you do not have the wisdom and the strength to give up, just look at your possessions. Your mere looking will burn them up. If you can stand outside your mind, you will soon find that total renunciation of possessions and desires is the most obviously reasonable thing to do. 
 
-You creäte the world and then worry about it. Becoming selfish makes you weak. If you think you have the strength and courage to desire, it is because you are young and inexperiënced. Invariably the object of desire destroys the means of acquiring it and then withers away itself. It is all for the best because it teaches you to shun desire like poison.
+You create the world and then worry about it. Becoming selfish makes you weak. If you think you have the strength and courage to desire, it is because you are young and inexperienced. Invariably the object of desire destroys the means of acquiring it and then withers away itself. It is all for the best because it teaches you to shun desire like poison.
 
 **Q:**&ensp;How am I to practice desirelessness?
 
-**M:**&ensp;No need of practice. No need of any acts of renunciätion. Just turn your mind away, that is all. Desire is merely the fixation of the mind on an idea. Get it out of its groove by denying it attention.
+**M:**&ensp;No need of practice. No need of any acts of renunciation. Just turn your mind away, that is all. Desire is merely the fixation of the mind on an idea. Get it out of its groove by denying it attention.
 
 **Q:**&ensp;That is all?
 
@@ -90,23 +90,23 @@ You creäte the world and then worry about it. Becoming selfish makes you weak. 
 
 **M:**&ensp;You can have all the emotions you want, but beware of reäctions, of induced emotions. Be entirely self-determined and ruled from within, not from without. 
 
-Merely giveïng up a thing to secure a better one is not true relinquishment. Give it up because you see its valuelessness. As you continue giveïng up, you will find that you grow spontaneöusly in intelligence, power and inexhaustible love and joy.
+Merely giving up a thing to secure a better one is not true relinquishment. Give it up because you see its valuelessness. As you continue giving up, you will find that you grow spontaneously in intelligence, power and inexhaustible love and joy.
 
 **Q:**&ensp;Why so much insistence on relinquishing all desires and fears? Are they not natural?
 
-**M:**&ensp;They are not. They are entirely mind-made. You have to give up everything to know that you need nothing, not even your body. Your needs are unreal and your efforts are meaningless. You imagine that your possessions protect you. In reality they make you vulnerable. Realise yourself as apart from all that can be pointed at as ‘this’ or ‘that’. You are unreachable by any sensory experiënce or verbal construction. Turn away from them. Refuse to impersonate.
+**M:**&ensp;They are not. They are entirely mind-made. You have to give up everything to know that you need nothing, not even your body. Your needs are unreal and your efforts are meaningless. You imagine that your possessions protect you. In reality they make you vulnerable. Realise yourself as apart from all that can be pointed at as ‘this’ or ‘that’. You are unreachable by any sensory experience or verbal construction. Turn away from them. Refuse to impersonate.
 
 **Q:**&ensp;After I have heard you, what am I to do?
 
 **M:**&ensp;Merely hearing will not help you much. You must keep it in mind and ponder it and try to understand the state of mind which makes me say what I say. I speak from truth; stretch your hand and take it. You are not what you think yourself to be, I assure you. The image you have of yourself is made up from memories and is purely accidental.
 
-**Q:**&ensp;What I am is the result of my <span data-tippy-content="Action or “the fruits of action”. <em>Karma</em> is of three kinds: <em>sanchita</em> (accumulated from previöus births), <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the present life) and <em>agami</em> (the current <em>karma</em> the result of which will fructify in future).">karma</span>.
+**Q:**&ensp;What I am is the result of my <span data-tippy-content="Action or “the fruits of action”. <em>Karma</em> is of three kinds: <em>sanchita</em> (accumulated from previous births), <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the present life) and <em>agami</em> (the current <em>karma</em> the result of which will fructify in future).">karma</span>.
 
 **M:**&ensp;What you appear to be, you are not. *Karma* is only a word you have learnt to repeat. You have never been, nor shall ever be, a person. Refuse to consider yourself as one. But as long as you do not even doubt yourself to be a Mr. So-and-so, there is little hope. When you refuse to open your eyes, what can you be shown?
 
-**Q:**&ensp;I imagine *karma* to be a mysteriöus power that urges me towards perfection.
+**Q:**&ensp;I imagine *karma* to be a mysterious power that urges me towards perfection.
 
-**M:**&ensp;That’s what people told you. You are already perfect, here and now. The perfectible is not you. You imagine yourself to be what you are not — stop it. It is the cessation that is important, not what you are goïng to stop.
+**M:**&ensp;That’s what people told you. You are already perfect, here and now. The perfectible is not you. You imagine yourself to be what you are not — stop it. It is the cessation that is important, not what you are going to stop.
 
 **Q:**&ensp;Did not *karma* compel me to become what I am?
 
@@ -114,7 +114,7 @@ Merely giveïng up a thing to secure a better one is not true relinquishment. Gi
 
 **Q:**&ensp;Here you are sitting on your seat and talking to me. What compels you is your *karma*.
 
-**M:**&ensp;Nothing compels me. I do what needs doïng. But you do so many unnecessary things. It is your refusal to examine that creätes *karma*. It is the indifference to your own suffering that perpetuätes it.
+**M:**&ensp;Nothing compels me. I do what needs doing. But you do so many unnecessary things. It is your refusal to examine that creates *karma*. It is the indifference to your own suffering that perpetuates it.
 
 **Q:**&ensp;Yes, it is true. What can put an end to this indifference?
 
@@ -138,7 +138,7 @@ Merely giveïng up a thing to secure a better one is not true relinquishment. Gi
 
 **Q:**&ensp;I thought the real is the mystery.
 
-**M:**&ensp;How can it be? The real is simple, open, clear and kind, beautiful and joyous. It is completely free of contradictions. It is ever new, ever fresh, endlessly creätive. Beïng and non-beïng, life and death — all distinctions merge in it.
+**M:**&ensp;How can it be? The real is simple, open, clear and kind, beautiful and joyous. It is completely free of contradictions. It is ever new, ever fresh, endlessly creative. Being and non-being, life and death — all distinctions merge in it.
 
 **Q:**&ensp;I can admit that all is false. But does it make my mind non-existent?
 
@@ -152,7 +152,7 @@ Merely giveïng up a thing to secure a better one is not true relinquishment. Gi
 
 **M:**&ensp;The Absolute is the birthplace of perceiving. It makes perception possible. 
 
-But too much analysis leads you nowhere. There is in you the core of beïng which is beyond analysis, beyond the mind. You can know it in action only. Express it in daily life and its light will grow ever brighter. 
+But too much analysis leads you nowhere. There is in you the core of being which is beyond analysis, beyond the mind. You can know it in action only. Express it in daily life and its light will grow ever brighter. 
 
 The legitimate function of the mind is to tell you what is not. But if you want positive knowledge you must go beyond the mind.
 

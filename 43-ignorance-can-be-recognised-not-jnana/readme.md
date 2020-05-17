@@ -1,7 +1,7 @@
-# 43. Ignoreänce Can Be Recognised, Not *Jnana*
+# 43. Ignorance Can Be Recognised, Not *Jnana*
 
 >There are no distinctive marks of <span style=font-style:normal>jnana</span>. 
-Only ignoreänce can be recognised, not <span style=font-style:normal>jnana</span>. 
+Only ignorance can be recognised, not <span style=font-style:normal>jnana</span>. 
 Nor does a <span style=font-style:normal>jnani</span> claim to be something special. 
 All those who proclaim their own greatness and uniqueness are not <span style=font-style:normal>jnani</span>s.
 
@@ -17,24 +17,24 @@ Who is a realised man?
 By what is the <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”. (<em>jna</em>, to know; <em>jnani</em>, the knower.)">jnani</span> recognised?
 
 **M:**&ensp;There are no distinctive marks of <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”. (<em>jna</em>, to know; <em>jnani</em>, the knower.)">jnana</span>. 
-Only ignoreänce can be recognised, not *jnana*. 
+Only ignorance can be recognised, not *jnana*. 
 Nor does a *jnani* claim to be something special. 
 All those who proclaim their own greatness and uniqueness are not *jnani*s. 
-They are mistakeïng some unusual development for realisation. T
+They are mistakeing some unusual development for realisation. T
 he *jnani* shows no tendency to proclaim himself to be a *jnani*. 
 He considers himself to be perfectly normal, true to his real nature. 
-Proclaiming oneself to be an omnipotent, omniscient and omnipotent deity is a clear sign of ignoreänce.
+Proclaiming oneself to be an omnipotent, omniscient and omnipotent deity is a clear sign of ignorance.
 
-**Q:**&ensp;Can the *jnani* convey his experiënce to the ignorant? 
+**Q:**&ensp;Can the *jnani* convey his experience to the ignorant? 
 Can *jnana* be transmitted from one man to another?
 
 **M:**&ensp;Yes, it can. 
-The words of a *jnani* have the power of dispelling ignoreänce and darkness in the mind. 
+The words of a *jnani* have the power of dispelling ignorance and darkness in the mind. 
 It is not the words that matter, but the power behind them.
 
 **Q:**&ensp;What is that power?
 
-**M:**&ensp;The power of conviction, based on personal realisation, on one’s own direct experiënce.
+**M:**&ensp;The power of conviction, based on personal realisation, on one’s own direct experience.
 
 **Q:**&ensp;Some realised people say that knowledge must be won, not got. 
 Another can only teach, but the learning is one’s own.
@@ -152,7 +152,7 @@ When all search ceases, it is the Supreme State.
 **M:**&ensp;It neither comes nor goes. 
 It *is*.
 
-**Q:**&ensp;Do you speak from your own experiënce?
+**Q:**&ensp;Do you speak from your own experience?
 
 **M:**&ensp;Of course. 
 It is a timeless state, ever present.
@@ -192,12 +192,12 @@ Give up all ideas about yourself and simply *be*.
 **Q:**&ensp;I am tired of all the ways and means and skills and tricks, of all these mental acrobatics. 
 Is there a way to perceive reality directly and immediately?
 
-**M:**&ensp;Stop makeïng use of your mind and see what happens. 
+**M:**&ensp;Stop making use of your mind and see what happens. 
 Do this one thing thoroughly. 
 That is all.
 
-**Q:**&ensp;When I was younger, I had strange experiënces, short but memorable, of beïng nothing, just nothing, yet fully conscious. 
-But the danger is that one has the desire to recreäte from memory the moments that have passed.
+**Q:**&ensp;When I was younger, I had strange experiences, short but memorable, of being nothing, just nothing, yet fully conscious. 
+But the danger is that one has the desire to recreate from memory the moments that have passed.
 
 **M:**&ensp;This is all imagination. 
 In the light of consciousness all sorts of things happen and one need not give special importance to any. 
@@ -207,8 +207,8 @@ Why remember them and then make memory into a problem?
 Be bland about them; do not divide them into high and low, inner and outer, lasting and transient. 
 Go beyond, go back to the source, go to the self that is the same whatever happens. 
 Your weakness is due to your conviction that you were born into the world. 
-In reality, the world is ever recreäted in you and by you. 
-See everything as emanating from the light which is the source of your own beïng. 
+In reality, the world is ever recreated in you and by you. 
+See everything as emanating from the light which is the source of your own being. 
 You will find that in that light there is love and infinite energy.
 
 **Q:**&ensp;If I am that light, why do I not know it?
@@ -232,7 +232,7 @@ Just see and be.
 Don’t ask others, don’t let others tell you about yourself. 
 Look within and see. 
 All the teacher can tell you is only this. 
-There is no need of goïng from one to another. 
+There is no need of going from one to another. 
 The same water is in all the wells. 
 You just draw from the nearest. 
 In my case the water is within me and I am the water.

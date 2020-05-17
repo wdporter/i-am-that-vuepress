@@ -3,7 +3,7 @@
 >Instead of searching for the proof of truth, which you do not know, go through the proofs you
 have of what you believe to know. 
 You will find you know nothing for sure — you trust on hearsay. 
-To know the truth, you must pass through your own experiënce.
+To know the truth, you must pass through your own experience.
 
 **Questioner:**&ensp;My question is: What is the proof of truth? 
 Followers of every religion, metaphysical or political, philosophical or ethical, are convinced that theirs is the only truth, that all else is false, and they take their own unshakeable conviction for the proof of truth. 
@@ -18,8 +18,8 @@ Is there a truth which does not depend on trusting, which is not subjective?
 **Maharaj:**&ensp;What about science?
 
 **Q:**&ensp;Science is circular: it ends where it starts, with the senses. 
-It deals with experiënce, and experiënce is subjective. 
-No two persons can have the same experiënce, though they may express it in the same words.
+It deals with experience, and experience is subjective. 
+No two persons can have the same experience, though they may express it in the same words.
 
 **M:**&ensp;You must look for truth beyond the mind.
 
@@ -28,12 +28,12 @@ Any drug can induce them cheaply and quickly.
 Even the classical <span data-tippy-content="Superconscious state, profound meditation, trance, rapturous absorption. A practice of <em>yoga</em> in which the seeker (<em>sadhaka</em>) becomes one with the object of his meditation (<em>sadhya</em>), thus attaining unqualified bliss. “<em>Samadhi</em> is a state in which you transcend the bounds of your body, mind and self-identity, and merge into an undifferentiated unity with all that is”.">samadhi</span>s, caused by breathing or mental exercises, are not much different. 
 There are oxygen *samadhi*s and carbon dioxide *samadhi*s and self induced *samadhi*s, caused by repetition of a formula or a chain of thought. 
 Monotony is soporific. 
-I cannot accept *samadhi*, however gloriöus, as a proof of truth.
+I cannot accept *samadhi*, however glorious, as a proof of truth.
 
-**M:**&ensp;*Samadhi* is beyond experiënce. 
+**M:**&ensp;*Samadhi* is beyond experience. 
 It is a qualityless state.
 
-**Q:**&ensp;The absence of experiënce is due to inattention. 
+**Q:**&ensp;The absence of experience is due to inattention. 
 It reäppears with attention. 
 Closing one’s eyes does not disprove light. 
 Attributing reality to negative states will not take us far. 
@@ -53,31 +53,31 @@ I have none.
 Here you are the truth-knower, not me.
 
 **M:**&ensp;You refuse testimony as the proof of truth. 
-The experiënce of others is of no use to you — you reject all inference from the concurring statements of a vast number of independent witnesses, so it is for you to tell me what is the proof that will satisfy you; what is your test of a valid proof?
+The experience of others is of no use to you — you reject all inference from the concurring statements of a vast number of independent witnesses, so it is for you to tell me what is the proof that will satisfy you; what is your test of a valid proof?
 
 **Q:**&ensp;Honestly, I do not know what makes a proof.
 
-**M:**&ensp;Not even your own experiënce?
+**M:**&ensp;Not even your own experience?
 
-**Q:**&ensp;Neither my experiënce, nor even existence. 
-They depend on my beïng conscious.
+**Q:**&ensp;Neither my experience, nor even existence. 
+They depend on my being conscious.
 
-**M:**&ensp;And your beïng conscious depends on what?
+**M:**&ensp;And your being conscious depends on what?
 
 **Q:**&ensp;I do not know. 
 Formerly, I would have said it depends on my body; now I can see that the body is secondary, not primary, and cannot be considered as an evidence of existence.
 
 **M:**&ensp;I am glad you have abandoned the ‘I am the body’ idea, the main source of error and suffering. 
 
-**Q:**&ensp;I have abandoned it intellectually, but the sense of beïng the particular, a person, is still with me. 
+**Q:**&ensp;I have abandoned it intellectually, but the sense of being the particular, a person, is still with me. 
 I can say, “I am”, but what I am I cannot say. 
 I know I exist, but I do not know what exists. 
 Whichever way I put it, I face the unknown.
 
-**M:**&ensp;Your very beïng is the real.
+**M:**&ensp;Your very being is the real.
 
 **Q:**&ensp;Surely, we are not talking of the same thing. 
-I am not some abstract beïng. 
+I am not some abstract being. 
 I am a person, limited and aware of its limitations. 
 I am a fact, but a most unsubstantial fact I am. 
 There is nothing I can build on my momentary existence as a person.
@@ -88,8 +88,8 @@ But are you a person only?
 Are you a person at all?
 
 **Q:**&ensp;How am I to answer? 
-My sense of beïng proves only that I am; it does not prove anything which is independent of me. 
-I am relative, both creäture and creätor of the relative. 
+My sense of being proves only that I am; it does not prove anything which is independent of me. 
+I am relative, both creature and creator of the relative. 
 The absolute proof of the absolute truth — what is it, where is it? 
 Can the mere feeling ‘I am’ be the proof of reality?
 
@@ -135,7 +135,7 @@ The impure mind is opaque to truth; the pure mind is transparent.
 Truth can be seen through it easily and clearly.
 
 **Q:**&ensp;I am sorry, but I seem unable to convey my difficulty. 
-I am asking about the proof of truth and am beïng given the methods of attaining it. 
+I am asking about the proof of truth and am being given the methods of attaining it. 
 Assuming I follow the methods and attain some most wonderful and desirable state, how do I come to know that my state is true? 
 Every religion begins with faith and promises some ecstasy. 
 Is the ecstasy of the real, or the product of faith? 
@@ -147,13 +147,13 @@ Again we are in the vicious circle: without perfect faith, no salvation; without
 no salvation. 
 Conditions are imposed which are unfulfillable and then we are blamed for not fulfilling them.
 
-**M:**&ensp;You do not realise that your present waking state is one of ignoreänce. 
-Your question about the proof of truth is born of ignoreänce of reality. 
-You are contacting your sensory and mental states in consciousness at the point of ‘I am’, while reality is not mediated, not contacted, not experiënced.
-You are takeïng duality so much for granted that you do not even notice it, while to me variety and diversity do not creäte separation. 
-You imagine reality to stand apart from names and forms, while to me names and forms are the ever changeïng expressions of reality and are not apart from it. 
+**M:**&ensp;You do not realise that your present waking state is one of ignorance. 
+Your question about the proof of truth is born of ignorance of reality. 
+You are contacting your sensory and mental states in consciousness at the point of ‘I am’, while reality is not mediated, not contacted, not experienced.
+You are takeing duality so much for granted that you do not even notice it, while to me variety and diversity do not create separation. 
+You imagine reality to stand apart from names and forms, while to me names and forms are the ever changing expressions of reality and are not apart from it. 
 You ask for the proof of truth while to me all existence is the proof. 
-You separate existence from beïng and beïng from reality, while to me it is all one. 
+You separate existence from being and being from reality, while to me it is all one. 
 However much you are convinced of the truth of your waking state, you do not claim it to be permanent and changeless, as I do when I talk of mine. 
 Yet I see no difference between us except that you are imagining things, while I do not.
 
@@ -165,11 +165,11 @@ I am not accusing you of anything.
 I am only asking you to question wisely. 
 Instead of searching for the proof of truth, which you do not know, go through the proofs you have of what you believe to know. 
 You will find you know nothing for sure — you trust on hearsay. 
-To know the truth, you must pass through your own experiënce.
+To know the truth, you must pass through your own experience.
 
 **Q:**&ensp;I am mortally afraid of *samadhi*s and other trances, whatever their cause. 
 A drink, a smoke, a fever, a drug, breathing, singing, shaking, dancing, whirling, praying, sex, fasting, <span data-tippy-content="Incantation, hymn, an instrument of thought, ideal sounds visualised as letters and vocalised as syllables. A <em>mantra</em> is a group of words whose constant repetition produces specific results.">mantra</span>s or
-some vertiginous abstraction can dislodge me from my waking state and give me some experiënce, extraordinary because unfamiliar. 
+some vertiginous abstraction can dislodge me from my waking state and give me some experience, extraordinary because unfamiliar. 
 But when the cause ceases, the effect dissolves and only a memory remains, haunting but fading.
 Let us give up all means and their results, for the results are bound by the means; let us put the question anew; can truth be found?
 
@@ -180,15 +180,15 @@ You are back at your initial question: “What is the proof of truth?”.
 There must be something wrong with the question itself, for you tend to repeat it again and again. 
 Why do you ask what the proofs of truth are? 
 Is it not because you do not know truth first-hand and you are afraid that you may be deceived? 
-You imagine that truth is a thing which carries the name ‘truth’ and that it is advantageöus to have it, provided it is genuine. 
-Hence your fear of beïng cheated. 
+You imagine that truth is a thing which carries the name ‘truth’ and that it is advantageous to have it, provided it is genuine. 
+Hence your fear of being cheated. 
 You are shopping for truth, but you do not trust the merchants. 
 You are afraid of forgeries and imitations.
 
-**Q:**&ensp;I am not afraid of beïng cheated. 
+**Q:**&ensp;I am not afraid of being cheated. 
 I am afraid of cheating myself.
 
-**M:**&ensp;But you are cheating yourself in your ignoreänce of your true motives. 
+**M:**&ensp;But you are cheating yourself in your ignorance of your true motives. 
 You are asking for truth, but in fact you merely seek comfort, which you want to last for ever. 
 Now, nothing, no state of mind, can last forever. 
 In time and space there is always a limit, because time and space themselves are limited. 
@@ -210,7 +210,7 @@ It is not so.
 Truth is not the result of an effort, the end of a road. 
 It is here and now, in the very longing and the searching for it. 
 It is nearer than the mind and the body, nearer than the sense ‘I am’. 
-You do not see it because you look too far away from yourself, outside your innermost beïng. 
+You do not see it because you look too far away from yourself, outside your innermost being. 
 You have objectified truth and insist on your standard proofs and tests, which apply only to things and thoughts.
 
 **Q:**&ensp;All I can make out from what you say is that truth is beyond me and I am not qualified to talk about it.
@@ -225,9 +225,9 @@ Concern yourself with untruth only.”
 You can know what is not. 
 What is — you can only *be*. 
 Knowledge is relative to the known. 
-In a way it is the counterpart of ignoreänce. 
-Where ignoreänce is not, where is the need of knowledge? 
-By themselves neither ignoreänce nor knowledge have beïng. 
+In a way it is the counterpart of ignorance. 
+Where ignorance is not, where is the need of knowledge? 
+By themselves neither ignorance nor knowledge have being. 
 They are only states of mind, which again is but an appearance of movement in consciousness which is in its essence immutable.
 
 **Q:**&ensp;Is truth within the realm of the mind or beyond?
@@ -238,8 +238,8 @@ It cannot be put into words.
 **Q:**&ensp;This is what I hear all the time — ‘inexpressible’ (<span data-tippy-content="Inexpressible.">anirvachaniya</span>). 
 It does not make me wiser.
 
-**M:**&ensp;It is true that it often covers sheer ignoreänce. 
-The mind can operate with terms of its own makeïng, it only cannot go beyond itself. 
+**M:**&ensp;It is true that it often covers sheer ignorance. 
+The mind can operate with terms of its own making, it only cannot go beyond itself. 
 That which is neither sensory nor mental, and yet without which neither sensory nor the mental can exist, cannot be contained in them. 
 Do understand that the mind has its limits; to go beyond, you must consent to silence.
 
@@ -254,12 +254,12 @@ Or is he limited to the denial of the false?
 In other words, is truth pure negation? 
 Or does a moment come when it becomes assertion?
 
-**M:**&ensp;Truth cannot be described, but it can be experiënced.
+**M:**&ensp;Truth cannot be described, but it can be experienced.
 
-**Q:**&ensp;Experiënce is subjective, it cannot be shared. 
-Your experiënces leaves me where I am.
+**Q:**&ensp;Experience is subjective, it cannot be shared. 
+Your experiences leaves me where I am.
 
-**M:**&ensp;Truth can be experiënced, but it is not mere experiënce. 
+**M:**&ensp;Truth can be experienced, but it is not mere experience. 
 I know it and I can convey it, but only if you are open to it. 
 To be open means to want nothing else.
 
@@ -278,7 +278,7 @@ Stand still; be quiet.
 **Q:**&ensp;Sir, if you want the body to be still and the mind quiet, tell me how it is done. 
 In self-awareness I see the body and the mind moved by causes beyond my control. 
 Heredity and environment dominate me absolutely. 
-The mighty ‘I am’, the creätor of the universe, can be wiped out by a drug temporarily, or a drop of poison — permanently.
+The mighty ‘I am’, the creator of the universe, can be wiped out by a drug temporarily, or a drop of poison — permanently.
 
 **M:**&ensp;Again, you take yourself to be the body.
 
@@ -289,7 +289,7 @@ If I dismiss these also as ‘not-me’, I still remain with consciousness, whic
 **M:**&ensp;You are quite right, but you need not stop there. 
 Go beyond. 
 Neither consciousness, nor the ‘I am’ at the centre of it are you. 
-Your true beïng is entirely unself-conscious, completely free from all self-identification with whatever it may be — gross, subtle or transcendental.
+Your true being is entirely unself-conscious, completely free from all self-identification with whatever it may be — gross, subtle or transcendental.
 
 **Q:**&ensp;I can imagine myself to be beyond. 
 But what proof have I? 
@@ -299,21 +299,21 @@ To *be*, I must be somebody.
 To *be*, you must be nobody. 
 To think yourself to be something or somebody is death and hell.
 
-**Q:**&ensp;I have read that in ancient Egypt people were admitted to some mysteries where, under the influence of drugs or incantations, they would be expelled from their bodies and could actually experiënce standing outside and looking at their own prostrate forms. 
-This was intended to convince them of the reality of the after-death existence and creäte in them a deep concern with their ultimate destiny, so profitable to the state and temple. 
+**Q:**&ensp;I have read that in ancient Egypt people were admitted to some mysteries where, under the influence of drugs or incantations, they would be expelled from their bodies and could actually experience standing outside and looking at their own prostrate forms. 
+This was intended to convince them of the reality of the after-death existence and create in them a deep concern with their ultimate destiny, so profitable to the state and temple. 
 The self-identification with the person owning the body remained.
 
 **M:**&ensp;The body is made of food, as the mind is made of thoughts. 
 See them as they are. 
-Non-identification, when natural and spontaneöus, is liberation. 
+Non-identification, when natural and spontaneous, is liberation. 
 You need not know what you are. 
 Enough to know what you are not. 
 What you are you will never know, for every discovery reveals new dimensions to conquer. 
 The unknown has no limits.
 
-**Q:**&ensp;Does it imply ignoreänce for ever?
+**Q:**&ensp;Does it imply ignorance for ever?
 
-**M:**&ensp;It means that ignoreänce never was. 
+**M:**&ensp;It means that ignorance never was. 
 Truth is in the discovery, not in the discovered. 
 And to discovery there is no beginning and no end. 
 Question the limits, go beyond, set yourself apparently impossible tasks — this is the way.

@@ -1,9 +1,9 @@
-# 45. What Comes and Goes Has No Beïng
+# 45. What Comes and Goes Has No Being
 
 >…you are universal. 
 You need not and you cannot become what you are already. 
 Only cease imagining yourself to be the particular. 
-What comes and goes has no beïng. 
+What comes and goes has no being. 
 It owes its very appearance to reality.
 
 **Questioner:**&ensp;I have come to be with you, rather than to listen. 
@@ -27,7 +27,7 @@ Yet such is the magic of man’s mind and heart that the most improbable happens
 **M:**&ensp;Where is the need to ask? 
 It merely shows weakness and anxiety. 
 Work on, and the universe will work with you. 
-After all, the very idea of doïng the right thing comes to you from the unknown. 
+After all, the very idea of doing the right thing comes to you from the unknown. 
 Leave it to the unknown as far as the results go; just go through the necessary movements. 
 You are merely one of the links in the long chain of causation. 
 Fundamentally, all happens in the mind only. 
@@ -37,7 +37,7 @@ In the depths there is perfect peace.
 All your problems arise because you have defined and therefore limited yourself. 
 When you do not think yourself to be this or that, all conflict ceases. 
 Any attempt to do something about your problems is bound to fail, for what is caused by desire can only be undone in freedom from desire. 
-You have enclosed yourself in time and space, squeezed yourself into the span of a lifetime and the volume of a body and thus creäted the innumerable conflicts of life and death, pleasure and pain, hope and fear. 
+You have enclosed yourself in time and space, squeezed yourself into the span of a lifetime and the volume of a body and thus created the innumerable conflicts of life and death, pleasure and pain, hope and fear. 
 You cannot be rid of problems without abandoning illusions.
 
 **Q:**&ensp;A person is naturally limited.
@@ -49,10 +49,10 @@ You think you know yourself when you know *what* you are.
 But you never know *who* you are. 
 The person merely appears to be, like the space within the pot appears to have the shape and volume and smell of the pot. 
 See that you are not what you believe yourself to be. 
-Fight with all the strength at your disposal against the idea that you are nameäble and describeäble. 
+Fight with all the strength at your disposal against the idea that you are namable and describable. 
 You are not. 
 Refuse to think of yourself in terms of this or that. 
-There is no other way out of misery, which you have creäted for yourself through blind acceptance without investigation. 
+There is no other way out of misery, which you have created for yourself through blind acceptance without investigation. 
 Suffering is a call for enquiry; all pain needs investigation. 
 Don’t be too lazy to think.
 
@@ -86,7 +86,7 @@ First, we must know ourselves as witnesses only, dimensionless and timeless cent
 
 **Q:**&ensp;Whatever I may be in reality, yet I feel myself to be a small and separate person, one amongst many.
 
-**M:**&ensp;Your beïng a person is due to the illusion of space and time; you imagine yourself to be at a certain point occupying a certain volume; your personality is due to your self-identification with the body. 
+**M:**&ensp;Your being a person is due to the illusion of space and time; you imagine yourself to be at a certain point occupying a certain volume; your personality is due to your self-identification with the body. 
 Your thoughts and feelings exist in succession; they have their span in time and make you imagine yourself, because of memory, as having duration. 
 In reality, time and space exist in you; you do not exist in them. 
 They are modes of perception, but they are not the only ones. 
@@ -98,7 +98,7 @@ How old are you?
 **M:**&ensp;What makes you say, “forty-eight”? 
 What makes you say, “I am here”? 
 Verbal habits born from assumptions. 
-The mind creätes time and space and takes its own creätions for reality. 
+The mind creates time and space and takes its own creations for reality. 
 All is here and now, but we do not see it. 
 Truly, all is in me and by me. 
 There is nothing else. 
@@ -108,11 +108,11 @@ The very idea of ‘else’ is a disaster and a calamity.
 
 **M:**&ensp;That which does not exist cannot have a cause. 
 There is no such thing as a separate person. 
-Even takeïng the empirical point of view, it is obvious that everything is the cause of everything; that everything is as it is because the entire universe is as it is.
+Even takeing the empirical point of view, it is obvious that everything is the cause of everything; that everything is as it is because the entire universe is as it is.
 
 **Q:**&ensp;Yet personality must have a cause.
 
-**M:**&ensp;How does personality, come into beïng? 
+**M:**&ensp;How does personality, come into being? 
 By memory. 
 By identifying the present with the past and projecting it into the future. 
 Think of yourself as momentary, without past and future, and your personality dissolves.
@@ -122,10 +122,10 @@ Think of yourself as momentary, without past and future, and your personality di
 **M:**&ensp;The word ‘remain’ does not apply. 
 ‘I am’ is ever fresh. 
 You do not need to remember in order to *be*. 
-As a matter of fact, before you can experiënce anything, there must be the sense of beïng. 
-At present, your beïng is mixed up with experiënceïng. 
-All you need is to unravel beïng from the tangle of experiënces. 
-Once you have known pure beïng, without beïng this or that, you will discern it among experiënces and you will no longer be misled by names and forms. 
+As a matter of fact, before you can experience anything, there must be the sense of being. 
+At present, your being is mixed up with experiencing. 
+All you need is to unravel being from the tangle of experiences. 
+Once you have known pure being, without being this or that, you will discern it among experiences and you will no longer be misled by names and forms. 
 Self-limitation is the very essence of personality.
 
 **Q:**&ensp;How can I become universal?
@@ -133,10 +133,10 @@ Self-limitation is the very essence of personality.
 **M:**&ensp;But you *are* universal. 
 You need not and you cannot become what you are already. 
 Only cease imagining yourself to be the particular. 
-What comes and goes has no beïng. 
+What comes and goes has no being. 
 It owes its very appearance to reality. 
 You know that there is a world, but does the world know you? 
-All knowledge flows from you, as all beïng and all joy. 
+All knowledge flows from you, as all being and all joy. 
 Realise that you are the eternal source and accept all as your own. 
 Such acceptance is true love.
 
@@ -159,17 +159,17 @@ Go beyond it altogether.
 What is beginningless cannot have a cause. 
 It is not that you knew what you are and then you have forgotten. 
 Once you know, you cannot forget. 
-Ignoreänce has no beginning, but can have an end. 
-Enquire who is ignorant and ignoreänce will dissolve like a dream. 
+Ignorance has no beginning, but can have an end. 
+Enquire who is ignorant and ignorance will dissolve like a dream. 
 The world is full of contradictions; hence your search for harmony and peace. 
 These you cannot find in the world, for the world is the child of chäos. 
 To find order you must search within. 
-The world comes into beïng only when you are born in a body. 
+The world comes into being only when you are born in a body. 
 No body, no world. 
 First enquire whether you are the body. 
 The understanding of the world will come later.
 
-**Q:**&ensp;What you say sounds convinceïng, but of what use is it to the private person who knows itself to be in the world and of the world?
+**Q:**&ensp;What you say sounds convincing, but of what use is it to the private person who knows itself to be in the world and of the world?
 
 **M:**&ensp;Millions eat bread, but few know all about wheat. 
 And only those who know can improve the bread. 
@@ -182,9 +182,9 @@ What is in the world cannot save the world; if you really care to help the world
 **M:**&ensp;Who was born first, you or the world? 
 As long as you give first place to the world, you are bound by it; once you realise beyond all trace of doubt that the world is in you and not you in the world, you are out of it. 
 Of course your body remains in the world and of the world, but you are not deluded by it. 
-All scriptures say that before the world was, the Creätor was. 
-Who knows the Creätor? 
-He alone who was before the Creätor, your own real beïng, the source of all the worlds with their creätors.
+All scriptures say that before the world was, the Creator was. 
+Who knows the Creator? 
+He alone who was before the Creator, your own real being, the source of all the worlds with their creators.
 
 **Q:**&ensp;All you say is held together by your assumption that the world is your own projection. 
 You admit that you mean your personal, subjective world, the world given you through your senses and your mind. 
@@ -199,11 +199,11 @@ But reality is all and nothing, the totality and the exclusion, the fullness and
 You cannot speak about it; you can only lose your self in it. 
 When you deny reality to anything, you come to a residue which cannot be denied. 
 
-All talk of <span data-tippy-content="Knowledge, especially the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnana</span> is a sign of ignoreänce. 
+All talk of <span data-tippy-content="Knowledge, especially the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnana</span> is a sign of ignorance. 
 It is the mind that imagines that it does not know and then comes to know. 
 Reality knows nothing of these contortions. 
-Even the idea of God as the Creätor is false. 
-Do I owe my beïng to any other beïng? 
+Even the idea of God as the Creator is false. 
+Do I owe my being to any other being? 
 Because I *am*, all *is*.
 
 **Q:**&ensp;How can it be? 
@@ -212,19 +212,19 @@ The world is old and the child is new.
 
 **M:**&ensp;The child is born into your world. 
 Now, were you born into your world, or did your world appear to you? 
-To be born means to creäte a world round yourself as the centre. 
-But do you ever creäte yourself? 
-Or did anyone creäte you? 
-Everyone creätes a world for himself and lives in it, imprisoned by his ignoreänce. 
+To be born means to create a world round yourself as the centre. 
+But do you ever create yourself? 
+Or did anyone create you? 
+Everyone creates a world for himself and lives in it, imprisoned by his ignorance. 
 All we have to do is to deny reality to our prison.
 
-**Q:**&ensp;Just as the waking state exists in seed form during sleep, so does the world the child creätes on beïng born exist before its birth. 
+**Q:**&ensp;Just as the waking state exists in seed form during sleep, so does the world the child creates on being born exist before its birth. 
 With whom does the seed lie?
 
 **M:**&ensp;With him who is the witness of birth and death, but is neither born nor dies. 
-He alone is the seed of creätion as well as its residue. 
+He alone is the seed of creation as well as its residue. 
 Don’t ask the mind to confirm what is beyond the mind. 
-Direct experiënce is the only valid confirmation.
+Direct experience is the only valid confirmation.
 
 <script>
 export default {

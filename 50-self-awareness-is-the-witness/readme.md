@@ -20,14 +20,14 @@ fruits of action”. <em>Karma</em> is of three kinds: <em>sanchita</em>
 <em>karma</em> to be worked out in the present life) and <em>agami</em> (the 
 current <em>karma</em> the result of which will fructify in 
 future).">karma</span>. It is essentially the witness as well as the residue 
-of the accumulated experiënces, the seat of memory, the connecting link (<span 
-data-tippy-content="The connecting link between all beïngs. The string-like 
+of the accumulated experiences, the seat of memory, the connecting link (<span 
+data-tippy-content="The connecting link between all beings. The string-like 
 supporter of the manifested worlds, hence the pure consciousness which is the 
-substratum of all beïngs. <em>Maharaj</em> uses the word for the accumulated 
+substratum of all beings. <em>Maharaj</em> uses the word for the accumulated 
 <em>karma</em> from life to life.">sutratma</span>). It is man’s character 
 which life builds and shapes from birth to birth. The universal is beyond all 
 name and shape, beyond consciousness and character, pure unself-conscious 
-*beïng*. Did I put down your views rightly?
+*being*. Did I put down your views rightly?
 
 **Maharaj:**&ensp;On the level of the mind — yes. Beyond the mental level not 
 a word applies.
@@ -37,7 +37,7 @@ collective noun for a set of memories and habits. But, he to whom the person
 happens, the witnessing centre, is it mental too?
 
 **M:**&ensp;The personal needs a base, a body to identify oneself with, just 
-as a colour needs a surface to appear on. The seeïng of the colour is 
+as a colour needs a surface to appear on. The seeing of the colour is 
 independent of the colour — it is the same whatever the colour. One needs an 
 eye to see a colour. The colours are many, the eye is single. The personal is 
 like the light in the colour and also in the eye, yet simple, single, 
@@ -48,20 +48,20 @@ consciousness. Beyond mere living and dying, it is the all-inclusive,
 all-exclusive Life, in which birth is death and death is birth.
 
 **Q:**&ensp;The Absolute or Life you talk about — is it real, or a mere theory 
-to cover up our ignoreänce?
+to cover up our ignorance?
 
 **M:**&ensp;Both. To the mind, a theory; in itself — a reality. It is reality 
-in its spontaneöus and total rejection of the false. Just as light destroys 
+in its spontaneous and total rejection of the false. Just as light destroys 
 darkness by its very presence, so does the absolute destroy imagination. To 
-see that all knowledge is a form of ignoreänce is itself a movement of reality. 
-The witness is not a person. The person comes into beïng when there is a basis 
+see that all knowledge is a form of ignorance is itself a movement of reality. 
+The witness is not a person. The person comes into being when there is a basis 
 for it, an organism, a body. In it the absolute is reflected as awareness. 
 Pure awareness becomes self-awareness. When there is a self, self-awareness is 
 the witness. When there is no self to witness, there is no witnessing either. 
 It is all very simple; it is the presence of the person that complicates. See 
 that there is no such thing as a permanently separate person and all becomes 
 clear. Awareness–mind–matter — they are one reality in its two aspects as 
-immoveäble and moveäble, and the three attributes of inertia, energy and 
+immovable and movable, and the three attributes of inertia, energy and 
 harmony.
 
 **Q:**&ensp;What comes first: consciousness or awareness?
@@ -81,7 +81,7 @@ it to a suffering man to be told that nobody is aware of his suffering but
 himself? To relegate everything to illusion is insult added to injury. The 
 Bengali of East Pakistan is a fact and his suffering is a fact. Please, do not 
 analyse them out of existence! You are reading newspapers, you hear people 
-talking about it. You cannot plead ignoreänce. Now, what is your attitude to 
+talking about it. You cannot plead ignorance. Now, what is your attitude to 
 what is happening?
 
 **M:**&ensp;No attitude. Nothing is happening.
@@ -116,7 +116,7 @@ is order in yourself, there can be no order in the world.
 In reality, nothing happens. Onto the screen of the mind, destiny forever 
 projects its pictures, memories of former projections, and thus illusion 
 constantly renews itself. The pictures come and go — light intercepted by 
-ignoreänce. See the light and disregard the picture.
+ignorance. See the light and disregard the picture.
 
 **Q:**&ensp;What a callous way of looking at things! People are killing and 
 getting killed and here you talk of pictures.
@@ -148,10 +148,10 @@ would be the way out.
 **M:**&ensp;As long as you pay attention to ideas, your own or of others, you 
 will be in trouble. But if you disregard all teachings, all books — anything 
 put into words — and dive deeply within yourself and find yourself, this alone 
-will solve all your problems and leave you in full mastery of every situätion, 
-because you will not be dominated by your ideas about the situätion. Take an 
+will solve all your problems and leave you in full mastery of every situation, 
+because you will not be dominated by your ideas about the situation. Take an 
 example: You are in the company of an attractive woman. You get ideas about 
-her and this creätes a sexual situätion. A problem is creäted and you start 
+her and this creates a sexual situation. A problem is created and you start 
 looking for books on continence or enjoyment. Were you a baby, both of you 
 could be naked and together without any problem arising. Just stop thinking 
 you are the bodies and the problems of love and sex will lose their meaning. 

@@ -1,7 +1,7 @@
 # 77. ‘I’ and ’Mine’ are False Ideas
 
->… ‘I’ and the ‘mine’ are false ideas, having no foundation in reality. Creäted 
-by the mind, they rule their creätor as long as he takes them to be true; when 
+>… ‘I’ and the ‘mine’ are false ideas, having no foundation in reality. Created 
+by the mind, they rule their creator as long as he takes them to be true; when 
 questioned, they dissolve.
 
 **Questioner:**&ensp;I am very much attached to my family and possessions. How 
@@ -17,15 +17,15 @@ This reflex takes the shape of ‘I’ and uses the body and the mind for its
 purposes, which are invariably in search for pleasure or flight from pain. 
 When you recognise the ‘I’ as it is, a bundle of desires and fears, and the 
 sense of ‘mine’, as embracing all things and people needed for the purpose of 
-avoiding pain and secureïng pleasure, you will see that the ‘I’ and the ’mine’ 
-are false ideas, having no foundation in reality. Creäted by the mind, they 
-rule their creätor as long as he takes them to be true; when questioned, they 
+avoiding pain and securing pleasure, you will see that the ‘I’ and the ’mine’ 
+are false ideas, having no foundation in reality. Created by the mind, they 
+rule their creator as long as he takes them to be true; when questioned, they 
 dissolve. 
 
 The ’I’ and ’mine’ having no existence in themselves, need a support which 
 they find in the body. The body becomes their point of reference. When you 
 talk of ‘my’ husband and ‘my’ children, you mean the body’s husband and the 
-body’s children. Give up the idea of beïng the body and face the question, 
+body’s children. Give up the idea of being the body and face the question, 
 “Who am I?”. At once a process will be set in motion which will bring back 
 reality or, rather, will take the mind to reality. Only you must not be afraid.
 
@@ -34,8 +34,8 @@ reality or, rather, will take the mind to reality. Only you must not be afraid.
 **M:**&ensp;For reality to be, the ideas of ‘me’ and ‘mine’ must go. They will 
 go if you let them. Then your normal, natural state reäppears, in which you 
 are neither the body nor the mind, neither the ‘me’ nor the ‘mine’, but in a 
-different state of beïng altogether. It is pure awareness of beïng, without 
-beïng this or that, without any self-identification with anything in 
+different state of being altogether. It is pure awareness of being, without 
+being this or that, without any self-identification with anything in 
 particular or in general. In that pure light of consciousness there is 
 nothing, not even the idea of nothing. There is only light.
 
@@ -71,7 +71,7 @@ and sleeping. There is enough for all, provided all share.
 
 **M:**&ensp;By sharing you will change it.
 
-**Q:**&ensp;I do not feel like sharing. Moreöver, I am beïng taxed out of my 
+**Q:**&ensp;I do not feel like sharing. Moreöver, I am being taxed out of my 
 possessions.
 
 **M:**&ensp;This is not the same as voluntary sharing. Society will not change 
@@ -87,10 +87,10 @@ spread. The power of a true heart is immense.
 **Q:**&ensp;Please tell us more.
 
 **M:**&ensp;Talking is not my hobby. Sometimes I talk, sometimes I do not. My 
-talking or not talking is a part of a given situätion and does not depend on 
-me. Where there is a situätion in which I have to talk, I hear myself talking. 
-In some other situätion I may not hear myself talking. It is all the same to 
-me. Whether I talk or not, the light and love of beïng what I am are not 
+talking or not talking is a part of a given situation and does not depend on 
+me. Where there is a situation in which I have to talk, I hear myself talking. 
+In some other situation I may not hear myself talking. It is all the same to 
+me. Whether I talk or not, the light and love of being what I am are not 
 affected, nor are they under my control. They are, and I know they are. There 
 is a glad awareness, but nobody who is glad. Of course, there is a sense of 
 identity, but it is the identity of a memory track, like the identity of a 
@@ -109,7 +109,7 @@ to depend on everything, but in fact all depends on me.
 **Q:**&ensp;How can you say you do nothing? Are you not talking to me?
 
 **M:**&ensp;I do not have the feeling that I am talking. There is talking 
-goïng on, that is all.
+going on, that is all.
 
 **Q:**&ensp;I talk.
 
@@ -119,10 +119,10 @@ goïng on, that is all.
 
 **M:**&ensp;I have no objection to the conventions of your language, but they 
 distort and destroy reality. A more accurate way of saying would have been, 
-“There is talking, working, coming, goïng”. For anything to happen, the entire 
+“There is talking, working, coming, going”. For anything to happen, the entire 
 universe must coïncide. It is wrong to believe that anything in particular can 
 cause an event. Every cause is universal. Your very body would not exist 
-without the entire universe contributing to its creätion and survival. I am 
+without the entire universe contributing to its creation and survival. I am 
 fully aware that things happen as they happen because the world is as it is. 
 To affect the course of events I must bring a new factor into the world and 
 the factor can only be myself, the power of love and understanding focussed in 
@@ -136,14 +136,14 @@ light. It is enough to shift attention from the screen to oneself to break the
 spell. When the body dies, the kind of life you live now — a succession of 
 physical and mental events — comes to an end. It can end even now without 
 waiting for the death of the body — it is enough to shift attention to the 
-Self and keep it there. All happens as if there is a mysteriöus power that 
-creätes and moves everything. Realise that you are not the mover, only the 
+Self and keep it there. All happens as if there is a mysterious power that 
+creates and moves everything. Realise that you are not the mover, only the 
 observer, and you will be at peace.
 
 **Q:**&ensp;Is that power separate from me?
 
-**M:**&ensp;Of course not. But you must begin by beïng the dispassionate 
-observer. Then only will you realise your full beïng as the universal lover 
+**M:**&ensp;Of course not. But you must begin by being the dispassionate 
+observer. Then only will you realise your full being as the universal lover 
 and actor. As long as you are enmeshed in the tribulations of a particular 
 personality, you can see nothing beyond it. But ultimately you will come to 
 see that you are neither the particular nor the universal; you are beyond 
@@ -151,12 +151,12 @@ both. As the tiny point of a pencil can draw innumerable pictures, so does the
 dimensionless point of awareness draw the contents of the vast universe. Find 
 that point and be free.
 
-**Q:**&ensp;Out of what do I creäte this world?
+**Q:**&ensp;Out of what do I create this world?
 
 **M:**&ensp;Out of your own memories. As long as you are ignorant of yourself 
-as the creätor, your world is limited and repetitive. Once you go beyond your 
-self-identification with your past, you are free to creäte a new world of 
-harmony and beauty. Or you just remain — beyond beïng and non-beïng.
+as the creator, your world is limited and repetitive. Once you go beyond your 
+self-identification with your past, you are free to create a new world of 
+harmony and beauty. Or you just remain — beyond being and non-being.
 
 **Q:**&ensp;What will remain with me if I let go my memories?
 
@@ -164,7 +164,7 @@ harmony and beauty. Or you just remain — beyond beïng and non-beïng.
 
 **Q:**&ensp;I am afraid.
 
-**M:**&ensp;You will be afraid until you experiënce freedom and its blessings. 
+**M:**&ensp;You will be afraid until you experience freedom and its blessings. 
 Of course, some memories are needed to identify and guide the body. Such 
 memories do remain, but there is no attachment left to the body as such; it is 
 no longer the ground for desire or fear. All this is not very difficult to 
@@ -176,4 +176,4 @@ step out and look from the outside. You may perceive for the first time
 something which is not memory. You cease to be a Mr. So-and-so, busy about his 
 own affairs. You are at last at peace. You realise that nothing was ever wrong 
 with the world — you alone were wrong and now it is all over. Never again will 
-you be caught in the meshes of desire born of ignoreänce.
+you be caught in the meshes of desire born of ignorance.

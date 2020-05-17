@@ -34,15 +34,15 @@ pageClass: glossary-class
 
 **<em>bhakti:</em>**&ensp;devotion, adoration. Hence *bhakta*, a devotee.
 
-**<em>bhoga:</em>**&ensp;sense enjoyment, experiënce of worldly joys and sorrows.
+**<em>bhoga:</em>**&ensp;sense enjoyment, experience of worldly joys and sorrows.
 
 **<em>bhogi:</em>**&ensp;a *bhogi* is one involved in worldly joys and sorrows. *Bhoga marga*, is the path of worldly pursuits — joys and sorrows.
 
 **Bikkhu:**&ensp;a *Bikkhu* (Pali) or *Bhikshu* (sanskrit) is an ordained male Buddhist monastic.
 
-**Brahma:**&ensp;one of the gods of the Hindu trinity: Brahma, the creätor; Vishnu, the preserver; Shiva, the destroyer.
+**Brahma:**&ensp;one of the gods of the Hindu trinity: Brahma, the creator; Vishnu, the preserver; Shiva, the destroyer.
 
-**Brahman:**&ensp;the Absolute, the Ultimate Reality, whose characteristics are absolute existence (*sat*), absolute consciousness (*chit*) and absolute bliss (*ananda*). According to Shankaracharya, Brahman, the Absolute has five different phases: *Hiranyagarbha*, the Cosmic Self; *Ishvara*, the personal god in the form of an avatar; *jiva*, the individual soul; *prakriti*, the perishable nature and *shakti*, the creätive power.
+**Brahman:**&ensp;the Absolute, the Ultimate Reality, whose characteristics are absolute existence (*sat*), absolute consciousness (*chit*) and absolute bliss (*ananda*). According to Shankaracharya, Brahman, the Absolute has five different phases: *Hiranyagarbha*, the Cosmic Self; *Ishvara*, the personal god in the form of an avatar; *jiva*, the individual soul; *prakriti*, the perishable nature and *shakti*, the creative power.
 
 **<em>Brahmasmi:</em>**&ensp;(Brahman, the Supreme + *asmi*, I am, as, to be] I am the Supreme. ‘I am’ (*asmi*) represents the pure awareness of self-existence and is therefore the expression of pure consciousness or the *Purusha*. When this pure consciousness gets involved in matter, the pure ‘I am’ changes into ‘I am that’, ‘I am so-and-so’.
 
@@ -50,7 +50,7 @@ pageClass: glossary-class
 
 **<em>chetana:</em>**&ensp;consciousness, inner awakening.
 
-**<em>chidakash:</em>**&ensp;[*chit*, to perceive + *akash*, expanse, sky] Brahman in its aspect of limitless knowledge, the expanse of awareness. Variöusly used for consciousness, individual as well as universal.
+**<em>chidakash:</em>**&ensp;[*chit*, to perceive + *akash*, expanse, sky] Brahman in its aspect of limitless knowledge, the expanse of awareness. Variously used for consciousness, individual as well as universal.
 
 **<em>chidananda:</em>**&ensp;consciousness–bliss, the joy of spirit.
 
@@ -72,7 +72,7 @@ pageClass: glossary-class
 
 **<em>jagrit-sushupti:</em>**&ensp;awakened-sleep, attentive sleep.
 
-**<em>jiva, jivatman:</em>**&ensp;[*Atman* + doërship is *jiva*.] the individual soul. According to Vedanta, *jiva* comes into beïng as a result of the false identification of the atman with body, senses and mind.
+**<em>jiva, jivatman:</em>**&ensp;[*Atman* + doership is *jiva*.] the individual soul. According to Vedanta, *jiva* comes into being as a result of the false identification of the atman with body, senses and mind.
 
 **<em>jnana:</em>**&ensp;knowledge, especially the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”. (*jna*, to know; *jnani*, the knower).
 
@@ -88,15 +88,15 @@ pageClass: glossary-class
 
 **<em>mahadakash:</em>**&ensp;the great expanse of existence, the universe of matter and energy.
 
-**<em>mahakarta:</em>**&ensp;the great doër. Mind is the great doër, for it is every busy, ever engaged in something or the other.
+**<em>mahakarta:</em>**&ensp;the great doer. Mind is the great doer, for it is every busy, ever engaged in something or the other.
 
-**<em>Mahatma:</em>**&ensp;enlightened beïng.
+**<em>Mahatma:</em>**&ensp;enlightened being.
 
 **<em>maha-mantra:</em>**&ensp;the great incantation (see *mantra*).
 
 **<em>maha-maya:</em>**&ensp;the great illusion, unreality. *Maya* is the illusive power that veils the reality. *Maya* is the totality of all mental projections.
 
-**<em>maha-mrityu:</em>**&ensp;the final dissolution, the great death of all creätion.
+**<em>maha-mrityu:</em>**&ensp;the final dissolution, the great death of all creation.
 
 **<em>maha-sattva:</em>**&ensp;the supreme harmony, harmonious existence.
 
@@ -126,11 +126,11 @@ pageClass: glossary-class
 
 **<em>nisarga:</em>**&ensp;natural, innate, inborn.
 
-**<em>nivritti:</em>**&ensp;liberation from worldly existence, renunciätion.
+**<em>nivritti:</em>**&ensp;liberation from worldly existence, renunciation.
 
 **Parabrahman:**&ensp;the Supreme Reality.
 
-**<em>paramakash:</em>**&ensp;the great expanse, the timeless and spaceless reality; the Absolute beïng.
+**<em>paramakash:</em>**&ensp;the great expanse, the timeless and spaceless reality; the Absolute being.
 
 **<em>paramartha:</em>**&ensp;the sublime truth.
 
@@ -154,11 +154,11 @@ pageClass: glossary-class
 
 **<em>purusha:</em>**&ensp;the cosmic spirit, the eternal and efficient cause of the universe that gives appearance of consciousness to all manifestations of matter (*prakriti*). The bondage of *purusha* in matter is due to ‘I’-consciousness born of *chitta–vrittis*, which gives rise to innuumerable desires.
 
-**<em>rajas:</em>**&ensp;motivity, activity, energy. One of the three *gunas* or qualities of matter: *sattva*, *rajas* and *tamas*. In *yoga*, egoïsm.
+**<em>rajas:</em>**&ensp;motivity, activity, energy. One of the three *gunas* or qualities of matter: *sattva*, *rajas* and *tamas*. In *yoga*, egoism.
 
-**<em>sadanubhava:</em>**&ensp;experiënce of the everlasting reality.
+**<em>sadanubhava:</em>**&ensp;experience of the everlasting reality.
 
-**<em>sadchitananda:</em>**&ensp;the ultimate principle with the three attributes in absolute perfection (*sat*, beïng + *chit*, consciousness + *ananda*, bliss).
+**<em>sadchitananda:</em>**&ensp;the ultimate principle with the three attributes in absolute perfection (*sat*, being + *chit*, consciousness + *ananda*, bliss).
 
 **<em>sadguru:</em>**&ensp;the true spiritual teacher.
 
@@ -172,7 +172,7 @@ pageClass: glossary-class
 
 **<em>samadhi</em>**&ensp;superconscious state, profound meditation, trance, rapturous absorption. A practice of *yoga* in which the seeker (*sadhaka*) becomes one with the object of his meditation (*sadhya*), thus attaining unqualified bliss. “*Samadhi* is a state in which you transcend the bounds of your body, mind and self-identity, and merge into an undifferentiated unity with all that is”.
 
-**<em>samskara:</em>**&ensp;“imprints left on the subconscious by experiënces in past lives or the present life and which determine and condition one’s desires and actions”. Mental impression, memory. Also called *vasana*, residual impression.
+**<em>samskara:</em>**&ensp;“imprints left on the subconscious by experiences in past lives or the present life and which determine and condition one’s desires and actions”. Mental impression, memory. Also called *vasana*, residual impression.
 
 **<em>samvid:</em>**&ensp;true Awareness.
 
@@ -180,15 +180,15 @@ pageClass: glossary-class
 
 **<em>satsang:</em>**&ensp;association with the true and the wise people.
 
-**<em>sattva:</em>**&ensp;beïng, existence, true essence. In *yoga* the quality of purity or goodness; *sattvic* — pure, true.
+**<em>sattva:</em>**&ensp;being, existence, true essence. In *yoga* the quality of purity or goodness; *sattvic* — pure, true.
 
-**<em>sattvanubhava:</em>**&ensp;experiënce (<em>anubhava</em>) of the true harmony of the universe (<em>sattva</em>, beïng).
+**<em>sattvanubhava:</em>**&ensp;experience (<em>anubhava</em>) of the true harmony of the universe (<em>sattva</em>, being).
 
 **<em>satyakama:</em>**&ensp;he who longs for the sublime truth.
 
 **<em>satyam–shivam–sundaram:</em>**&ensp;the true, the good, the beautiful.
 
-**Shiva:**&ensp;one of the gods of the Hindu trinity — Brahma, the creätor; Vishnu, the preserver and Shiva, the destroyer. Shiva actually means auspicious, propitious. Destruction ofthe cosmos by the god Shiva is a propitious act, for destruction precedes creätion. Shiva is absolute love of the ‘I-principle’ in a man. As a destroyer, he brings about the total annihilation of the human ego.
+**Shiva:**&ensp;one of the gods of the Hindu trinity — Brahma, the creator; Vishnu, the preserver and Shiva, the destroyer. Shiva actually means auspicious, propitious. Destruction ofthe cosmos by the god Shiva is a propitious act, for destruction precedes creation. Shiva is absolute love of the ‘I-principle’ in a man. As a destroyer, he brings about the total annihilation of the human ego.
 
 **<em>shravana:</em>**&ensp;hearing of the scriptures, the act of hearing.
 
@@ -196,7 +196,7 @@ pageClass: glossary-class
 
 **<em>soham:</em>**&ensp;‘I Am He’.
 
-**<em>sutratma:</em>**&ensp;the connecting link between all beïngs. The string-like supporter of the manifested worlds, hence the pure consciousness which is the substratum of all beïngs. *Maharaj* uses the word for the accumulated *karma* from life to life.
+**<em>sutratma:</em>**&ensp;the connecting link between all beings. The string-like supporter of the manifested worlds, hence the pure consciousness which is the substratum of all beings. *Maharaj* uses the word for the accumulated *karma* from life to life.
 
 **<em>svarga:</em>**&ensp;the celestial regions.
 
@@ -204,19 +204,19 @@ pageClass: glossary-class
 
 **<em>tamas:</em>**&ensp;darkness, inertia, passivity. One of the three constituents (*gunas*) of the cosmic substance: *sattava*, *rajas* and *tamas*.
 
-**<em>tat–sat:</em>**&ensp;[*tat*, that + *sat*, truth, beïng, reality] that is the truth. The sacred text is “*Om Tat Sat*” in which *Brahman* is identified by each of the three words.
+**<em>tat–sat:</em>**&ensp;[*tat*, that + *sat*, truth, being, reality] that is the truth. The sacred text is “*Om Tat Sat*” in which *Brahman* is identified by each of the three words.
 
 **<em>turiya:</em>**&ensp;the superconscious state of *samadhi*, (*turiya*, fourth), the fourth state of soul in which it becomes one with *Brahman*, the highest awareness.
 
 **<em>turiyatita:</em>**&ensp;beyond the highest awareness.
 
-**<em>tyaga:</em>**&ensp;renunciätion. *Tyaga* is the renunciätion of the fruits of all works: i.e., the *tyagi* should perform *karma* with detachment and with no desire for results.
+**<em>tyaga:</em>**&ensp;renunciation. *Tyaga* is the renunciation of the fruits of all works: i.e., the *tyagi* should perform *karma* with detachment and with no desire for results.
 
-**<em>uparati:</em>**&ensp;rest, repose, tolerance and renunciätion of all sectarian observances. In *Vedanta* one of the six acquirements (*sat-sampat*): *sama*, tranquility; *dama*, self-restraint; *uprati*, tolerance; *titiksha*, endurance; *sraddha*, faith; and *samadhana*, equipoise.
+**<em>uparati:</em>**&ensp;rest, repose, tolerance and renunciation of all sectarian observances. In *Vedanta* one of the six acquirements (*sat-sampat*): *sama*, tranquility; *dama*, self-restraint; *uprati*, tolerance; *titiksha*, endurance; *sraddha*, faith; and *samadhana*, equipoise.
 
 **<em>vairagya:</em>**&ensp;dispassion, indifference to the pains and pleasures of the material world.
 
-**Vishnu:**&ensp;one of the Gods of the Hindu trinity — Brahma, the creätor; Vishnu, the preserver and Shiva, the destroyer.
+**Vishnu:**&ensp;one of the Gods of the Hindu trinity — Brahma, the creator; Vishnu, the preserver and Shiva, the destroyer.
 
 **<em>viveka:</em>**&ensp;discrimination; discrimination between the true and the false, the real and the unreal. *Viveka* is an expression of the spiritual consciousness hidden behind the mind. It leads to *vairagya*.
 

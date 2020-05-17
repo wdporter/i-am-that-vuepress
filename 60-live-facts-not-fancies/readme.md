@@ -2,7 +2,7 @@
 
 >…facts are real! I live among them. But you live with fancies, not with facts. Facts never clash, while your life and world are full of contradictions. Contradiction is the mark of the false; the real never contradicts itself.
 
-**Questioner:**&ensp;You say that whatever you see is yourself. You also admit that you see the world as we see it. Here is today’s newspaper with all the horrors goïng on. Since the world is yourself, how can you explain such misbehaviour?
+**Questioner:**&ensp;You say that whatever you see is yourself. You also admit that you see the world as we see it. Here is today’s newspaper with all the horrors going on. Since the world is yourself, how can you explain such misbehaviour?
 
 **Maharaj:**&ensp;Which world do you have in mind?
 
@@ -26,7 +26,7 @@ For instance, you complain that people are abjectly poor. Yet you do not share y
 
 **Q:**&ensp;Nevertheless, the evil is real.
 
-**M:**&ensp;Not more real than you are. Evil is in the wrong approach to problems creäted by misunderstanding and misuse. It is a vicious circle.
+**M:**&ensp;Not more real than you are. Evil is in the wrong approach to problems created by misunderstanding and misuse. It is a vicious circle.
 
 **Q:**&ensp;Can the circle be broken?
 
@@ -38,7 +38,7 @@ For instance, you complain that people are abjectly poor. Yet you do not share y
 
 **Q:**&ensp;Sir, you are neither the first nor the last. Since time immemorial people were breaking into reality. Yet how little it affected our lives! The Ramas and the Krishnas, the Buddhas and the Christs have come and gone and we are as we were: wallowing in sweat and tears. What have the great ones done whose lives we witnessed? What have you done, Sir, to alleviate the world’s suffering?
 
-**M:**&ensp;You alone can undo the evil you have creäted. Your own callous selfishness is at the root of it. Put first your own house in order and you will see that your work is done.
+**M:**&ensp;You alone can undo the evil you have created. Your own callous selfishness is at the root of it. Put first your own house in order and you will see that your work is done.
 
 **Q:**&ensp;The men of wisdom and of love who came before us did set themselves right, often at a tremendous cost. What was the outcome? A shooting star, however bright, does not make the night less dark.
 
@@ -46,15 +46,15 @@ For instance, you complain that people are abjectly poor. Yet you do not share y
 
 **Q:**&ensp;Do you mean to say that between good and evil there is no wall?
 
-**M:**&ensp;There is no wall because there is no good and no evil. In every concrete situätion, there is only the necessary and the unnecessary. The needful is right, the needless is wrong.
+**M:**&ensp;There is no wall because there is no good and no evil. In every concrete situation, there is only the necessary and the unnecessary. The needful is right, the needless is wrong.
 
 **Q:**&ensp;Who decides?
 
-**M:**&ensp;The situätion decides. Every situätion is a challenge which demands the right response. When the response is right, the challenge is met and the problem ceases. If the response is wrong, the challenge is not met and the problem remains unsolved. Your unsolved problems — that is what constitutes your <span data-tippy-content="Action or ‘the fruits of action’. <em>Karma</em> is of three kinds: <em>sanchita</em> (accumulated from previous births), <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the present life) and <em>agami</em> (the current <em>karma</em> the result of which will fructify in future).">karma</span>. Solve them rightly and be free.
+**M:**&ensp;The situation decides. Every situation is a challenge which demands the right response. When the response is right, the challenge is met and the problem ceases. If the response is wrong, the challenge is not met and the problem remains unsolved. Your unsolved problems — that is what constitutes your <span data-tippy-content="Action or ‘the fruits of action’. <em>Karma</em> is of three kinds: <em>sanchita</em> (accumulated from previous births), <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the present life) and <em>agami</em> (the current <em>karma</em> the result of which will fructify in future).">karma</span>. Solve them rightly and be free.
 
 **Q:**&ensp;You seem to drive me always back into myself. Is there no objective solution to the world’s problems?
 
-**M:**&ensp;The world’s problems were creäted by numberless people like you, each full of their own desires and fears. Who can free you of your past, personal and social, except yourself? And how will you do it unless you see the urgent need of your first beïng free of cravings born of illusion? How can you truly help as long as you need help yourself?
+**M:**&ensp;The world’s problems were created by numberless people like you, each full of their own desires and fears. Who can free you of your past, personal and social, except yourself? And how will you do it unless you see the urgent need of your first being free of cravings born of illusion? How can you truly help as long as you need help yourself?
 
 **Q:**&ensp;In what way did the ancient sages help? In what way do you help? A few individuals profit, no doubt; your guidance and example may mean a lot to them. But in what way do you affect humanity, the totality of life and consciousness? You say that you are the world and the world is you; what impact have you made on it?
 
@@ -70,7 +70,7 @@ For instance, you complain that people are abjectly poor. Yet you do not share y
 
 **Q:**&ensp;Or kills.
 
-**M:**&ensp;In some cases death is the best cure. A life may be worse than death, which is but rarely an unpleasant experiënce, whatever the appearances. Therefore, pity the living, never the dead. This problem of things beïng good and evil in themselves does not exist in my world. The needful is good and the needless is evil. In your world the pleasant is good and the painful is evil.
+**M:**&ensp;In some cases death is the best cure. A life may be worse than death, which is but rarely an unpleasant experience, whatever the appearances. Therefore, pity the living, never the dead. This problem of things being good and evil in themselves does not exist in my world. The needful is good and the needless is evil. In your world the pleasant is good and the painful is evil.
 
 **Q:**&ensp;What is necessary?
 

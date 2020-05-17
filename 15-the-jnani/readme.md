@@ -1,10 +1,10 @@
 # 15. The *Jnani*
 
->The <span style=font-style:normal>jnani</span> is the supreme and also the witness. He is both beïng and awareness. In relation to consciousness, he is awareness. In relation to the universe, he is pure beïng.
+>The <span style=font-style:normal>jnani</span> is the supreme and also the witness. He is both being and awareness. In relation to consciousness, he is awareness. In relation to the universe, he is pure being.
 
 **Questioner:**&ensp;Without God’s power nothing can be done. Even you would not be sitting here and talking to us without Him.
 
-**Maharaj:**&ensp;All is His doïng, no doubt. What is it to me, since I want nothing? What can God give me or take away from me? What is mine is mine, and was mine even when God was not. Of course, it is a very tiny little thing, a speck — the sense ‘I am’, the fact of beïng. This is my own place, nobody gave it to me. The earth is mine; what grows on it is God’s.
+**Maharaj:**&ensp;All is His doing, no doubt. What is it to me, since I want nothing? What can God give me or take away from me? What is mine is mine, and was mine even when God was not. Of course, it is a very tiny little thing, a speck — the sense ‘I am’, the fact of being. This is my own place, nobody gave it to me. The earth is mine; what grows on it is God’s.
 
 **Q:**&ensp;Did God take the earth on rent from you?
 
@@ -36,7 +36,7 @@
 
 **Q:**&ensp;God runs the world, God will save it.
 
-**M:**&ensp;That’s what you say! Did God come and tell you that the world is His creätion and concern and not yours?
+**M:**&ensp;That’s what you say! Did God come and tell you that the world is His creation and concern and not yours?
 
 **Q:**&ensp;Why should it be my sole concern?
 
@@ -48,15 +48,15 @@
 
 **Q:**&ensp;It cannot be so bad! I exist in your world as you exist in mine.
 
-**M:**&ensp;You have no evidence of my world. You are completely wrapped up in the world of your own makeïng.
+**M:**&ensp;You have no evidence of my world. You are completely wrapped up in the world of your own making.
 
 **Q:**&ensp;I see. Completely, but — hopelessly?
 
-**M:**&ensp;Within the prison of your world appears a man who tells you that the world of painful contradictions which you have creäted is neither continuöus nor permanent, and is based on a misapprehension. He pleads with you to get out of it by the same way which you got into it. You got into it by forgetting what you are and you will get out of it by knowing yourself as you are.
+**M:**&ensp;Within the prison of your world appears a man who tells you that the world of painful contradictions which you have created is neither continuous nor permanent, and is based on a misapprehension. He pleads with you to get out of it by the same way which you got into it. You got into it by forgetting what you are and you will get out of it by knowing yourself as you are.
 
 **Q:**&ensp;In what way does it affect the world?
 
-**M:**&ensp;When you are free of the world, you can do something about it. As long as you are a prisoner of it, you are helpless to change it. On the contrary, whatever you do will aggravate the situätion.
+**M:**&ensp;When you are free of the world, you can do something about it. As long as you are a prisoner of it, you are helpless to change it. On the contrary, whatever you do will aggravate the situation.
 
 **Q:**&ensp;Righteousness will set me free.
 
@@ -80,11 +80,11 @@
 
 **Q:**&ensp;Who is the <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span>? The witness or the supreme?
 
-**M:**&ensp;The *jnani* is the supreme and also the witness. He is both beïng and awareness. In relation to consciousness he is awareness. In relation to the universe he is pure beïng.
+**M:**&ensp;The *jnani* is the supreme and also the witness. He is both being and awareness. In relation to consciousness he is awareness. In relation to the universe he is pure being.
 
 **Q:**&ensp;And what about the person? What comes first, the person or the knower? 
 
-**M:**&ensp;The person is a very small thing. Actually it is a composite; it cannot be said to exist by itself. Unperceived, it is just not there. It is but the shadow of the mind, the sum total of memories. Pure beïng is reflected in the mirror of the mind as knowing. What is known takes the shape of a person based on memory and habit. It is but a shadow or a projection of the knower onto the screen of the mind.
+**M:**&ensp;The person is a very small thing. Actually it is a composite; it cannot be said to exist by itself. Unperceived, it is just not there. It is but the shadow of the mind, the sum total of memories. Pure being is reflected in the mirror of the mind as knowing. What is known takes the shape of a person based on memory and habit. It is but a shadow or a projection of the knower onto the screen of the mind.
 
 **Q:**&ensp;The mirror is there, the reflection is there. But where is the sun?
 
