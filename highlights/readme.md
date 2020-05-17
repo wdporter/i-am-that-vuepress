@@ -360,6 +360,12 @@ not need. Yet only few people reach this state of complete dispassion and
 detachment. It is a very high state, the very threshold of liberation.
 
 
+## [54. Body and Mind Are Symptoms of Ignorance](/54-body-and-mind-are-symptoms-of-ignorance/)
+
+&emsp;The entire universe contributes incessantly to your existence. Hence the entire universe is your body.
+
+
+
 ## [62. In the Supreme, the Witness Appears](/62-in-the-supreme-the-witness-appears/)
 
 **Q:**&ensp;How is it that here, my mind is engaged in high topics and finds dwelling on them easy and pleasant, but when I return home I find myself forgetting all l have learnt here, worrying and fretting, unable to remember my real nature even for a moment. What may be the cause?
