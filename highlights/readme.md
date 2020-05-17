@@ -369,6 +369,15 @@ detachment. It is a very high state, the very threshold of liberation.
 
 &emsp;There is nothing to gain. Abandon all imaginings and know yourself as you are. Self-knowledge is detachment. All craving is due to a sense of insufficiency. When you know that you lack nothing, that all there is is you and yours, desire ceases.
 
+## [57. Beyond Mind There Is No Suffering](/57-beyond-mind-there-is-no-suffering/)
+
+&emsp;Look — my thumb touches my forefinger. Both touch and are touched. When my attention is on the thumb, the thumb is the feeler and the forefinger — the self. Shift the focus of attention and the relationship is reversed. I find that somehow, by shifting the focus of attention, I become the very thing I look at and experience the kind of consciousness it has; I become the inner witness of the thing. I call this capacity of entering other focal points of consciousness ‘love’; you may give it any name you like. Love says, “I am everything”. Wisdom says, “I am nothing”. Between the two my life flows. Since at any point of time and space I can be both the subject and the object of experience, I express it by saying that I am both, and neither, and beyond both.
+
+…
+
+**Q:**&ensp;We are told that various *yogi*c powers arise spontaneously in a man who has realised his own true being. What is your experience in these matters?
+
+**M:**&ensp;Man’s fivefold body (physical and so forth) has potential powers beyond our wildest dreams. Not only is the entire universe reflected in man, but also the power to control the universe is waiting to be used by him. The wise man is not anxious to use such powers except when the situation calls for them. He finds the abilities and skills of the human personality quite adequate for the business of daily living. Some of the powers can be developed by specialised training, but the man who flaunts such powers is still in bondage. The wise man counts nothing as his own. When at some time and place some miracle is attributed to some person, he will not establish any causal link between events and people, nor will he allow any conclusions to be drawn. All happened as it happened because it had to happen; everything happens as it does because the universe is as it is.
 
 
 
