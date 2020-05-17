@@ -365,6 +365,12 @@ detachment. It is a very high state, the very threshold of liberation.
 &emsp;The entire universe contributes incessantly to your existence. Hence the entire universe is your body.
 
 
+## [55. Give Up All and You Gain All](/55-give-up-all-and-you-gain-all/)
+
+&emsp;There is nothing to gain. Abandon all imaginings and know yourself as you are. Self-knowledge is detachment. All craving is due to a sense of insufficiency. When you know that you lack nothing, that all there is is you and yours, desire ceases.
+
+
+
 
 ## [62. In the Supreme, the Witness Appears](/62-in-the-supreme-the-witness-appears/)
 
