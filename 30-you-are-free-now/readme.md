@@ -133,9 +133,9 @@ other hand, knowledge gives power. In practice it is very simple. To control
 yourself — know yourself.
 
 **Q:**&ensp;Maybe, I can come to control myself, but shall I be able to deal 
-with the chäos in the world?
+with the chaos in the world?
 
-**M:**&ensp;There is no chäos in the world, except the chäos which your mind 
+**M:**&ensp;There is no chaos in the world, except the chaos which your mind 
 creates. It is self-created in the sense that at its very centre is the false 
 idea of oneself as a thing different and separate from other things. In 
 reality you are not a thing, nor are you separate. You are the infinite 

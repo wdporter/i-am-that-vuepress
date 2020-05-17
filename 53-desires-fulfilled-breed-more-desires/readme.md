@@ -1,10 +1,10 @@
-# 53. Desires Fulfilled, Breed More Desires
+# 53. Desires Fulfilled Breed More Desires
 
->…desires fulfilled breed more desires. Keeping away from all desires and contentment in what comes by itself is a very fruitful state — a precondition to the state of fullness. Don’t distrust its apparent sterility and emptiness. Believe me, it is the satisfaction of desires that breeds misery. Freedom from desires is bliss.
+>… desires fulfilled breed more desires. Keeping away from all desires and contentment in what comes by itself is a very fruitful state — a precondition to the state of fullness. Don’t distrust its apparent sterility and emptiness. Believe me — it is the satisfaction of desires that breeds misery. Freedom from desires is bliss.
 
 **Questioner:**&ensp;I must confess I came today in a rebellious mood. I got a raw deal at the airlines office. When faced with such situations everything seems doubtful, everything seems useless.
 
-**Maharaj:**&ensp;This is a very useful mood. Doubting all, refusing all, unwilling to learn through another. It is the fruit of your long <span data-tippy-content="The practice which produces success, <em>siddhi</em>.">sadhana</span>. After all one does not study for ever.
+**Maharaj:**&ensp;This is a very useful mood. Doubting all, refusing all, unwilling to learn through another. It is the fruit of your long <span data-tippy-content="The practice which produces success, <em>siddhi</em>.">sadhana</span>. After all, one does not study for ever.
 
 **Q:**&ensp;Enough of it. It took me nowhere.
 
@@ -12,21 +12,21 @@
 
 **Q:**&ensp;It is again the child and its tantrums. I have not moved an inch from where I was.
 
-**M:**&ensp;You began as a child and you will end as a child. Whatever you have acquired in the meantime you must lose and start at the beginning.
+**M:**&ensp;You began as a child and you will end as a child. Whatever you have acquired in the meantime, you must lose and start at the beginning.
 
-**Q:**&ensp;But the child kicks. When it is unhappy or denied anything it kicks.
+**Q:**&ensp;But the child kicks. When it is unhappy or denied anything, it kicks.
 
-**M:**&ensp;Let it kick. Just look at the kicking. And if you are too afraid of the society to kick convincingly look at that too. I know it is a painful business. But there is no remedy except one: the search for remedies must cease. 
+**M:**&ensp;Let it kick. Just look at the kicking. And if you are too afraid of society to kick convincingly, look at that too. I know it is a painful business. But there is no remedy — except one: the search for remedies must cease. 
 
-If you are angry or in pain, separate yourself from anger and pain and watch them. Externalisation is the first step to liberation. Step away and look. The physical events will go on happening, but by themselves they have no importance. It is the mind alone that matters. Whatever happens, you cannot kick and scream in an airline office or in a Bank. Society does not allow it. If you do not like their ways, or are not prepared to endure them, don’t fly or carry money. Walk, and if you cannot walk, don’t travel. If you deal with society you must accept its ways, for its ways are your ways. Your needs and demands have created them. Your desires are so complex and contradictory — no wonder the society you create is also complex and contradictory.
+If you are angry or in pain, separate yourself from anger and pain and watch them. Externalisation is the first step to liberation. Step away and look. The physical events will go on happening, but by themselves they have no importance. It is the mind alone that matters. Whatever happens, you cannot kick and scream in an airline office or in a bank. Society does not allow it. If you do not like their ways or are not prepared to endure them, don’t fly or carry money. Walk, and if you cannot walk, don’t travel. If you deal with society, you must accept its ways, for its ways are your ways. Your needs and demands have created them. Your desires are so complex and contradictory — no wonder the society you create is also complex and contradictory.
 
-**Q:**&ensp;I do see and admit that the outer chäos is merely a reflection of my own inner disharmony. But what is the remedy?
+**Q:**&ensp;I do see and admit that the outer chaos is merely a reflection of my own inner disharmony. But what is the remedy?
 
 **M:**&ensp;Don’t seek remedies.
 
 **Q:**&ensp;Sometimes one is in a ‘state of grace’ and life is happy and harmonious. But such a state does not last! The mood changes and all goes wrong.
 
-**M:**&ensp;If you could only keep quiet, clear of memories and expectations, you would be able to discern the beautiful pattern of events. It is your restlessness that causes chäos.
+**M:**&ensp;If you could only keep quiet, clear of memories and expectations, you would be able to discern the beautiful pattern of events. It is your restlessness that causes chaos.
 
 **Q:**&ensp;For full three hours that I spent in the airline office I was practising patience and forbearance. It did not speed up matters.
 

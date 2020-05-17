@@ -162,7 +162,7 @@ Once you know, you cannot forget.
 Ignorance has no beginning, but can have an end. 
 Enquire who is ignorant and ignorance will dissolve like a dream. 
 The world is full of contradictions; hence your search for harmony and peace. 
-These you cannot find in the world, for the world is the child of chäos. 
+These you cannot find in the world, for the world is the child of chaos. 
 To find order you must search within. 
 The world comes into being only when you are born in a body. 
 No body, no world. 

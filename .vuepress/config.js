@@ -128,7 +128,7 @@ module.exports = {
 					"/75-in-peace-and-silence-you-grow/",
 					"/76-to-know-that-you-do-not-know-is-true-knowledge/",
 					"/77-i-and-mine-are-false-ideas/",
-					"/78-all-knowledge-is-ignorance"
+					"/78-all-knowledge-is-ignorance/"
 				]
 			},
 			{

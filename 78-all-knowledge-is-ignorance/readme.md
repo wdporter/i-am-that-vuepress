@@ -181,7 +181,7 @@ course it is in the <span data-tippy-content="Universal
 consciousness.">chit</span>, consciousness, but appears to be outside because 
 of its apparent changelessness. The foundation of things is in memory — 
 without memory there would be no recognition. Creation, reflection, rejection 
-— Brahma<span data-tippy-content="One of the gods of the Hindu trinity: 
+— <span data-tippy-content="One of the gods of the Hindu trinity: 
 Brahma, the creator; Vishnu, the preserver; Shiva, the 
 destroyer.">Brahma</span>, <span data-tippy-content="One of the Gods of the 
 Hindu trinity — Brahma, the creator; Vishnu, the preserver and Shiva, the 
@@ -294,3 +294,12 @@ represent the unmanifested.
 **Q:**&ensp;Then why do you talk of it?
 
 **M:**&ensp;Because it is my birthplace.
+
+<script>
+export default {
+  props: ["slot-key"],
+  mounted () {
+    tippy("[data-tippy-content]", {allowHTML: true});
+  }
+}
+</script>

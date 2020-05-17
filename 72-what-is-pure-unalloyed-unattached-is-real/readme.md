@@ -291,12 +291,12 @@ result, is worse than inaction, for its fruits are always bitter.
 **M:**&ensp;Of course. Awareness is dynamic, love is being. Awareness is love 
 in action. By itself the mind can actualise any number of possibilities, but 
 unless they are prompted by love, they are valueless. Love precedes creation. 
-Without it there is only chäos.
+Without it there is only chaos.
 
 **Q:**&ensp;Where is the action in awareness?
 
 **M:**&ensp;You are so incurably operational! Unless there is movement, 
-restlessness, turmoil, you do not call it action. Chäos is movement for 
+restlessness, turmoil, you do not call it action. Chaos is movement for 
 movement’s sake. True action does not displace; it transforms. A change of 
 place is mere transportation; a change of heart is action. Just remember: 
 nothing perceivable is real. Activity is not action. Action is hidden, 

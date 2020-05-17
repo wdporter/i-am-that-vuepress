@@ -54,7 +54,7 @@ See your net as made of such contradictions and remove them — your very seeing
 
 **Q:**&ensp;Since my seeing the contradiction makes it go, is there no causal link between my seeing and its going?
 
-**M:**&ensp;Causality, even as a concept, does not apply to chäos.
+**M:**&ensp;Causality, even as a concept, does not apply to chaos.
 
 **Q:**&ensp;To what extent is desire a causal factor?
 

@@ -34,7 +34,7 @@ One could plead that everything is natural, subject to nature’s laws; to maint
 **M:**&ensp;Would you like it better if I use the word ‘spontaneous’ instead of ‘accidental’?
 
 **Q:**&ensp;You may use the word ‘spontaneous’ or ‘natural’ as opposed to ‘accidental’. 
-In the accidental there is the element of disorder, of chäos. 
+In the accidental there is the element of disorder, of chaos. 
 An accident is always a breach of rules, an exception, a surprise.
 
 **M:**&ensp;Is not life itself a stream of surprises?

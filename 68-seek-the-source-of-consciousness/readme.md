@@ -26,7 +26,7 @@ They have no patience with people like you who preach personal improvement as a 
 
 **Q:**&ensp;Even death is a need?
 
-**M:**&ensp;Having lived a long and fruitful life, you feel the need to die. Only when wrongly applied are desire and fear are destructive. By all means, desire the right and fear the wrong. But when people desire what is wrong and fear what is right, they create chäos and despair.
+**M:**&ensp;Having lived a long and fruitful life, you feel the need to die. Only when wrongly applied are desire and fear are destructive. By all means, desire the right and fear the wrong. But when people desire what is wrong and fear what is right, they create chaos and despair.
 
 **Q:**&ensp;What is right and what is wrong?
 

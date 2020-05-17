@@ -66,7 +66,7 @@ You may not be quite conscious of your physiological functions, but when it come
 
 **Q:**&ensp;Don’t you become a robot?
 
-**M:**&ensp;What harm is there in making automatic what is habitual and repetitive? It is automatic anyhow. But when it is also chäotic it causes pain and suffering and calls for attention. The entire purpose of a clean and well-ordered life is to liberate man from the thrall of chäos and the burden of sorrow.
+**M:**&ensp;What harm is there in making automatic what is habitual and repetitive? It is automatic anyhow. But when it is also chäotic it causes pain and suffering and calls for attention. The entire purpose of a clean and well-ordered life is to liberate man from the thrall of chaos and the burden of sorrow.
 
 **Q:**&ensp;You seem to be in favour of a computerised life.
 
