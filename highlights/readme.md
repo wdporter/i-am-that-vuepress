@@ -380,7 +380,6 @@ detachment. It is a very high state, the very threshold of liberation.
 **M:**&ensp;Man’s fivefold body (physical and so forth) has potential powers beyond our wildest dreams. Not only is the entire universe reflected in man, but also the power to control the universe is waiting to be used by him. The wise man is not anxious to use such powers except when the situation calls for them. He finds the abilities and skills of the human personality quite adequate for the business of daily living. Some of the powers can be developed by specialised training, but the man who flaunts such powers is still in bondage. The wise man counts nothing as his own. When at some time and place some miracle is attributed to some person, he will not establish any causal link between events and people, nor will he allow any conclusions to be drawn. All happened as it happened because it had to happen; everything happens as it does because the universe is as it is.
 
 
-
 ## [62. In the Supreme, the Witness Appears](/62-in-the-supreme-the-witness-appears/)
 
 **Q:**&ensp;How is it that here, my mind is engaged in high topics and finds dwelling on them easy and pleasant, but when I return home I find myself forgetting all l have learnt here, worrying and fretting, unable to remember my real nature even for a moment. What may be the cause?
@@ -490,3 +489,27 @@ real. To say, “I am only the witness” is both false and true: false because 
 the ‘I am’, true because of the witness. It is better to say, “There is 
 witnessing”. The moment you say, “I am”, the entire universe comes into being 
 along with its creator.
+
+## [79. The Person, The Witness and The Supreme](/79-the-person-the-witness-and-the-supreme/)
+
+**M:**&ensp;You are really in search of yourself without knowing it. You are 
+love-longing for the loveworthy, the perfectly lovable. Due to ignorance you 
+are looking for it in the world of opposites and contradictions. When you find 
+it within, your search will be over.
+
+**Q:**&ensp;There will be always this sorrowful world to contend with.
+
+**M:**&ensp;Don’t anticipate. You do not know. It is true that all 
+manifestation is in the opposites. Pleasure and pain, good and bad, high and 
+low, progress and regress, rest and strife — they all come and go together — 
+and as long as there is a world, its contradictions will be there. There may 
+also be periods of perfect harmony, of bliss and beauty but only for a time. 
+What is perfect returns to the source of all perfection and the opposites play 
+on.
+
+**Q:**&ensp;How am I to reach perfection?
+
+**M:**&ensp;Keep quiet. Do your work in the world, but inwardly keep quiet. 
+Then all will come to you. Do not rely on your work for realisation. It may 
+profit others, but not you. Your hope lies in keeping silent in your mind and 
+quiet in your heart. Realised people are very quiet.
