@@ -513,3 +513,56 @@ on.
 Then all will come to you. Do not rely on your work for realisation. It may 
 profit others, but not you. Your hope lies in keeping silent in your mind and 
 quiet in your heart. Realised people are very quiet.
+
+
+## [81. The Root Cause of Fear](/81-the-root-cause-of-fear/)
+
+&emsp;*Karma* is only a store of unspent energies, of unfulfilled desires and 
+fears not understood. The store is being constantly replenished by new desires 
+and fears. It need not be so for ever. Understand the root cause of your fears 
+— estrangement from yourself; and of desires — the longing for the self; and 
+your *karma* will dissolve like a dream. Between earth and heaven, life goes 
+on. Nothing is affected, only bodies grow and decay.
+
+…
+
+**M:**&ensp;It [anxiety] is a mental state caused by the ‘I am the body’ idea. 
+It can be removed by the contrary idea, ‘I am not the body’. Both the ideas 
+are false, but one removes the other. Realise that no ideas are your own; they 
+all come to you from outside. You must think it all out for yourself; become 
+yourself the object of your meditation. The effort to understand yourself is 
+*yoga*. Be a *yogi*, give your life to it — brood, wonder, search, till you 
+come to the root of error and to the truth beyond the error.
+
+**Q:**&ensp;In meditation, who meditates — the person or the witness?
+
+**M:**&ensp;Meditation is a deliberate attempt to pierce into the higher 
+states of consciousness and finally go beyond them. The art of meditation is 
+the art of shifting the focus of attention to ever subtler levels without 
+losing one’s grip on the levels left behind. In a way it is like having death 
+under control. One begins with the lowest levels: social circumstances, 
+customs and habits; physical surroundings, the posture and the breathing of 
+the body; the senses, their sensations and perceptions; the mind, its thoughts 
+and feelings, until the entire mechanism of personality is grasped and firmly 
+held. The final stage of meditation is reached when the sense of identity goes 
+beyond the ‘I am so-and-so’, beyond ‘so I am’, beyond ‘I am the witness only’, 
+beyond ‘there is’, beyond all ideas into the impersonally personal pure being. 
+But you must be energetic when you take to meditation. It is definitely not a 
+part-time occupation. Limit your interests and activities to what is needed 
+for you and your dependents’ barest needs. Save all of your energies and time 
+for breaking the wall your mind had built around you. Believe me, you will not 
+regret it.
+
+…
+
+But you must give yourself the opportunity through intensive, even arduous, 
+meditation.
+
+…
+
+All you need is already within you; you must only approach your self with 
+reverence and love. Self-condemnation and self-distrust are grievous errors. 
+Your constant flight from pain and search for pleasure is a sign of love you 
+bear for your self; all I plead with you is this: Make love of your self 
+perfect. Deny yourself nothing — give your self infinity and eternity and 
+discover that you do not need them; you are beyond.

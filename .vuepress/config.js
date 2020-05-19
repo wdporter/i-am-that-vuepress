@@ -134,6 +134,12 @@ module.exports = {
 				]
 			},
 			{
+				title: "81–90",
+				children: [
+					"/81-the-root-cause-of-fear/"
+				]
+			},
+			{
 				title: "Front Matter",
 				children: [
 					"/foreword/",
