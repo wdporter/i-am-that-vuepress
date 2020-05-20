@@ -137,7 +137,9 @@ module.exports = {
 				title: "81–90",
 				children: [
 					"/81-the-root-cause-of-fear/",
-					"/82-absolute-perfection-is-here-and-now/"
+					"/82-absolute-perfection-is-here-and-now/",
+					"/83-the-true-guru/",
+					"/84-your-goal-is-your-guru/"
 				]
 			},
 			{

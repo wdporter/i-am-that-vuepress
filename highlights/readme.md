@@ -566,3 +566,8 @@ Your constant flight from pain and search for pleasure is a sign of love you
 bear for your self; all I plead with you is this: Make love of your self 
 perfect. Deny yourself nothing — give your self infinity and eternity and 
 discover that you do not need them; you are beyond.
+
+
+## [83. The True *Guru*](/83-the-true-guru/)
+
+&emsp;Don’t be misled by the simplicity of the advice. Very few are those who have the courage to trust the innocent and the simple. To know that you are a prisoner of your mind, that you live in an imaginary world of your own creation, is the dawn of wisdom. To want nothing of it, to be ready to abandon it entirely, is earnestness. Only such earnestness, born of true despair, will make you trust me.
