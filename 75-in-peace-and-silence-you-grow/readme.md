@@ -185,12 +185,12 @@ We just refuse to see that words are mere symbols related by convention and habi
 They are useful in the beginning but become a hindrance in the end. 
 One must know when to discard them.
 
-**Q:**&ensp;What is the link between <span data-tippy-content="The Supreme Self, the individual soul. <em>Atman</em> is beyond all the three <em>gunas</em> of <em>prakriti</em>. It is not the <em>atman</em> that acts but only the  <em>prakriti</em>.">atma</span> and <span data-tippy-content="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>, between the self and the universal harmony?
+**Q:**&ensp;What is the link between <span data-tippy-content="The Supreme Self, the individual soul. <em>Atman</em> is beyond all the three <em>guna</em>s of <em>prakriti</em>. It is not the <em>atman</em> that acts but only the  <em>prakriti</em>.">atma</span> and <span data-tippy-content="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>, between the self and the universal harmony?
 
 **M:**&ensp;As between the sun and its rays. 
 Harmony and beauty, understanding and affection are all expressions of reality. 
 It is reality in action, the impact of the spirit on matter. 
-<span data-tippy-content="Darkness, inertia, passivity. One of the three constituents (<em>gunas</em>) of the cosmic substance: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>.">Tamas</span> obscures, <span data-tippy-content="Motivity, activity, energy. One of the three <em>gunas</em> or qualities of matter: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</span> distorts, *sattva* harmonises. 
+<span data-tippy-content="Darkness, inertia, passivity. One of the three constituents (<em>guna</em>s) of the cosmic substance: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>.">Tamas</span> obscures, <span data-tippy-content="Motivity, activity, energy. One of the three <em>guna</em>s or qualities of matter: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</span> distorts, *sattva* harmonises. 
 With the maturing of the *sattva*, all desires and fears come to an end. 
 The real being is reflected in the mind undistorted. 
 Matter is redeemed, spirit revealed. 

@@ -135,7 +135,7 @@ which the all-embracing consciousness is the manifestation and expression.
 
 ## [26. Personality, an Obstacle](/26-personality-an-obstacle/)
 
-&emsp;Go home, take charge of your father’s business, look after your parents in their old age. Marry the girl who is waiting for you, be loyal, be simple and be humble. Hide your virtue, live silently. The five senses and the three qualities (<span data-tippy-content="Attributes, qualities. In <em>Samkhya</em> philosophy the three attributes of the cosmic substance (<em>prakriti</em>) are: illuminating (<em>sattva</em>), activating (<em>rajas</em>) and restraining (<em>tamas</em>).">gunas</span>) are your eight steps in *yoga*. And ‘I am’ is the Great Reminder (<span data-tippy-content="The great incantation (see <em>mantra</em>).">mahamantra</span>). You can learn from them all you need to know. Be attentive, enquire ceaselessly. That is all.
+&emsp;Go home, take charge of your father’s business, look after your parents in their old age. Marry the girl who is waiting for you, be loyal, be simple and be humble. Hide your virtue, live silently. The five senses and the three qualities (*guna*s) are your eight steps in *yoga*. And ‘I am’ is the Great Reminder (*mahamantra*). You can learn from them all you need to know. Be attentive, enquire ceaselessly. That is all.
 
 
 ## [29. Living is Life’s Only Purpose](/29-living-is-lifes-only-purpose/)
@@ -184,10 +184,7 @@ or fear.
 …
 
 &emsp;At the root of all creation lies desire. Desire and imagination 
-foster and reïnforce each other. The fourth state (<span 
-data-tippy-content="The superconscious state of <em>samadhi</em>, 
-(<em>turiya</em>, fourth), the fourth state of soul in which it becomes one 
-with Brahman, the highest awareness.">turiya</span>) is a state of pure 
+foster and reïnforce each other. The fourth state (*turiya*) is a state of pure 
 witnessing, detached awareness — passionless and wordless. It is like space, 
 unaffected by whatever it contains. Bodily and mental troubles do not reach it 
 — they are outside, ‘there’, while the witness is always ‘here’.
@@ -268,8 +265,7 @@ In other words, the absolutely material and the absolutely spiritual, the totall
 
 &emsp;I am now seventy-four years old. And yet I feel that I am an infant. I 
 feel clearly that, in spite of all the changes, I am a child. My *guru* told 
-me, “That child, which is you even now, is your real self” (<span 
-data-tippy-content="One’s own form, nature, character.">svarupa</span>)”. Go 
+me, “That child, which is you even now, is your real self” (*svarupa*)”. Go 
 back to that state of pure being where the ‘I am’ is still in its purity, 
 before it became contaminated with ‘this I am’ or ‘that I am’. Your burden is 
 of false self-identifications — abandon them all. My *guru* told me, “Trust 

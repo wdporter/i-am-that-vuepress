@@ -10,7 +10,7 @@ I cease caring, it dissolves. It has no cause and serves no purpose. It just
 happens when we are absent-minded. It appears exactly as it looks, but there 
 is no depth in it or meaning. Only the onlooker is real, wheterh you call him 
 the Self or <span data-tippy-content="The Supreme Self, the individual soul. 
-<em>Atman</em> is beyond all the three <em>gunas</em> of <em>prakriti</em>. It 
+<em>Atman</em> is beyond all the three <em>guna</em>s of <em>prakriti</em>. It 
 is not the <em>atman</em> that acts but only the 
 <em>prakriti</em>.">Atma</span>. To the Self, the world is but a colourful 
 show which he enjoys as long as it lasts and forgets when it is over. Whatever 

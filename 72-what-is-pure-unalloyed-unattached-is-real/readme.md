@@ -212,10 +212,10 @@ and the inner is less in India. It is easier here to express the inner in the
 outer. Integration is easier. Society is not so oppressive.
 
 **Q:**&ensp;Yes, in the West it is all <span data-tippy-content="Darkness, 
-inertia, passivity. One of the three constituents (<em>gunas</em>) of the 
+inertia, passivity. One of the three constituents (<em>guna</em>s) of the 
 cosmic substance: <em>sattva</em>, <em>rajas</em> and 
 <em>tamas</em>.">tamas</span> and <span data-tippy-content="Motivity, 
-activity, energy. One of the three <em>gunas</em> or qualities of matter: 
+activity, energy. One of the three <em>guna</em>s or qualities of matter: 
 <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, 
 egoism.">rajas</span>. In India there is more of <span 
 data-tippy-content="Being, existence, true essence. In <em>yoga</em> the 
@@ -224,8 +224,8 @@ quality of purity or goodness.">sattva</span>, of harmony and balance.
 **M:**&ensp;Can’t you go beyond the <span data-tippy-content="Attributes, 
 qualities. In <em>Samkhya</em> philosophy the three attributes of the cosmic 
 substance (<em>prakriti</em>) are: illuminating (<em>sattva</em>), activating 
-(<em>rajas</em>) and restraining (<em>tamas</em>).">gunas</span>? Why choose 
-the *sattva*? Be what you are, wherever you are and worry not about *gunas*.
+(<em>rajas</em>) and restraining (<em>tamas</em>).">guna</span>s? Why choose 
+the *sattva*? Be what you are, wherever you are and worry not about *guna*s.
 
 **Q:**&ensp;I have not the strength.
 

@@ -59,10 +59,10 @@ the nature of consciousness when there is harmony (<span
 data-tippy-content="Being, existence, true essence. In <em>yoga</em> the 
 quality of purity or goodness.">sattva</span>); but when activity and 
 passivity (<span data-tippy-content="Motivity, activity, energy. One of 
-the three <em>gunas</em> or qualities of matter: <em>sattva</em>, 
+the three <em>guna</em>s or qualities of matter: <em>sattva</em>, 
 <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</span> and 
 <span data-tippy-content="Darkness, inertia, passivity. One of the three 
-constituents (<em>gunas</em>) of the cosmic substance: <em>sattva</em>, 
+constituents (<em>guna</em>s) of the cosmic substance: <em>sattva</em>, 
 <em>rajas</em> and <em>tamas</em>.">tamas</span>) appear, they obscure and 
 distort and you see the false as real.
 

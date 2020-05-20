@@ -169,10 +169,10 @@ matter?
 
 **M:**&ensp;Consciousness as such is the subtle counterpart of matter. Just as 
 inertia (<span data-tippy-content="Darkness, inertia, passivity. One of the 
-three constituents (<em>gunas</em>) of the cosmic substance: <em>sattva</em>, 
+three constituents (<em>guna</em>s) of the cosmic substance: <em>sattva</em>, 
 <em>rajas</em> and <em>tamas</em>.">tamas</span>) and energy (<span 
 data-tippy-content="Motivity, activity, energy. One of the three 
-<em>gunas</em> or qualities of matter: <em>sattva</em>, <em>rajas</em> and 
+<em>guna</em>s or qualities of matter: <em>sattva</em>, <em>rajas</em> and 
 <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</span>) are attributes of 
 matter, so does harmony (<span data-tippy-content="Being, existence, true 
 essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>) 

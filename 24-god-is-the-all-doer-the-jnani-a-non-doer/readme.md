@@ -54,7 +54,7 @@ Thus runs the story. The difference with your teaching is this: you insist that 
 
 **Q:**&ensp;Still, you are angry sometimes.
 
-**M:**&ensp;With whom am I to be angry and for what? Anger came and dissolved on my remembering myself. It is all a play of <span data-tippy-content="Attributes, qualities. In <em>Samkhya</em> philosophy the three attributes of the cosmic substance (<em>prakriti</em>) are: illuminating (<em>sattva</em>), activating (<em>rajas</em>) and restraining (<em>tamas</em>).">gunas</span> (qualities of cosmic matter). When I identify myself with them, I am their slave. When I stand apart, I am their master.
+**M:**&ensp;With whom am I to be angry and for what? Anger came and dissolved on my remembering myself. It is all a play of <span data-tippy-content="Attributes, qualities. In <em>Samkhya</em> philosophy the three attributes of the cosmic substance (<em>prakriti</em>) are: illuminating (<em>sattva</em>), activating (<em>rajas</em>) and restraining (<em>tamas</em>).">guna</span>s (qualities of cosmic matter). When I identify myself with them, I am their slave. When I stand apart, I am their master.
 
 **Q:**&ensp;Can you influence the world by your attitude? By separating yourself from the world you lose all hope of helping it.
 

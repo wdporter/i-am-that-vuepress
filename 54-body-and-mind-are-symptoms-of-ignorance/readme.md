@@ -58,15 +58,15 @@ eternally.
 data-tippy-content="Being, existence, true essence. In <em>yoga</em> the 
 quality of purity or goodness.">sattva</span>, <span 
 data-tippy-content="Motivity, activity, energy. One of the three 
-<em>gunas</em> or qualities of matter: <em>sattva</em>, <em>rajas</em> and 
+<em>guna</em>s or qualities of matter: <em>sattva</em>, <em>rajas</em> and 
 <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</span>, <span 
 data-tippy-content="Darkness, inertia, passivity. One of the three 
-constituents (<em>gunas</em>) of the cosmic substance: <em>sattva</em>, 
+constituents (<em>guna</em>s) of the cosmic substance: <em>sattva</em>, 
 <em>rajas</em> and <em>tamas</em>.">tamas</span> — are they only in matter or 
 also in the mind?
 
 **M:**&ensp;In both, of course, because the two are not separate. It is only 
-the absolute that is beyond *gunas*. In fact, these are but points of view, 
+the absolute that is beyond *guna*s. In fact, these are but points of view, 
 ways of looking. They exist only in the mind. Beyond the mind, all 
 distinctions cease.
 

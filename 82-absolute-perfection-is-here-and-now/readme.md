@@ -192,12 +192,12 @@ and happy. This is the only practical solution. If you do not want it, fight.
 **Q:**&ensp;It is all a matter of <span data-tippy-content="Attributes, 
 qualities. In <em>Samkhya</em> philosophy the three attributes of the cosmic 
 substance (<em>prakriti</em>) are: illuminating (<em>sattva</em>), activating 
-(<em>rajas</em>) and restraining (<em>tamas</em>).">gunas</span>. Where <span 
+(<em>rajas</em>) and restraining (<em>tamas</em>).">guna</span>s. Where <span 
 data-tippy-content="Darkness, inertia, passivity. One of the three 
-constituents (<em>gunas</em>) of the cosmic substance: <em>sattva</em>, 
+constituents (<em>guna</em>s) of the cosmic substance: <em>sattva</em>, 
 <em>rajas</em> and <em>tamas</em>.">tamas</span> and <span 
 data-tippy-content="Motivity, activity, energy. One of the three 
-<em>gunas</em> or qualities of matter: <em>sattva</em>, <em>rajas</em> and 
+<em>guna</em>s or qualities of matter: <em>sattva</em>, <em>rajas</em> and 
 <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</span> predominate, there 
 must be war. Where <span data-tippy-content="Being, existence, true essence. 
 In <em>yoga</em> the quality of purity or goodness.">sattva</span> rules, 

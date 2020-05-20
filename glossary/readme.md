@@ -18,7 +18,7 @@ pageClass: glossary-class
 
 **<em>antahkarana:</em>**&ensp;the psyche, mind. Mind in a collective sense, including intelligence (*buddhi*), ego (*ahamkara*) and mind (*manas*).
 
-**Atma, Atman:**&ensp;the Supreme Self, the individual soul. *Atman* is beyond all the three *gunas* of *prakriti*. It is not the *atman* that acts but only the *prakriti*.
+**Atma, Atman:**&ensp;the Supreme Self, the individual soul. *Atman* is beyond all the three *guna*s of *prakriti*. It is not the *atman* that acts but only the *prakriti*.
 
 **<em>Atma-bhakti:**&ensp;worship of the Supreme.
 
@@ -66,7 +66,7 @@ pageClass: glossary-class
 
 **<em>digambara:</em>**&ensp;naked, ‘sky-clad’.
 
-**<em>gunas:</em>**&ensp;attributes, qualities. In *Samkhya* philosophy the three attributes of the cosmic substance (*prakriti*) are: Illuminating (*sattva*), activating (*rajas*) and restraining (*tamas*).
+**<em>guna:</em>s**&ensp;attributes, qualities. In *Samkhya* philosophy the three attributes of the cosmic substance (*prakriti*) are: Illuminating (*sattva*), activating (*rajas*) and restraining (*tamas*).
 
 **<em>guru:</em>**&ensp;spiritual teacher, preceptor.
 
@@ -154,7 +154,7 @@ pageClass: glossary-class
 
 **<em>purusha:</em>**&ensp;the cosmic spirit, the eternal and efficient cause of the universe that gives appearance of consciousness to all manifestations of matter (*prakriti*). The bondage of *purusha* in matter is due to ‘I’-consciousness born of *chitta–vrittis*, which gives rise to innuumerable desires.
 
-**<em>rajas:</em>**&ensp;motivity, activity, energy. One of the three *gunas* or qualities of matter: *sattva*, *rajas* and *tamas*. In *yoga*, egoism.
+**<em>rajas:</em>**&ensp;motivity, activity, energy. One of the three *guna*s or qualities of matter: *sattva*, *rajas* and *tamas*. In *yoga*, egoism.
 
 **<em>sadanubhava:</em>**&ensp;experience of the everlasting reality.
 
@@ -168,7 +168,7 @@ pageClass: glossary-class
 
 **<em>sadhu:</em>**&ensp;an ascetic.
 
-**<em>saguna:</em>**&ensp;manifested condition with the three *gunas*, qualities — *sattva*, *rajas* and *tamas*. The Supreme Absolute conceived of as possessing qualities like love, mercy etc., as distinguished from the undifferentiated Absolute of the *Advaita Vedanta*.
+**<em>saguna:</em>**&ensp;manifested condition with the three *guna*s, qualities — *sattva*, *rajas* and *tamas*. The Supreme Absolute conceived of as possessing qualities like love, mercy etc., as distinguished from the undifferentiated Absolute of the *Advaita Vedanta*.
 
 **<em>samadhi</em>**&ensp;superconscious state, profound meditation, trance, rapturous absorption. A practice of *yoga* in which the seeker (*sadhaka*) becomes one with the object of his meditation (*sadhya*), thus attaining unqualified bliss. “*Samadhi* is a state in which you transcend the bounds of your body, mind and self-identity, and merge into an undifferentiated unity with all that is”.
 
@@ -202,7 +202,7 @@ pageClass: glossary-class
 
 **<em>svarupa:</em>**&ensp;one’s own form, nature, character.
 
-**<em>tamas:</em>**&ensp;darkness, inertia, passivity. One of the three constituents (*gunas*) of the cosmic substance: *sattava*, *rajas* and *tamas*.
+**<em>tamas:</em>**&ensp;darkness, inertia, passivity. One of the three constituents (*guna*s) of the cosmic substance: *sattava*, *rajas* and *tamas*.
 
 **<em>tat–sat:</em>**&ensp;[*tat*, that + *sat*, truth, being, reality] that is the truth. The sacred text is “*Om Tat Sat*” in which *Brahman* is identified by each of the three words.
 
