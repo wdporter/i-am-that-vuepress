@@ -139,7 +139,8 @@ module.exports = {
 					"/81-the-root-cause-of-fear/",
 					"/82-absolute-perfection-is-here-and-now/",
 					"/83-the-true-guru/",
-					"/84-your-goal-is-your-guru/"
+					"/84-your-goal-is-your-guru/",
+					"/85-i-am-the-foundation-of-all-experience/"
 				]
 			},
 			{
