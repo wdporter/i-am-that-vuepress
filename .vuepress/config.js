@@ -140,7 +140,9 @@ module.exports = {
 					"/82-absolute-perfection-is-here-and-now/",
 					"/83-the-true-guru/",
 					"/84-your-goal-is-your-guru/",
-					"/85-i-am-the-foundation-of-all-experience/"
+					"/85-i-am-the-foundation-of-all-experience/",
+					"/86-the-unknown-is-the-home-of-the-real/",
+					"/87-keep-the-mind-silent-and-you-shall-discover/"
 				]
 			},
 			{

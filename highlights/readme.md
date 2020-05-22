@@ -567,3 +567,58 @@ discover that you do not need them; you are beyond.
 ## [83. The True *Guru*](/83-the-true-guru/)
 
 &emsp;Don’t be misled by the simplicity of the advice. Very few are those who have the courage to trust the innocent and the simple. To know that you are a prisoner of your mind, that you live in an imaginary world of your own creation, is the dawn of wisdom. To want nothing of it, to be ready to abandon it entirely, is earnestness. Only such earnestness, born of true despair, will make you trust me.
+
+
+## [86. The Unknown Is the Home of the Real](/86-the-unknown-is-the-home-of-the-real/)
+
+**M:**&ensp;Ask yourself, “To whom does all this happen?”. 
+Use everything as an opportunity to go within. 
+Light your way by burning up obstacles in the intensity of awareness. 
+When you happen to desire or fear, it is not the desire or fear that are wrong and must go, but the person who desires and fears. 
+There is no point in fighting desires and fears which may be perfectly natural and justified; it is the person who is swayed by them that is the cause of mistakes, past and future. 
+This person should be carefully examined and its falseness seen; then its power over you will end. 
+After all, it subsides each time you go to sleep. 
+In deep sleep, you are not a self-conscious person, yet you are alive. 
+When you are alive and conscious but no longer self-conscious, you are not a person anymore. 
+During the waking hours, you are as if on a stage playing a role, but what are you when the play is over? 
+You are what you are; what you were before the play began, you remain when it is over. 
+Look at yourself as performing on the stage of life. 
+The performance may be splendid or clumsy, but you are not in it.
+You merely watch it — with interest and sympathy of course, but keeping in mind all the time that you are only watching while the play — life — is going on.
+
+
+## [87. Keep the Mind Silent and You shall Discover](/87-keep-the-mind-silent-and-you-shall-discover/)
+
+**M:**&ensp;Be careful. The moment you start talking, you create a verbal 
+universe; a universe of words, ideas, concepts and abstractions, interwoven 
+and interdependent, most wonderfully generating, supporting and explaining 
+each other and yet all without essence or substance, mere creations of the 
+mind. Words create words; reality is silent.
+
+**Q:**&ensp;When you talk, I hear you. Is it not a fact?
+
+**M:**&ensp;That you hear is a fact. What you hear is not. The fact can be 
+experienced, and in that sense the sound of the word and the mental ripples it 
+causes are experienced. There is no other reality behind it. Its meaning is 
+purely conventional, to be remembered; a language can be easily forgotten 
+unless practiced.
+
+**Q:**&ensp;If words have no reality in them, why talk at all?
+
+**M:**&ensp;They serve their limited purpose of inter-personal communication. 
+Words do not convey facts, they signal them. Once you are beyond the person, 
+you need no words.
+
+**Q:**&ensp;What can take me beyond the person? How does one go beyond 
+consciousness?
+
+**M:**&ensp;Words and questions come from the mind and hold you there. To go 
+beyond the mind, you must be silent and quiet. Peace and silence, silence and 
+peace — this is the way beyond. Stop asking questions.
+
+…
+
+&emsp;The mind shapes the language and the language shapes the mind. Both are 
+tools — use them, but don’t misuse them. Words can only bring you up to their 
+own limit; to go beyond, you must abandon them. Remain as the silent witness 
+only.
