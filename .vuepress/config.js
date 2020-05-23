@@ -142,7 +142,8 @@ module.exports = {
 					"/84-your-goal-is-your-guru/",
 					"/85-i-am-the-foundation-of-all-experience/",
 					"/86-the-unknown-is-the-home-of-the-real/",
-					"/87-keep-the-mind-silent-and-you-shall-discover/"
+					"/87-keep-the-mind-silent-and-you-shall-discover/",
+					"/88-knowledge-by-the-mind-is-not-true-knowledge/"
 				]
 			},
 			{
