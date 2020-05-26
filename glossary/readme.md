@@ -10,7 +10,7 @@ pageClass: glossary-class
 
 **<em>ahimsa:</em>**&ensp;nonviolence; abstaining from hurting others in thought, words or deed.
 
-**<em>akash:</em>**&ensp;the void, an element of space, sky.
+**Akash:**&ensp;the void, an element of space, sky.
 
 **<em>ananda:</em>**&ensp;bliss, happiness.
 
@@ -18,13 +18,15 @@ pageClass: glossary-class
 
 **<em>antahkarana:</em>**&ensp;the psyche, mind. Mind in a collective sense, including intelligence (*buddhi*), ego (*ahamkara*) and mind (*manas*).
 
+**<em>anubhava:</em>**&ensp;direct perception, experience, cognition, feeling or thought. (In all experiences there is no experiencer other than ‘I’. Thus all *anubhava* leads to the I-principle — ‘I am’.)
+
 **Atma, Atman:**&ensp;the Supreme Self, the individual soul. *Atman* is beyond all the three *guna*s of *prakriti*. It is not the *atman* that acts but only the *prakriti*.
 
-**<em>Atma-bhakti:**&ensp;worship of the Supreme.
+**<em>Atma-bhakti</em>:**&ensp;worship of the Supreme.
 
-**<em>Atma-prakash:**&ensp;the light of the Self.
+**<em>Atma-prakash</em>:**&ensp;the light of the Self.
 
-**<em>atmaram:</em>**&ensp;rejoicing in the Self.
+**<em>Atmaram:</em>**&ensp;rejoicing in the Self.
 
 **avatara:**&ensp;incarnation.
 
@@ -34,13 +36,15 @@ pageClass: glossary-class
 
 **<em>bhakti:</em>**&ensp;devotion, adoration. Hence *bhakta*, a devotee.
 
+**Bikkhu:**&ensp;a *Bikkhu* (Pali) or *Bhikshu* (sanskrit) is an ordained male Buddhist monastic.
+
 **<em>bhoga:</em>**&ensp;sense enjoyment, experience of worldly joys and sorrows.
 
 **<em>bhogi:</em>**&ensp;a *bhogi* is one involved in worldly joys and sorrows. *Bhoga marga*, is the path of worldly pursuits — joys and sorrows.
 
-**Bikkhu:**&ensp;a *Bikkhu* (Pali) or *Bhikshu* (sanskrit) is an ordained male Buddhist monastic.
-
 **Brahma:**&ensp;one of the gods of the Hindu trinity: Brahma, the creator; Vishnu, the preserver; Shiva, the destroyer.
+
+**brahmacharya:**&ensp;continence, self-restraint from sexual activity, celibacy. *Brahmacharya* in its wider sense stands not only for abstinence from sexual indulgence, but also for freedom from craving for all sensual pleasures.
 
 **Brahman:**&ensp;the Absolute, the Ultimate Reality, whose characteristics are absolute existence (*sat*), absolute consciousness (*chit*) and absolute bliss (*ananda*). According to Shankaracharya, Brahman, the Absolute has five different phases: *Hiranyagarbha*, the Cosmic Self; *Ishvara*, the personal god in the form of an avatar; *jiva*, the individual soul; *prakriti*, the perishable nature and *shakti*, the creative power.
 
@@ -66,11 +70,11 @@ pageClass: glossary-class
 
 **<em>digambara:</em>**&ensp;naked, ‘sky-clad’.
 
-**<em>guna:</em>s**&ensp;attributes, qualities. In *Samkhya* philosophy the three attributes of the cosmic substance (*prakriti*) are: Illuminating (*sattva*), activating (*rajas*) and restraining (*tamas*).
+**<em>gunas:</em>**&ensp;attributes, qualities. In *Samkhya* philosophy the three attributes of the cosmic substance (*prakriti*) are: Illuminating (*sattva*), activating (*rajas*) and restraining (*tamas*).
 
 **<em>guru:</em>**&ensp;spiritual teacher, preceptor.
 
-**<em>jagrit-sushupti:</em>**&ensp;awakened-sleep, attentive sleep.
+**<em>jagrat-sushupti:</em>**&ensp;awakened-sleep, attentive sleep.
 
 **<em>jiva, jivatman:</em>**&ensp;[*Atman* + doership is *jiva*.] the individual soul. According to Vedanta, *jiva* comes into being as a result of the false identification of the atman with body, senses and mind.
 
@@ -82,15 +86,15 @@ pageClass: glossary-class
 
 **<em>karana:</em>**&ensp;cause, the primary cause invariably antecedent to a result, the unmanifested potential cause that in due course takes shape as the visibile effect, the material cause of the universe. *Karana* is cosmic energy in potential form.
 
-**<em>karma:</em>**&ensp;action or ‘the fruits of action’. *Karma* is of three kinds: *sanchita* (accumulated from previous births), *prarabdha* (portion of the past *karma* to be worked out in the present life) and *agami* (the current *karma* the result of which will fructify in future).
+**karma:**&ensp;action or ‘the fruits of action’. *Karma* is of three kinds: *sanchita* (accumulated from previous births), *prarabdha* (portion of the past *karma* to be worked out in the present life) and *agami* (the current *karma* the result of which will fructify in future).
 
 **<em>lila:</em>**&ensp;play, sport, the cosmos looked upon as the divine play; “effortless or playful relation between the Absolute,or Brahman, and the contingent world”.
 
 **<em>mahadakash:</em>**&ensp;the great expanse of existence, the universe of matter and energy.
 
-**<em>mahakarta:</em>**&ensp;the great doer. Mind is the great doer, for it is every busy, ever engaged in something or the other.
-
 **<em>Mahatma:</em>**&ensp;enlightened being.
+
+**<em>maha-karta:</em>**&ensp;the great doer. Mind is the great doer, for it is every busy, ever engaged in something or the other.
 
 **<em>maha-mantra:</em>**&ensp;the great incantation (see *mantra*).
 
@@ -111,6 +115,8 @@ pageClass: glossary-class
 **<em>mantra:</em>**&ensp;incantation, hymn, an instrument of thought, ideal sounds visualised as letters and vocalised as syllables. A mantra is a group of words whose constant repetition produces specific results.
 
 **<em>marga:</em>**&ensp;path.
+
+**<em>moksha:</em>**&ensp;liberation from the endless cycle of death and rebirth.
 
 **<em>moksha-sankalpa:</em>**&ensp;determination to be free from the false.
 
@@ -156,6 +162,10 @@ pageClass: glossary-class
 
 **<em>rajas:</em>**&ensp;motivity, activity, energy. One of the three *guna*s or qualities of matter: *sattva*, *rajas* and *tamas*. In *yoga*, egoism.
 
+**<em>sad-chit:</em>**&ensp;the transcendental condition of the universal potentiality.
+
+**<em>sadashiva</em>**&ensp;the perpetual beatitude, ever prosperous.
+
 **<em>sadanubhava:</em>**&ensp;experience of the everlasting reality.
 
 **<em>sadchitananda:</em>**&ensp;the ultimate principle with the three attributes in absolute perfection (*sat*, being + *chit*, consciousness + *ananda*, bliss).
@@ -192,6 +202,8 @@ pageClass: glossary-class
 
 **<em>shravana:</em>**&ensp;hearing of the scriptures, the act of hearing.
 
+**<em>siddha:</em>**&ensp;the realised person, one who has attained perfection.
+
 **<em>smarana:</em>**&ensp;remembrance, mental recitation.
 
 **<em>soham:</em>**&ensp;‘I Am He’.
@@ -205,6 +217,8 @@ pageClass: glossary-class
 **<em>tamas:</em>**&ensp;darkness, inertia, passivity. One of the three constituents (*guna*s) of the cosmic substance: *sattava*, *rajas* and *tamas*.
 
 **<em>tat–sat:</em>**&ensp;[*tat*, that + *sat*, truth, being, reality] that is the truth. The sacred text is “*Om Tat Sat*” in which *Brahman* is identified by each of the three words.
+
+**<em>tattva:</em>**&ensp;the true essence, reality.
 
 **<em>turiya:</em>**&ensp;the superconscious state of *samadhi*, (*turiya*, fourth), the fourth state of soul in which it becomes one with *Brahman*, the highest awareness.
 
@@ -231,5 +245,7 @@ pageClass: glossary-class
 **<em>yoga-bhrashta:</em>**&ensp;one who has falled from the high state of *yoga*.
 
 **<em>yoga-kshetra:</em>**&ensp;the field for *yoga*, the physical body in a philosophical sense (*kshetra*, field).
+
+**<em>yoga-sadhana:</em>**&ensp;spiritual practices of yoga.
 
 **yogi:**&ensp;one who practices *yoga*.

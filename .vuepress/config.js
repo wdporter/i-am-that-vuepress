@@ -143,7 +143,25 @@ module.exports = {
 					"/85-i-am-the-foundation-of-all-experience/",
 					"/86-the-unknown-is-the-home-of-the-real/",
 					"/87-keep-the-mind-silent-and-you-shall-discover/",
-					"/88-knowledge-by-the-mind-is-not-true-knowledge/"
+					"/88-knowledge-by-the-mind-is-not-true-knowledge/",
+					"/89-progress-in-spiritual-life/",
+					"/90-surrender-to-your-own-self/"
+				]
+			},
+			{
+				title: "90–101",
+				children: [
+					"/91-pleasure-and-happiness/",
+					"/92-go-beyond-the-i-am-the-body-idea/",
+					"/93-man-is-not-the-doer/",
+					"/94-you-are-beyond-space-and-time/",
+					"/95-accept-life-as-it-comes/",
+					"/96-abandon-memories-and-expectations/",
+					"/97-the-mind-and-the-world-are-not-separate/",
+					"/98-freedom-from-self-identification/",
+					"/99-the-perceived-cannot-be-the-perceiver/",
+					"/100-understanding-leads-to-freedom/",
+					"/101-a-jnani-does-not-grasp-nor-hold/"
 				]
 			},
 			{

@@ -622,3 +622,115 @@ peace — this is the way beyond. Stop asking questions.
 tools — use them, but don’t misuse them. Words can only bring you up to their 
 own limit; to go beyond, you must abandon them. Remain as the silent witness 
 only.
+
+
+## [95. Accept Life As It Comes](/95-accept-life-as-it-comes/)
+
+**M:**&ensp;Keep quiet, undisturbed, and the wisdom and the power will come on their own. You need not have 
+incessant longings. Wait in silence of the heart and mind. It is very easy to be quiet, but willingness is rare. You 
+people want to become supermen overnight. Stay without ambition, without the least desire — 
+exposed, vulnerable, unprotected, uncertain and alone, completely open to and welcoming life as it 
+happens, without the selfish conviction that all must yield you pleasure or profit, material or so-called spiritual.
+
+**Q:**&ensp;I respond to what you say, but I just do not see how it is done.
+
+**M:**&ensp;If you know how to do it, you will not do it. Abandon every attempt, just *be*; don’t strive, don’t 
+struggle, let go every support, hold on to the blind sense of being, brushing off all else. This is 
+enough.
+
+**Q:**&ensp;How is this brushing done? The more I brush off, the more it comes to the surface.
+
+**M:**&ensp;Refuse attention; let things come and go. Desires and thoughts are also things — disregard them. 
+Since immemorial time the dust of events was covering the clear mirror of your mind, so that you could see 
+only memories. Brush off the dust before it has time to settle; this will lay bare the old 
+layers until the true nature of your mind is discovered. It is all very simple and comparatively easy; 
+be earnest and patient, that is all. Dispassion, detachment, freedom from desire and fear, from all 
+self-concern, mere awareness — free from memory and expectation — this is the state of mind in 
+which discovery can happen. After all, liberation is but the freedom to discover.
+
+
+## [96. Abandon Memories and Expectations](/96-abandon-memories-and-expectations/)
+
+&emsp;In the mirror of your mind, images appear and disappear. The mirror remains. Learn to 
+distinguish the immovable in the movable, the unchanging in the changing, until you realise that all 
+differences are in appearance only and oneness is a fact. This basic identity — you may call it God or 
+Brahman, or the matrix (<span data-tippy-content="The cosmic substance, the original uncaused cause of phenomenal existence, which is formless, limitless, immobile, eternal and all-pervasive, also called <em>avyakta</em>.">prakriti</span>); the words matters little — is only the realisation that all is one. 
+Once you can say with confidence born from direct experience, “I am the world, the world is myself”, 
+you are free from desire and fear on one hand and become totally responsible for the world on the 
+other. The senseless sorrow of mankind becomes your sole concern.
+
+
+## [98. Freedom from Self-Identification](/98-freedom-from-self-identification/)
+
+&emsp;Try again. If you keep on trying, something may happen. But if you don’t, you are stuck. You 
+may know all the right words, quote the scriptures, be brilliant in your discussions and yet remain a 
+bag of bones. Or you may be inconspicuous and humble, an insignificant person altogether, yet 
+glowing with loving kindness and deep wisdom.
+
+
+## [99. The Perceived Cannot Be the Perceiver](/99-the-perceived-cannot-be-the-perceiver/)
+
+&emsp;How do you know that you do not know yourself? Your direct insight tells you that you 
+know yourself first, for nothing exists for you without your being there to experience its existence. You 
+imagine you do not know yourself because you cannot describe yourself. You can always say, “I
+know that I am” and you will refuse as untrue the statement, “I am not”. But whatever can be 
+described cannot be your self, and what you are cannot be described. You can only know yourself 
+by being yourself without any attempt at self-definition and self-description. Once you have 
+understood that you are nothing perceivable or conceivable, that whatever appears in the field of 
+consciousness cannot be your self, you will apply yourself to the eradication of all self-identification 
+as the only way that can take you to a deeper realisation of your self. You literally progress by 
+rejection — a veritable rocket. To know that you are neither in the body nor in the mind, though 
+aware of both, is already self-knowledge.
+
+…
+
+&emsp;‘Nothing is me’ is the first step. ‘Everything is me’ is the next. Both hang on the idea ‘there is a 
+world’. When this too is given up, you remain what you are — the non-dual Self. You are *it* here and 
+now, but your vision is obstructed by your false ideas about your self.
+
+…
+
+&ensp;You create disharmony and then complain! When you desire and fear and identify yourself with 
+your feelings, you create sorrow and bondage. When you create with love and wisdom and remain 
+unattached to your creations, the result is harmony and peace. But whatever be the condition of 
+your mind, in what way does it reflect on you? It is only your self-identification with your mind that 
+makes you happy or unhappy. Rebel against your enslavement to your mind; see your bonds as self-created 
+and break the chains of attachment and revulsion. Keep in mind your goal of freedom until 
+it dawns on you that you are already free, that freedom is not something in the distant future to be 
+earned with painful efforts, but perennially one’s own, to be used! Liberation is not an acquisition but 
+a matter of courage, the courage to believe that you are free already and to act on it.
+
+…
+
+&emsp;Nothing you do will change you, for you need no change. You may change your mind or your body, 
+but it is always something external to you that has changed, not yourself. Why bother at all to 
+change? Realise once and for all that neither your body nor your mind nor even your consciousness is 
+yourself, and stand alone in your true nature beyond consciousness and unconsciousness. No effort 
+can take you there, only the clarity of understanding. Trace your misunderstandings and abandon 
+them, that is all. There is nothing to seek and find, for there is nothing lost. Relax and watch the ‘I
+am’. Reality is just behind it. Keep quiet, keep silent; it will emerge or, rather, it will take you in.
+
+…
+
+&emsp;We shall suffer as long as our thoughts and actions are prompted by desires and fears. See 
+their futility, and the danger and chaos they create will subside. Don’t try to reform yourself; just see 
+the futility of all change. The changeful keeps on changing while the changeless is waiting. Do not 
+expect the changeful to take you to the changeless — it can never happen. Only when the very idea 
+of changing is seen as false and abandoned can the changeless can come into its own.
+
+…
+
+&emsp;All change affects the mind only. To be what you are, you must go beyond the mind, into your 
+own being. It is immaterial what the mind that you leave behind is, provided you leave it behind for 
+good. This again is not possible without self-realisation.
+
+
+## [100. Understanding Leads to Freedom](/100-understanding-leads-to-freedom/)
+
+&emsp;Before you can accept God, you must accept yourself, which is even more frightening. The first 
+steps in self acceptance are not at all pleasant, for what one sees is not a happy sight. One needs 
+all the courage to go further. What helps is silence. Look at yourself in total silence; do not describe 
+yourself. Look at the being you believe you are and remember — you are not what you see. “This I 
+am not — what am I?” is the movement of self-enquiry. There are no other means to liberation; all 
+else means delay. Resolutely reject what you are not until the real Self emerges in its glorious 
+nothingness, its ‘not-a-thingness.’
