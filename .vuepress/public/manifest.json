@@ -1,0 +1,13 @@
+{
+  "name": "I Am That",
+  "short_name": "I Am That",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "I Am That by Nisargadatta Maharaj",
+  "icons": [{
+    "src": "/icons/512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}

@@ -1,12 +1,26 @@
 module.exports = {
-  title: "I Am That",
+	title: "I Am That",
 	description: "I Am That — Dialogues of Sri Nisargadatta Maharaj",
 	lang: "en",
 	evergreen: true,
-	plugins: ["@vuepress/back-to-top"],
+	plugins: [
+		"@vuepress/back-to-top",
+		"@vuepress/pwa",
+		{
+			serviceWorker: true,
+			updatePopup: true
+		}
+	],
 	head: [
-		["script", {src: "https://unpkg.com/@popperjs/core@2"}],
-		["script", {src: "https://unpkg.com/tippy.js@6"}]
+    ["link", { rel: "icon", href: "/favicon.svg" }],
+    ["link", { rel: "manifest", href: "/manifest.json" }],
+    ["meta", { name: "theme-color", content: "#4B0082" }],
+    ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
+    ["meta", { name: "apple-mobile-web-app-status-bar-style", content: "black" }],
+    ["link", { rel: "apple-touch-icon", href: "/icons/apple-touch-icon.png" }],
+    ["link", { rel: "mask-icon", href: "/icons/safari-pinned-tab.svg", color: "#4B0082" }],
+		["script", { src: "https://unpkg.com/@popperjs/core@2" }],
+		["script", { src: "https://unpkg.com/tippy.js@6" }]
 	],
 	themeConfig: {
 		search: false,
@@ -25,7 +39,7 @@ module.exports = {
 					"/7-the-mind/",
 					"/8-the-self-stands-beyond-mind/",
 					"/9-responses-of-memory/",
-					"/10-witnessing/" 
+					"/10-witnessing/"
 				]
 			},
 			{
