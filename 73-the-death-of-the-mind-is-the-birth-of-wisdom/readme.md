@@ -293,12 +293,12 @@ cannot discuss with you!
 **M:**&ensp;The desire to discuss is also mere desire. The desire to know, to 
 have the power, even the desire to exist are desires only. Everybody desires 
 to *be*, to survive, to continue, for no one is sure of himself. But everybody 
-is immortal. You make yourself mortal by takeing yourself to be the body.
+is immortal. You make yourself mortal by taking yourself to be the body.
 
 **Q:**&ensp;Since you have found your freedom, will you not give me a little 
 of it?
 
-**M:**&ensp;Why little? Take the whole. Take it — it is there for the takeing. 
+**M:**&ensp;Why little? Take the whole. Take it — it is there for the taking. 
 But you are afraid of freedom!
 
 **Q:**&ensp;Swami Ramdas had to deal with a similar request. Some devotees 

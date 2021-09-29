@@ -108,7 +108,7 @@ The very idea of ‘else’ is a disaster and a calamity.
 
 **M:**&ensp;That which does not exist cannot have a cause. 
 There is no such thing as a separate person. 
-Even takeing the empirical point of view, it is obvious that everything is the cause of everything; that everything is as it is because the entire universe is as it is.
+Even taking the empirical point of view, it is obvious that everything is the cause of everything; that everything is as it is because the entire universe is as it is.
 
 **Q:**&ensp;Yet personality must have a cause.
 

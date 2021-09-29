@@ -340,7 +340,7 @@ Cease to think that they are yours and they will just dissolve.
 By all means, let your body and mind function but do not let them limit you. 
 If you notice imperfections, just keep on noticing: your very giving attention to them will set your heart and mind and body right.
 
-**Q:**&ensp;Can I cure myself of a serious illness by merely takeing cognisance of it?
+**Q:**&ensp;Can I cure myself of a serious illness by merely taking cognisance of it?
 
 **M:**&ensp;Take cognisance of the whole of it, not only of the outer symptoms. 
 All illness begins in the mind. 

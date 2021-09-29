@@ -297,7 +297,7 @@ disturbance, that is all. To seek there is no need — you would not seek what
 you already have. You yourself are God, the Supreme Reality. To begin with, 
 trust me, trust the Teacher. It enables you to make the first step — and then 
 your trust is justified by your own experience. In every walk of life, initial 
-trust is essential; without it little can be done. Every undertakeing is an act 
+trust is essential; without it little can be done. Every undertaking is an act 
 of faith. Even your daily bread you eat on trust! By remembering what I told 
 you, you will achieve everything. I am telling you again: You are the 
 all-pervading, all transcending reality. Behave accordingly: Think, feel and 

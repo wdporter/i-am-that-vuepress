@@ -80,7 +80,7 @@ In the very denial of your being you assert it.
 Once you realise that the world is your own projection, you are free of it. 
 You need not free yourself of a world that does not exist except in your own imagination! 
 However the picture is, beautiful or ugly, you are painting it and you are not bound by it. 
-Realise that there is nobody to force it on you, that it is due to the habit of takeing the imaginary to be real. 
+Realise that there is nobody to force it on you, that it is due to the habit of taking the imaginary to be real. 
 See the Imaginary as imaginary and be free of fear. 
 
 Just as the colours in this carpet are brought out by light but light is not the colour, so is the world caused by you but you are not the world. 

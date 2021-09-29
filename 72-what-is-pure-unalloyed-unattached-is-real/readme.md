@@ -191,7 +191,7 @@ beauty — are reflections of the real in the world. No real — no reflection.
 imagine it non-existent?
 
 **M:**&ensp;Leave the desirables to those who desire. Change the current of 
-your desire from takeing to giving. The passion for giving, for sharing, will 
+your desire from taking to giving. The passion for giving, for sharing, will 
 naturally wash the idea of an external world out of your mind, and the idea of 
 giving as well. Only the pure radiance of love, beyond giving and receiving, 
 will remain.

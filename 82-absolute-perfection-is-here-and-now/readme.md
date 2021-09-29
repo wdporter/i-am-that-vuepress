@@ -236,7 +236,7 @@ perfection may be. All you need is courage.
 
 **M:**&ensp;In yourself, of course. Look within.
 
-**Q:**&ensp;Your grace will help
+**Q:**&ensp;Your grace will help.
 
 **M:**&ensp;My grace is telling you now: Look within. All you need you have. 
 Use it. Behave as best you know; do what you think you should. Don’t be afraid 

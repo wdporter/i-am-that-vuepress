@@ -73,7 +73,7 @@ Timelessly the self actualises itself, without exhausting its infinite
 possibilities. In the incense stick simile, the stick is the body and the 
 smoke is the mind. As long as the mind is busy with its contortions, it does 
 not perceive its own source. The *guru* comes and turns your attention to the 
-spark within. By its very nature the mind is outward- turned; it always tends 
+spark within. By its very nature the mind is outward-turned; it always tends 
 to seek for the source of things among the things themselves; to be told to 
 look for the source within, is, in a way, the beginning of a new life. 
 Awareness takes the place of consciousness; in consciousness there is the ‘I’ 
@@ -109,8 +109,8 @@ sun remains, but does it see the darkness in the room? Is there anything like
 darkness to the sun? There is no such thing as unconsciousness, for 
 unconsciousness is not experiencable. We infer unconsciousness when there is a 
 lapse in memory or communication. If I stop reäcting, you will say that I am 
-unconscious. In reality I may be most acutely conscious but unable to c
-ommunicate or remember.
+unconscious. In reality I may be most acutely conscious but unable to 
+communicate or remember.
 
 **Q:**&ensp;I am asking a simple question: There are about four billion people 
 in the world and they are all bound to die. What will be their condition after 

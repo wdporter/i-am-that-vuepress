@@ -80,7 +80,7 @@ quickest way to a change of your world.
 **Q:**&ensp;So many saints and mystics lived and died. They did not change my 
 world.
 
-**M:**&ensp;How could they? Your world is not theirs, nor is their yours.
+**M:**&ensp;How could they? Your world is not theirs, nor is theirs yours.
 
 **Q:**&ensp;Surely there is a factual world common to all.
 
@@ -153,7 +153,7 @@ image in the mirror is of the face beyond the mirror.
 
 **M:**&ensp;Be happy to make happy.
 
-**Q:**&ensp;Let others take care of themselves.
+**Q:**&ensp;Let others take care of themselves?
 
 **M:**&ensp;Sir, you are not separate. The happiness you cannot share is 
 spurious. Only the shareable is truly desirable.
@@ -190,7 +190,7 @@ dominating, but never for long.
 **M:**&ensp;The desire to live is the one fundamental desire. All else depends 
 on it.
 
-**Q:**&ensp;We live because we must.
+**Q:**&ensp;We live because we must?
 
 **M:**&ensp;We live because we crave sensory existence.
 

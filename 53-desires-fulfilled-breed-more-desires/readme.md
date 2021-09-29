@@ -69,7 +69,7 @@ It is not the right advice that liberates, but the action based on it. Just
 like a doctor who, after giving the patient an injection, tells him, “Now, 
 keep quiet. Do nothing more, just keep quiet”. I am telling you, you have got 
 your ‘injection’, now keep quiet, just keep quiet. You have nothing else to 
-do. My <span data-tippy-content="Spiritual teacher, preceptor.">Guru</span> 
+do. My <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> 
 did the same. He would tell me something and then say, “Now keep quiet. Don’t 
 go on ruminating all the time. Stop. Be silent”.
 

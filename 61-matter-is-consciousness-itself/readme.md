@@ -42,7 +42,7 @@
 
 **M:**&ensp;You can have it as you like. You can distinguish a pattern in your life or see merely a chain of accidents. Explanations are meant to please the mind. They need not be true. Reality is indefinable and indescribable.
 
-**Q:**&ensp;Sir, you are evading my question! I want to know how *you* look at it. Wherever we look we find a structure of unbelievable intelligence and beauty. How can I believe that the universe is formless and chäotic? Your world, the world in which you live, may be formless, but it need not be chäotic.
+**Q:**&ensp;Sir, you are evading my question! I want to know how *you* look at it. Wherever we look we find a structure of unbelievable intelligence and beauty. How can I believe that the universe is formless and chaötic? Your world, the world in which you live, may be formless, but it need not be chaötic.
 
 **M:**&ensp;The objective universe has structure, is orderly and beautiful. Nobody can deny it. But structure and pattern imply constraint and compulsion. My world is absolutely free; everything in it is self-determined. Therefore I keep on saying that all happens by itself. There is order in my world too, but it is not imposed from outside. It comes spontaneously and immediately because of its timelessness. Perfection is not in the future. It is *now*.
 

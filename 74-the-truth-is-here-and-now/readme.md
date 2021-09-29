@@ -150,7 +150,7 @@ Conditions are imposed which are unfulfillable and then we are blamed for not fu
 **M:**&ensp;You do not realise that your present waking state is one of ignorance. 
 Your question about the proof of truth is born of ignorance of reality. 
 You are contacting your sensory and mental states in consciousness at the point of ‘I am’, while reality is not mediated, not contacted, not experienced.
-You are takeing duality so much for granted that you do not even notice it, while to me variety and diversity do not create separation. 
+You are taking duality so much for granted that you do not even notice it, while to me variety and diversity do not create separation. 
 You imagine reality to stand apart from names and forms, while to me names and forms are the ever changing expressions of reality and are not apart from it. 
 You ask for the proof of truth while to me all existence is the proof. 
 You separate existence from being and being from reality, while to me it is all one. 

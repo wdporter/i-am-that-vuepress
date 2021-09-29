@@ -1,4 +1,4 @@
-# 46. Awareness of Being iIs Bliss
+# 46. Awareness of Being is Bliss
 
 >… It is a matter of actual experience that the self has being independent of mind and body. 
 It is being, awareness, bliss. 

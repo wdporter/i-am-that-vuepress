@@ -139,8 +139,8 @@ love.
 **Q:**&ensp;So there is no way to gain detachment?
 
 **M:**&ensp;There is nothing to gain. Abandon all imaginings and know yourself 
-as you are. Self-knowledge is detachment. All craving is due to a sense of i
-nsufficiency. When you know that you lack nothing, that all there is is you 
+as you are. Self-knowledge is detachment. All craving is due to a sense of 
+insufficiency. When you know that you lack nothing, that all there is is you 
 and yours, desire ceases.
 
 **Q:**&ensp;To know myself must I practise awareness?

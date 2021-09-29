@@ -126,7 +126,7 @@
 
 **Q:**&ensp;The world is; I am. These are facts.
 
-**M:**&ensp;Why do you worry about the world before takeing care of yourself? You want to save the world, don’t you? Can you save the world before saving yourself? And what does ‘being saved’ mean? Saved from what? From illusion. Salvation is to see things as they are. I really do not see myself related to anybody or anything. Not even to a self, whatever that self may be. I remain forever — undefined. I am within and beyond — intimate and unapproachable.
+**M:**&ensp;Why do you worry about the world before taking care of yourself? You want to save the world, don’t you? Can you save the world before saving yourself? And what does ‘being saved’ mean? Saved from what? From illusion. Salvation is to see things as they are. I really do not see myself related to anybody or anything. Not even to a self, whatever that self may be. I remain forever — undefined. I am within and beyond — intimate and unapproachable.
 
 **Q:**&ensp;How did you come to it?
 

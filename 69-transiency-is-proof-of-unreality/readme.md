@@ -126,7 +126,7 @@ Above everything else you cherish yourself. You would accept nothing in exchange
 
 **Q:**&ensp;Even in the unreal there is a touch of reality.
 
-**M:**&ensp;Yes, the reality you impart to it by takeing it to be real. Having convinced yourself, you are bound by your conviction. When the sun shines, colours appear. When it sets, they disappear. Where are the colours without the light?
+**M:**&ensp;Yes, the reality you impart to it by taking it to be real. Having convinced yourself, you are bound by your conviction. When the sun shines, colours appear. When it sets, they disappear. Where are the colours without the light?
 
 **Q:**&ensp;This is thinking in terms of duality.
 

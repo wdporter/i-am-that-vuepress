@@ -20,7 +20,7 @@ By what is the <span data-tippy-content="The knower, especially of the higher kn
 Only ignorance can be recognised, not *jnana*. 
 Nor does a *jnani* claim to be something special. 
 All those who proclaim their own greatness and uniqueness are not *jnani*s. 
-They are mistakeing some unusual development for realisation. T
+They are mistaking some unusual development for realisation. T
 he *jnani* shows no tendency to proclaim himself to be a *jnani*. 
 He considers himself to be perfectly normal, true to his real nature. 
 Proclaiming oneself to be an omnipotent, omniscient and omnipotent deity is a clear sign of ignorance.

@@ -221,7 +221,7 @@ The *guru* is always ready to share, but there are no takers.
 **M:**&ensp;Well, in the course of time everything happens. 
 All will come through — not a single soul (<span data-tippy-content="[<em>Atman</em> + doership is <em>jiva</em>.] The individual soul. According to <em>Vedanta</em>, <em>jiva</em> comes into being as a result of the false identification of the <em>atman</em> with body, senses and mind.">jiva</span>) shall be lost.
 
-**Q:**&ensp;I am very much afraid of takeing intellectual understanding for realisation. 
+**Q:**&ensp;I am very much afraid of taking intellectual understanding for realisation. 
 I may talk of truth without knowing it, and may know it without a single word being said. 
 
 I understand these conversations are going to be published. 

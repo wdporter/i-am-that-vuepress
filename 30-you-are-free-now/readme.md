@@ -115,7 +115,7 @@ your *being*.
 **Q:**&ensp;What is the new factor you want me to bring in?
 
 **M:**&ensp;The attitude of pure witnessing, of watching the events without 
-takeing part in them.
+taking part in them.
 
 **Q:**&ensp;What will it do to me?
 

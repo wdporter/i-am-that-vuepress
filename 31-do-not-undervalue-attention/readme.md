@@ -147,7 +147,7 @@ inattention and what you become will be the fruit of attention.
 
 **Q:**&ensp;Why should mere attention make all the difference?
 
-**M:**&ensp;So far. your life was dark and restless (<span 
+**M:**&ensp;So far, your life was dark and restless (<span 
 data-tippy-content="Darkness, inertia, passivity. One of the three 
 constituents (<em>guna</em>s) of the cosmic substance: <em>sattva</em>, 
 <em>rajas</em> and <em>tamas</em>.">tamas</span> and <span 
@@ -234,7 +234,7 @@ the world where are you and who are you?
 
 **Q:**&ensp;But that is exactly what I came to find out.
 
-**M:**&ensp;. And I am telling you exactly this: find a foothold beyond and 
+**M:**&ensp;And I am telling you exactly this: find a foothold beyond and 
 all will be clear and easy.
 
 <script>

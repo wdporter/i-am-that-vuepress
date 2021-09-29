@@ -315,7 +315,7 @@ You may not know, nor will the world know, yet the help radiates.
 There are people in the world who do more good than all the statesmen and philanthropists put together. 
 They radiate light and peace with no intention or knowledge. 
 When others tell them about the miracles they worked, they also are wonder struck. 
-Yet, takeing nothing as their own, they are neither proud, nor do they crave reputation. 
+Yet, taking nothing as their own, they are neither proud, nor do they crave reputation. 
 They are just unable to desire anything for themselves, not even the joy of helping others. 
 Knowing that God is good, they are at peace.
 

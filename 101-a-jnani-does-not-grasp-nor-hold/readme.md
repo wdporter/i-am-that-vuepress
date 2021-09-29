@@ -110,7 +110,7 @@ unimagined. I am what I am, not identifiable with any physical or mental state.
 **M:**&ensp;The strange fact is that it does not. To my own surprise, I remain as I am — pure awareness, 
 alert to all that happens.
 
-**Q:**&ensp;Even at themoment of death?
+**Q:**&ensp;Even at the moment of death?
 
 **M:**&ensp;What is it to me that the body dies?
 
