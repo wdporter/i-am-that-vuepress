@@ -158,7 +158,7 @@ pageClass: glossary-class
 
 **<em>purna:</em>**&ensp;full, complete, absolute, infinite.
 
-**<em>purusha:</em>**&ensp;the cosmic spirit, the eternal and efficient cause of the universe that gives appearance of consciousness to all manifestations of matter (*prakriti*). The bondage of *purusha* in matter is due to ‘I’-consciousness born of *chitta–vrittis*, which gives rise to innuumerable desires.
+**<em>purusha:</em>**&ensp;the cosmic spirit, the eternal and efficient cause of the universe that gives appearance of consciousness to all manifestations of matter (*prakriti*). The bondage of *purusha* in matter is due to ‘I’-consciousness born of *chitta–vrittis*, which gives rise to innumerable desires.
 
 **<em>rajas:</em>**&ensp;motivity, activity, energy. One of the three *guna*s or qualities of matter: *sattva*, *rajas* and *tamas*. In *yoga*, egoism.
 
@@ -180,7 +180,7 @@ pageClass: glossary-class
 
 **<em>saguna:</em>**&ensp;manifested condition with the three *guna*s, qualities — *sattva*, *rajas* and *tamas*. The Supreme Absolute conceived of as possessing qualities like love, mercy etc., as distinguished from the undifferentiated Absolute of the *Advaita Vedanta*.
 
-**<em>samadhi</em>**&ensp;superconscious state, profound meditation, trance, rapturous absorption. A practice of *yoga* in which the seeker (*sadhaka*) becomes one with the object of his meditation (*sadhya*), thus attaining unqualified bliss. “*Samadhi* is a state in which you transcend the bounds of your body, mind and self-identity, and merge into an undifferentiated unity with all that is”.
+**<em>samadhi:</em>**&ensp;superconscious state, profound meditation, trance, rapturous absorption. A practice of *yoga* in which the seeker (*sadhaka*) becomes one with the object of his meditation (*sadhya*), thus attaining unqualified bliss. “*Samadhi* is a state in which you transcend the bounds of your body, mind and self-identity, and merge into an undifferentiated unity with all that is”.
 
 **<em>samskara:</em>**&ensp;“imprints left on the subconscious by experiences in past lives or the present life and which determine and condition one’s desires and actions”. Mental impression, memory. Also called *vasana*, residual impression.
 
@@ -242,7 +242,7 @@ pageClass: glossary-class
 
 **yoga:**&ensp;one of the six systems of the Hindu philosophy (from *yoj*, to yoke or join). Yoga teaches the means by which the individual spirit (*jivatma*) can be joined or united with the universal spirit (*Paramatma*).
 
-**<em>yoga-bhrashta:</em>**&ensp;one who has falled from the high state of *yoga*.
+**<em>yoga-bhrashta:</em>**&ensp;one who has fallen from the high state of *yoga*.
 
 **<em>yoga-kshetra:</em>**&ensp;the field for *yoga*, the physical body in a philosophical sense (*kshetra*, field).
 

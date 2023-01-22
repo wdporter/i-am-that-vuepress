@@ -18,7 +18,7 @@
 
 **M:**&ensp;All idea of ‘me’ and ‘mine’, even of ‘I am’, is in consciousness.
 
-**Q:**&ensp;Is then your ‘absolute being’ (*paramakash*) unconsciousnessness?
+**Q:**&ensp;Is then your ‘absolute being’ (*paramakash*) unconsciousness?
 
 **M:**&ensp;The idea of un-consciousness exists in consciousness only.
 

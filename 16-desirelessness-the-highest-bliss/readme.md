@@ -124,16 +124,7 @@ mind, a well-furnished mind is not needed.
 
 **Q:**&ensp;How does one go beyond the mind?
 
-**M:**&ensp;There are many starting points — they all lead to the same goal. 
-You may begin with selfless work, abandoning the fruits of action; you may 
-then give up thinking and end in giving up all desires. Here, giving up (<span 
-data-tippy-content="Renunciation. <em>Tyaga</em> is the renunciation of the 
-fruits of all works: i.e., the <em>tyagi</em> should perform <em>karma</em> 
-with detachment and with no desire for results.">tyaga</span>) is the 
-operational factor. Or, you may not bother about any thing you want, think or 
-do and just stay put in the thought and feeling ‘I am’, focussing ‘I am’ 
-firmly in your mind. All kinds of experience may come to you — remain unmoved 
-in the knowledge that all perceivable is transient and only the ‘I am’ endures.
+**M:**&ensp;There are many starting points — they all lead to the same goal. You may begin with selfless work, abandoning the fruits of action; you may then give up thinking and end in giving up all desires. Here, giving up (<span data-tippy-content="Renunciation. <em>Tyaga</em> is the renunciation of the fruits of all works: that is, the <em>tyagi</em> should perform <em>karma</em> with detachment and with no desire for results.">tyaga</span>) is the operational factor. Or, you may not bother about any thing you want, think or do and just stay put in the thought and feeling ‘I am’, focussing ‘I am’ firmly in your mind. All kinds of experience may come to you — remain unmoved in the knowledge that all perceivable is transient and only the ‘I am’ endures.
 
 **Q:**&ensp;I cannot give all my life to such practices. I have my duties to attend to.
 

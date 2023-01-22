@@ -8,7 +8,7 @@
 
 **Q:**&ensp;What happened? What was the change?
 
-**M:**&ensp;Pleasure and pain lost their sway over me. I was free from desire and fear. I found myself full, needing nothing. I saw that in the ocean of pure awareness, on the surface of the universal consciousness, the numberless waves of the phenomenal worlds arise and subside beginninglessly and endlessly. As consciousness, they are all me. As events, they are all mine. There is a mysterious power that looks after them. That power is awareness, Self, Life, God, whatever name you give it. It is the foundation, the ultimate support of all that is, just like gold is the basis for all gold jewelry. And it is so intimately ours! Abstract the name and shape from the jewelry and the gold becomes obvious. Be free of name and form and of the desires and fears they create, then what remains?
+**M:**&ensp;Pleasure and pain lost their sway over me. I was free from desire and fear. I found myself full, needing nothing. I saw that in the ocean of pure awareness, on the surface of the universal consciousness, the numberless waves of the phenomenal worlds arise and subside beginninglessly and endlessly. As consciousness, they are all me. As events, they are all mine. There is a mysterious power that looks after them. That power is awareness, Self, Life, God, whatever name you give it. It is the foundation, the ultimate support of all that is, just like gold is the basis for all gold jewellery. And it is so intimately ours! Abstract the name and shape from the jewellery and the gold becomes obvious. Be free of name and form and of the desires and fears they create, then what remains?
 
 **Q:**&ensp;Nothingness.
 
@@ -66,7 +66,7 @@ You may not be quite conscious of your physiological functions, but when it come
 
 **Q:**&ensp;Don’t you become a robot?
 
-**M:**&ensp;What harm is there in making automatic what is habitual and repetitive? It is automatic anyhow. But when it is also chäotic it causes pain and suffering and calls for attention. The entire purpose of a clean and well-ordered life is to liberate man from the thrall of chaos and the burden of sorrow.
+**M:**&ensp;What harm is there in making automatic what is habitual and repetitive? It is automatic anyhow. But when it is also chaötic it causes pain and suffering and calls for attention. The entire purpose of a clean and well-ordered life is to liberate man from the thrall of chaos and the burden of sorrow.
 
 **Q:**&ensp;You seem to be in favour of a computerised life.
 

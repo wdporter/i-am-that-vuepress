@@ -128,7 +128,7 @@
 
 **Q:**&ensp;The extremes meet. To be a perfect *bhogi* is more difficult than to be a perfect *yogi*. 
 
-I am a humble man and cannot venture judgements of value. Both the *yogi* and the *bhogi*, after all, are concerned with the search for happiness. The *Yygi* wants it permanent, the *bhogi* is satisfied with the intermittent. Often the *bhogi* strives harder than the *yogi*.
+I am a humble man and cannot venture judgements of value. Both the *yogi* and the *bhogi*, after all, are concerned with the search for happiness. The *yogi* wants it permanent, the *bhogi* is satisfied with the intermittent. Often the *bhogi* strives harder than the *yogi*.
 
 **M:**&ensp;What is your happiness worth when you have to strive and labour for it? True happiness is spontaneous and effortless.
 

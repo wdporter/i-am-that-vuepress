@@ -1,6 +1,6 @@
 # 20. The Supreme is Beyond All
 
->All desires aim at happiness. Their shape and quality depend on the psyche (*antahkarana*). Where inertia (*tamas*) predominates, we find perversions. With energy (*rajas*), passions arise. With lucidity (*sattva*) the motive behind the desire is goodwill, compassion, the urge to make happy rather than be happy. But the Supreme is beyond all; yet because of its infinite permebility all cogent desires can be fulfilled.
+>All desires aim at happiness. Their shape and quality depend on the psyche (*antahkarana*). Where inertia (*tamas*) predominates, we find perversions. With energy (*rajas*), passions arise. With lucidity (*sattva*) the motive behind the desire is goodwill, compassion, the urge to make happy rather than be happy. But the Supreme is beyond all; yet because of its infinite permeability all cogent desires can be fulfilled.
 
 **Questioner:**&ensp;You say reality is one. Oneness, unity, is the attribute of the person. Is then reality a person, with the universe as its body?
 
@@ -48,7 +48,7 @@
 
 **Q:**&ensp;How is the Supreme affected?
 
-**M:**&ensp;What can affect it and how? The source is not affected by the vagaries of the river nor is the metal by the shape of the jewelry. Is the light affected by the picture on the screen? The Supreme makes everything possible; that is all.
+**M:**&ensp;What can affect it and how? The source is not affected by the vagaries of the river nor is the metal by the shape of the jewellery. Is the light affected by the picture on the screen? The Supreme makes everything possible; that is all.
 
 **Q:**&ensp;How is it that some things do happen and some do not?
 
@@ -76,7 +76,7 @@
 
 **Q:**&ensp;I can understand holy desires (<span data-tippy-content="He who longs for the sublime truth.">satyakama</span>) emanating from the self. It may be the expression of the bliss aspect of the <span data-tippy-content="The ultimate principle with the three attributes in absolute perfection (<em>sat</em>, being + <em>chit</em>, consciousness + <em>ananda</em>, bliss).">Sadchitananda</span> (Beingness–Awareness–Happiness) of the Self. But why unholy desires?
 
-**M:**&ensp;All desires aim at happiness. Their shape and quality depend on the psyche (*antahkarana*). Where inertia (<span data-tippy-content="Darkness, inertia, passivity. One of the three constituents (<em>guna</em>s) of the cosmic substance: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>.">tamas</span>) predominates, we find perversions. With energy (<span data-tippy-content="Motivity, activity, energy. One of the three <em>guna</em>s or qualities of matter: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</span>), passions arise. With lucidity (<span data-tippy-content="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>) the motive behind the desire is goodwill, compassion, the urge to make happy rather than be happy. But the Supreme is beyond all; yet because of its infinite permebility all cogent desires can be fulfilled.
+**M:**&ensp;All desires aim at happiness. Their shape and quality depend on the psyche (*antahkarana*). Where inertia (<span data-tippy-content="Darkness, inertia, passivity. One of the three constituents (<em>guna</em>s) of the cosmic substance: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>.">tamas</span>) predominates, we find perversions. With energy (<span data-tippy-content="Motivity, activity, energy. One of the three <em>guna</em>s or qualities of matter: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</span>), passions arise. With lucidity (<span data-tippy-content="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>) the motive behind the desire is goodwill, compassion, the urge to make happy rather than be happy. But the Supreme is beyond all; yet because of its infinite permeability all cogent desires can be fulfilled.
 
 **Q:**&ensp;Which desires are cogent?
 

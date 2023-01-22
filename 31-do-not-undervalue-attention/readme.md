@@ -206,7 +206,7 @@ know it as unwanted.
 
 **M:**&ensp;It is of tremendous value. By going beyond it you realise yourself.
 
-**Q:**&ensp;But why did it come into being in the first plance?
+**Q:**&ensp;But why did it come into being in the first place?
 
 **M:**&ensp;You will know it when it ends.
 

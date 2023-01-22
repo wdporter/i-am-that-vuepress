@@ -78,7 +78,7 @@
 
 **M:**&ensp;Neither conscious nor unconscious — I am telling you from experience.
 
-**Q:**&ensp;<span data-tippy-content="Cognitive consciousness, pure awareness, higher consciousness.">Prajnanam</span> <span data-tippy-content="One of the gods of the Hindu trinity: Brahma, the creator; Vishnu, the preserver; Shiva, the destroyer.">Brahma</span>. What is this *Prajna*?
+**Q:**&ensp;<span data-tippy-content="Cognitive consciousness, pure awareness, higher consciousness.">Prajnanam</span> <span data-tippy-content="One of the gods of the Hindu trinity: Brahma, the creator; Vishnu, the preserver; Shiva, the destroyer.">Brahma</span>. What is this *prajna*?
 
 **M:**&ensp;It is the unself-conscious knowledge of life itself.
 

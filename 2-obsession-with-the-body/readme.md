@@ -61,7 +61,7 @@ focus of your attention. You give no attention to your self. Your mind is all
 with things, people and ideas, never with your self. Bring your self into 
 focus, become aware of your own existence. See how you function, watch the 
 motives and the results of your actions. Study the prison you have 
-inadvertantly built around yourself. By knowing what you are not, you come to 
+inadvertently built around yourself. By knowing what you are not, you come to 
 know yourself. The way back to your self is through refusal and rejection. One 
 thing is certain: the real is not imaginary; it is not a product of the mind. 
 Even the sense ‘I am’ is not continuous, though it is a useful pointer, it 
