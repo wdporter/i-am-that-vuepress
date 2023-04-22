@@ -6,7 +6,7 @@ I draw special attention to the reader to the contribution entitled “*Nisarga 
 
 Revising and editing of *I Am That* has been for me a pilgrimage to my inner self — at once ennobling and enlightening. I have done my work in a spirit of dedication, with great earnestness. I have treated the questions of every questioner as my own questions and have imbibed the answers of the Master with a mind emptied of all it knew. However, in this process of what may be called a two-voiced meditation, it is possible that at places I may have failed in the cold-blooded punctiliousness about the syntax and punctuation, expected of an editor. For such lapses, if any, I seek forgiveness of the reader.
 
-Before closing, I wish to express my heart-felt thanks to Professor Douwe Tiemersma of the Philosophical Faculty Erasmus, Universieit, Rotterdam, Holland for contributing a new Foreword to this edition. That he acceded to my request promptly makes me feel all the more grateful.
+Before closing, I wish to express my heart-felt thanks to Professor Douwe Tiemersma of the Philosophical Faculty Erasmus, Universiteit, Rotterdam, Holland for contributing a new Foreword to this edition. That he acceded to my request promptly makes me feel all the more grateful.
 
 Sudhakar S. Dikshit  
 Editor  
