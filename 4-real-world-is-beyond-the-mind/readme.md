@@ -1,4 +1,4 @@
-# 4. Real World Is Beyond the Mind
+# 4. Real World is Beyond the Mind
 
 >The real world is beyond the mind’s understanding; we see it through the net of our desires, divided into pleasure and pain, right and wrong, inner and outer. To see the universe as it is, you must step beyond the net. It is not hard to do so, for the net is full of holes.
 

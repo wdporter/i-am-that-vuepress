@@ -1,4 +1,4 @@
-# 5. What Is Born Must Die
+# 5. What is Born Must Die
 
 >What was born must die. Only the unborn is deathless. Find what it is that never sleeps and never wakes, and whose pale reflection is our sense of “I”.
 
