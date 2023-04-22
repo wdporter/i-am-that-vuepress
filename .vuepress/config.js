@@ -12,15 +12,15 @@ module.exports = {
 		}
 	],
 	head: [
-    ["link", { rel: "icon", href: "/favicon.svg" }],
-    ["link", { rel: "manifest", href: "/manifest.json" }],
-    ["meta", { name: "theme-color", content: "#4B0082" }],
-    ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
-    ["meta", { name: "apple-mobile-web-app-status-bar-style", content: "black" }],
-    ["link", { rel: "apple-touch-icon", href: "/icons/apple-touch-icon.png" }],
-    ["link", { rel: "mask-icon", href: "/icons/safari-pinned-tab.svg", color: "#4B0082" }],
-		["script", { src: "https://unpkg.com/@popperjs/core@2" }],
-		["script", { src: "https://unpkg.com/tippy.js@6" }]
+		["link", { rel: "icon", href: "/favicon.svg" }],
+		["link", { rel: "manifest", href: "/manifest.json" }],
+		["meta", { name: "theme-color", content: "#4B0082" }],
+		["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
+		["meta", { name: "apple-mobile-web-app-status-bar-style", content: "black" }],
+		["link", { rel: "apple-touch-icon", href: "/icons/apple-touch-icon.png" }],
+		["link", { rel: "mask-icon", href: "/icons/safari-pinned-tab.svg", color: "#4B0082" }],
+		["script", { src: "https://unpkg.com/@popperjs/core@2/dist/umd/popper.min.js" }],
+		["script", { src: "https://unpkg.com/tippy.js@6/dist/tippy-bundle.umd.js" }]
 	],
 	themeConfig: {
 		search: false,
