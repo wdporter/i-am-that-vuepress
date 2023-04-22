@@ -22,7 +22,7 @@ Incidentally, practice of meditation deeply affects our character. We are slaves
 
 **Q:**&ensp;What is the use of *sattva*?
 
-**M:**&ensp;What is the use of truth, goodness, harmony, beauty? They are their own goal. They manifest spontaneously and effortlessly when things are left to themselves, are not interfered with, not shunned or wanted or conceptualised, but just experienced in full awareness. Such awareness itself is *sattva*. It does not make use of things and people — it fulfills them.
+**M:**&ensp;What is the use of truth, goodness, harmony, beauty? They are their own goal. They manifest spontaneously and effortlessly when things are left to themselves, are not interfered with, not shunned or wanted or conceptualised, but just experienced in full awareness. Such awareness itself is *sattva*. It does not make use of things and people — it fulfils them.
 
 **Q:**&ensp;Since I cannot improve *sattva*, am I to deal with *tamas* and *rajas* only? How can I deal with them?
 
