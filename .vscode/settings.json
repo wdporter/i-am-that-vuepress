@@ -1,0 +1,17 @@
+{
+	"[html]": {
+		"editor.wordWrap": "wordWrapColumn",
+		"editor.wordWrapColumn": 79,
+		"editor.fontLigatures": false,
+	},
+	"spellright.groupDictionaries": false,
+	"spellright.language": [
+		"en-AU"
+	],
+	"spellright.documentTypes": [
+		"markdown",
+		"latex",
+		"plaintext",
+		"html"
+	]
+}
