@@ -1,6 +1,6 @@
 # 8. The Self Stands Beyond Mind
 
->Happiness comes from the self and can be found in the self only. Find your real self (*svarupa*) and all else will come with it… ideas of movement, of restlessness, of pleasure and pain are all in the mind. The Self stands beyond the mind, aware, but unconcerned.
+>Happiness comes from the self and can be found in the self only. Find your real self <span style="font-style:normal">(svarupa)</span> and all else will come with it… ideas of movement, of restlessness, of pleasure and pain are all in the mind. The Self stands beyond the mind, aware, but unconcerned.
 
 **Questioner:**&ensp;As a child, fairly often I experienced states of complete happiness, verging on ecstasy. Later, they ceased. But since I came to India they reäppeared, particularly after I met you. Yet, these states, however wonderful, are not lasting. They come and go and there is no knowing when they will come back.
 
@@ -12,7 +12,7 @@
 
 **Q:**&ensp;How is it done?
 
-**M:**&ensp;Refuse all thoughts except one: the thought ‘I am’. The mind will rebel in the beginning, but with patience and perseverance it will yield and keep quiet. Once you are quiet, things will begin to happen spontaneously and quite naturally, without any interference on your part.
+**M:**&ensp;Refuse all thoughts except one: the thought “I Am”. The mind will rebel in the beginning, but with patience and perseverance it will yield and keep quiet. Once you are quiet, things will begin to happen spontaneously and quite naturally, without any interference on your part.
 
 **Q:**&ensp;Can I avoid this protracted battle with my mind?
 
@@ -28,7 +28,7 @@
 
 **Q:**&ensp;If my real self is peace and love, why is it so restless?
 
-**M:**&ensp;It is not your real being that is restless, but its reflection in the mind appears restless because the mind is restless. It is just like the reflection of the moon in the water stirred by the wind. The wind of desire stirs the mind and the ‘me’, which is but a reflection of the Self in the mind, and appears changeful. But these ideas of movement, of restlessness, of pleasure and pain are all in the mind. The Self stands beyond the mind, aware, but unconcerned.
+**M:**&ensp;It is not your real being that is restless, but its reflection in the mind appears restless because the mind is restless. It is just like the reflection of the moon in the water stirred by the wind. The wind of desire stirs the mind and the “me”, which is but a reflection of the Self in the mind, and appears changeful. But these ideas of movement, of restlessness, of pleasure and pain are all in the mind. The Self stands beyond the mind, aware, but unconcerned.
 
 **Q:**&ensp;How does one reach it?
 
@@ -102,7 +102,7 @@
 
 **M:**&ensp;Can you truly say you were not before you were born and can you possibly say when dead, “Now I am no more”? You cannot say from your own experience that you are not. You can only say, “I am”. Others, too, cannot tell you, “you are not”.
 
-**Q:**&ensp;There is no ‘I am’ in sleep.
+**Q:**&ensp;There is no “I Am” in sleep.
 
 **M:**&ensp;Before you make such sweeping statements, examine carefully your waking state. You will soon discover that it is full of gaps when the mind goes blank. Notice how little you remember even when fully awake. You cannot say that you were not conscious during sleep. You just don’t remember. A gap in memory is not necessarily a gap in consciousness.
 
