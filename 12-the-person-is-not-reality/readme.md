@@ -32,7 +32,7 @@
 
 **Q:**&ensp;Within the field of your consciousness there is also *your* body.
 
-**M:**&ensp;Of course. But the idea ‘my body’, as different from other bodies, is not there. To me it is ‘*a* body’, not ‘my body’, ‘*a* mind’, not ‘my mind’. The mind looks after the body all right, I need not interfere. What needs to be done is being done in the normal and natural way. 
+**M:**&ensp;Of course. But the idea “my body”, as different from other bodies, is not there. To me it is “*a* body”, not “my body”, “*a* mind”, not “my mind”. The mind looks after the body all right, I need not interfere. What needs to be done is being done in the normal and natural way. 
 
 You may not be quite conscious of your physiological functions, but when it comes to thoughts and feelings, desires and fears, you become acutely self-conscious. To me, these too are largely unconscious. I find myself talking to people, or doing things quite correctly and appropriately, without being very much conscious of them. It looks as if I live my physical, waking life automatically, reäcting spontaneously and accurately.
 
@@ -66,7 +66,7 @@ You may not be quite conscious of your physiological functions, but when it come
 
 **Q:**&ensp;Don’t you become a robot?
 
-**M:**&ensp;What harm is there in making automatic what is habitual and repetitive? It is automatic anyhow. But when it is also chaötic it causes pain and suffering and calls for attention. The entire purpose of a clean and well-ordered life is to liberate man from the thrall of chaos and the burden of sorrow.
+**M:**&ensp;What harm is there in making automatic what is habitual and repetitive? It is automatic anyhow. But when it is also chaotic it causes pain and suffering and calls for attention. The entire purpose of a clean and well-ordered life is to liberate man from the thrall of chaos and the burden of sorrow.
 
 **Q:**&ensp;You seem to be in favour of a computerised life.
 
