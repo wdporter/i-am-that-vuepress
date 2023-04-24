@@ -28,7 +28,7 @@
 
 **Q:**&ensp;But you are living in the world!
 
-**M:**&ensp;That’s what you say! I know there is a world which includes this body and this mind, but I do not consider them to be more ‘mine’ than other minds and bodies. They are there, in time and space, but I am timeless and spaceless.
+**M:**&ensp;That’s what you say! I know there is a world which includes this body and this mind, but I do not consider them to be more “mine” than other minds and bodies. They are there, in time and space, but I am timeless and spaceless.
 
 **Q:**&ensp;But since all exists by your light, are you not the creator of the world?
 
@@ -40,11 +40,11 @@
 
 **Q:**&ensp;And you are the witness?
 
-**M:**&ensp;What does ‘witness’ mean? Mere knowledge. It rained and now the rain is over. I did not get wet. I know it rained, but I am not affected. I just witnessed the rain.
+**M:**&ensp;What does “witness” mean? Mere knowledge. It rained and now the rain is over. I did not get wet. I know it rained, but I am not affected. I just witnessed the rain.
 
 **Q:**&ensp;The fully realised man, spontaneously abiding in the supreme state, appears to eat, drink and so on. Is he aware of it or not?
 
-**M:**&ensp;That in which consciousness happens, the universal consciousness or mind, we call the ‘ether’ of consciousness. All the objects of consciousness form the universe. What is beyond both, supporting both, is the supreme state, a state of utter stillness and silence. Whoëver goes there disappears. It is unreachable by words or mind. You may call it God or <span data-tippy-content="The Supreme Reality.">Parabrahman</span> or Supreme Reality, but these are names given by the mind. It is the nameless, contentless, effortless and spontaneous state, beyond being and not being.
+**M:**&ensp;That in which consciousness happens, the universal consciousness or mind, we call the “ether” of consciousness. All the objects of consciousness form the universe. What is beyond both, supporting both, is the supreme state, a state of utter stillness and silence. Whoëver goes there disappears. It is unreachable by words or mind. You may call it God or <span data-tippy-content="The Supreme Reality.">Parabrahman</span> or Supreme Reality, but these are names given by the mind. It is the nameless, contentless, effortless and spontaneous state, beyond being and not being.
 
 **Q:**&ensp;But does one remain conscious?
 
@@ -72,7 +72,7 @@
 
 **Q:**&ensp;But he remains a person?
 
-**M:**&ensp;When you believe yourself to be a person, you see persons everywhere. In reality there are no persons, only threads of memories and habits. At the moment of realisation, the person ceases. Identity remains, but identity is not a person — it is inherent in the reality itself. The person has no being in itself; it is a reflection in the mind of the witness, the ‘I am’, which again is a mode of being.
+**M:**&ensp;When you believe yourself to be a person, you see persons everywhere. In reality there are no persons, only threads of memories and habits. At the moment of realisation, the person ceases. Identity remains, but identity is not a person — it is inherent in the reality itself. The person has no being in itself; it is a reflection in the mind of the witness, the “I Am”, which again is a mode of being.
 
 **Q:**&ensp;Is the Supreme conscious?
 
@@ -100,7 +100,7 @@
 
 **Q:**&ensp;Can there be life without consciousness?
 
-**M:**&ensp;No, nor consciousness without life. They are both one. But in reality only the Ultimate *is*. The rest is a matter of name and form. And as long as you cling to the idea that only what has name and shape exists, the Supreme will appear to you nonexistent. When you understand that names and shapes are hollow shells without any content whatsoëver and what is real is nameless and formless, pure energy of life and light of consciousness, you will be at peace — immersed in the deep silence of reality.
+**M:**&ensp;No, nor consciousness without life. They are both one. But in reality only the Ultimate *is*. The rest is a matter of name and form. And as long as you cling to the idea that only what has name and shape exists, the Supreme will appear to you non-existent. When you understand that names and shapes are hollow shells without any content whatsoëver and what is real is nameless and formless, pure energy of life and light of consciousness, you will be at peace — immersed in the deep silence of reality.
 
 **Q:**&ensp;If time and space are mere illusions and you are beyond, please tell me — what is the weather in New York? Is it hot or raining there?
 
