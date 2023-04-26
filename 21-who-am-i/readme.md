@@ -1,6 +1,6 @@
 # 21. Who Am I?
 
->Give up all questions except one: “Who am I?”. After all, the only fact you are sure of is that you <span style=font-style:normal>are</span>. The ‘I am’ is certain. The ‘I am <span style=font-style:normal>this</span>’ is not. Struggle to find out what you are in reality.
+>Give up all questions except one: “Who am I?”. After all, the only fact you are sure of is that you <span style=font-style:normal>are</span>. The “I Am” is certain. The “I am <span style=font-style:normal>this</span>” is not. Struggle to find out what you are in reality.
 
 **Questioner:**&ensp;We are advised to worship reality personified as God or as the Perfect Man. We are told not to attempt the worship of the Absolute because it is much too difficult for a brain-centred consciousness.
 
@@ -32,7 +32,7 @@
 
 **Q:**&ensp;My question is, how does one find the way to one’s own being?
 
-**M:**&ensp;Give up all questions except one: “Who am I?”. After all, the only fact you are sure of is that you *are*. The ‘I am’ is certain. The ‘I am *this*’ is not. Struggle to find out what you are in reality.
+**M:**&ensp;Give up all questions except one: “Who am I?”. After all, the only fact you are sure of is that you *are*. The “I Am” is certain. The “I am *this*” is not. Struggle to find out what you are in reality.
 
 **Q:**&ensp;I have been doing nothing else for the last sixty years.
 
@@ -44,11 +44,11 @@
 
 **Q:**&ensp;Why has God made me as I am?
 
-**M:**&ensp;Which God are you talking about? What is God? Is he not the very light by which you ask the question? ‘I am’ itself is God. The seeking itself is God. In seeking you discover that you are neither the body nor mind, and the love of the self in you is for the self in all. The two are one. The consciousness in you and the consciousness in me – apparently two, really one — seek unity and that is love.
+**M:**&ensp;Which God are you talking about? What is God? Is he not the very light by which you ask the question? “I Am” itself is God. The seeking itself is God. In seeking you discover that you are neither the body nor mind, and the love of the self in you is for the self in all. The two are one. The consciousness in you and the consciousness in me – apparently two, really one — seek unity and that is love.
 
 **Q:**&ensp;How am I to find that love?
 
-**M:**&ensp;What do you love now? The ‘I am’. Give your heart and mind to it; think of nothing else. This, when effortless and natural, is the highest state. In it love itself is the lover and the beloved.
+**M:**&ensp;What do you love now? The “I Am”. Give your heart and mind to it; think of nothing else. This, when effortless and natural, is the highest state. In it love itself is the lover and the beloved.
 
 **Q:**&ensp;Everybody wants to live, to exist. Is it not self-love?
 
@@ -58,7 +58,7 @@
 
 **M:**&ensp;Discard all traditional standards. Leave them to the hypocrites. Only what liberates you from desire and fear and wrong ideas is good. As long as you worry about sin and virtue you will have no peace.
 
-**Q:**&ensp;I grant that sin and virtue are social norms. But there may also be spiritual sins and virtues. By ‘spiritual’ I mean ‘the absolute’. Is there such a thing as absolute sin or absolute virtue?
+**Q:**&ensp;I grant that sin and virtue are social norms. But there may also be spiritual sins and virtues. By “spiritual” I mean “the absolute”. Is there such a thing as absolute sin or absolute virtue?
 
 **M:**&ensp;Sin and virtue refer to a person only. Without a sinful or virtuous person what is sin or virtue? At the level of the absolute there are no persons; the ocean of pure awareness is neither virtuous nor sinful. Sin and virtue are invariably relative.
 
@@ -68,7 +68,7 @@
 
 **Q:**&ensp;By what sign shall l know that I am beyond sin and virtue?
 
-**M:**&ensp;By being free from all desire and fear, from the very idea of being a person. To nourish the ideas: ‘I am a sinner’ or ‘I am not a sinner’ is sin. To identify oneself with the particular is all the sin there is. The impersonal is real; the personal appears and disappears. ‘I am’ is the impersonal Being. ‘I am this’ is the person. The person is relative and the pure Being — fundamental.
+**M:**&ensp;By being free from all desire and fear, from the very idea of being a person. To nourish the ideas: “I am a sinner” or “I am not a sinner” is sin. To identify oneself with the particular is all the sin there is. The impersonal is real; the personal appears and disappears. “I Am” is the impersonal Being. “I am this” is the person. The person is relative and the pure Being — fundamental.
 
 **Q:**&ensp;Surely pure Being is not unconscious, nor is it devoid of discrimination. How can it be beyond sin and virtue? Just tell us, please — has it intelligence or not?
 
