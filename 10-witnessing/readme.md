@@ -4,7 +4,7 @@
 
 **Questioner:**&ensp;I am full of desires and want them fulfilled. How am I to get what I want?
 
-**Maharaj:**&ensp;Do you deserve what you desire? In some way or other you have to work for the fulfillment of your desires. Put in energy and wait for the results.
+**Maharaj:**&ensp;Do you deserve what you desire? In some way or other you have to work for the fulfilment of your desires. Put in energy and wait for the results.
 
 **Q:**&ensp;Where am I to get the energy?
 
