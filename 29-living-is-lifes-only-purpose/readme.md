@@ -18,11 +18,11 @@
 
 **M:**&ensp;Nobody ever fails in *yoga*. It is all a matter of the rate of progress. It is slow in the beginning and rapid in the end. When one is fully matured, realisation is explosive. It takes place spontaneously or at the slightest hint. The quick is not better than the slow. Slow ripening and rapid flowering alternate. Both are natural and right. 
 
-Yet, all this is so in the mind only. As I see it, there is really nothing of the kind. In the great mirror of consciousness images arise and disappear and only memory gives them continuity. And memory is material — destructible, perishable and transient. On such flimsy foundations we build a sense of personal existence — vague, intermittent, dreamlike. This vague persuasion, ‘I am so-and-so’ obscures the changeless state of pure awareness and makes us believe that we are born to suffer and to die.
+Yet, all this is so in the mind only. As I see it, there is really nothing of the kind. In the great mirror of consciousness images arise and disappear and only memory gives them continuity. And memory is material — destructible, perishable and transient. On such flimsy foundations we build a sense of personal existence — vague, intermittent, dreamlike. This vague persuasion, “I am so-and-so” obscures the changeless state of pure awareness and makes us believe that we are born to suffer and to die.
 
 **Q:**&ensp;Just as a child cannot help growing, so does a man, compelled by nature, make progress. Why exert oneself? Where is the need of *yoga*?
 
-**M:**&ensp;There is progress all the time. Everything contributes to progress. But this is the progress of ignorance. The circles of ignorance may be ever widening, yet it remains a bondage all the same. In due course a <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> appears to teach and inspire us to practise *yoga* and a ripening takes place; as a result of which, the immemorial night of ignorance dissolves before the rising sun of wisdom. But in reality nothing happened. The sun is always there, there is no night to it; the mind, blinded by the ‘I am the body’ idea, spins out endlessly its thread of illusion.
+**M:**&ensp;There is progress all the time. Everything contributes to progress. But this is the progress of ignorance. The circles of ignorance may be ever widening, yet it remains a bondage all the same. In due course a <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> appears to teach and inspire us to practise *yoga* and a ripening takes place; as a result of which, the immemorial night of ignorance dissolves before the rising sun of wisdom. But in reality nothing happened. The sun is always there, there is no night to it; the mind, blinded by the “I am the body” idea, spins out endlessly its thread of illusion.
 
 **Q:**&ensp;If all is a part of a natural process, where is the need of effort?
 
@@ -118,10 +118,10 @@ in which the seeker (<em>sadhaka</em>) becomes one with the object of his
 meditation (<em>sadhya</em>), thus attaining unqualified bliss. 
 “<em>Samadhi</em> is a state in which you transcend the bounds of your body, 
 mind and self-identity, and merge into an undifferentiated unity with all that 
-is”.">samadhi</span>), nothing is perceived. The root idea is ‘I am’. It 
+is”.">samadhi</span>), nothing is perceived. The root idea is “I Am”. It 
 shatters the state of pure consciousness and is followed by the innumerable 
 sensations and perceptions, feeling and ideas, which in their totality 
-constitute God and His world. The ‘I am’ remains as the witness, but it is by 
+constitute God and His world. The “I Am” remains as the witness, but it is by 
 the will of God that everything happens.
 
 **Q:**&ensp;Why not by my will?
