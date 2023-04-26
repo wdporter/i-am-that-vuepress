@@ -2,7 +2,7 @@
 
 >…the personality is only an obstacle. Self-identification with the body may be good for an infant, but true growing up depends on getting the body out of the way.
 
-**Questioner:**&ensp;As I can see, the world is a school of <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span> and life itself is *yoga* practice. Everybody strives for perfection and what is *yoga* but striving? There is nothing contemptible about the so-called ‘common’ people and their ‘common’ lives. They strive as hard and suffer as much as the <span data-tippy-content="One who practices *yoga*.">yogi</span>, only they are not conscious of their true purpose.
+**Questioner:**&ensp;As I can see, the world is a school of <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span> and life itself is *yoga* practice. Everybody strives for perfection and what is *yoga* but striving? There is nothing contemptible about the so-called “common” people and their “common” lives. They strive as hard and suffer as much as the <span data-tippy-content="One who practices *yoga*.">yogi</span>, only they are not conscious of their true purpose.
 
 **Maharaj:**&ensp;In what way are your common people *yogi*s?
 
@@ -24,7 +24,7 @@
 
 **Q:**&ensp;But you agree that living a life — just living the humdrum life of the world, being born to die and dying to be born — advances man by its sheer volume, just like the river finds its way to the sea by the sheer mass of the water it gathers.
 
-**M:**&ensp;Before the world was, consciousness was. In consciousness it comes into being, in consciousness it lasts and into pure consciousness it dissolves. At the root of everything is the feeling ‘I am’. The state of mind ‘there is a world’ is secondary, for to *be*, I do not need the world; the world needs me.
+**M:**&ensp;Before the world was, consciousness was. In consciousness it comes into being, in consciousness it lasts and into pure consciousness it dissolves. At the root of everything is the feeling “I Am”. The state of mind “there is a world” is secondary, for to *be*, I do not need the world; the world needs me.
 
 **Q:**&ensp;The desire to live is a tremendous thing.
 
@@ -42,7 +42,7 @@
 
 **M:**&ensp;As long as you do not see that it is mere habit, built on memory, prompted by desire, you will think yourself to be a person — living, feeling, thinking, active, passive, pleased or pained. Question yourself, ask yourself: “Is it so?”. “Who am I?”. “What is behind and beyond all this?”. Soon you will see your mistake. And it is in the very nature of a mistake to cease to be when seen.
 
-**Q:**&ensp;The *yoga* of living, of life itself, we may call the ‘natural *yoga*’ (<span data-tippy-content="Natural, innate, inborn.">nisarga</span> *yoga*). It reminds me of the ‘primal *yoga*’ (<span data-tippy-content="[<em>adhi</em>, above, supreme + <em>yoga</em>] the Supreme yoga.">adhi yoga</span>) mentioned in the *Rig-Veda*, which was described as the marrying of life with mind.
+**Q:**&ensp;The *yoga* of living, of life itself, we may call the “natural *yoga*” (<span data-tippy-content="Natural, innate, inborn.">nisarga</span> *yoga*). It reminds me of the “primal *yoga*” (<span data-tippy-content="[<em>adhi</em>, above, supreme + <em>yoga</em>] the Supreme yoga.">adhi yoga</span>) mentioned in the *Rig-Veda*, which was described as the marrying of life with mind.
 
 **M:**&ensp;A life lived thoughtfully, in full awareness, is by itself *nisarga yoga*.
 
@@ -60,9 +60,9 @@
 
 **Q:**&ensp;Krishnamurti too, speaks of living in awareness.
 
-**M:**&ensp;He always aims directly at the ‘ultimate’. Yes, ultimately all *yoga*s end in your *adhi-yoga*, the marriage of consciousness (the bride) to life (the bridegroom). Consciousness and being (<span data-tippy-content="“The ideal; pure and true essence (nature)” of an entity or existence. It can thus be concluded as “the self-existent or universal spirit, Brahman”. Opposite is ‘<em>asat</em>’.">sad</span>–<span data-tippy-content="Universal consciousness.">chit</span>) meet in bliss (<span data-tippy-content="Bliss, happiness.">ananda</span>). For bliss to arise there must be meeting, contact, the assertion of unity in duality.
+**M:**&ensp;He always aims directly at the “ultimate”. Yes, ultimately all *yoga*s end in your *adhi-yoga*, the marriage of consciousness (the bride) to life (the bridegroom). Consciousness and being (<span data-tippy-content="“The ideal; pure and true essence (nature)” of an entity or existence. It can thus be concluded as “the self-existent or universal spirit, Brahman”. Opposite is “<em>asat</em>”.">sad</span>–<span data-tippy-content="Universal consciousness.">chit</span>) meet in bliss (<span data-tippy-content="Bliss, happiness.">ananda</span>). For bliss to arise there must be meeting, contact, the assertion of unity in duality.
 
-**Q:**&ensp;Buddha too, has said that for the attainment of <span data-tippy-content="“A state of ‘ultimate’ peace that is achieved with the uprooting and final dissolution of the volitional formations”. Liberation from matter and union with the Supreme Spirit (Brahman).">nirvana</span> one must go to living beings. Consciousness needs life to grow.
+**Q:**&ensp;Buddha too, has said that for the attainment of <span data-tippy-content="“A state of “ultimate” peace that is achieved with the uprooting and final dissolution of the volitional formations”. Liberation from matter and union with the Supreme Spirit (Brahman).">nirvana</span> one must go to living beings. Consciousness needs life to grow.
 
 **M:**&ensp;The world itself is contact — the totality of all contacts actualised in consciousness. The spirit touches matter and consciousness results. Such consciousness, when tainted with memory and expectation, becomes bondage. Pure experience does not bind; experience caught between desire and fear is impure and creates <span data-tippy-content="Action or “the fruits of action”. <em>Karma</em> is of three kinds: <em>sanchita</em> (accumulated from previous births), <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the present life) and <em>agami</em> (the current <em>karma</em> the result of which will fructify in future).">karma</span>.
 
@@ -72,7 +72,7 @@
 
 **Q:**&ensp;I am an adopted child. I do not know my own father. My mother died when I was born. My foster father, to please my foster mother, who was childless, adopted me — almost by accident. He is a simple man — a truck owner and driver. My mother keeps the house. I am twenty-four years old now. For the last two and a half years I have been travelling, restless, seeking. I want to live a good life, a holy life. What am I to do?
 
-**M:**&ensp;Go home, take charge of your father’s business, look after your parents in their old age. Marry the girl who is waiting for you, be loyal, be simple and be humble. Hide your virtue, live silently. The five senses and the three qualities (<span data-tippy-content="Attributes, qualities. In <em>Samkhya</em> philosophy the three attributes of the cosmic substance (<em>prakriti</em>) are: illuminating (<em>sattva</em>), activating (<em>rajas</em>) and restraining (<em>tamas</em>).">guna</span>s) are your eight steps in *yoga*. And ‘I am’ is the Great Reminder (<span data-tippy-content="The great incantation (see <em>mantra</em>).">mahamantra</span>). You can learn from them all you need to know. Be attentive, enquire ceaselessly. That is all.
+**M:**&ensp;Go home, take charge of your father’s business, look after your parents in their old age. Marry the girl who is waiting for you, be loyal, be simple and be humble. Hide your virtue, live silently. The five senses and the three qualities (<span data-tippy-content="Attributes, qualities. In <em>Samkhya</em> philosophy the three attributes of the cosmic substance (<em>prakriti</em>) are: illuminating (<em>sattva</em>), activating (<em>rajas</em>) and restraining (<em>tamas</em>).">guna</span>s) are your eight steps in *yoga*. And “I Am” is the Great Reminder (<span data-tippy-content="The great incantation (see <em>mantra</em>).">mahamantra</span>). You can learn from them all you need to know. Be attentive, enquire ceaselessly. That is all.
 
 **Q:**&ensp;If just living one’s life liberates, why are not all liberated?
 
