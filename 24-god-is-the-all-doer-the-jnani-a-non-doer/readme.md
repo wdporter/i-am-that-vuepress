@@ -18,7 +18,7 @@ Thus runs the story. The difference with your teaching is this: you insist that 
 
 **Q:**&ensp;But why do we do so?
 
-**M:**&ensp;Your mind projects a structure and you identify yourself with it. It is in the nature of desire to prompt the mind to create a world for its fulfillment. Even a small desire can start a long line of action; what about a strong desire? Desire can produce a universe; its powers are miraculous. Just as a small matchstick can set a huge forest on fire, so does a desire light the fires of manifestation. The very purpose of creation is the fulfillment of desire. The desire may be noble or ignoble; space (<span data-tippy-content="the void, an element of space, sky.">akash</span>) is neutral — one can fill it with what one likes. You must be very careful as to what you desire. And as to the people you want to help, they are in their respective worlds for the sake of their desires; there is no way of helping them except through their desires. You can only teach them to have right desires so that they may rise above them and be free from the urge to create and recreate worlds of desires, abodes of pain and pleasure.
+**M:**&ensp;Your mind projects a structure and you identify yourself with it. It is in the nature of desire to prompt the mind to create a world for its fulfilment. Even a small desire can start a long line of action; what about a strong desire? Desire can produce a universe; its powers are miraculous. Just as a small matchstick can set a huge forest on fire, so does a desire light the fires of manifestation. The very purpose of creation is the fulfilment of desire. The desire may be noble or ignoble; space (<span data-tippy-content="the void, an element of space, sky.">akash</span>) is neutral — one can fill it with what one likes. You must be very careful as to what you desire. And as to the people you want to help, they are in their respective worlds for the sake of their desires; there is no way of helping them except through their desires. You can only teach them to have right desires so that they may rise above them and be free from the urge to create and recreate worlds of desires, abodes of pain and pleasure.
 
 **Q:**&ensp;A day must come when the show is wound up; a man must die, a universe come to an end.
 
@@ -90,11 +90,11 @@ Thus runs the story. The difference with your teaching is this: you insist that 
 
 **Q:**&ensp;How does one bring to an end this sense of separateness?
 
-**M:**&ensp;By focussing the mind on ‘I am’, on the sense of being, ‘I am so-and-so’ dissolves; ‘I am a witness only’ remains and that too submerges in ‘I am all’. Then the all becomes the One and the One — yourself, not to be separate from me. Abandon the idea of a separate ‘I’ and the question of ‘whose experience?’ will not arise.
+**M:**&ensp;By focussing the mind on “I Am”, on the sense of being, “I am so-and-so” dissolves; “I am a witness only” remains and that too submerges in “I am all”. Then the all becomes the One and the One — yourself, not to be separate from me. Abandon the idea of a separate “I” and the question of “whose experience?” will not arise.
 
 **Q:**&ensp;You speak from your own experience. How can I make it mine?
 
-**M:**&ensp;You speak of my experience as different from your experience because you believe we are separate. But we are not. On a deeper level my experience is your experience. Dive deep within yourself and you will find it easily and simply. Go in the direction of ‘I am’.
+**M:**&ensp;You speak of my experience as different from your experience because you believe we are separate. But we are not. On a deeper level my experience is your experience. Dive deep within yourself and you will find it easily and simply. Go in the direction of “I Am”.
 
 <script>
 export default {
