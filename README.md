@@ -8,6 +8,12 @@ actionLink: /1-the-sense-of-i-am/
 footer: MIT Licensed | Copyright © 2020-present no-one
 ---
 
+
+<!-- 
+if you are having trouble building, run this
+$env:NODE_OPTIONS = "--openssl-legacy-provider"
+-->
+
 *That in whom reside all beings and who resides in all beings, who is the giver of grace to all, the Supreme Soul of the universe, the limitless being — I am that.*  
 — Amritbindu Upanishad
 
