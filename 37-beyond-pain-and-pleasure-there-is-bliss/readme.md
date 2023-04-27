@@ -1,4 +1,4 @@
-# 37. Beyond Pain and Pleasure There Is Bliss
+# 37. Beyond Pain and Pleasure there is Bliss
 
 >Pain and pleasure happen, but pain is the price of pleasure, and pleasure is the reward of pain. In life too, you often please by hurting and hurt by pleasing. To know that pain and pleasure are one is peace.
 
@@ -26,9 +26,9 @@
 
 **Q:**&ensp;If reality is my real nature, how can I ever be unready?
 
-**M:**&ensp;Unready means afraid. You are afraid of what you are. Your destination is the whole. But you are afraid that you will lose your identity. This is childishness, clinging to the toys, to your desires and fears, opinions and ideas. Give it all up and be ready for the real to assert itself. This self-assertion is best expressed in words ‘I am’. Nothing else has being. Of this you are absolutely certain.
+**M:**&ensp;Unready means afraid. You are afraid of what you are. Your destination is the whole. But you are afraid that you will lose your identity. This is childishness, clinging to the toys, to your desires and fears, opinions and ideas. Give it all up and be ready for the real to assert itself. This self-assertion is best expressed in words “I Am”. Nothing else has being. Of this you are absolutely certain.
 
-**Q:**&ensp;‘I am’, of course, but ‘I know’ also. And I know that I am so and so, the owner of the body, in manifold relations with other owners.
+**Q:**&ensp;“I Am”, of course, but “I know” also. And I know that I am so and so, the owner of the body, in manifold relations with other owners.
 
 **M:**&ensp;It is all memory carried over into the *now*.
 
@@ -46,7 +46,7 @@
 
 **Q:**&ensp;It does not make me aware.
 
-**M:**&ensp;Wait. You want to be on both sides of the wall at the same time. You can, but you must remove the wall. Or realise that the wall and both sides of it are one single space, to which no idea like ‘here’ or ‘there’ applies.
+**M:**&ensp;Wait. You want to be on both sides of the wall at the same time. You can, but you must remove the wall. Or realise that the wall and both sides of it are one single space, to which no idea like “here” or “there” applies.
 
 **Q:**&ensp;Similes prove nothing. My only complaint is this: why do I not see what you see, why do your words not sound true in my mind? Let me know this much; all else can wait. You are wise and I am stupid; you see, I don’t. Where and how shall I find my wisdom?
 
@@ -78,15 +78,15 @@
 
 **Q:**&ensp;How do you come to know a state of pure being which is neither conscious nor unconscious? All knowledge is in consciousness only. There may be such a state as the abeyance of the mind. Does consciousness then appear as the witness?
 
-**M:**&ensp;The witness only registers events. In the abeyance of the mind, even the sense ‘I am’ dissolves. There is no ‘I am’ without the mind.
+**M:**&ensp;The witness only registers events. In the abeyance of the mind, even the sense “I Am” dissolves. There is no “I Am” without the mind.
 
-**Q:**&ensp;“Without the mind” means ‘without thoughts’. ‘I am’ as a thought subsides. ‘I am’ as the sense of being remains.
+**Q:**&ensp;“Without the mind” means “without thoughts”. “I Am” as a thought subsides. “I Am” as the sense of being remains.
 
 **M:**&ensp;All experience subsides with the mind. Without the mind there can be no experiencer or experience.
 
 **Q:**&ensp;Does not the witness remain?
 
-**M:**&ensp;The witness merely registers the presence or absence of experience. It is not an experience by itself, but it becomes an experience when the thought ‘I am the witness’ arises.
+**M:**&ensp;The witness merely registers the presence or absence of experience. It is not an experience by itself, but it becomes an experience when the thought “I am the witness” arises.
 
 **Q:**&ensp;All I know is that sometimes the mind works and sometimes it stops. The experience of mental silence I call the abeyance of the mind.
 
@@ -130,7 +130,7 @@
 
 **Q:**&ensp;All this is very interesting, no doubt, but my goal is more simple. I want more pleasure and less pain in life. What am I to do?
 
-**M:**&ensp;As long as there is consciousness, there must be pleasure and pain. It is in the nature of the ‘I am’, of consciousness, to identify itself with the opposites.
+**M:**&ensp;As long as there is consciousness, there must be pleasure and pain. It is in the nature of the “I Am”, of consciousness, to identify itself with the opposites.
 
 **Q:**&ensp;Then of what use is all this to me? It does not satisfy.
 
