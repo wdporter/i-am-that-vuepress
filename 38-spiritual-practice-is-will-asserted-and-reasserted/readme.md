@@ -1,4 +1,4 @@
-# 38. Spiritual Practice Is Will Asserted and Reässerted
+# 38. Spiritual Practice is Will Asserted and Reässerted
 
 >…there is a connection between the word and its meaning, between the action and its motive. Spiritual practice is will asserted and reässerted. Who does not have the daring will not accept the real even when offered. Unwillingness born out of fear is the only obstacle.
 
@@ -62,7 +62,7 @@ After all, when I talk of trusting me, it is only for a short time, just enough 
 
 **Q:**&ensp;What you cannot give is not your own.
 
-**M:**&ensp;I claim nothing as my own. When the ‘I’ is not, where is the ‘mine’?. Two people look at a tree. One sees the fruit hidden among the leaves and the other does not. Otherwise there is no difference between the two. The one that sees knows that with a little attention the other will also see, but the question of sharing does not arise. Believe me, I am not close-fisted, holding back your share of reality. On the contrary, I am all yours — eat me and drink me. But while you repeat verbally, “give, give”, you do nothing to take what is offered. I am showing you a short and easy way of being able to see what I see, but you cling to your old habits of thought, feeling and action and put all the blame on me. I have nothing which you do not have. Self-knowledge is not a piece of property to be offered and accepted. It is a new dimension altogether, where there is nothing to give or take.
+**M:**&ensp;I claim nothing as my own. When the “I” is not, where is the “mine”?. Two people look at a tree. One sees the fruit hidden among the leaves and the other does not. Otherwise there is no difference between the two. The one that sees knows that with a little attention the other will also see, but the question of sharing does not arise. Believe me, I am not close-fisted, holding back your share of reality. On the contrary, I am all yours — eat me and drink me. But while you repeat verbally, “give, give”, you do nothing to take what is offered. I am showing you a short and easy way of being able to see what I see, but you cling to your old habits of thought, feeling and action and put all the blame on me. I have nothing which you do not have. Self-knowledge is not a piece of property to be offered and accepted. It is a new dimension altogether, where there is nothing to give or take.
 
 **Q:**&ensp;Give us at least some insight into the content of your mind while you live your daily life. To eat, to drink, to talk, to sleep — how does it feel at your end?
 
@@ -80,7 +80,7 @@ After all, when I talk of trusting me, it is only for a short time, just enough 
 
 **M:**&ensp;If you want words, I shall give you some of the ancient words of power. Repeat any of them ceaselessly; they can work wonders.
 
-**Q:**&ensp;Are you serious? Would you tell a Westerner to repeat ‘*Om*’ or ‘*Ram*’ or ‘*Hare Krishna*’ ceaselessly, though he completely lacks the faith and conviction born of the right cultural and religious background? Without confidence and fervour, repeating mechanically the same sounds, will he ever achieve anything?
+**Q:**&ensp;Are you serious? Would you tell a Westerner to repeat “*Om*” or “*Ram*” or “*Hare Krishna*” ceaselessly, though he completely lacks the faith and conviction born of the right cultural and religious background? Without confidence and fervour, repeating mechanically the same sounds, will he ever achieve anything?
 
 **M:**&ensp;Why not? It is the urge, the hidden motive that matters, not the shape it takes. Whatever he does, if he does it for the sake of finding his own real self, will surely bring him to himself.
 
