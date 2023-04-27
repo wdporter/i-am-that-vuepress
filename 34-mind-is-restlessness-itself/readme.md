@@ -6,7 +6,7 @@
 
 **Maharaj:**&ensp;Where did you learn it?
 
-**Q:**&ensp;I had a teacher in the States, an Indian *Swami*.
+**Q:**&ensp;I had a teacher in the States, an Indian *swami*.
 
 **M:**&ensp;What did it give you?
 
