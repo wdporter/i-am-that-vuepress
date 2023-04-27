@@ -1,8 +1,8 @@
-# 35. The Greatest Guru Is Your Inner Self
+# 35. The Greatest Guru is your Inner Self
 
 >The greatest <span style=font-style:normal>guru</span> is your inner self. Truly, he is the supreme teacher. He alone can take you to your goal and he alone meets you at the end of the road. Confide in him and you need no outer <span style=font-style:normal>guru</span>.
 
-**Questioner:**&ensp;On all sides I hear that freedom from desires and inclinations is the first condition of self-realisation. But I find the condition impossible to fulfill. Ignorance of oneself causes desires and desires perpetuate ignorance. A truly vicious circle!
+**Questioner:**&ensp;On all sides I hear that freedom from desires and inclinations is the first condition of self-realisation. But I find the condition impossible to fulfil. Ignorance of oneself causes desires and desires perpetuate ignorance. A truly vicious circle!
 
 **Maharaj:**&ensp;There are no conditions to fulfil. There is nothing to be done, nothing to be given up. Just look and remember that whatever you perceive is not you, nor yours. It is there in the field of consciousness, but you are not the field and its contents, nor even the knower of the field. It is your idea that you have to do things that entangle you in the results of your efforts — the motive, the desire, the failure to achieve, the sense of frustration — all this holds you back. Simply look at whatever happens and know that you are beyond it.
 
@@ -12,7 +12,7 @@
 
 **Q:**&ensp;Is it a matter of the known and the knower becoming one?
 
-**M:**&ensp;Both are ideas in the mind, and words that express them. There is no self in them. The self is neither between nor beyond. To look for it on the mental level is futile. Stop searching and see — it is here and now — it is that ‘I am’ you know so well. All you need to do is to cease taking yourself to be within the field of consciousness. Unless you have already considered these matters carefully, listening to me once will not do. Forget your past experiences and achievements and stand naked, exposed to the winds and rains of life, and you will have a chance.
+**M:**&ensp;Both are ideas in the mind, and words that express them. There is no self in them. The self is neither between nor beyond. To look for it on the mental level is futile. Stop searching and see — it is here and now — it is that “I Am” you know so well. All you need to do is to cease taking yourself to be within the field of consciousness. Unless you have already considered these matters carefully, listening to me once will not do. Forget your past experiences and achievements and stand naked, exposed to the winds and rains of life, and you will have a chance.
 
 **Q:**&ensp;Has devotion (<span data-tippy-content="Devotion, adoration. Hence <em>bhakta</em>, a devotee.">bhakti</span>) any place in your teaching?
 
@@ -96,7 +96,7 @@ The greatest *guru* is your inner self. Truly, he is the supreme teacher. He alo
 
 **Q:**&ensp;Still you have a body and you depend on it.
 
-**M:**&ensp;Again you assume that your point of view is the only correct one. I repeat: I was not, am not, shall not, be a body. To me this is a fact. I too was under the illusion of having been born, but my *guru* made me see that birth and death are mere ideas. Birth is merely the idea ‘I have a body’, and death ‘I have lost my body’. Now, when I know I am not a body, the body may be there or may not — what difference does it make? The body–mind is like a room. It is there, but I need not live in it all the time.
+**M:**&ensp;Again you assume that your point of view is the only correct one. I repeat: I was not, am not, shall not, be a body. To me this is a fact. I too was under the illusion of having been born, but my *guru* made me see that birth and death are mere ideas. Birth is merely the idea “I have a body”, and death “I have lost my body”. Now, when I know I am not a body, the body may be there or may not — what difference does it make? The body–mind is like a room. It is there, but I need not live in it all the time.
 
 **Q:**&ensp;Yet there is a body and you do take care of it.
 
