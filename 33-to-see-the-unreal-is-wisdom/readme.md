@@ -1,4 +1,4 @@
-# 33. To See the Unreal Is Wisdom
+# 33. To See the Unreal is Wisdom
 
 >To a <span style=font-style:normal>jnani</span> nothing has beginning or an ending. As salt dissolves in water, so does everything dissolve into pure being. Wisdom is eternally negating the unreal. To see the unreal is wisdom…
 

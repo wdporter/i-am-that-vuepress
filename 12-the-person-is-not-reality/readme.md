@@ -1,4 +1,4 @@
-# 12. The Person Is Not Reality
+# 12. The Person is not Reality
 
 >Once you realise that the person is merely a shadow of the reality, but not reality itself, you cease to fret and worry. You agree to be guided from within and life becomes a journey into the unknown.
 

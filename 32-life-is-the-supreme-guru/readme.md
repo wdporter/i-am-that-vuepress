@@ -1,4 +1,4 @@
-# 32. Life Is the Supreme *guru*
+# 32. Life is the Supreme *Guru*
 
 >Life itself is the Supreme <span style=font-style:normal>guru</span>; be attentive to its lessons and obedient to its commands. When you personalise their source, you have an outer <span style=font-style:normal>guru</span>; when you take them from life directly, the <span style=font-style:normal>guru</span> is within.
 

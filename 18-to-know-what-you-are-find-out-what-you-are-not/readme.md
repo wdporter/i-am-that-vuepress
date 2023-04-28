@@ -1,4 +1,4 @@
-# 18. To Know What You Are, Find What You Are Not
+# 18. To Know What you Are, Find What You Are Not
 
 >To know what you are, you must first investigate and know what you are not. And to know what you are not, you must watch yourself carefully, rejecting all that does not necessarily go with the basic fact: “I Am” … Our usual attitude is of “I am this”. Consistently and perseveringly separate the “I Am” from “this” or “that” and try to feel what it means to <span style=font-style:normal>be</span>, just to <span style=font-style:normal>be</span>, without being “this” or “that”.
 

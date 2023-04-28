@@ -68,7 +68,7 @@
 
 **Q:**&ensp;How can it be? You cannot prove to me that I am not. Even when convinced that I am not — I am.
 
-**M:**&ensp;Reality can neither be proved nor disproved. Within the mind you cannot; beyond the mind you need not. In the real, the question “what is real?” does not arise. The manifested (<span data-tippy-content="Manifested condition with the three <em>guna</em>s, qualities — <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. The Supreme Absolute conceived of as possessing qualities like love, mercy etc., as distinguished from the undifferentiated Absolute of the <em>Advaita Vedanta</em>.">saguna</span>) and unmanifested (<span data-tippy-content="The unconditioned, without form, qualities and attributes.">nirguna</span>) are not different.
+**M:**&ensp;Reality can neither be proved nor disproved. Within the mind you cannot; beyond the mind you need not. In the real, the question “what is real?” does not arise. The manifested (<span data-tippy-content="Manifested condition with the three <em>guna</em>s, qualities — <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. The Supreme Absolute conceived of as possessing qualities like love, mercy and so forth, as distinguished from the undifferentiated Absolute of the <em>Advaita Vedanta</em>.">saguna</span>) and unmanifested (<span data-tippy-content="The unconditioned, without form, qualities and attributes.">nirguna</span>) are not different.
 
 **Q:**&ensp;In that case, all is real.
 

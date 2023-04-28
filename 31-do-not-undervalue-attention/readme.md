@@ -1,4 +1,4 @@
-# 31. Do Not Undervalue Attention
+# 31. Do not Undervalue Attention
 
 >Do not undervalue attention: it means interest and also love. To know, to do, to discover or to create; you must give your heart to it — which means attention. All the blessings flow from it.
 

@@ -1,4 +1,4 @@
-# 24. God Is the All-Doer, the *Jnani* a Non-Doer
+# 24. God is the All-Doer, the *Jnani* a Non-Doer
 
 >God is the all-doer, the <span style=font-style:normal>jnani</span> is a non-doer. God himself does not say, “I am doing all”. To Him things happen by their own nature. To the <span style=font-style:normal>jnani</span> all is done by God. He sees no difference between God and nature.
 
@@ -70,7 +70,7 @@ Thus runs the story. The difference with your teaching is this: you insist that 
 
 **Q:**&ensp;We are attached to our personality. Our individuality, our being unlike others, we value very much. You seem to denounce both as useless. Your unmanifested — of what use is it to us?
 
-**M:**&ensp;Unmanifested, manifested, individuality, personality (<span data-tippy-content="The unconditioned, without form, qualities or attributes.">nirguna</span>, <span data-tippy-content="Manifested condition with the three <em>guna</em>s, qualities — <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. The Supreme Absolute conceived of as possessing qualities like love, mercy etc., as distinguished from the undifferentiated Absolute of the <em>Advaita Vedanta</em>.">saguna</span>, <span data-tippy-content="Manifest matter, the evolved nature. Opposite is <em>avyakta</em>.">vyakta</span>, <span data-tippy-content="Person, the outer self.">vyakti</span>) — all these are mere words, points of view, mental attitudes. There is no reality in them. The real is experienced in silence. You cling to personality; but you are conscious of being a person only when you are in trouble; when you are not in trouble you do not think of yourself.
+**M:**&ensp;Unmanifested, manifested, individuality, personality (<span data-tippy-content="The unconditioned, without form, qualities or attributes.">nirguna</span>, <span data-tippy-content="Manifested condition with the three <em>guna</em>s, qualities — <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. The Supreme Absolute conceived of as possessing qualities like love, mercy and so forth, as distinguished from the undifferentiated Absolute of the <em>Advaita Vedanta</em>.">saguna</span>, <span data-tippy-content="Manifest matter, the evolved nature. Opposite is <em>avyakta</em>.">vyakta</span>, <span data-tippy-content="Person, the outer self.">vyakti</span>) — all these are mere words, points of view, mental attitudes. There is no reality in them. The real is experienced in silence. You cling to personality; but you are conscious of being a person only when you are in trouble; when you are not in trouble you do not think of yourself.
 
 **Q:**&ensp;You did not tell me the uses of the Unmanifested.
 
