@@ -190,7 +190,6 @@ module.exports = {
 			{
 				title: "Back Matter",
 				children: [
-					"/highlights/",
 					"/appendix-1-nisarga-yoga/",
 					"/appendix-2-navnath-sampradaya/",
 					"/glossary/"
