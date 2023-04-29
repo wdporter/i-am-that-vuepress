@@ -1,8 +1,8 @@
 # 72. What is Pure, Unalloyed, Unattached Is Real
 
 >What is pure, unalloyed, unattached is real. What is tainted, mixed up, 
-dependent and transient is unreal. … The ‘I am’ that pursues the pleasant and 
-shuns the unpleasant is false; the ‘I am’ that sees pleasure and pain as 
+dependent and transient is unreal. … The “I Am” that pursues the pleasant and 
+shuns the unpleasant is false; the “I Am” that sees pleasure and pain as 
 inseparable sees rightly.
 
 **Maharaj:**&ensp;You are back in India! Where have you been, what have you 
@@ -112,10 +112,10 @@ relinquishment, renunciation?
 **M:**&ensp;There is nothing to renounce. Enough if you stop acquiring. To 
 give you must have, and to have you must take. Better not to take. It is 
 simpler than to practice renunciation, which leads to a dangerous form of 
-‘spiritual’ pride. 
+“spiritual” pride. 
 
 All this weighing, selecting, choosing, exchanging — it is all shopping in 
-some ‘spiritual’ market. What is your business there? What deal are you out to 
+some “spiritual” market. What is your business there? What deal are you out to 
 strike? When you are not out for business, what is the use of this endless 
 anxiety of choice? Restlessness takes you nowhere. Something prevents you from 
 seeing that there is nothing you need. Find it out and see its falseness. It 
@@ -140,13 +140,13 @@ absence. Witnessing is natural and is no problem. The problem is excessive
 interest, leading to self-identification. Whatever you are engrossed in, you 
 take to be real.
 
-**Q:**&ensp;Is the ‘I am’ real or unreal? Is the ‘I am’ the witness? Is the 
+**Q:**&ensp;Is the “I Am” real or unreal? Is the “I Am” the witness? Is the 
 witness real or unreal?
 
 **M:**&ensp;What is pure, unalloyed, unattached is real. What is tainted, 
 mixed up, dependent and transient is unreal. Do not be misled by words — one 
-word may convey several and even contradictory meanings. The ‘I am’ that 
-pursues the pleasant and shuns the unpleasant is false; the ‘I am’ that sees 
+word may convey several and even contradictory meanings. The “I Am” that 
+pursues the pleasant and shuns the unpleasant is false; the “I Am” that sees 
 pleasure and pain as inseparable sees rightly. The witness that is enmeshed in 
 what he perceives is the person; the witness who stands aloof, unmoved and 
 untouched — is the watch-tower of the real — the point at which awareness, 
@@ -157,8 +157,8 @@ universe without the witness: there can be no witness without the universe.
 
 **M:**&ensp;He who is beyond time — the Unnameable. A glowing ember, moved 
 round and round quickly enough, appears as a glowing circle. When the movement 
-ceases, the ember remains. Similarly, the ‘I am’ in movement creates the 
-world. The ‘I am’ at peace becomes the Absolute. You are like a man with an 
+ceases, the ember remains. Similarly, the “I Am” in movement creates the 
+world. The “I Am” at peace becomes the Absolute. You are like a man with an 
 electric torch walking through a gallery. You can see only what is within the 
 beam. The rest is in darkness.
 
@@ -201,7 +201,7 @@ will remain.
 **M:**&ensp;In love there is not even the one — how can there be two? Love is 
 the refusal to separate, to make distinctions. Before you can think of unity, 
 you must first create duality. When you truly love, you do not say, “I love 
-you”. Where there is ment activity, there is duality.
+you”. Where there is mental activity, there is duality.
 
 **Q:**&ensp;What is it that brings me again and again to India? It cannot only 
 be the comparative cheapness of life here, nor the colourfulness and variety 
@@ -278,7 +278,7 @@ to shapeless gold. Similarly, one must return to one’s original state before a
 new name and form can emerge. Death is essential for renewal.
 
 **Q:**&ensp;You are always stressing the need of going beyond, of aloofness, 
-of solitude. You hardly ever use the words ‘right’ and ‘wrong’. Why?
+of solitude. You hardly ever use the words “right” and “wrong”. Why?
 
 **M:**&ensp;It is right to be oneself, it is wrong not to be. All else is 
 conditional. You are eager to separate right from wrong because you need some 

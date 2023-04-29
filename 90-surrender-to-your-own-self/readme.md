@@ -68,7 +68,7 @@ garment.
 
 **M:**&ensp;Human beings die every second; the fear and the agony of dying hangs over the world like a cloud. 
 No wonder you too are afraid. 
-But once you know that the body alone dies and not the continuity of memory and the sense of ‘I am’ reflected in it, you are afraid no longer.
+But once you know that the body alone dies and not the continuity of memory and the sense of “I Am” reflected in it, you are afraid no longer.
 
 **Q:**&ensp;Well, let us die and see.
 
@@ -128,9 +128,9 @@ Yourself as a responsive person within a female body?
 
 **Q:**&ensp;There is a body and there is compassion and there is memory and a number of things and attitudes; collectively they may be called a person.
 
-**M:**&ensp;Including the ‘I am’ idea?
+**M:**&ensp;Including the “I Am” idea?
 
-**Q:**&ensp;The ‘I am’ is like a basket that holds the many things that make a person.
+**Q:**&ensp;The “I Am” is like a basket that holds the many things that make a person.
 
 **M:**&ensp;Or, rather, it is the willow of which the basket is woven. 
 When you think of yourself as a women, do you mean that you are a women, or that your body is described as female?
@@ -244,16 +244,7 @@ Let it happen, watch it happen.
 
 **Q:**&ensp;Why then be at all concerned?
 
-**M:**&ensp;But you are concerned! 
-And you will be concerned as long as the picture clashes with your own sense of truth, love and beauty. 
-The desire for harmony and peace is in eradicable. 
-But once it is fulfilled, the concern ceases and physical life becomes effortless and below the level of attention. 
-Then, even in the body you are not born. 
-To be embodied or bodyless is the same to you. 
-You reach a point where nothing can happen to you. 
-Without body, you cannot be killed; without possessions, you cannot be robbed; without the mind, you cannot be deceived. 
-There is no point where a desire or fear can hook on. 
-As long as no change can happen to you, what else matters?
+**M:**&ensp;But you are concerned! And you will be concerned as long as the picture clashes with your own sense of truth, love and beauty. The desire for harmony and peace is in eradicable. But once it is fulfilled, the concern ceases and physical life becomes effortless and below the level of attention. Then, even in the body you are not born. To be embodied or bodiless is the same to you. You reach a point where nothing can happen to you. Without body, you cannot be killed; without possessions, you cannot be robbed; without the mind, you cannot be deceived. There is no point where a desire or fear can hook on. As long as no change can happen to you, what else matters?
 
 **Q:**&ensp;Somehow I do not like the idea of dying.
 

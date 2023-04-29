@@ -60,7 +60,7 @@
 
 **M:**&ensp;Before pain was, you were. After pain had gone, you remained. Pain is transient, you are not.
 
-**Q:**&ensp;I am sorry, but I do not see what you see. From the day I was born till the day I die, pain and pleasure will weave the pattern of my life. Of being before birth and after death I know nothing. I neither accept nor deny you. I hear what you say, but I do not *know* it.
+**Q:**&ensp;I am sorry, but I do not see what you see. From the day I was born until the day I die, pain and pleasure will weave the pattern of my life. Of being before birth and after death I know nothing. I neither accept nor deny you. I hear what you say, but I do not *know* it.
 
 **M:**&ensp;Now you are conscious, are you not?
 

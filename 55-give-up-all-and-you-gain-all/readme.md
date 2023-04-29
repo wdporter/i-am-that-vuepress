@@ -36,7 +36,7 @@ and your personal consciousness — what is the link between the two?
 
 **Q:**&ensp;They may dream of each other.
 
-**M:**&ensp;That is what people are doing. Everyone imagines ‘others’ and 
+**M:**&ensp;That is what people are doing. Everyone imagines “others” and 
 seeks a link with them. The seeker is the link; there is none other.
 
 **Q:**&ensp;Surely there must be something in common between the many points 
@@ -47,7 +47,7 @@ world is independent of your mind. How can it be? Your desire to know other
 people’s minds is due to your not knowing your own mind. First know your own 
 mind and you will find that the question of other minds does not arise at all, 
 for there are no other people. You are the common factor, the only link 
-between the minds. Being is consciousness; ‘I am’ applies to all.
+between the minds. Being is consciousness; “I Am” applies to all.
 
 **Q:**&ensp;The Supreme Reality (<span data-tippy-content="The Supreme 
 Reality.">Parabrahman</span>) may be present in all of us. But of what use is 

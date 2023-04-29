@@ -21,26 +21,18 @@ from the past and future. In your case, it is distorted by desire and fear, by
 memories and hopes; in mine, it is as it is — normal. To be a person is to be 
 asleep.
 
-**Q:**&ensp;Between the body and pure awareness stands the ‘inner organ’, 
-<span data-tippy-content="The psyche, mind. Mind in a collective sense, 
-including intelligence (<em>buddhi</em>), ego (<em>ahamkara</em>) and mind 
-(<em>manas</em>).">antahkarana</span>, the ‘subtle body’, the ‘mental body’, 
-whatever the name. Just as a whirling mirror converts sunlight into a manifold 
-pattern of streaks and colours, so does the subtle body convert the simple 
-light of the shining Self into a diversified world. Thus I have understood 
-your teaching. What I cannot grasp is how this subtle body arise in the first 
-instance?
+**Q:**&ensp;Between the body and pure awareness stands the “inner organ”, <span data-tippy-content="The psyche, mind. Mind in a collective sense, including intelligence (<em>buddhi</em>), ego (<em>ahamkara</em>) and mind (<em>manas</em>).">antahkarana</span>, the “subtle body”, the “mental body”, whatever the name. Just as a whirling mirror converts sunlight into a manifold pattern of streaks and colours, so does the subtle body convert the simple light of the shining Self into a diversified world. Thus I have understood your teaching. What I cannot grasp is how this subtle body arise in the first instance?
 
-**M:**&ensp;It is created with the emergence of the ‘I am’ idea. The two are one.
+**M:**&ensp;It is created with the emergence of the “I Am” idea. The two are one.
 
-**Q:**&ensp;How did the ‘I am’ appear?
+**Q:**&ensp;How did the “I Am” appear?
 
 **M:**&ensp;In your world, everything must have a beginning and an end. If it 
 does not, you call it eternal. In my view, there is no such thing as a 
 beginning or an end — these are all related to time. Timeless being is 
 entirely in the *now*.
 
-**Q:**&ensp;The *antahkarana*, or the ‘subtle body’ — is it real or unreal?
+**Q:**&ensp;The *antahkarana*, or the “subtle body” — is it real or unreal?
 
 **M:**&ensp;It is momentary. Real when present, unreal when over.
 
@@ -110,14 +102,7 @@ be.
 
 **M:**&ensp;Reality is common to all. Only the false is personal.
 
-**Q:**&ensp;As I watch the <span 
-data-tippy-content="Spiritual aspirant.">sadhaka</span>s and enquire into the 
-theories by which they live, I find they have merely replaced material 
-cravings with ‘spiritual’ ambitions. From what you tell us, it looks as if the 
-words ‘spiritual’ and ‘ambition’ are incompatible. If ‘spirituality’ implies 
-freedom from ambition, what will urge the seeker on? The <span 
-data-tippy-content="One who practices <em>yoga</em>.">yogi</span>s speak of 
-the desire for liberation as essential. Is it not the highest form of ambition?
+**Q:**&ensp;As I watch the <span data-tippy-content="Spiritual aspirant.">sadhaka</span>s and enquire into the theories by which they live, I find they have merely replaced material cravings with “spiritual” ambitions. From what you tell us, it looks as if the words “spiritual” and “ambition” are incompatible. If “spirituality” implies freedom from ambition, what will urge the seeker on? The <span data-tippy-content="One who practices <em>yoga</em>.">yogi</span>s speak of the desire for liberation as essential. Is it not the highest form of ambition?
 
 **M:**&ensp;Ambition is personal; liberation is from the personal. In 
 liberation both the subject and the object of ambition are no longer. 
@@ -136,7 +121,7 @@ it; nothing can prevent it.
 
 **Q:**&ensp;Then why are we not free here and now?
 
-**M:**&ensp;But we are free ‘here and now’. It is only the mind that imagines 
+**M:**&ensp;But we are free “here and now”. It is only the mind that imagines 
 bondage.
 
 **Q:**&ensp;What will put an end to imagination?
@@ -183,9 +168,7 @@ all the time most faithfully. You may or may not perceive them; nevertheless
 they are real and active. When you realise that all is in your mind and that 
 you are beyond the mind, that you are truly alone, then all is you.
 
-**Q:**&ensp;What is omniscience? Is God omniscient? Are you omniscient? We 
-hear the expression ‘universal witness’ — what does it mean? Does 
-self-realisation imply omniscience? Or is it a matter of specialised training?
+**Q:**&ensp;What is omniscience? Is God omniscient? Are you omniscient? We hear the expression “universal witness” — what does it mean? Does self-realisation imply omniscience? Or is it a matter of specialised training?
 
 **M:**&ensp;To entirely lose all interest in knowledge results in omniscience. 
 It is but the gift of knowing what needs to be known at the right moment for 
@@ -198,7 +181,7 @@ rightly, spontaneously, without bringing in the conscious, so much the better.
 room to spare!
 
 **Q:**&ensp;Your working theory seems to be that the waking state is not 
-basically different from dreamimg and dreamless sleep. The three states are 
+basically different from dreaming and dreamless sleep. The three states are 
 essentially a case of mistaken self-identification with the body. Maybe it is 
 true, but I feel it is not the whole truth.
 
@@ -210,12 +193,12 @@ to investigate. And there can be no salvation without investigation because
 non-investigation is the main cause of bondage.
 
 **Q:**&ensp;You say that the illusion of the world begins with the sense 
-‘I am’, but when I ask about the origin of the sense ‘I am’, you answer that 
+“I Am”, but when I ask about the origin of the sense “I Am”, you answer that 
 it has no origin, for on investigation it dissolves. What is solid enough to 
-build the world on cannot be mere illusion. The ‘I am’ is the only changeless 
+build the world on cannot be mere illusion. The “I Am” is the only changeless 
 factor I am conscious of; how can it be false?
 
-**M:**&ensp;It is not the ‘I am’ that is false, but what you take yourself to 
+**M:**&ensp;It is not the “I Am” that is false, but what you take yourself to 
 be. I can see beyond the least shadow of doubt that you are not what you 
 believe yourself to be. Logic or no logic, you cannot deny the obvious. You 
 are nothing that you are conscious of. Apply yourself diligently to pulling 
@@ -226,8 +209,8 @@ mind must undo.
 is. You may question the appearance, but not the fact. What is at the root of 
 the fact?
 
-**M:**&ensp;The ‘I am’ is at the root of all appearance and the permanent link 
-in the succession of events that we call life; but I am beyond the ‘I am’.
+**M:**&ensp;The “I Am” is at the root of all appearance and the permanent link 
+in the succession of events that we call life; but I am beyond the “I Am”.
 
 **Q:**&ensp;I have found that the realised people usually describe their state 
 in terms borrowed from their religion. You happen to be a Hindu, so you talk 
@@ -237,9 +220,9 @@ data-tippy-content="One of the Gods of the Hindu trinity — Brahma, the
 creator; Vishnu, the preserver and Shiva, the destroyer.">Vishnu</span> and 
 <span data-tippy-content="One of the gods of the Hindu trinity — Brahma, the 
 creator; Vishnu, the preserver; and Shiva, the destroyer. Shiva actually means 
-auspicious, propitious. Destruction ofthe cosmos by the god Shiva is a 
+auspicious, propitious. Destruction of the cosmos by the god Shiva is a 
 propitious act, for destruction precedes creation. Shiva is absolute love of 
-the ‘I-principle’ in a man. As a destroyer, he brings about the total 
+the “I-principle” in a man. As a destroyer, he brings about the total 
 annihilation of the human ego.">Shiva</span> and use Hindu approaches and 
 imagery. Kindly tell us — what is the experience behind your words? What 
 reality do they refer to?
@@ -248,9 +231,7 @@ reality do they refer to?
 
 **Q:**&ensp;But what is behind the language?
 
-**M:**&ensp;How can I put it into words, except in negating them? Therefore, I 
-use words like ‘timeless’, ‘spaceless’, ‘causeless’. These too are words, but 
-as they are empty of meaning, they suit my purpose.
+**M:**&ensp;How can I put it into words, except in negating them? Therefore, I use words like “timeless”, “spaceless”, “causeless”. These too are words, but as they are empty of meaning, they suit my purpose.
 
 **Q:**&ensp;If they are meaningless, why use them?
 

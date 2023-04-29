@@ -12,16 +12,7 @@ that he is an enemy of the State and a traitor to his country, that a day comes 
 something in him breaks down and he begins to feel with full conviction that he is a traitor, a rebel, 
 altogether despicable and deserving of the direst punishment. This process is known as brain-washing.
 
-It struck me that the religious and <span data-tippy-content="One who practices <em>yoga</em>.">yogi</span>c practices are very similar to brain-washing. There is the same 
-physical and mental deprivation, solitary confinement, a powerful sense of sin, despair, and a desire 
-to escape through expiation and conversion, adoption of a new image of oneself and impersonating 
-that image. There is also the same repetition of set formula: “God is good; the <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> (party) knows; faith will 
-save me”. In the so-called *yogi*c or religious practices the same mechanism operates. The mind is 
-made to concentrate on some particular idea to the exclusion of all other ideas and concentration is 
-powerfully reïnforced by rigid discipline and painful austerities. A high price in life and happiness is 
-paid and what one gets in return appears therefore to be of great importance. This preärranged 
-conversion, obvious or hidden, religious or political, ethical or social, may look genuine and lasting, 
-yet there is a feeling of artificiality about it.
+It struck me that the religious and <span data-tippy-content="One who practices <em>yoga</em>.">yogi</span>c practices are very similar to brain-washing. There is the same physical and mental deprivation, solitary confinement, a powerful sense of sin, despair, and a desire to escape through expiation and conversion, adoption of a new image of oneself and impersonating that image. There is also the same repetition of set formula: “God is good; the <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> (party) knows; faith will save me”. In the so-called *yogi*c or religious practices the same mechanism operates. The mind is made to concentrate on some particular idea to the exclusion of all other ideas and concentration is powerfully reïnforced by rigid discipline and painful austerities. A high price in life and happiness is paid and what one gets in return appears therefore to be of great importance. This preärranged conversion, obvious or hidden, religious or political, ethical or social, may look genuine and lasting, yet there is a feeling of artificiality about it.
 
 **Maharaj:**&ensp;You are quite right. By undergoing so many hardships the mind gets dislocated and 
 immobilised. Its condition becomes precarious; whatever it undertakes results in a deeper bondage.
@@ -58,7 +49,7 @@ compulsive suggestion is present in both.
 
 **Q:**&ensp;Sir, the similarities are not superficial. Man is a complex being and can be at the same time the 
 accuser and the accused, the judge, the warden and the executioner. There is not much that is 
-voluntary in a ‘voluntary’ *sadhana*. One is moved by forces beyond one’s knowledge and control. I can 
+voluntary in a “voluntary” *sadhana*. One is moved by forces beyond one’s knowledge and control. I can 
 change my mental metabolism as little as the physical, except by painful and protracted efforts — 
 which is *yoga*. All I am asking is, does Maharaj agree with me that *yoga* implies violence?
 
@@ -87,7 +78,7 @@ does will be right; if it does not, all it does will be wrong.
 
 **Q:**&ensp;What do you mean by saying, “I know myself as I am”?
 
-**M:**&ensp;Before the mind — I am. ‘I am’ is not a thought in the mind — the mind happens to me, I do not 
+**M:**&ensp;Before the mind — I am. “I Am” is not a thought in the mind — the mind happens to me, I do not 
 happen to the mind. And since time and space are in the mind, I am beyond time and space, eternal 
 and omnipresent.
 
@@ -119,7 +110,7 @@ all the courage to go further. What helps is silence. Look at yourself in total 
 yourself. Look at the being you believe you are and remember — you are not what you see. “This I 
 am not — what am I?” is the movement of self-enquiry. There are no other means to liberation; all 
 else means delay. Resolutely reject what you are not until the real Self emerges in its glorious 
-nothingness, its ‘not-a-thingness.’
+nothingness, its “not-a-thingness”.
 
 **Q:**&ensp;The world is passing through rapid and critical changes. We can see them with great clarity in 
 the United States, though they happen in other countries. There is an increase in crime on one 

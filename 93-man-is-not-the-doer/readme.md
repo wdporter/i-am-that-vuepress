@@ -2,17 +2,9 @@
 
 >[Your mind is not quiet.] It is because of your illusion that you are the doer. In reality things are done to you, not by you.
 
-**Questioner:**&ensp;From the beginning of my life, I have been pursued by a sense of incompleteness. From 
-school to college, to work, to marriage, to affluence, I imagined that the next thing will surely give 
-me peace, but there was no peace. This sense of unfulfillment keeps on growing as years pass by.
+**Questioner:**&ensp;From the beginning of my life, I have been pursued by a sense of incompleteness. From school to college, to work, to marriage, to affluence, I imagined that the next thing will surely give me peace, but there was no peace. This sense of unfulfillment keeps on growing as years pass by.
 
-**Maharaj:**&ensp;As long as there is the body and the sense of identity with the body, frustration is 
-inevitable. Only when you know yourself as entirely alien to and different from the body, will you find 
-respite from the mixture of fear and craving inseparable from the ‘I am the body’ idea. Merely 
-assuaging fears and satisfying desires will not remove this sense of emptiness you are trying to 
-escape from; only self-knowledge can help you. By ‘self-knowledge’ I mean full knowledge of what 
-you are not. Such knowledge is attainable and final, but to the discovery of what you are, there can 
-be no end. The more you discover, the more there remains to discover.
+**Maharaj:**&ensp;As long as there is the body and the sense of identity with the body, frustration is inevitable. Only when you know yourself as entirely alien to and different from the body, will you find respite from the mixture of fear and craving inseparable from the “I am the body” idea. Merely assuaging fears and satisfying desires will not remove this sense of emptiness you are trying to escape from; only self-knowledge can help you. By “self-knowledge” I mean full knowledge of what you are not. Such knowledge is attainable and final, but to the discovery of what you are, there can be no end. The more you discover, the more there remains to discover.
 
 **Q:**&ensp;For this we must have different parents and schools, live in a different society.
 
@@ -75,7 +67,7 @@ difficult and time-consuming courses?
 
 **M:**&ensp;The <span data-tippy-content="Spiritual teacher, preceptor.">guru</span>s usually teach the *sadhana*s by which they themselves have reached their goal, 
 whatever their goal may be. This is but natural, for their own *sadhana* they know intimately. I was 
-taught to give attention to my sense of ‘I am’ and I found it supremely effective. Therefore, I can 
+taught to give attention to my sense of “I Am” and I found it supremely effective. Therefore, I can 
 speak of it with full confidence. But often people come with their bodies, brain and minds so 
 mishandled, perverted and weak that the state of formless attention is beyond them. In such cases, 
 some simpler token of earnestness is appropriate. The repetition of a <span data-tippy-content="Incantation, hymn, an instrument of thought, ideal sounds visualised as letters and vocalised as syllables. A <em>mantra</em> is a group of words whose constant repetition produces specific results.">mantra</span>, or gazing at a picture 
@@ -103,12 +95,12 @@ really good for you and strive for it earnestly. Very soon you will find that th
 **M:**&ensp;It is not what you do, but what you stop doing that matters. The people who begin their *sadhana* 
 are so feverish and restless that they have to be very busy to keep themselves on the track. An 
 absorbing routine is good for them. After some time they quiet down and turn away from effort. In 
-peace and silence the skin of the ‘I’ dissolves and the inner and the outer become one. The real 
+peace and silence the skin of the “I” dissolves and the inner and the outer become one. The real 
 *sadhana* is effortless.
 
 **Q:**&ensp;I have sometimes the feeling that space itself is my body.
 
-**M:**&ensp;When you are bound by the illusion ‘I am this body’, you are merely a point in space and a 
+**M:**&ensp;When you are bound by the illusion “I am this body”, you are merely a point in space and a 
 moment in time. When the self-identification with the body is no more, all space and time are in your 
 mind, which is a mere ripple in consciousness, which is awareness reflected in nature. Awareness 
 and matter are the active and the passive aspects of pure being, which is in both and beyond both. 

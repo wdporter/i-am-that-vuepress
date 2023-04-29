@@ -1,39 +1,39 @@
-# 77. ‘I’ and ’Mine’ are False Ideas
+# 77. “I” and ’Mine’ are False Ideas
 
->… ‘I’ and the ‘mine’ are false ideas, having no foundation in reality. Created 
+>… “I” and the “mine” are false ideas, having no foundation in reality. Created 
 by the mind, they rule their creator as long as he takes them to be true; when 
 questioned, they dissolve.
 
 **Questioner:**&ensp;I am very much attached to my family and possessions. How 
 can I conquer this attachment?
 
-**Maharaj:**&ensp;This attachment is born along with the sense of ‘me’ and 
-‘mine’. Find the true meaning of these words and you will be free of all 
+**Maharaj:**&ensp;This attachment is born along with the sense of “me” and 
+“mine”. Find the true meaning of these words and you will be free of all 
 bondage. You have a mind which is spread in time. One after another all things 
 happen to you and the memory remains. There is nothing wrong with it. The 
 problem arises only when the memory of past pains and pleasures — which are 
 essential to all organic life — remains as a reflex, dominating behaviour. 
-This reflex takes the shape of ‘I’ and uses the body and the mind for its 
+This reflex takes the shape of “I” and uses the body and the mind for its 
 purposes, which are invariably in search for pleasure or flight from pain. 
-When you recognise the ‘I’ as it is, a bundle of desires and fears, and the 
-sense of ‘mine’, as embracing all things and people needed for the purpose of 
-avoiding pain and securing pleasure, you will see that the ‘I’ and the ’mine’ 
+When you recognise the “I” as it is, a bundle of desires and fears, and the 
+sense of “mine”, as embracing all things and people needed for the purpose of 
+avoiding pain and securing pleasure, you will see that the “I” and the ’mine’ 
 are false ideas, having no foundation in reality. Created by the mind, they 
 rule their creator as long as he takes them to be true; when questioned, they 
 dissolve. 
 
 The ’I’ and ’mine’ having no existence in themselves, need a support which 
 they find in the body. The body becomes their point of reference. When you 
-talk of ‘my’ husband and ‘my’ children, you mean the body’s husband and the 
+talk of “my” husband and “my” children, you mean the body’s husband and the 
 body’s children. Give up the idea of being the body and face the question, 
 “Who am I?”. At once a process will be set in motion which will bring back 
 reality or, rather, will take the mind to reality. Only you must not be afraid.
 
 **Q:**&ensp;What am I to be afraid of?
 
-**M:**&ensp;For reality to be, the ideas of ‘me’ and ‘mine’ must go. They will 
+**M:**&ensp;For reality to be, the ideas of “me” and “mine” must go. They will 
 go if you let them. Then your normal, natural state reäppears, in which you 
-are neither the body nor the mind, neither the ‘me’ nor the ‘mine’, but in a 
+are neither the body nor the mind, neither the “me” nor the “mine”, but in a 
 different state of being altogether. It is pure awareness of being, without 
 being this or that, without any self-identification with anything in 
 particular or in general. In that pure light of consciousness there is 
@@ -51,9 +51,9 @@ who is not your own.
 
 **Q:**&ensp;And what about my possessions?
 
-**M:**&ensp;When the ‘mine’ is no more, where are your possessions?
+**M:**&ensp;When the “mine” is no more, where are your possessions?
 
-**Q:**&ensp;Please tell me — must I lose all by losing the ‘I’?
+**Q:**&ensp;Please tell me — must I lose all by losing the “I”?
 
 **M:**&ensp;You may or you may not. It will be all the same to you. Your loss 
 will be somebody’s gain. You will not mind.
@@ -98,11 +98,11 @@ sequence of pictures on the ever-present screen. Without the light and the
 screen there can be no picture. To know the picture as the play of light on 
 the screen gives freedom from the idea that the picture is real. All you have 
 to do is to understand that you love the self and the self loves you and that 
-the sense ‘I am’ is the link between you both, a token of identity in spite of 
-apparent diversity. Look at the ‘I am’ as a sign of love between the inner and 
+the sense “I Am” is the link between you both, a token of identity in spite of 
+apparent diversity. Look at the “I Am” as a sign of love between the inner and 
 the outer, the real and the appearance. Just like in a dream all is different 
-except the sense of ‘I’, which enables you to say, “I dreamt”, so does the 
-sense of ‘I am’ enable you to say, “I am my real Self again”. I do nothing, 
+except the sense of “I”, which enables you to say, “I dreamt”, so does the 
+sense of “I Am” enable you to say, “I am my real Self again”. I do nothing, 
 nor is anything done to me. I am what I am and nothing can affect me. I appear 
 to depend on everything, but in fact all depends on me.
 

@@ -16,7 +16,7 @@ Of course, not every activity of man must be utilitarian, designed to meet a nee
 
 **M:**&ensp;Let us not proceed by verbal logic. The bliss of reality does not exclude suffering. Besides, you know only pleasure, not the bliss of pure being. So let us examine pleasure at its own level. 
 
-If you look at yourself in your moments of pleasure or pain, you will invariably find that it is not the thing in itself that is pleasant or painful, but the situation of which it is a part. Pleasure lies in the relationship between the enjoyer and the enjoyed. And the essence of it is acceptance. Whatever may be the situation, if it is acceptable, it is pleasant. If it is not acceptable, it is painful. What makes it acceptable is not important; the cause may be physical, psychological or untracable; acceptance is the decisive factor. Obversely, suffering is due to non-acceptance.
+If you look at yourself in your moments of pleasure or pain, you will invariably find that it is not the thing in itself that is pleasant or painful, but the situation of which it is a part. Pleasure lies in the relationship between the enjoyer and the enjoyed. And the essence of it is acceptance. Whatever may be the situation, if it is acceptable, it is pleasant. If it is not acceptable, it is painful. What makes it acceptable is not important; the cause may be physical, psychological or untraceable; acceptance is the decisive factor. Obversely, suffering is due to non-acceptance.
 
 **Q:**&ensp;Pain is not acceptable.
 
@@ -40,7 +40,7 @@ If you look at yourself in your moments of pleasure or pain, you will invariably
 
 **Q:**&ensp;How can I set right a tangle which is entirely below the level of my consciousness?
 
-**M:**&ensp;By being with yourself, the ‘I am’; by watching yourself in your daily life with alert interest, with the intention to understand rather than to judge, in full acceptance of whatever may emerge, because it is there you encourage the deep to come to the surface and enrich your life and consciousness with its captive energies. This is the great work of awareness: it removes obstacles and releases energies by understanding the nature of life and mind. Intelligence is the door to freedom and alert attention is the mother of intelligence.
+**M:**&ensp;By being with yourself, the “I Am”; by watching yourself in your daily life with alert interest, with the intention to understand rather than to judge, in full acceptance of whatever may emerge, because it is there you encourage the deep to come to the surface and enrich your life and consciousness with its captive energies. This is the great work of awareness: it removes obstacles and releases energies by understanding the nature of life and mind. Intelligence is the door to freedom and alert attention is the mother of intelligence.
 
 **Q:**&ensp;One more question. Why does pleasure end in pain?
 

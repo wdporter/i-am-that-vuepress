@@ -1,4 +1,4 @@
-# 53. Desires Fulfilled Breed More Desires
+# 53. Desires fulfilled Breed More Desires
 
 >… desires fulfilled breed more desires. Keeping away from all desires and 
 contentment in what comes by itself is a very fruitful state — a precondition 
@@ -49,7 +49,7 @@ my own inner disharmony. But what is the remedy?
 
 **M:**&ensp;Don’t seek remedies.
 
-**Q:**&ensp;Sometimes one is in a ‘state of grace’ and life is happy and 
+**Q:**&ensp;Sometimes one is in a “state of grace” and life is happy and 
 harmonious. But such a state does not last! The mood changes and all goes wrong.
 
 **M:**&ensp;If you could only keep quiet, clear of memories and expectations, 
@@ -68,7 +68,7 @@ your problem by mere words. You have to act on what I told you and persevere.
 It is not the right advice that liberates, but the action based on it. Just 
 like a doctor who, after giving the patient an injection, tells him, “Now, 
 keep quiet. Do nothing more, just keep quiet”. I am telling you, you have got 
-your ‘injection’, now keep quiet, just keep quiet. You have nothing else to 
+your “injection”, now keep quiet, just keep quiet. You have nothing else to 
 do. My <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> 
 did the same. He would tell me something and then say, “Now keep quiet. Don’t 
 go on ruminating all the time. Stop. Be silent”.

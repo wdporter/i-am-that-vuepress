@@ -1,8 +1,6 @@
 # 76. To Know That You Do Not Know Is True Knowledge
 
->The very admission ‘I am ignorant’ is the dawn of knowledge. 
-An ignorant man is ignorant of his ignorance … 
-To know that you do not know and do not understand is true knowledge, the knowledge of a humble heart.
+>The very admission “I am ignorant” is the dawn of knowledge. An ignorant man is ignorant of his ignorance … To know that you do not know and do not understand is true knowledge, the knowledge of a humble heart.
 
 **Maharaj:**&ensp;There is the body. 
 Inside the body appears to be an observer and outside, a world under observation. 
@@ -14,12 +12,12 @@ This void is one for all.
 It is you, and you alone, who talks of the three and the void beyond. 
 I see the world only, which includes all.
 
-**M:**&ensp;Even the ‘I am’?
+**M:**&ensp;Even the “I Am”?
 
-**Q:**&ensp;Even the ‘I am’. 
-The ‘I am’ is there because the world is there.
+**Q:**&ensp;Even the “I Am”. 
+The “I Am” is there because the world is there.
 
-**M:**&ensp;And the world is there because the ‘I am’ is there.
+**M:**&ensp;And the world is there because the “I Am” is there.
 
 **Q:**&ensp;Yes, it goes both ways. 
 I cannot separate the two, nor go beyond. 
@@ -65,10 +63,7 @@ But the obstacles to wisdom are deeply affected by practice.
 **M:**&ensp;Wrong ideas and desires leading to wrong actions, causing dissipation and weakness of mind and body. 
 The discovery and abandonment of the false remove what prevents the real entering the mind.
 
-**Q:**&ensp;I can distinguish two states of mind: ‘I am’ and ‘the world is’; they arise and subside together. 
-People say, “I am, because the world is”. 
-You seem to say, “The world is, because I am”. 
-Which is true?
+**Q:**&ensp;I can distinguish two states of mind: “I Am” and “the world is”; they arise and subside together. People say, “I am, because the world is”. You seem to say, “The world is, because I am”. Which is true?
 
 **M:**&ensp;Neither. 
 The two are one and the same state in space and time. 
@@ -176,14 +171,7 @@ My awareness is of the past, not of the present.
 When I am aware, I do not really live in the *now*, but only in the past. 
 Can there really be an awareness of the present?
 
-**M:**&ensp;What you are describing is not awareness at all, but only thinking about the experience. 
-True awareness (<span data-tippy-content="True Awareness.">samvid</span>) is a state of pure witnessing without the least attempt to do anything about the event witnessed. 
-Your thoughts and feelings, words and actions may also be a part of the event; you watch all, unconcerned in the full light of clarity and understanding. 
-You understand precisely what is going on because it does not affect you. 
-It may seem to be an attitude of cold aloofness, but it is not really so. 
-Once you are in it, you will find that you love what you see, whatever may be its nature. 
-This choiceless love is the touchstone of awareness. 
-If it is not there, you are merely interested — for some personal reasons.
+**M:**&ensp;What you are describing is not awareness at all, but only thinking about the experience. True awareness (<span data-tippy-content="True Awareness.">samvid</span>) is a state of pure witnessing without the least attempt to do anything about the event witnessed. Your thoughts and feelings, words and actions may also be a part of the event; you watch all, unconcerned in the full light of clarity and understanding. You understand precisely what is going on because it does not affect you. It may seem to be an attitude of cold aloofness, but it is not really so. Once you are in it, you will find that you love what you see, whatever may be its nature. This choiceless love is the touchstone of awareness. If it is not there, you are merely interested — for some personal reasons.
 
 **Q:**&ensp;As long as there are pain and pleasure, one is bound to be interested.
 
@@ -249,7 +237,7 @@ There is nothing permanent about me.
 The screen is there — it does not change. 
 The light shines steadily. 
 Only the film in between keeps moving and causes pictures to appear. 
-You may call the film ‘destiny’ (<span data-tippy-content="Destiny, <em>sanchita karma</em> (<em>karma</em> of past lives) that has become the destiny in the present life.">prarabdha</span>).
+You may call the film “destiny” (<span data-tippy-content="Destiny, <em>sanchita karma</em> (<em>karma</em> of past lives) that has become the destiny in the present life.">prarabdha</span>).
 
 **Q:**&ensp;What creates destiny?
 

@@ -34,20 +34,7 @@ them not only the authority, but also the power to do the work in his name.
 
 **M:**&ensp;Yes, there is such a thing as transmission of power.
 
-**Q:**&ensp;When I was with them, I had a strange feeling of becoming 
-invisible. The devotees, in their surrender to their *guru*, surrendered me 
-also! Whatever I did for them was their *guru*’s doing and I was not 
-considered, except as a mere instrument. I was merely a tap to turn left or 
-right. There was no personal relationship whatsoëver. They tried a little to 
-convert me to their faith; as soon as they felt resistance, they just dropped 
-me from the field of their attention. Even between themselves they did not 
-appear very much related; it is their common interest in their *guru* that 
-kept them together. I found it rather cold, almost inhuman. To consider 
-oneself an instrument in God’s hands is one thing; to be denied all attention 
-and consideration because ‘all is God’ may lead to indifference verging on 
-cruelty. After all, all wars are made ‘in the name of God’. The entire history 
-of mankind is a succession of ‘holy wars’. One is never so impersonal as in 
-war!
+**Q:**&ensp;When I was with them, I had a strange feeling of becoming invisible. The devotees, in their surrender to their *guru*, surrendered me also! Whatever I did for them was their *guru*’s doing and I was not considered, except as a mere instrument. I was merely a tap to turn left or right. There was no personal relationship whatsoëver. They tried a little to convert me to their faith; as soon as they felt resistance, they just dropped me from the field of their attention. Even between themselves they did not appear very much related; it is their common interest in their *guru* that kept them together. I found it rather cold, almost inhuman. To consider oneself an instrument in God’s hands is one thing; to be denied all attention and consideration because “all is God” may lead to indifference verging on cruelty. After all, all wars are made “in the name of God”. The entire history of mankind is a succession of “holy wars”. One is never so impersonal as in war!
 
 **M:**&ensp;To insist, to resist, are contained in the will to *be*. Remove 
 the will to *be* and what remains? Existence and non-existence relate to 
@@ -72,8 +59,8 @@ love and trust, without which there is no discipleship.
 **Q:**&ensp;What made you decide to become a teacher?
 
 **M:**&ensp;I was made into one by being called so. Who am I to teach and 
-whom? What I am, you are, and what you are — I am. The ‘I am’ is common to us 
-all; beyond the ‘I am’ there is the immensity of light and love. We do not see 
+whom? What I am, you are, and what you are — I am. The “I Am” is common to us 
+all; beyond the “I Am” there is the immensity of light and love. We do not see 
 it because we look elsewhere; I can only point at the sky; seeing the star is 
 your own work. Some take more time before they see the star, some take less; 
 it depends on the clarity of their vision and their earnestness in searching. 
@@ -146,7 +133,7 @@ mine or yours — everything is ours. Just be one with yourself and you will be
 one with all, at home in the entire universe.
 
 **Q:**&ensp;You mean to say that all these glories will come with the mere 
-dwelling on the feeling ‘I am’?
+dwelling on the feeling “I Am”?
 
 **M:**&ensp;It is the simple that is certain, not the complicated. Somehow, 
 people do not trust the simple, the easy, the always available. Why not give 

@@ -34,7 +34,7 @@ In reality the disciple is not different from the *guru*. He is the same dimensi
 
 **Q:**&ensp;But the person does not want to be eliminated.
 
-**M:**&ensp;The person is merely the result of a misunderstanding. In reality, there is no such thing. Feelings, thoughts and actions race before the watcher in endless succession, leaving traces in the brain and creating an illusion of continuity. A reflection of the watcher in the mind creates the sense of ‘I’ and the person acquires an apparently independent existence. In reality there is no person — only the watcher identifying himself with the ‘I’ and the ‘mine’. The teacher tells the watcher, “You are not this — there is nothing of yours in this except the little point of ‘I am’, which is the bridge between the watcher and his dream. ‘I am this, I am that’ is dream, while pure ‘I am’ has the stamp of reality on it. You have tasted so many things — all came to naught. Only the sense ‘I am’ persisted unchanged. Stay with the changeless among the changeful, until you are able to go beyond”.
+**M:**&ensp;The person is merely the result of a misunderstanding. In reality, there is no such thing. Feelings, thoughts and actions race before the watcher in endless succession, leaving traces in the brain and creating an illusion of continuity. A reflection of the watcher in the mind creates the sense of “I” and the person acquires an apparently independent existence. In reality there is no person — only the watcher identifying himself with the “I” and the “mine”. The teacher tells the watcher, “You are not this — there is nothing of yours in this except the little point of “I Am”, which is the bridge between the watcher and his dream. “I am this, I am that” is dream, while pure “I Am” has the stamp of reality on it. You have tasted so many things — all came to naught. Only the sense “I Am” persisted unchanged. Stay with the changeless among the changeful, until you are able to go beyond”.
 
 **Q:**&ensp;When will it happen?
 
@@ -67,15 +67,15 @@ in you as a person. Not at all. To him you are a nuisance and a hindrance to be 
 
 **Q:**&ensp;If I am of the nature of all-pervading consciousness, how could ignorance and illusion happen to me?
 
-**M:**&ensp;Neither ignorance nor illusion ever happened to you. Find the self to which you ascribe ignorance and illusion and your question will be answered. You talk as if you know the self and see it to be under the sway of ignorance and illusion. But, in fact, you do not know the self, nor are you aware of ignorance. By all means become aware — this will bring you to the self and you will realise that there is neither ignorance nor delusion in it. It is like saying, “If there is sun, how can darkness be?”. As under a stone there will be darkness however strong the sunlight, so in the shadow of the ‘I am the body’ consciousness there must be ignorance and illusion.
+**M:**&ensp;Neither ignorance nor illusion ever happened to you. Find the self to which you ascribe ignorance and illusion and your question will be answered. You talk as if you know the self and see it to be under the sway of ignorance and illusion. But, in fact, you do not know the self, nor are you aware of ignorance. By all means become aware — this will bring you to the self and you will realise that there is neither ignorance nor delusion in it. It is like saying, “If there is sun, how can darkness be?”. As under a stone there will be darkness however strong the sunlight, so in the shadow of the “I am the body” consciousness there must be ignorance and illusion.
 
 **Q:**&ensp;But why did the body consciousness come into being?
 
-**M:**&ensp;Don’t ask ‘why’, ask ‘how’. It is in the nature of creative imagination to identify itself with its creations. You can stop it any moment by switching off attention. Or through investigation.
+**M:**&ensp;Don’t ask “why”, ask “how”. It is in the nature of creative imagination to identify itself with its creations. You can stop it any moment by switching off attention. Or through investigation.
 
 **Q:**&ensp;Does creation come before investigation?
 
-**M:**&ensp;First you create a world, then the ‘I am’ becomes a person who is not happy for various reasons. He goes out in search of happiness, meets a *guru* who tells him, “You are not a person; find who you are”. He does it and goes beyond.
+**M:**&ensp;First you create a world, then the “I Am” becomes a person who is not happy for various reasons. He goes out in search of happiness, meets a *guru* who tells him, “You are not a person; find who you are”. He does it and goes beyond.
 
 **Q:**&ensp;Why did he not do it at the very start?
 
@@ -119,7 +119,7 @@ in you as a person. Not at all. To him you are a nuisance and a hindrance to be 
 
 **Q:**&ensp;Sir, let me first come to know well my own inner space.
 
-**M:**&ensp;Destroy the wall that separates the ‘I am the body’ idea and the inner and the outer will become one.
+**M:**&ensp;Destroy the wall that separates the “I am the body” idea and the inner and the outer will become one.
 
 **Q:**&ensp;Am I to die?
 
@@ -127,7 +127,7 @@ in you as a person. Not at all. To him you are a nuisance and a hindrance to be 
 
 **Q:**&ensp;My own spiritual experience has its seasons. Sometimes I feel glorious, then again I am down. I am like a lift boy — going up, going down, going up, going down.
 
-**M:**&ensp;All changes in consciousness are due to the ‘I am the body’ idea. Divested of this idea, the mind becomes steady. There is pure being, free of experiencing anything in particular. But to realise it you must do what your teacher tells you. Mere listening, even memorising, is not enough. If you do not struggle hard to apply every word of it in your daily life, don’t complain that you made no progress. All real progress is irreversible. Ups and downs merely show that the teaching has not been taken to heart and fully translated into action.
+**M:**&ensp;All changes in consciousness are due to the “I am the body” idea. Divested of this idea, the mind becomes steady. There is pure being, free of experiencing anything in particular. But to realise it you must do what your teacher tells you. Mere listening, even memorising, is not enough. If you do not struggle hard to apply every word of it in your daily life, don’t complain that you made no progress. All real progress is irreversible. Ups and downs merely show that the teaching has not been taken to heart and fully translated into action.
 
 **Q:**&ensp;The other day you told us that there is no such thing as <span data-tippy-content="Action or “the fruits of action”. <em>Karma</em> is of three kinds: <em>sanchita</em> (accumulated from previous births), <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the present life) and <em>agami</em> (the current <em>karma</em> the result of which will fructify in future).">karma</span>. Yet we see that every thing has a cause and the sum total of all the causes may be called *karma*.
 
@@ -141,7 +141,7 @@ When you realise that you are absolutely free to be what you consent to be and t
 
 **Q:**&ensp;How can a speck like me create the vast universe?
 
-**M:**&ensp;When you are infected with the ‘I am the body’ virus, a whole universe springs into being. But when you have had enough of it, you cherish some fanciful ideas about liberation and pursue totally futile lines of action. You concentrate, you meditate, you torture your mind and body, you do all sorts of unnecessary things, but you miss the essential, which is the elimination of the person.
+**M:**&ensp;When you are infected with the “I am the body” virus, a whole universe springs into being. But when you have had enough of it, you cherish some fanciful ideas about liberation and pursue totally futile lines of action. You concentrate, you meditate, you torture your mind and body, you do all sorts of unnecessary things, but you miss the essential, which is the elimination of the person.
 
 **Q:**&ensp;In the beginning we may have to pray and meditate for some time before we are ready for self-enquiry.
 

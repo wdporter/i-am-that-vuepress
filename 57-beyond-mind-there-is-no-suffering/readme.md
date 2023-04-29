@@ -54,12 +54,7 @@ move, the body speaks — and again the screen is clear and empty.
 
 **Q:**&ensp;When you say, “clear and empty”, what do you mean?
 
-**M:**&ensp;I mean free of all contents. To myself I am neither perceivable 
-nor conceivable; there is nothing I can point out and say, “This I am”. You 
-identify yourself with everything so easily, I find it impossible. The 
-feeling, ‘I am not this or that, nor is anything mine’ is so strong in me that 
-as soon as a thing or a thought appears, there comes at once the sense ‘this I 
-am not’.
+**M:**&ensp;I mean free of all contents. To myself I am neither perceivable nor conceivable; there is nothing I can point out and say, “This I am”. You identify yourself with everything so easily, I find it impossible. The feeling, “I am not this or that, nor is anything mine” is so strong in me that as soon as a thing or a thought appears, there comes at once the sense “this I am not”.
 
 **Q:**&ensp;Do you mean to say that you spend your time repeating, “this I am 
 not, that I am not”?
@@ -79,7 +74,7 @@ When my attention is on the thumb, the thumb is the feeler and the forefinger
 find that somehow, by shifting the focus of attention, I become the very thing 
 I look at and experience the kind of consciousness it has; I become the inner 
 witness of the thing. I call this capacity of entering other focal points of 
-consciousness ‘love’; you may give it any name you like. Love says, “I am 
+consciousness “love”; you may give it any name you like. Love says, “I am 
 everything”. Wisdom says, “I am nothing”. Between the two my life flows. Since 
 at any point of time and space I can be both the subject and the object of 
 experience, I express it by saying that I am both, and neither, and beyond 

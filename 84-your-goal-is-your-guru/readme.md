@@ -73,10 +73,7 @@ Now, what do you expect?
 
 **Q:**&ensp;By his grace I shall be made happy, powerful and peaceful.
 
-**M:**&ensp;What ambitions! 
-How can a person limited in time and space, a mere body–mind, a gasp of pain between birth and death, be happy? 
-The very conditions of its arising make happiness impossible. 
-Peace, power, happiness — these are never personal states; nobody can say ‘my peace’, ‘my power’ — because ‘mine’ implies exclusivity, which is fragile and insecure.
+**M:**&ensp;What ambitions! How can a person limited in time and space, a mere body–mind, a gasp of pain between birth and death, be happy? The very conditions of its arising make happiness impossible. Peace, power, happiness — these are never personal states; nobody can say “my peace”, “my power” — because “mine” implies exclusivity, which is fragile and insecure.
 
 **Q:**&ensp;I know only my conditioned existence; there is nothing else.
 
@@ -251,12 +248,12 @@ There are people who maintain that no realisation is possible while alive and I 
 
 **M:**&ensp;Before you agree or disagree, why not investigate the very idea of a body? 
 Does the mind appear in the body or the body in the mind? 
-Surely there must be a mind to conceive the ‘I am the body’ idea. 
-A body without a mind cannot be ‘my body’. 
-‘My body’ is invariably absent when the mind is in abeyance. 
+Surely there must be a mind to conceive the “I am the body” idea. 
+A body without a mind cannot be “my body”. 
+“my body” is invariably absent when the mind is in abeyance. 
 It is also absent when the mind is deeply engaged in thoughts and feelings. 
 Once you realise that the body depends on the mind, and the mind on consciousness, and consciousness on awareness, and not the other way round, your question about waiting for self-realisation until you die is answered. 
-It is not that you must be free from the ‘I am the body’ idea first and then realise the self. 
+It is not that you must be free from the “I am the body” idea first and then realise the self. 
 It is definitely the other way round — you cling to the false because you do not know the true. 
 Earnestness, not perfection, is a precondition to self-realisation. 
 Virtues and powers come with realisation, not before.

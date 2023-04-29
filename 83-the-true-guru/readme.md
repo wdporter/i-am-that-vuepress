@@ -136,7 +136,7 @@ perceivable is real.
 
 **M:**&ensp;This is the heart of the matter. As long as you believe that only 
 the outer world is real, you remain its slave. To become free, your attention 
-must be drawn to the ‘I am’, the witness. Of course, the knower and the known 
+must be drawn to the “I Am”, the witness. Of course, the knower and the known 
 are one, not two; but to break the spell of the known, the knower must be 
 brought to the forefront. Neither is primary; both are reflections in memory 
 of the ineffable experience, ever-new and ever-now, untranslatable, quicker 
@@ -156,7 +156,7 @@ never lost sight of. Normally, it needs a prolonged <span
 data-tippy-content="The practice which produces success, 
 <em>siddhi</em>.">sadhana</span>, years of austerities and meditation.
 
-**Q:**&ensp;My mind is weak and vaccilating. I have neither the strength nor 
+**Q:**&ensp;My mind is weak and vacillating. I have neither the strength nor 
 the tenacity for *sadhana*s. My case is hopeless.
 
 **M:**&ensp;In a way yours is a most hopeful case. There is an alternative to 

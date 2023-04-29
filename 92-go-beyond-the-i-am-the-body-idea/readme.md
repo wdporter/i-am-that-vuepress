@@ -1,19 +1,10 @@
-# 92. Go Beyond the ‘I am the Body’ Idea
-> … Go beyond the ‘I am the body idea and you will find that space and time are in you and not you in space and time. Once you have 
-understood this, the main obstacle to realisation is removed.
+# 92. Go Beyond the “I am the Body” Idea
 
-**Questioner:**&ensp;We are like animals running about in vain pursuits and there seems to be no end to it. 
-Is there a way out?
+> … Go beyond the “I am the body” idea and you will find that space and time are in you and not you in space and time. Once you have understood this, the main obstacle to realisation is removed.
 
-**Maharaj:**&ensp;Many ways will be offered to you which will but take you round and bring you back to your 
-starting point. First realise that your problem exists in your waking state only; that however painful it 
-is, you are able to forget it altogether when you go to sleep. When you are awake you are 
-conscious; when you are asleep, you are only alive. Consciousness and life — both you may call 
-God; but you are beyond both, beyond God, beyond being and not-being. What prevents you from 
-knowing yourself as all and beyond all is the mind, which is based on memory. It has power over you as long 
-as you trust it. Don’t struggle with it — just disregard it. Deprived of attention, it will slow down and 
-reveal the mechanism of its working. Once you know its nature and purpose, you will not allow it to 
-create imaginary problems.
+**Questioner:**&ensp;We are like animals running about in vain pursuits and there seems to be no end to it. Is there a way out?
+
+**Maharaj:**&ensp;Many ways will be offered to you which will but take you round and bring you back to your starting point. First realise that your problem exists in your waking state only; that however painful it is, you are able to forget it altogether when you go to sleep. When you are awake you are conscious; when you are asleep, you are only alive. Consciousness and life — both you may call God; but you are beyond both, beyond God, beyond being and not-being. What prevents you from knowing yourself as all and beyond all is the mind, which is based on memory. It has power over you as long as you trust it. Don’t struggle with it — just disregard it. Deprived of attention, it will slow down and reveal the mechanism of its working. Once you know its nature and purpose, you will not allow it to create imaginary problems.
 
 **Q:**&ensp;Surely, not all problems are imaginary. There are real problems.
 
@@ -53,7 +44,7 @@ reach out in time, you are there.
 
 **Q:**&ensp;Obviously, I am not all-pervading and eternal. I am only here and now.
 
-**M:**&ensp;Good enough. The ’here’ is everywhere and the ‘now’ — always. Go beyond the ‘I am the body’ 
+**M:**&ensp;Good enough. The ’here’ is everywhere and the “now” — always. Go beyond the “I am the body” 
 idea and you will find that space and time are in you and not you in space and time. Once you have 
 understood this, the main obstacle to realisation is removed.
 
@@ -77,29 +68,19 @@ through all these experiences unscathed need not be afraid of anything! Yet I wa
 what use is such book to me?
 
 **M:**&ensp;Of no use, probably, since it does not attract you. Others may be impressed. People differ. But 
-all are faced with the fact of their own existence. ‘I am’ is the ultimate fact; ‘Who am I?’ is the 
+all are faced with the fact of their own existence. “I Am” is the ultimate fact; “Who am I?” is the 
 ultimate question to which everybody must find an answer.
 
 **Q:**&ensp;The same answer?
 
-**M:**&ensp;The same in essence, varied in expression. 
-Each seeker accepts or invents a method which suits him, applies it to himself with some 
-earnestness and effort, obtains results according to his temperament and expectations, casts them 
-into the mound of words, builds them into a system, establishes a tradition and begins to admit 
-others into his ‘school of <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span>’. It is all built on memory and imagination. No such school is 
-valueless nor indispensable; in each, one can progress up to the point when all desire for progress 
-must be abandoned to make further progress possible. Then all schools are given up, all effort 
-ceases; in solitude and darkness, the last step is made which ends ignorance and fear forever.
+**M:**&ensp;The same in essence, varied in expression. Each seeker accepts or invents a method which suits him, applies it to himself with some earnestness and effort, obtains results according to his temperament and expectations, casts them into the mound of words, builds them into a system, establishes a tradition and begins to admit others into his “school of <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span>”. It is all built on memory and imagination. No such school is valueless nor indispensable; in each, one can progress up to the point when all desire for progress must be abandoned to make further progress possible. Then all schools are given up, all effort ceases; in solitude and darkness, the last step is made which ends ignorance and fear forever.
 
 The true teacher, however, will not imprison his disciple in a prescribed set of ideas, feelings and 
 actions; on the contrary, he will show him patiently the need to be free from all ideas and set 
 patterns of behaviour, to be vigilant and earnest and go with life wherever it takes him, not to enjoy 
 or suffer, but to understand and learn.
 
-Under the right teacher the disciple learns to learn, not to remember and obey. <span data-tippy-content="Association with the true and the wise people.">Satsang</span>, the 
-company of the noble, does not mould, it liberates. Beware of all that makes you dependent. Most 
-of the so-called ‘surrenders to the <span data-tippy-content="Spiritual teacher, preceptor.">guru</span>’ end in disappointment, if not in tragedy. Fortunately, an 
-earnest seeker will disentangle himself in time, the wiser for the experience.
+Under the right teacher the disciple learns to learn, not to remember and obey. <span data-tippy-content="Association with the true and the wise people.">Satsang</span>, the company of the noble, does not mould, it liberates. Beware of all that makes you dependent. Most of the so-called “surrenders to the <span data-tippy-content="Spiritual teacher, preceptor.">guru</span>” end in disappointment, if not in tragedy. Fortunately, an earnest seeker will disentangle himself in time, the wiser for the experience.
 
 **Q:**&ensp;Surely, self-surrender has its value.
 
@@ -111,8 +92,7 @@ and breaks down under stress. At the best, it shows an aspiration, not an actual
 marriage of <span data-tippy-content="Cognitive consciousness, pure awareness, higher consciousness.">prajna</span> with <span data-tippy-content="The breath of life, vital principle.">prana</span>, which, as I understand, means the bringing together of wisdom and 
 life. Would you say it means also the union of *dharma* and <span data-tippy-content="Action or “the fruits of action”. <em>Karma</em> is of three kinds: <em>sanchita</em> (accumulated from previous births), <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the present life) and <em>agami</em> (the current <em>karma</em> the result of which will fructify in future).">karma</span>, righteousness and action?
 
-**M:**&ensp;Yes, provided by ‘righteousness’ you mean harmony with one’s true nature and by ‘action’ — only 
-unselfish and desireless action.
+**M:**&ensp;Yes, provided by “righteousness” you mean harmony with one’s true nature and by “action” — only unselfish and desireless action.
 
 In *adhi yoga* life itself is the *guru* and the mind is the disciple. The mind attends to life; it does not 
 dictate. Life flows naturally and effortlessly and the mind removes the obstacles to its even flow.
@@ -125,9 +105,7 @@ a forester — protecting and regulating the immense vital urge of existence.
 **Q:**&ensp;Seen as the service of life by the mind, the *adhi yoga* is a perfect democracy. Everyone is 
 engaged in living a life to his best capacity and knowledge; everyone is a disciple of the same *guru*.
 
-**M:**&ensp;You may say so. It may be so — potentially. But unless life is loved and trusted, followed with 
-eagerness and zest, it would be fanciful to talk of *yoga*, which is a movement in consciousness, 
-awareness in action.
+**M:**&ensp;You may say so. It may be so — potentially. But unless life is loved and trusted, followed with eagerness and zest, it would be fanciful to talk of *yoga*, which is a movement in consciousness, awareness in action.
 
 **Q:**&ensp;Once I watched a mountain stream flowing between boulders. At each boulder the 
 commotion was different according to the shape and size of the boulder. Is not every person a 

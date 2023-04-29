@@ -1,6 +1,6 @@
 # 61. Matter is Consciousness Itself
 
->The world you perceive is made of consciousness; what you call ‘matter’ is consciousness itself. You are the space (*akash*) in which it moves, the time in which it lasts, the love that gives it life.
+>The world you perceive is made of consciousness; what you call “matter” is consciousness itself. You are the space (*akash*) in which it moves, the time in which it lasts, the love that gives it life.
 
 **Questioner:**&ensp;I was lucky to have holy company all my life. Is it enough for self-realisation?
 
@@ -12,11 +12,11 @@
 
 **Q:**&ensp;A child just grows. He does not make plans for growth; nor has he a pattern; nor does he grow by fragments, a hand here a leg there; he grows integrally and unconsciously.
 
-**M:**&ensp;Because he is free of imagination. You can also grow like this, but you must not indulge in forecasts and plans, born of memory and anticipation. It is one of the peculiarities of a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; ‘closely related to the knowledge of Brahman’. (<em>jna</em>, to know; <em>jnani</em>, the knower).">jnani</span> that he is not concerned with the future. Your concern with the future is due to fear of pain and desire for pleasure; to the *jnani* all is bliss — he is happy with whatever comes.
+**M:**&ensp;Because he is free of imagination. You can also grow like this, but you must not indulge in forecasts and plans, born of memory and anticipation. It is one of the peculiarities of a <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”. (<em>jna</em>, to know; <em>jnani</em>, the knower).">jnani</span> that he is not concerned with the future. Your concern with the future is due to fear of pain and desire for pleasure; to the *jnani* all is bliss — he is happy with whatever comes.
 
 **Q:**&ensp;Surely, there are many things that would make even a *jnani* miserable.
 
-**M:**&ensp;A *jnani* may meet with difficulties, but they do not make him suffer. Bringing up a child from birth to maturity may seem a hard task, but to a mother the memories of hardships are a joy. There is nothing wrong with the world. What is wrong is the way you look at it. It is your own imagination that misleads you. Without imagination there is no world. Your conviction that you are conscious of a world *is* the world. The world you perceive is made of consciousness; what you call ‘matter’ is consciousness itself. You are the space (<span data-tippy-content="the void, an element of space, sky.">akash</span>) in which it moves, the time in which it lasts, the love that gives it life. Cut off imagination and attachment and what remains?
+**M:**&ensp;A *jnani* may meet with difficulties, but they do not make him suffer. Bringing up a child from birth to maturity may seem a hard task, but to a mother the memories of hardships are a joy. There is nothing wrong with the world. What is wrong is the way you look at it. It is your own imagination that misleads you. Without imagination there is no world. Your conviction that you are conscious of a world *is* the world. The world you perceive is made of consciousness; what you call “matter” is consciousness itself. You are the space (<span data-tippy-content="the void, an element of space, sky.">akash</span>) in which it moves, the time in which it lasts, the love that gives it life. Cut off imagination and attachment and what remains?
 
 **Q:**&ensp;The world remains. I remain.
 
@@ -42,7 +42,7 @@
 
 **M:**&ensp;You can have it as you like. You can distinguish a pattern in your life or see merely a chain of accidents. Explanations are meant to please the mind. They need not be true. Reality is indefinable and indescribable.
 
-**Q:**&ensp;Sir, you are evading my question! I want to know how *you* look at it. Wherever we look we find a structure of unbelievable intelligence and beauty. How can I believe that the universe is formless and chaötic? Your world, the world in which you live, may be formless, but it need not be chaötic.
+**Q:**&ensp;Sir, you are evading my question! I want to know how *you* look at it. Wherever we look we find a structure of unbelievable intelligence and beauty. How can I believe that the universe is formless and chaotic? Your world, the world in which you live, may be formless, but it need not be chaotic.
 
 **M:**&ensp;The objective universe has structure, is orderly and beautiful. Nobody can deny it. But structure and pattern imply constraint and compulsion. My world is absolutely free; everything in it is self-determined. Therefore I keep on saying that all happens by itself. There is order in my world too, but it is not imposed from outside. It comes spontaneously and immediately because of its timelessness. Perfection is not in the future. It is *now*.
 
@@ -130,7 +130,7 @@ What you call realisation is a natural thing. When you are ready, your *guru* wi
 
 **Q:**&ensp;Can one believe himself to be realised and be mistaken?
 
-**M:**&ensp;Of course. The very idea ‘I am self-realised’ is a mistake. There is no ‘I am this’. ‘I am that’ in the Natural State.
+**M:**&ensp;Of course. The very idea “I am self-realised” is a mistake. There is no, “I am this”, “I Am That”, in the Natural State.
 
 <script>
 export default {

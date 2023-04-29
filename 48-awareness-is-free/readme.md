@@ -64,7 +64,7 @@ When you sit quietly, and watch yourself, all kinds of things may come to the su
 
 **M:**&ensp;To be aware is to be awake. Unaware means asleep. You are aware anyhow; you need not try to be. What you need is to be aware of being aware. Be aware deliberately and consciously; broaden and deepen the field of awareness. You are always conscious of the mind, but you are not aware of yourself as being conscious.
 
-**Q:**&ensp;As far as I can make out, you give distinct meanings to the words “mind”, “consciousness” and ‘awareness’.
+**Q:**&ensp;As far as I can make out, you give distinct meanings to the words “mind”, “consciousness” and “awareness”.
 
 **M:**&ensp;Look at it this way. The mind produces thoughts ceaselessly, even when you do not look at them. When you know what is going on in your mind, you call it consciousness. This is your waking state — your consciousness shifts from sensation to sensation, from perception to perception, from idea to idea, in endless succession. Then comes awareness, the direct insight into the whole of consciousness, the totality of the mind. The mind is like a river, flowing ceaselessly in the bed of the body; you identify yourself for a moment with some particular ripple and call it “my thought”. All you are conscious of is your mind; awareness is the cognisance of consciousness as a whole.
 

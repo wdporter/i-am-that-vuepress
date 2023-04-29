@@ -1,4 +1,4 @@
-# 85. ‘I Am’: The Foundation of All Experience
+# 85. “I Am”: The Foundation of All Experience
 
 >What you need for salvation is already within your reach. 
 Use it. 
@@ -10,24 +10,16 @@ attributes”.
 How do you know these things? 
 And what makes you say them?
 
-**Maharaj:**&ensp;I am only trying to describe the state before the ‘I am’ arose, but the state itself, being
+**Maharaj:**&ensp;I am only trying to describe the state before the “I Am” arose, but the state itself, being
 beyond the mind and its language, is indescribable.
 
-**Q:**&ensp;The ‘I am’ is the foundation of all experience. 
+**Q:**&ensp;The “I Am” is the foundation of all experience. 
 What you are trying to describe must also be an experience, limited and transitory. 
 You speak of yourself as immutable. 
 I hear the sound of the word, I remember its dictionary meaning, but the experience of being immutable I do not have. 
 How can I break through the barrier and know personally, intimately, what it means to be immutable?
 
-**M:**&ensp;The word itself is the bridge. 
-Remember it, think of it, explore it, go around it, look at it from all directions, dive into it with earnest perseverance; endure all delays and disappointments until suddenly the mind turns around, away from the word, towards the reality beyond the word. 
-It is like trying to find a person knowing his name only. 
-A day comes when your enquiries bring you to him and the name becomes reality. 
-Words are valuable, for between the word and its meaning there is a link and if one investigates the word assiduously, one crosses beyond the concept into the experience at the root of it. 
-As a matter of fact, such repeated attempts to go beyond the words is what is called ‘meditation’. 
-<span data-tippy-content="The practice which produces success, <em>siddhi</em>.">Sadhana</span> is but a persistent attempt to cross over from the verbal to the non-verbal. 
-The task seems hopeless until suddenly all becomes clear and simple and so wonderfully easy. 
-But, as long as you are interested in your present way of living, you will shirk from the final leap into the unknown.
+**M:**&ensp;The word itself is the bridge. Remember it, think of it, explore it, go around it, look at it from all directions, dive into it with earnest perseverance; endure all delays and disappointments until suddenly the mind turns around, away from the word, towards the reality beyond the word. It is like trying to find a person knowing his name only. A day comes when your enquiries bring you to him and the name becomes reality. Words are valuable, for between the word and its meaning there is a link and if one investigates the word assiduously, one crosses beyond the concept into the experience at the root of it. As a matter of fact, such repeated attempts to go beyond the words is what is called “meditation”. <span data-tippy-content="The practice which produces success, <em>siddhi</em>.">Sadhana</span> is but a persistent attempt to cross over from the verbal to the non-verbal. The task seems hopeless until suddenly all becomes clear and simple and so wonderfully easy. But, as long as you are interested in your present way of living, you will shirk from the final leap into the unknown.
 
 **Q:**&ensp;Why should the unknown interest me? 
 Of what use is the unknown?
@@ -96,11 +88,7 @@ The cloud needs the sun to become visible, and consciousness needs being focusse
 
 **Q:**&ensp;Is not awareness a form of consciousness?
 
-**M:**&ensp;When the content is viewed without likes and dislikes, the consciousness of it is awareness. 
-But still there is a difference between awareness as reflected in consciousness and pure awareness beyond consciousness. 
-Reflected awareness, the sense ‘I am aware’ is the witness, while pure awareness is the essence of reality. 
-The reflection of the sun in a drop of water is the reflection of the sun, no doubt, but not the sun itself. 
-Between awareness reflected in consciousness as the witness and pure awareness there is a gap which the mind cannot cross.
+**M:**&ensp;When the content is viewed without likes and dislikes, the consciousness of it is awareness. But still there is a difference between awareness as reflected in consciousness and pure awareness beyond consciousness. Reflected awareness, the sense “I am aware” is the witness, while pure awareness is the essence of reality. The reflection of the sun in a drop of water is the reflection of the sun, no doubt, but not the sun itself. Between awareness reflected in consciousness as the witness and pure awareness there is a gap which the mind cannot cross.
 
 **Q:**&ensp;Does it not depend on the way you look at it? 
 The mind says there is a difference. 
@@ -135,15 +123,7 @@ The power that makes everything happen makes them also happen.
 **M:**&ensp;That is how it appears to you. 
 As I see it, two body-minds exchange symbolic noises. In reality nothing happens.
 
-**Q:**&ensp;Listen, sir — I am coming to you because I am in trouble. 
-I am a poor soul lost in a world I do not understand. 
-I am afraid of Mother Nature who wants me to grow, procreate and die. 
-When I ask for the meaning and purpose of all this, she does not answer. 
-I have come to you because I was told that you are kind and wise. 
-You talk about the changeable as false and transient and this I can understand. 
-But when you talk of the immutable, I feel lost. 
-‘Not this, not that, beyond knowledge, of no use’ — why talk of it all? 
-Does it exist, or is it a concept only, a verbal opposite to the changeable?
+**Q:**&ensp;Listen, sir — I am coming to you because I am in trouble. I am a poor soul lost in a world I do not understand. I am afraid of Mother Nature who wants me to grow, procreate and die. When I ask for the meaning and purpose of all this, she does not answer. I have come to you because I was told that you are kind and wise. You talk about the changeable as false and transient and this I can understand. But when you talk of the immutable, I feel lost. “Not this, not that, beyond knowledge, of no use” — why talk of it all? Does it exist, or is it a concept only, a verbal opposite to the changeable?
 
 **M:**&ensp;It is; it alone *is*. 
 But in your present state it is of no use to you. 
@@ -159,13 +139,13 @@ I feel lost.
 **M:**&ensp;Don’t feel lost. 
 I only say that to find the immutable and blissful you must give up your hold on the mutable and painful. 
 You are concerned with your own happiness and I am telling you that there is no such thing. 
-Happiness is never your own; it is where the ‘I’ is not. 
+Happiness is never your own; it is where the “I” is not. 
 I do not say it is beyond your reach; you have only to reach out beyond yourself and you will find it.
 
-**Q:**&ensp;If I have to go beyond myself, why did I get the ‘I am’ idea in the first instance?
+**Q:**&ensp;If I have to go beyond myself, why did I get the “I Am” idea in the first instance?
 
 **M:**&ensp;The mind needs a centre to draw a circle. 
-The circle may grow bigger and with every increase there will be a change in the sense ‘I am’. 
+The circle may grow bigger and with every increase there will be a change in the sense “I Am”. 
 A man who has taken himself in hand, a <span data-tippy-content="One who practices <em>yoga</em>.">yogi</span>, will draw a spiral, yet the centre will remain, however vast the spiral. 
 A day comes when the entire enterprise is seen as false and is given up. 
 The central point is no more and the universe becomes the centre.
@@ -179,7 +159,7 @@ If it is not, there will be suffering and death.
 **Q:**&ensp;Do you mean to say that if I do not take to <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span>, I am doomed to extinction?
 
 **M:**&ensp;There is the <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> who will come to your rescue. 
-In the meantime be satisfied with watching the flow of your life; if your watchfulness is deep and steady, ever turned towards the source, it will gradually move upstream till suddenly it becomes the source. 
+In the meantime be satisfied with watching the flow of your life; if your watchfulness is deep and steady, ever turned towards the source, it will gradually move upstream until suddenly it becomes the source. 
 Put your awareness to work, not your mind. 
 The mind is not the right instrument for this task. 
 The timeless can be reached only by the timeless. 

@@ -4,20 +4,14 @@
 The impulse always comes from within. 
 Unless your time has come, you will have neither the desire nor the strength to go for self-enquiry whole-heartedly.
 
-**Questioner:**&ensp;When asked about the means for self-realisation, you invariably stress the importance of the mind dwelling on the sense ‘I am’. 
+**Questioner:**&ensp;When asked about the means for self-realisation, you invariably stress the importance of the mind dwelling on the sense “I Am”. 
 Where is the causal factor? 
 Why should this particular thought result in self-realisation? 
-How does the contemplation of ‘I am’ affect me?
+How does the contemplation of “I Am” affect me?
 
-**Maharaj:**&ensp;The very fact of observation alters the observer and the observed. 
-After all, what prevents the insight into one’s true nature is the weakness and obtuseness of the mind and its tendency to skip the subtle and focus on the gross only. 
-When you follow my advice and try to keep your mind on the notion of ‘I am’ only, you become fully aware of your mind and its vagaries. 
-Awareness, being lucid harmony (<span data-tippy-content="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>) in action, dissolves dullness and quiets the restlessness of the mind and gently, but steadily, changes its very substance. 
-This change need not be spectacular; it may be hardly noticable — yet it is a deep and fundamental shift from darkness to light, from inadvertence to awareness.
+**Maharaj:**&ensp;The very fact of observation alters the observer and the observed. After all, what prevents the insight into one’s true nature is the weakness and obtuseness of the mind and its tendency to skip the subtle and focus on the gross only. When you follow my advice and try to keep your mind on the notion of “I Am” only, you become fully aware of your mind and its vagaries. Awareness, being lucid harmony (<span data-tippy-content="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>) in action, dissolves dullness and quiets the restlessness of the mind and gently, but steadily, changes its very substance. This change need not be spectacular; it may be hardly noticeable — yet it is a deep and fundamental shift from darkness to light, from inadvertence to awareness.
 
-**Q:**&ensp;Must it be the ‘I am’ formula? 
-Will not any other sentence do? 
-If I concentrate on ‘there is a table’, will it not serve the same purpose?
+**Q:**&ensp;Must it be the “I Am” formula? Will not any other sentence do? If I concentrate on “there is a table”, will it not serve the same purpose?
 
 **M:**&ensp;As an exercise in concentration — yes. 
 But it will not take you beyond the idea of a table. 
@@ -25,7 +19,7 @@ You are not interested in tables — you want to know yourself.
 For this, keep steadily in the focus of consciousness the only clue you have: your certainty of being. 
 Be with it, play with it, ponder over it, delve deeply into it, until the shell of ignorance breaks open and you emerge into the realm of reality.
 
-**Q:**&ensp;Is there any causal link between my focusing the ‘I am’ and the breaking of the shell?
+**Q:**&ensp;Is there any causal link between my focusing the “I Am” and the breaking of the shell?
 
 **M:**&ensp;The urge to find oneself is a sign that you are getting ready. 
 The impulse always comes from within. 
@@ -111,7 +105,7 @@ Who cares for a shadow?
 
 **M:**&ensp;You have brought in duality where there is none. 
 There is the body and there is the Self. 
-Between them is the mind, in which the Self is reflected as ‘I am’. 
+Between them is the mind, in which the Self is reflected as “I Am”. 
 Because of the imperfections of the mind, its crude and restless nature, lack of discernment and insight, it takes itself to be the body, not the Self. 
 All that is needed is to purify the mind so that it can realise its identity with the Self. 
 When the mind merges in the Self, the body presents no problems. 
@@ -122,7 +116,7 @@ As you realise yourself in manifestation, you keep on discovering that you are e
 **Q:**&ensp;Is there no end to self-discovery?
 
 **M:**&ensp;As there is no beginning, there is no end. 
-But what I have discovered by the grace of my *guru* is that I am nothing that can be pointed at; I am neither a ‘this’ nor a ‘that’. 
+But what I have discovered by the grace of my *guru* is that I am nothing that can be pointed at; I am neither a “this” nor a “that”. 
 This holds absolutely.
 
 **Q:**&ensp;Then where does the never-ending discovery come in, the endless transcending oneself into new dimensions?
@@ -147,11 +141,7 @@ It will take root and grow and in due course take the blessed shape of the *guru
 
 **Q:**&ensp;So all we are concerned with is the redemption of the mind?
 
-**M:**&ensp;What else? 
-The mind goes astray, the mind returns home. 
-Even the word ‘astray’ is not proper. 
-The mind must know itself in every mood. 
-Nothing is a mistake unless repeated.
+**M:**&ensp;What else? The mind goes astray, the mind returns home. Even the word “astray” is not proper. The mind must know itself in every mood. Nothing is a mistake unless repeated.
 
 <script>
 export default {

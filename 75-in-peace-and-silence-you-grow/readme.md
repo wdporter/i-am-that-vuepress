@@ -67,10 +67,7 @@ When a person is not ready, what can be done?
 
 **Q:**&ensp;Ready or willing?
 
-**M:**&ensp;Both. 
-It comes to the same. 
-In India we call it *adhikari*. 
-It means both ‘capable’ and ‘entitled’.
+**M:**&ensp;Both. It comes to the same. In India we call it *adhikari*. It means both “capable” and “entitled”.
 
 **Q:**&ensp;Can the outer *guru* grant initiation (*diksha*)?
 
@@ -86,10 +83,7 @@ The inner or higher self is but an idea conceived to explain and encourage.
 We talk of it as having independent existence. 
 It hasn’t.
 
-**M:**&ensp;The outer and the inner self are both are imagined. 
-The obsession of being an ‘I’ needs another obsession with a ‘super I’ to get cured, as one needs a second thorn to remove the first thorn, or a poison to neutralise another poison. 
-All assertion calls for a denial, but this is the first step only. 
-The next is to go beyond both.
+**M:**&ensp;The outer and the inner self are both are imagined. The obsession of being an “I” needs another obsession with a “super I” to get cured, as one needs a second thorn to remove the first thorn, or a poison to neutralise another poison. All assertion calls for a denial, but this is the first step only. The next is to go beyond both.
 
 **Q:**&ensp;I do understand that the outer *guru* is needed to call my attention to my self and to the urgent need for doing something about my self. 
 I also understand how helpless he is when it comes to any deep change in me. 
@@ -138,7 +132,7 @@ What is the way for quieting it?
 Take my own case: My *guru* ordered me to attend to the sense ’I am’ and to give attention to nothing else. 
 I just obeyed. 
 I did not follow any particular course of breathing, meditation or study of scriptures. 
-Whatever happened, I would turn away my attention from it and remain with the sense ‘I am’. 
+Whatever happened, I would turn away my attention from it and remain with the sense “I Am”. 
 It may look too simple, even crude. 
 My only reason for doing it was that my *guru* told me so. 
 Yet it worked! 
@@ -160,7 +154,7 @@ Surely the doer comes before the deed.
 **M:**&ensp;It is the other way round: the deed is a fact, the doer a mere concept. 
 Your very language shows that while the deed is certain, the doer is dubious; shifting responsibility is a game peculiarly human. 
 Considering the endless list of factors required for anything to happen, one can only admit that everything is responsible for everything, however remote. 
-Doership is a myth born from the illusions of ‘me’ and ‘the mine’.
+Doership is a myth born from the illusions of “me” and “the mine”.
 
 **Q:**&ensp;How powerful the illusion is.
 

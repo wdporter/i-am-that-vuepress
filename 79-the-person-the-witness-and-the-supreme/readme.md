@@ -14,7 +14,7 @@ drugs are unreliable and, at best, transitory and, at worst, destructive of
 the organism and personality. We are in search of a better means for 
 developing consciousness and transcendence. We want the fruits of our search 
 to stay with us and enrich our lives instead of turning to pale memories and 
-helpless regrets. If by ‘spiritual’ you mean self-investigation and 
+helpless regrets. If by “spiritual” you mean self-investigation and 
 development, our purpose in coming to India is definitely spiritual. The happy 
 hippy stage is behind us; we are serious now and on the move. We know there is 
 reality to be found, but we do not know how to find and hold on to it. We need 
@@ -55,7 +55,7 @@ realisation will happen on its own?
 **M:**&ensp;So was I. But what was there to be amazed at? My teacher’s words 
 came true. So what? He knew me better than I knew myself, that is all. Why 
 search for causes? In the very beginning I was giving some attention and time 
-to the sense ‘I am’, but only in the beginning. Soon after my *guru* died — I 
+to the sense “I Am”, but only in the beginning. Soon after my *guru* died — I 
 lived on. His words proved to be true. That is all. It is all one process. You 
 tend to separate things in time and then look for causes.
 
@@ -69,9 +69,7 @@ neither act nor cause others to act; I am timelessly aware of what is going on.
 
 **Q:**&ensp;In your mind or also in other minds?
 
-**M:**&ensp;There is only one mind, which swarms with ideas: ‘I am this, ‘I am 
-that’, ‘this is mine’, ‘that is mine’. I am not the mind, never was, nor shall 
-be.
+**M:**&ensp;There is only one mind, which swarms with ideas: “I am this”, “I am that”, “this is mine”, “that is mine”. I am not the mind, never was, nor shall be.
 
 **Q:**&ensp;How did the mind come into being?
 
@@ -124,7 +122,7 @@ Consciousness is always of obstacles; when there are no obstacles, one goes
 beyond it.
 
 **Q:**&ensp;Will the understanding that I am not the body give me the strength 
-of character needed for selfcontrol?
+of character needed for self-control?
 
 **M:**&ensp;When you know that you are neither body nor mind, you will not be 
 swayed by them. You will follow truth wherever it takes you and do what needs 
@@ -148,18 +146,9 @@ foreseen and expected is rarely true.
 
 **Q:**&ensp;How does the person come into being?
 
-**M:**&ensp;Exactly as a shadow appears when light is intercepted by the body, 
-so does the person arise when pure self-awareness is obstructed by the ‘I am 
-the body’ idea. And as the shadow changes shape and position according to the 
-lay of the land, so does the person appear to rejoice and suffer, rest and 
-toil, find and lose, according to the pattern of destiny. When the body is no 
-more, the person disappears completely without return; only the witness 
-remains and the Great Unknown.
+**M:**&ensp;Exactly as a shadow appears when light is intercepted by the body, so does the person arise when pure self-awareness is obstructed by the “I am the body” idea. And as the shadow changes shape and position according to the lay of the land, so does the person appear to rejoice and suffer, rest and toil, find and lose, according to the pattern of destiny. When the body is no more, the person disappears completely without return; only the witness remains and the Great Unknown.
 
-The witness is that which says, “I know”. The person says “I do”. Now, to say 
-“I know” is not untrue — it is merely limited. But to say “I do” is altogether 
-false because there is nobody who does; all happens by itself, including the 
-idea of being a doer.
+The witness is that which says, “I know”. The person says “I do”. Now, to say “I know” is not untrue — it is merely limited. But to say “I do” is altogether false because there is nobody who does; all happens by itself, including the idea of being a doer.
 
 **Q:**&ensp;Then what is action?
 

@@ -13,13 +13,7 @@ And pure awareness beyond consciousness is the supreme *guru*.
 **Q:**&ensp;My *guru* is Sri Babaji. 
 What is your opinion of him?
 
-**M:**&ensp;What a question to ask! 
-The space in Bombay is asked what is its opinion of the space in Poona. 
-The names differ, but not the space. 
-The word ‘Babaji’ is merely an address. 
-Who lives under the address? 
-You ask questions when you are in trouble. 
-Enquire who is giving trouble and to whom.
+**M:**&ensp;What a question to ask! The space in Bombay is asked what is its opinion of the space in Poona. The names differ, but not the space. The word “Babaji” is merely an address. Who lives under the address? You ask questions when you are in trouble. Enquire who is giving trouble and to whom.
 
 **Q:**&ensp;I understand everybody is under the obligation to realise. 
 Is it his duty or is it his destiny?
@@ -75,7 +69,7 @@ My helplessness and dullness are a part of it.
 **M:**&ensp;Good enough. 
 Look at yourself steadily — it is enough. 
 The door that locks you in is also the door that lets you out. 
-The ‘I am’ is the door. 
+The “I Am” is the door. 
 Stay at it until it opens. 
 As a matter of fact, it is open, only you are not at it. 
 You are waiting at the non-existent painted doors, which will never open.
@@ -143,7 +137,7 @@ You are not even aware of how totally you are swayed by personal considerations.
 A man should always be in revolt against himself for the ego, like a crooked mirror, narrows down and distorts. 
 It is the worst of all tyrants, it dominates you absolutely.
 
-**Q:**&ensp;When there is no ‘I’, who is free?
+**Q:**&ensp;When there is no “I”, who is free?
 
 **M:**&ensp;The world is free of a mighty nuisance. 
 Good enough.
@@ -158,10 +152,7 @@ Freedom from the ego-self is the fruit of self-inquiry.
 **Q:**&ensp;There was a time when I was most displeased with myself. 
 Now I have met my *guru* and I am at peace after having surrendered myself to him completely.
 
-**M:**&ensp;If you watch your daily life you will see that you have surrendered nothing. 
-You have merely added the word ‘surrender’ to your vocabulary and made your *guru* into a peg to hang your problems on. Real surrender means doing nothing unless prompted by your *guru*. 
-You step, so to speak, aside and let your *guru* live your life. 
-You merely watch and wonder how easily he solves the problems which to you seemed insoluble.
+**M:**&ensp;If you watch your daily life you will see that you have surrendered nothing. You have merely added the word “surrender” to your vocabulary and made your *guru* into a peg to hang your problems on. Real surrender means doing nothing unless prompted by your *guru*. You step, so to speak, aside and let your *guru* live your life. You merely watch and wonder how easily he solves the problems which to you seemed insoluble.
 
 **Q:**&ensp;As I sit here, I see the room, the people. 
 I see you, too. 
@@ -178,16 +169,7 @@ And when I turn my eyes away, my mind does not allow memory to linger; it is at 
 There is something eternal and universal about the transmission of wisdom that is taking place. 
 Ten thousand years earlier or later would make no difference — the event itself is timeless.
 
-**M:**&ensp;Man does not change much over the ages. 
-Human problems remain the same and call for the same answers. 
-Your being conscious of what you call ‘transmission of wisdom’ shows that wisdom has not yet been transmitted. 
-When you have it, you are no longer conscious of it. 
-What is really your own you are not conscious of. 
-What you are conscious of is neither you nor yours. 
-Yours is the power of perception, not what you perceive. 
-It is a mistake to take the conscious to be the whole of man. 
-Man is the unconscious, the conscious and the super-conscious, but you are not the man. 
-Yours is the cinema screen, the light as well as the seeing power, but the picture is not you.
+**M:**&ensp;Man does not change much over the ages. Human problems remain the same and call for the same answers. Your being conscious of what you call “transmission of wisdom” shows that wisdom has not yet been transmitted. When you have it, you are no longer conscious of it. What is really your own you are not conscious of. What you are conscious of is neither you nor yours. Yours is the power of perception, not what you perceive. It is a mistake to take the conscious to be the whole of man. Man is the unconscious, the conscious and the super-conscious, but you are not the man. Yours is the cinema screen, the light as well as the seeing power, but the picture is not you.
 
 **Q:**&ensp;Must I search for the *guru*, or shall I stay with whomever I have found?
 
@@ -242,7 +224,7 @@ Not only the conscious, but the unconscious as well, should be taken care of in 
 
 **Q:**&ensp;How does one attend to the unconscious?
 
-**M:**&ensp;Keep the ‘I am’ in the focus of awareness; remember that you *are*, watch yourself ceaselessly and the unconscious will flow into the conscious without any special effort on your part. 
+**M:**&ensp;Keep the “I Am” in the focus of awareness; remember that you *are*, watch yourself ceaselessly and the unconscious will flow into the conscious without any special effort on your part. 
 Wrong desires and fears, false ideas, social inhibitions are blocking and preventing its free interplay with the conscious. 
 Once free to mingle, the two become one and the one becomes all. 
 The person merges into the witness, the witness into awareness, awareness into pure being, yet identity is not lost, only its limitations are lost. 

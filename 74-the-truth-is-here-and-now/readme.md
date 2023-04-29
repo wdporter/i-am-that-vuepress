@@ -30,8 +30,7 @@ There are oxygen *samadhi*s and carbon dioxide *samadhi*s and self induced *sama
 Monotony is soporific. 
 I cannot accept *samadhi*, however glorious, as a proof of truth.
 
-**M:**&ensp;*Samadhi* is beyond experience. 
-It is a qualityless state.
+**M:**&ensp;*Samadhi* is beyond experience. It is a qualityless state.
 
 **Q:**&ensp;The absence of experience is due to inattention. 
 It reäppears with attention. 
@@ -67,7 +66,7 @@ They depend on my being conscious.
 **Q:**&ensp;I do not know. 
 Formerly, I would have said it depends on my body; now I can see that the body is secondary, not primary, and cannot be considered as an evidence of existence.
 
-**M:**&ensp;I am glad you have abandoned the ‘I am the body’ idea, the main source of error and suffering. 
+**M:**&ensp;I am glad you have abandoned the “I am the body” idea, the main source of error and suffering. 
 
 **Q:**&ensp;I have abandoned it intellectually, but the sense of being the particular, a person, is still with me. 
 I can say, “I am”, but what I am I cannot say. 
@@ -91,11 +90,9 @@ Are you a person at all?
 My sense of being proves only that I am; it does not prove anything which is independent of me. 
 I am relative, both creature and creator of the relative. 
 The absolute proof of the absolute truth — what is it, where is it? 
-Can the mere feeling ‘I am’ be the proof of reality?
+Can the mere feeling “I Am” be the proof of reality?
 
-**M:**&ensp;Of course not. 
-‘I am’ and ‘the world is’ are related and conditional. 
-They are due to the tendency of the mind to project names and shapes.
+**M:**&ensp;Of course not. “I Am” and “the world is” are related and conditional. They are due to the tendency of the mind to project names and shapes.
 
 **Q:**&ensp;Names and shapes and ideas and convictions, but not truth. 
 But for you, I would have accepted the relativity of everything, including truth, and learnt to live by assumptions. 
@@ -128,11 +125,7 @@ In spiritual searching, the chain of experiments one has to make is called <span
 
 **Q:**&ensp;There are so many *yoga*s, which to choose?
 
-**M:**&ensp;Of course, every <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> will suggest the path of his own attainment as the one he knows most intimately. 
-But most of them are very liberal and adapt their advice to the needs of the inquirer. 
-All of the paths take you to the purification of the mind. 
-The impure mind is opaque to truth; the pure mind is transparent. 
-Truth can be seen through it easily and clearly.
+**M:**&ensp;Of course, every <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> will suggest the path of his own attainment as the one he knows most intimately. But most of them are very liberal and adapt their advice to the needs of the inquirer. All of the paths take you to the purification of the mind. The impure mind is opaque to truth; the pure mind is transparent. Truth can be seen through it easily and clearly.
 
 **Q:**&ensp;I am sorry, but I seem unable to convey my difficulty. 
 I am asking about the proof of truth and am being given the methods of attaining it. 
@@ -143,13 +136,11 @@ For, if it is an induced state, I shall have nothing to do with it.
 Take Christianity that says, “Jesus is your Saviour, believe and be saved from sin”. 
 When I ask a sinning Christian how is it that he has not been saved from sin despite of his faith in Christ, he answers, “My faith is not perfect”. 
 
-Again we are in the vicious circle: without perfect faith, no salvation; without salvation, no perfect faith; hence, 
-no salvation. 
-Conditions are imposed which are unfulfillable and then we are blamed for not fulfilling them.
+Again we are in the vicious circle: without perfect faith, no salvation; without salvation, no perfect faith; hence, no salvation. Conditions are imposed which are unfulfillable and then we are blamed for not fulfilling them.
 
 **M:**&ensp;You do not realise that your present waking state is one of ignorance. 
 Your question about the proof of truth is born of ignorance of reality. 
-You are contacting your sensory and mental states in consciousness at the point of ‘I am’, while reality is not mediated, not contacted, not experienced.
+You are contacting your sensory and mental states in consciousness at the point of “I Am”, while reality is not mediated, not contacted, not experienced.
 You are taking duality so much for granted that you do not even notice it, while to me variety and diversity do not create separation. 
 You imagine reality to stand apart from names and forms, while to me names and forms are the ever changing expressions of reality and are not apart from it. 
 You ask for the proof of truth while to me all existence is the proof. 
@@ -180,7 +171,7 @@ You are back at your initial question: “What is the proof of truth?”.
 There must be something wrong with the question itself, for you tend to repeat it again and again. 
 Why do you ask what the proofs of truth are? 
 Is it not because you do not know truth first-hand and you are afraid that you may be deceived? 
-You imagine that truth is a thing which carries the name ‘truth’ and that it is advantageous to have it, provided it is genuine. 
+You imagine that truth is a thing which carries the name “truth” and that it is advantageous to have it, provided it is genuine. 
 Hence your fear of being cheated. 
 You are shopping for truth, but you do not trust the merchants. 
 You are afraid of forgeries and imitations.
@@ -192,8 +183,7 @@ I am afraid of cheating myself.
 You are asking for truth, but in fact you merely seek comfort, which you want to last for ever. 
 Now, nothing, no state of mind, can last forever. 
 In time and space there is always a limit, because time and space themselves are limited. 
-And in the timeless, the word ‘forever’ have no meaning. 
-The same with the ‘proof of truth’. 
+And in the timeless, the word “forever” have no meaning. The same with the “proof of truth”. 
 In the realm of non-duality everything is complete, its own proof, meaning and purpose. 
 Where all is one, no supports are needed. 
 You imagine that permanence is the proof of truth, that what lasts longer is somehow more true. 
@@ -209,7 +199,7 @@ You still imagine that truth needs pointing at and someone telling you, “Look 
 It is not so. 
 Truth is not the result of an effort, the end of a road. 
 It is here and now, in the very longing and the searching for it. 
-It is nearer than the mind and the body, nearer than the sense ‘I am’. 
+It is nearer than the mind and the body, nearer than the sense “I Am”. 
 You do not see it because you look too far away from yourself, outside your innermost being. 
 You have objectified truth and insist on your standard proofs and tests, which apply only to things and thoughts.
 
@@ -235,13 +225,9 @@ They are only states of mind, which again is but an appearance of movement in co
 **M:**&ensp;It is neither, it is both. 
 It cannot be put into words.
 
-**Q:**&ensp;This is what I hear all the time — ‘inexpressible’ (<span data-tippy-content="Inexpressible.">anirvachaniya</span>). 
-It does not make me wiser.
+**Q:**&ensp;This is what I hear all the time — “inexpressible” (<span data-tippy-content="Inexpressible.">anirvachaniya</span>). It does not make me wiser.
 
-**M:**&ensp;It is true that it often covers sheer ignorance. 
-The mind can operate with terms of its own making, it only cannot go beyond itself. 
-That which is neither sensory nor mental, and yet without which neither sensory nor the mental can exist, cannot be contained in them. 
-Do understand that the mind has its limits; to go beyond, you must consent to silence.
+**M:**&ensp;It is true that it often covers sheer ignorance. The mind can operate with terms of its own making, it only cannot go beyond itself. That which is neither sensory nor mental, and yet without which neither sensory nor the mental can exist, cannot be contained in them. Do understand that the mind has its limits; to go beyond, you must consent to silence.
 
 **Q:**&ensp;Can we say that action is the proof of truth? 
 It may not be verbalised, but it may be demonstrated.
@@ -278,17 +264,17 @@ Stand still; be quiet.
 **Q:**&ensp;Sir, if you want the body to be still and the mind quiet, tell me how it is done. 
 In self-awareness I see the body and the mind moved by causes beyond my control. 
 Heredity and environment dominate me absolutely. 
-The mighty ‘I am’, the creator of the universe, can be wiped out by a drug temporarily, or a drop of poison — permanently.
+The mighty “I Am”, the creator of the universe, can be wiped out by a drug temporarily, or a drop of poison — permanently.
 
 **M:**&ensp;Again, you take yourself to be the body.
 
-**Q:**&ensp;Even if I dismiss this body of bones, flesh and blood as ‘not-me’, I still remain with the subtle
+**Q:**&ensp;Even if I dismiss this body of bones, flesh and blood as “not-me”, I still remain with the subtle
 body made up of thoughts and feelings, memories and imaginations. 
-If I dismiss these also as ‘not-me’, I still remain with consciousness, which also is a kind of body.
+If I dismiss these also as “not-me”, I still remain with consciousness, which also is a kind of body.
 
 **M:**&ensp;You are quite right, but you need not stop there. 
 Go beyond. 
-Neither consciousness, nor the ‘I am’ at the centre of it are you. 
+Neither consciousness, nor the “I Am” at the centre of it are you. 
 Your true being is entirely unself-conscious, completely free from all self-identification with whatever it may be — gross, subtle or transcendental.
 
 **Q:**&ensp;I can imagine myself to be beyond. 

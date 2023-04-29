@@ -42,7 +42,7 @@ candle which does not increase by burning.
 wants to save you the endless pain. Such is his grace. Even when there is no 
 discoverable outer *guru*, there is always the <span data-tippy-content="The 
 true spiritual teacher.">sadguru</span>, the inner *guru*, who directs and 
-helps from within. The words ‘outer’ and ‘inner’ are relative to the body 
+helps from within. The words ‘outer’ and “inner” are relative to the body 
 only; in reality all is one, the outer being merely a projection of the inner. 
 Awareness comes as if from a higher dimension.
 
@@ -226,13 +226,12 @@ You might have been delivering a lecture for two hours; where has it gone when
 it is over? It has merged into silence in which the beginning, middle and end 
 of the lecture are all together. Time has come to a stop, it was, but is no 
 more. The silence after a life of talking and the silence after a life of 
-silence is the same silence. Immortality is freedom from the feeling ‘I am’. 
+silence is the same silence. Immortality is freedom from the feeling “I Am”. 
 Yet it is not extinction. On the contrary, it is a state infinitely more real, 
 aware and happy than you can possibly think of. Only self-consciousness is no 
 more.
 
-**Q:**&ensp;Why does the Great Death of the mind coïncide with the ‘small 
-death’ of the body?
+**Q:**&ensp;Why does the Great Death of the mind coïncide with the “small death” of the body?
 
 **M:**&ensp;It does not! You may die a hundred deaths without a break in the 
 mental turmoil. Or you may keep your body and die only in the mind. The death 
@@ -240,14 +239,14 @@ of the mind is the birth of wisdom.
 
 **Q:**&ensp;The person goes and only the witness remains.
 
-**M:**&ensp;Who remains to say, “I am the witness”? When there is no ‘I am’, 
+**M:**&ensp;Who remains to say, “I am the witness”? When there is no “I Am”, 
 where is the witness? In the timeless state there is no self to take refuge in.
 
 The man who carries a parcel is anxious not to lose it — he is 
-parcel-conscious. The man who cherishes the feeling ‘I am’, is self-conscious. 
+parcel-conscious. The man who cherishes the feeling “I Am”, is self-conscious. 
 The *jnani* holds on to nothing and cannot be said to be conscious. And yet he 
 is not unconscious. He is the very heart of awareness. We call him <span 
-data-tippy-content="Naked, ‘sky-clad’.">digambara</span>, clothed in space, 
+data-tippy-content="Naked, “sky-clad”.">digambara</span>, clothed in space, 
 the Naked One, beyond all appearance. There is no name and shape under which 
 he may be said to exist, yet he is the only one that truly *is*.
 
@@ -261,7 +260,7 @@ whether to dive in is up to you.
 
 **M:**&ensp;It is both — the last remnant of illusion, the first touch of the 
 real. To say, “I am only the witness” is both false and true: false because of 
-the ‘I am’, true because of the witness. It is better to say, “There is 
+the “I Am”, true because of the witness. It is better to say, “There is 
 witnessing”. The moment you say, “I am”, the entire universe comes into being 
 along with its creator.
 

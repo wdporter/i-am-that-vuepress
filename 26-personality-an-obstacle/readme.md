@@ -50,7 +50,7 @@
 
 **M:**&ensp;Living in spontaneous awareness, consciousness of effortless living, being fully interested in one’s life — all this is implied.
 
-**Q:**&ensp;Sharada Devi, wife of Sri Ramakrishna Paramahamsa, used to scold his disciples for too much effort. She compared them to mangoes on the tree which are being plucked before they are ripe. “Why hurry?”, she used to ask. “Wait till you are fully ripe, mellow and sweet”.
+**Q:**&ensp;Sharada Devi, wife of Sri Ramakrishna Paramahamsa, used to scold his disciples for too much effort. She compared them to mangoes on the tree which are being plucked before they are ripe. “Why hurry?”, she used to ask. “Wait until you are fully ripe, mellow and sweet”.
 
 **M:**&ensp;How right she was! There are so many who take the dawn for the noon, a momentary experience for full realisation, and destroy even the little they gain by excess of pride. Humility and silence are essential for a <span data-tippy-content="Spiritual aspirant.">sadhaka</span>, however advanced. Only a fully ripened <span data-tippy-content="The knower, especially of the higher knowledge derived from meditation; “closely related to the knowledge of Brahman”.">jnani</span> can allow himself complete spontaneity.
 

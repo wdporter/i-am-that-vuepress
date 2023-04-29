@@ -1,4 +1,4 @@
-# 82. Absolute Perfection Is Here and Now
+# 82. Absolute Perfection is Here and Now
 
 >Time cannot take us out of time, as space cannot take us out of space. All 
 you get by waiting is more waiting. Absolute perfection is here and now, not 
@@ -18,7 +18,7 @@ inevitable and nobody is responsible.
 **Q:**&ensp;Surely somebody is responsible for this horrible and senseless 
 carnage. Why do people kill each other so readily?
 
-**M:**&ensp;Search for the culprit within. The ideas of ‘me’ and ‘mine’ are at 
+**M:**&ensp;Search for the culprit within. The ideas of “me” and “mine” are at 
 the root of all conflict. Be free of them and you will be out of conflict.
 
 **Q:**&ensp;What of it if I am out of conflict? It will not affect the war. If 
@@ -112,7 +112,7 @@ the sense of separation is weak and responsibility diffused.
 **Q:**&ensp;An individual with a weak sense of personality — is he nearer 
 self-realisation?
 
-**M:**&ensp;Take the case of a young child. The sense of ‘I am’ is not yet 
+**M:**&ensp;Take the case of a young child. The sense of “I Am” is not yet 
 formed; the personality is rudimentary. The obstacles to self knowledge are 
 few, but the power and the clarity of awareness, its width and depth are 
 lacking. In the course of years awareness will grow stronger, but also the 

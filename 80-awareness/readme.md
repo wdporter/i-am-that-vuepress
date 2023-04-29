@@ -57,7 +57,7 @@ not as the river; that is all.
 
 **Q:**&ensp;I am the river too.
 
-**M:**&ensp;Of course, you are. As an ‘I am’, you are the river, flowing 
+**M:**&ensp;Of course, you are. As an “I Am”, you are the river, flowing 
 between the banks of the body. But you are also the source and the ocean and 
 the clouds in the sky. Wherever there is life and consciousness, you are. 
 Smaller than the smallest, bigger than the biggest, you *are*, while all else 
@@ -75,16 +75,12 @@ just do not understand.
 
 **M:**&ensp;Look closely and you will see that the seer and the seen appear 
 only when there is seeing. They are attributes of seeing. When you say “I am 
-seeing this”, ‘I am’ and ‘this’ come with seeing, not before. You cannot have 
-an unseen ‘this’ nor an unseeing ‘I am’.
+seeing this”, “I Am” and “this” come with seeing, not before. You cannot have 
+an unseen “this” nor an unseeing “I Am”.
 
 **Q:**&ensp;I can say, “I do not see”.
 
-**M:**&ensp;The ‘I am seeing this’ has become ‘I am seeing my not seeing’ or 
-‘I am seeing darkness’. The seeing remains. In the triplicity of the known, 
-knowing and the knower, only the knowing is a fact. The ‘I am’ and ‘this’ are 
-doubtful. Who knows? What is known? There is no certainty except that there is 
-knowing.
+**M:**&ensp;The “I am seeing this” has become “I am seeing my not seeing” or “I am seeing darkness”. The seeing remains. In the triplicity of the known, knowing and the knower, only the knowing is a fact. The “I Am” and “this” are doubtful. Who knows? What is known? There is no certainty except that there is knowing.
 
 **Q:**&ensp;Why am I sure of knowing, but not of the knower?
 
@@ -166,7 +162,7 @@ names and shapes, continues, but it does not matter to me at all. It is like
 having a shadow. It is there — following me wherever I go, but not hindering 
 me in any way. It remains a world of experiences, but not of names and forms 
 related to me by desires and fears. The experiences are qualityless, pure 
-experiences, if I may say so. I call them ‘experiences’ for lack of a better 
+experiences, if I may say so. I call them “experiences” for lack of a better 
 word. They are like the waves on the surface of the ocean: the ever-present, 
 but not affecting its peaceful power.
 
@@ -202,7 +198,7 @@ and pure creation — nameless, formless, silent and yet absolutely real,
 powerful, effective. Their being indescribable does not affect them in the 
 least. While they are unconscious, they are essential. The conscious cannot 
 change fundamentally; it can only modify. Any thing, to change, must pass 
-through death, through obscuration and dissolution. Gold jewelry must be 
+through death, through obscuration and dissolution. Gold jewellery must be 
 melted down before it is cast into another shape. What refuses to die cannot 
 be reborn.
 

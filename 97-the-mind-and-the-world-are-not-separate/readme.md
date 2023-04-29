@@ -8,11 +8,7 @@ understand that what you think to be the world is your own mind.
 **Questioner:**&ensp;I see here pictures of several saints and I am told that they are your spiritual 
 ancestors. Who are they and how did it all begin?
 
-**Maharaj:**&ensp;We are called collectively the ‘Nine Masters’. The legend says that our first teacher was 
-Rishi Dattatreya, the great incarnation of the trinity of <span data-tippy-content="One of the gods of the Hindu trinity: Brahma, the creator; Vishnu, the preserver; Shiva, the destroyer.">Brahma</span>, <span data-tippy-content="One of the Gods of the 
-Hindu trinity — Brahma, the creator; Vishnu, the preserver and Shiva, the 
-destroyer.">Vishnu</span> and <span data-tippy-content="One of the gods of the Hindu trinity — Brahma, the creator; Vishnu, the preserver; and Shiva, the destroyer. Shiva actually means auspicious, propitious. Destruction ofthe cosmos by the god Shiva is a propitious act, for destruction precedes creation. Shiva is absolute love of the ‘I-principle’ in a man. As a destroyer, he brings about the total annihilation of the human ego.">Shiva</span>. Even the ‘Nine 
-Masters’ (*Navanath*) are mythological.
+**Maharaj:**&ensp;We are called collectively the “Nine Masters”. The legend says that our first teacher was Rishi Dattatreya, the great incarnation of the trinity of <span data-tippy-content="One of the gods of the Hindu trinity: Brahma, the creator; Vishnu, the preserver; Shiva, the destroyer.">Brahma</span>, <span data-tippy-content="One of the Gods of the Hindu trinity — Brahma, the creator; Vishnu, the preserver and Shiva, the destroyer.">Vishnu</span> and <span data-tippy-content="One of the gods of the Hindu trinity — Brahma, the creator; Vishnu, the preserver; and Shiva, the destroyer. Shiva actually means auspicious, propitious. Destruction of the cosmos by the god Shiva is a propitious act, for destruction precedes creation. Shiva is absolute love of the “I-principle” in a man. As a destroyer, he brings about the total annihilation of the human ego.">Shiva</span>. Even the “Nine Masters” (*Navanath*) are mythological.
 
 **Q:**&ensp;What is the peculiarity of their teaching?
 
@@ -25,14 +21,14 @@ of reality and whoëver enters it is carried along.
 
 **Q:**&ensp;Does it imply acceptance by a living master belonging to the same tradition?
 
-**M:**&ensp;Those who practise the <span data-tippy-content="The practice which produces success, <em>siddhi</em>.">sadhana</span> of focussing their minds on ‘I am’ may feel related to others 
+**M:**&ensp;Those who practise the <span data-tippy-content="The practice which produces success, <em>siddhi</em>.">sadhana</span> of focussing their minds on “I Am” may feel related to others 
 who have followed the same *sadhana* and succeeded. They may decide to verbalise their sense of 
 kinship by calling themselves *Navanath*s. It gives them the pleasure of belonging to an established 
 tradition.
 
 **Q:**&ensp;Do they in any way benefit by joining?
 
-**M:**&ensp;The circle of <span data-tippy-content="Association with the true and the wise people.">satsang</span>, the ‘company of saints’, expands in numbers as time passes.
+**M:**&ensp;The circle of <span data-tippy-content="Association with the true and the wise people.">satsang</span>, the “company of saints”, expands in numbers as time passes.
 
 **Q:**&ensp;Do they get hold thereby of a source of power and grace from which they would have been 
 barred otherwise?
@@ -81,10 +77,7 @@ come into being.
 
 **Q:**&ensp;I cannot make out whether I am the creature or the creator of the universe.
 
-**M:**&ensp;‘I am’ is an ever-present fact, while ‘I am created’ is an idea. Neither God nor the universe have 
-come to tell you that they have created you. The mind obsessed by the idea of causality invents 
-creation and then wonders, “who is the creator?”. The mind itself is the creator. Even this is not quite 
-true, for the created and its creator are one. The mind and the world are not separate. Do understand that what you think to be the world is your own mind.
+**M:**&ensp;“I Am” is an ever-present fact, while “I am created” is an idea. Neither God nor the universe have come to tell you that they have created you. The mind obsessed by the idea of causality invents creation and then wonders, “who is the creator?”. The mind itself is the creator. Even this is not quite true, for the created and its creator are one. The mind and the world are not separate. Do understand that what you think to be the world is your own mind.
 
 **Q:**&ensp;Is there a world beyond, or outside the mind?
 
@@ -197,8 +190,7 @@ Do not be
 afraid of freedom from desire and fear. It enables you to live a life so different from all you know, so 
 much more intense and interesting that, truly, by losing all you gain all.
 
-**Q:**&ensp;Since you count your spiritual ancestry from Rishi Dattatreya, are we right in believing that you 
-and all your predecessors are reïncarnations of the *Rishi*?
+**Q:**&ensp;Since you count your spiritual ancestry from Rishi Dattatreya, are we right in believing that you and all your predecessors are reïncarnations of the *Rishi*?
 
 **M:**&ensp;You may believe in whatever you like and if you act on your belief, you will get the fruits of it; but 
 to me it has no importance. I am what I am and this is enough for me. I have no desire to identify 
@@ -225,8 +217,8 @@ it happen that the *Maharaj*, who has come to me in my dreams, has not succeeded
 up? He keeps on urging and reminding, but the dream continues.
 
 **M:**&ensp;It is because you have not really understood that you are dreaming. This is the essence of 
-bondage — the mixing of the real with unreal. In your present state, only the sense ‘I am’ refers to 
-reality; the ‘what’ and the ‘how I am’ are illusions imposed by destiny, or accident.
+bondage — the mixing of the real with unreal. In your present state, only the sense “I Am” refers to 
+reality; the “what” and the “how I am” are illusions imposed by destiny, or accident.
 
 **Q:**&ensp;When did the dream begin?
 
@@ -266,11 +258,7 @@ be human I must be absolutely compassionate.
 **Q:**&ensp;I do. To be truly human I must be self-less. As long as I am selfish, I am subhuman, a 
 humanoid only.
 
-**M:**&ensp;So, we are all subhuman and only a few are human. Few or many, it is again ‘clarity and 
-charity’ that make us human. The subhuman — the ‘humanoids’ — are dominated by <span data-tippy-content="Darkness, inertia, passivity. One of the three constituents (<em>guna</em>s) of the cosmic substance: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>.">tamas</span> and 
-<span data-tippy-content="Motivity, activity, energy. One of the three <em>guna</em>s or qualities of matter: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</span> and the humans by <span data-tippy-content="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>. Clarity and charity is *sattva* as it affects mind and action. But the 
-real is beyond *sattva*. Since I have known you, you seem to be always after helping the world. How 
-much have you helped?
+**M:**&ensp;So, we are all subhuman and only a few are human. Few or many, it is again “clarity and charity” that make us human. The subhuman — the “humanoids” — are dominated by <span data-tippy-content="Darkness, inertia, passivity. One of the three constituents (<em>guna</em>s) of the cosmic substance: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>.">tamas</span> and <span data-tippy-content="Motivity, activity, energy. One of the three <em>guna</em>s or qualities of matter: <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. In <em>yoga</em>, egoism.">rajas</span> and the humans by <span data-tippy-content="Being, existence, true essence. In <em>yoga</em> the quality of purity or goodness.">sattva</span>. Clarity and charity is *sattva* as it affects mind and action. But the real is beyond *sattva*. Since I have known you, you seem to be always after helping the world. How much have you helped?
 
 **Q:**&ensp;Not a bit. Neither the world has changed, nor have I. But the world suffers and I suffer along 
 with it. To struggle against suffering is a natural reäction. And what is civilization and culture, 

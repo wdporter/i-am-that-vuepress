@@ -4,12 +4,7 @@
 timelessly within your heart for recognition. All you have to do is to abandon all memories and 
 expectations. Just keep yourself ready in utter nakedness and nothingness.
 
-**Questioner:**&ensp;I am an American by birth and for the last one year I was staying in an *ashram* in 
-Madhya Pradesh, studying <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span> in its many aspects. We had a teacher whose <span data-tippy-content="Spiritual teacher, preceptor.">guru</span>, a disciple of 
-the great Sivananda Saraswati, stays in Monghyr. I stayed at Ramanashram also. While in Bombay 
-I went through an intensive course of Burmese meditation managed by one named Goenka. Yet I have not 
-found peace. There is an improvement in self-control and day-to-day discipline, but that is all. I 
-cannot say exactly what caused what. I visited many holy places. How each acted on me, I cannot 
+**Questioner:**&ensp;I am an American by birth and for the last one year I was staying in an *ashram* in Madhya Pradesh, studying <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span> in its many aspects. We had a teacher whose <span data-tippy-content="Spiritual teacher, preceptor.">guru</span>, a disciple of the great Sivananda Saraswati, stays in Monghyr. I stayed at Ramanashram also. While in Bombay I went through an intensive course of Burmese meditation managed by one named Goenka. Yet I have not found peace. There is an improvement in self-control and day-to-day discipline, but that is all. I cannot say exactly what caused what. I visited many holy places. How each acted on me, I cannot 
 say.
 
 **Maharaj:**&ensp;Good results will come, sooner or later. At Sri Ramanashram did you receive some 
@@ -48,7 +43,7 @@ There is nothing wrong with suffering for the sins of others. Your Christianity 
 **Q:**&ensp;Is not all suffering self-created?
 
 **M:**&ensp;Yes, as long as there is a separate self to create it. In the end you know that there is no sin, no 
-guilt, no retribution, only life in its endless transformations. With the dissolution of the personal ‘I’, 
+guilt, no retribution, only life in its endless transformations. With the dissolution of the personal “I”, 
 personal suffering disappears. What remains is the great sadness of compassion, the horror of the 
 unnecessary pain.
 

@@ -1,7 +1,7 @@
 # 51. Be Indifferent to Pain and Pleasure
 
 >Be indifferent to pain and pleasure, neither asking nor refusing, give all 
-your attention to the level on which ‘I am’ is timelessly present. Soon you 
+your attention to the level on which “I Am” is timelessly present. Soon you 
 will realise that peace and happiness are in your very nature and it is only 
 seeking them through some particular channels that disturbs.
 
@@ -64,7 +64,7 @@ A normal state cannot be painful while a habit often leads to chronic pain.
 one stop it? There must be a way to quiet the mind. How often I tell myself, 
 “Enough, please stop this endless chatter of sentences repeated round and 
 round!”. But my mind would not stop. I feel that one can stop it for a while, 
-but not for long. Even the so-called ‘spiritual’ people use tricks to keep 
+but not for long. Even the so-called “spiritual” people use tricks to keep 
 their mind quiet. They repeat formulas, sing, pray, breathe forcibly or 
 gently, shake, rotate, concentrate, meditate, chase trances, cultivate virtues 
 — working all the time, in order to cease working, cease chasing, cease 
@@ -146,16 +146,16 @@ I am now seventy-four years old. And yet I feel that I am an infant. I feel
 clearly that, in spite of all the changes, I am a child. My *guru* told me, 
 “That child, which is you even now, is your real self” (<span 
 data-tippy-content="One’s own form, nature, character.">svarupa</span>)”. Go 
-back to that state of pure being where the ‘I am’ is still in its purity, 
-before it became contaminated with ‘this I am’ or ‘that I am’. Your burden is 
+back to that state of pure being where the “I Am” is still in its purity, 
+before it became contaminated with “this I am” or “that I am”. Your burden is 
 of false self-identifications — abandon them all. My *guru* told me, “Trust 
 me. I tell you: You are divine. Take it as the absolute truth. Your joy is 
 divine, your suffering is divine, too. All comes from God. Remember it always. 
 You are God; your will alone is done”. I did believe him and soon realised how 
 wonderfully true and accurate his words were. I did not condition my mind by 
 thinking, “I am God”, “I am wonderful”, “I am beyond”. I simply followed his 
-instruction, which was to focus the mind on pure being, ‘I am’, and stay in 
-it. I used to sit for hours together with nothing but the ‘I am’ in my mind, 
+instruction, which was to focus the mind on pure being, “I Am”, and stay in 
+it. I used to sit for hours together with nothing but the “I Am” in my mind, 
 and soon peace and joy and a deep all-embracing love became my normal state. 
 In it all disappeared: myself, my *guru*, the life I lived, the world around 
 me. Only peace and unfathomable silence remained.
@@ -201,7 +201,7 @@ is the emotional link that perpetuates the bondage. You are always seeking
 pleasure, avoiding pain; always after happiness and peace. Don’t you see that 
 it is your very search for happiness that makes you feel miserable? Try the 
 other way: Be indifferent to pain and pleasure, neither asking nor refusing, 
-give all your attention to the level on which ‘I am’ is timelessly present. 
+give all your attention to the level on which “I Am” is timelessly present. 
 Soon you will realise that peace and happiness are in your very nature and it 
 is only seeking them through some particular channels that disturbs. Avoid the 
 disturbance, that is all. To seek there is no need — you would not seek what 
@@ -225,14 +225,14 @@ limitations, and all your desires will merge in it, for the greater contains
 the smaller. Therefore find yourself, for in finding that you find all. 
 
 Everybody is glad to be. But few know the fullness of it. You come to know by 
-dwelling in your mind on ‘I am’, ‘I know’, ‘I love’ — with the will of 
+dwelling in your mind on “I Am”, “I know”, “I love” — with the will of 
 reaching the deepest meaning of these words.
 
 **Q:**&ensp;Can I think, “I am God”?
 
-**M:**&ensp;Don’t identify yourself with an idea. If by ‘God’ you mean the 
+**M:**&ensp;Don’t identify yourself with an idea. If by “God” you mean the 
 Unknown, then you merely say, “I do not know what I am”. If you know God as 
-you know yourself, you need not say it. Best is the simple feeling ‘I am’. 
+you know yourself, you need not say it. Best is the simple feeling “I Am”. 
 Dwell on it patiently. Here patience is wisdom; don’t think of failure. There 
 can be no failure in this undertaking.
 
@@ -267,7 +267,7 @@ and disappears. Heart, breath, digestion, sleep and waking, birth and death —
 everything comes and goes in waves. Rhythm, periodicity, harmonious 
 alternation of extremes is the rule. No use rebelling against the very pattern 
 of life. If you seek the immutable, go beyond experience. When I say, 
-“remember ‘I am’ all the time”, I mean come back to it repeatedly. No 
+“remember “I Am” all the time”, I mean come back to it repeatedly. No 
 particular thought can be mind’s natural state, only silence. Not the idea of 
 silence but silence itself. When the mind is in its natural state, it reverts 
 to silence spontaneously after every experience or, rather, every experience 

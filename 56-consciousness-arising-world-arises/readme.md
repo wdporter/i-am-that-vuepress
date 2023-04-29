@@ -24,41 +24,13 @@ mental.
 **Q:**&ensp;Still you must know the state of the man who died. At least from 
 your own past lives.
 
-**M:**&ensp;Until I met my <span data-tippy-content="Spiritual teacher, 
-preceptor.">guru</span> I knew so many things. Now I know nothing, for all 
-knowledge is in dream only and not valid. I know myself and I find no life nor 
-death in me, only pure being — not being this or that, but just *being*. But 
-the moment the mind, drawing on its stock of memories, begins to imagine, it 
-fills the space with objects and time with events. As I do not know even this 
-birth, how can I know past births? It is the mind that, itself in movement, 
-sees everything moving, and having created time, worries about the past and 
-future. All the universe is cradled in consciousness (<span 
-data-tippy-content="The great reality, supreme 
-consciousness.">mahatattva</span>) which arises where there is perfect order 
-and harmony (<span data-tippy-content="The supreme harmony, harmonious 
-existence.">mahasattva</span>). As all waves are in the ocean, so are all 
-things physical and mental in awareness. Hence awareness itself is all 
-important, not the content of it. Deepen and broaden your awareness of 
-yourself and all the blessings will flow. You need not seek anything; all will 
-come to you most naturally and effortlessly. The five senses and the four 
-functions of the mind: memory, thought, understanding and selfhood; the five 
-elements: earth, water, fire, air and ether; the two aspects of creation: 
-matter and spirit; all are contained in awareness.
+**M:**&ensp;Until I met my <span data-tippy-content="Spiritual teacher, preceptor.">guru</span> I knew so many things. Now I know nothing, for all knowledge is in dream only and not valid. I know myself and I find no life nor death in me, only pure being — not being this or that, but just *being*. But the moment the mind, drawing on its stock of memories, begins to imagine, it fills the space with objects and time with events. As I do not know even this birth, how can I know past births? It is the mind that, itself in movement, sees everything moving, and having created time, worries about the past and future. All the universe is cradled in consciousness (<span data-tippy-content="The great reality, supreme consciousness.">mahatattva</span>) which arises where there is perfect order and harmony (<span data-tippy-content="The supreme harmony, harmonious existence.">mahasattva</span>). As all waves are in the ocean, so are all things physical and mental in awareness. Hence awareness itself is all important, not the content of it. Deepen and broaden your awareness of yourself and all the blessings will flow. You need not seek anything; all will come to you most naturally and effortlessly. The five senses and the four functions of the mind: memory, thought, understanding and selfhood; the five elements: earth, water, fire, air and ether; the two aspects of creation: matter and spirit; all are contained in awareness.
 
 **Q:**&ensp;Yet you must believe in having lived before.
 
-**M:**&ensp;The scriptures say so, but I know nothing about it. I know myself 
-as I am; as I appeared or will appear is not within my experience. It is not 
-that I do not remember. In fact, there is nothing to remember. Reïncarnation 
-implies a reïncarnating self. There is no such thing. The bundle of memories 
-and hopes, called the ‘I’, imagines itself existing everlastingly and creates 
-time to accommodate its false eternity To *be*, I need no past or future. All 
-experience is born of imagination; I do not imagine, so no birth or death 
-happens to me. Only those who think themselves born can think themselves 
-reborn. You are accusing me of having been born — I plead not guilty! 
+**M:**&ensp;The scriptures say so, but I know nothing about it. I know myself as I am; as I appeared or will appear is not within my experience. It is not that I do not remember. In fact, there is nothing to remember. Reïncarnation implies a reïncarnating self. There is no such thing. The bundle of memories and hopes, called the “I”, imagines itself existing everlastingly and creates time to accommodate its false eternity To *be*, I need no past or future. All experience is born of imagination; I do not imagine, so no birth or death happens to me. Only those who think themselves born can think themselves reborn. You are accusing me of having been born — I plead not guilty! 
 
-All exists in awareness and awareness neither dies nor is reborn. It is the 
-changeless reality itself. 
+All exists in awareness and awareness neither dies nor is reborn. It is the changeless reality itself. 
 
 All the universe of experience is born with the body and dies with the body; 
 it has its beginning and end in awareness, but awareness knows no beginning or 
@@ -69,20 +41,7 @@ stick and the smoke first; when you notice the fiery point, you realise that
 it has the power to consume mountains of sticks and fill the universe with 
 smoke. 
 
-Timelessly the self actualises itself, without exhausting its infinite 
-possibilities. In the incense stick simile, the stick is the body and the 
-smoke is the mind. As long as the mind is busy with its contortions, it does 
-not perceive its own source. The *guru* comes and turns your attention to the 
-spark within. By its very nature the mind is outward-turned; it always tends 
-to seek for the source of things among the things themselves; to be told to 
-look for the source within, is, in a way, the beginning of a new life. 
-Awareness takes the place of consciousness; in consciousness there is the ‘I’ 
-who is conscious while awareness is undivided; awareness is aware of itself. 
-The ‘I am’ is a thought while awareness is not a thought; there is no ‘I am 
-aware’ in awareness. Consciousness is an attribute while awareness is not, one 
-can be aware of being conscious, but not conscious of awareness. God is the 
-totality of consciousness, but awareness is beyond all — being as well as 
-not-being.
+Timelessly the self actualises itself, without exhausting its infinite possibilities. In the incense stick simile, the stick is the body and the smoke is the mind. As long as the mind is busy with its contortions, it does not perceive its own source. The *guru* comes and turns your attention to the spark within. By its very nature the mind is outward-turned; it always tends to seek for the source of things among the things themselves; to be told to look for the source within, is, in a way, the beginning of a new life. Awareness takes the place of consciousness; in consciousness there is the “I” who is conscious while awareness is undivided; awareness is aware of itself. The “I Am” is a thought while awareness is not a thought; there is no “I am aware” in awareness. Consciousness is an attribute while awareness is not, one can be aware of being conscious, but not conscious of awareness. God is the totality of consciousness, but awareness is beyond all — being as well as not-being.
 
 **Q:**&ensp;I had started with the question about the condition of a man after 
 death. When his body is destroyed, what happens to his consciousness? Does he 
@@ -107,7 +66,7 @@ comes and goes! Who is there to be conscious of unconsciousness? As long as
 the window is open, there is sunlight in the room. With the windows shut, the 
 sun remains, but does it see the darkness in the room? Is there anything like 
 darkness to the sun? There is no such thing as unconsciousness, for 
-unconsciousness is not experiencable. We infer unconsciousness when there is a 
+unconsciousness is not experienceable. We infer unconsciousness when there is a 
 lapse in memory or communication. If I stop reäcting, you will say that I am 
 unconscious. In reality I may be most acutely conscious but unable to 
 communicate or remember.
@@ -132,7 +91,7 @@ following your inherited or acquired patterns. There is a deep contradiction
 in your attitude which you do not see and which is the cause of sorrow. You 
 cling to the idea that you were born into a world of pain and sorrow; I know 
 that the world is a child of love, having its beginning, growth and 
-fulfillment in love. But I am even beyond love.
+fulfilment in love. But I am even beyond love.
 
 **Q:**&ensp;If you have created the world out of love, why is it so full of 
 pain?

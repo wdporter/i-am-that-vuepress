@@ -2,7 +2,7 @@
 
 >The body and the mind are only symptoms of ignorance, of misapprehension. 
 Behave as if you were pure awareness, bodiless and mindless, spaceless and 
-timeless, beyond ‘where’ and ‘when’ and ‘how’. Dwell on it, think of it, learn 
+timeless, beyond “where” and “when” and “how”. Dwell on it, think of it, learn 
 to accept its reality.
 
 **Questioner:**&ensp;One day, we were discussing <span 
@@ -21,7 +21,7 @@ sky] Brahman in its aspect of limitless knowledge, the expanse of awareness.
 Variously used for consciousness, individual as well as 
 universal.">chidakash</span> and <span data-tippy-content="The great expanse, 
 the timeless and spaceless reality; the Absolute being.">paramakash</span>. 
-How are they related to ‘person’, ‘witness’, and the ‘absolute’?
+How are they related to “person”, “witness”, and the “absolute”?
 
 **Maharaj:**&ensp;*Mahadakash* is nature, the ocean of existences, the 
 physical space with all that can be contacted through the senses. *Chidakash* 
@@ -35,21 +35,7 @@ root of time and space, the prime cause in every chain of causation.
 
 **Q:**&ensp;What is the difference between *vyakta* and *avyakta*?
 
-**M:**&ensp;There is no difference. It is like light and daylight. The 
-universe is full of light which you do not see, but the same light you see as 
-daylight. And what the daylight reveals is the *vyakti*. The person is always 
-the object, the witness is the subject, and their relation of mutual 
-dependence is the reflection of their absolute identity. You imagine that they 
-are distinct and separate states. They are not. They are the same 
-consciousness at rest and in movement, each state conscious of the other. In 
-<span data-tippy-content="Universal consciousness.">chit</span> man knows God 
-and God knows man. In *chit* the man shapes the world and the world shapes 
-man. *Chit* is the link, the bridge between extremes, the balancing and 
-uniting factor in every experience. The totality of the perceived is what you 
-call ‘matter’. The totality of all perceivers is what you call the ‘universal 
-mind’. The identity of the two, manifesting itself as perceptibility and 
-perceiving, harmony and intelligence, loveliness and loving, reässerts itself 
-eternally.
+**M:**&ensp;There is no difference. It is like light and daylight. The universe is full of light which you do not see, but the same light you see as daylight. And what the daylight reveals is the *vyakti*. The person is always the object, the witness is the subject, and their relation of mutual dependence is the reflection of their absolute identity. You imagine that they are distinct and separate states. They are not. They are the same consciousness at rest and in movement, each state conscious of the other. In <span data-tippy-content="Universal consciousness.">chit</span> man knows God and God knows man. In *chit* the man shapes the world and the world shapes man. *Chit* is the link, the bridge between extremes, the balancing and uniting factor in every experience. The totality of the perceived is what you call “matter”. The totality of all perceivers is what you call the “universal mind”. The identity of the two, manifesting itself as perceptibility and perceiving, harmony and intelligence, loveliness and loving, reässerts itself eternally.
 
 **Q:**&ensp;The three <span data-tippy-content="Attributes, qualities. In 
 <em>Samkhya</em> philosophy the three attributes of the cosmic substance 
@@ -238,7 +224,7 @@ I need a mind.
 
 **M:**&ensp;The body and the mind are only symptoms of ignorance, of 
 misapprehension. Behave as if you are pure awareness, bodiless and mindless, 
-spaceless and timeless, beyond ‘where’ and ‘when’ and ‘how’. Dwell on it, 
+spaceless and timeless, beyond “where” and “when” and “how”. Dwell on it, 
 think of it, learn to accept its reality. Don’t oppose it and deny it all the 
 time. Keep an open mind at least. <span data-tippy-content="One of the six 
 systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). 

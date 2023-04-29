@@ -1,4 +1,4 @@
-# 95. Accept Life As It Comes
+# 95. Accept Life as it Comes
 
 >At every moment whatever comes to you unasked for — comes from God. … Accept life as it comes and you will find it a blessing.
 

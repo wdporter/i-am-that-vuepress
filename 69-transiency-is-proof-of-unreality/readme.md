@@ -64,7 +64,7 @@ Now, Can you separate yourself both from the mirror and the image in the mirror 
 
 **Q:**&ensp;So far I have been following you. Now, what am I expected to do?
 
-**M:**&ensp;There is nothing to do. Just *be*. Do nothing. *Be*. No climbing mountains and sitting in caves. I do not even say, “be yourself”, since you do not know yourself. Just *be*. Having seen that you are neither the ‘outer’ world of perceivables, nor the ‘inner’ world of thinkables, that you are neither body nor mind — just *be*.
+**M:**&ensp;There is nothing to do. Just *be*. Do nothing. *Be*. No climbing mountains and sitting in caves. I do not even say, “be yourself”, since you do not know yourself. Just *be*. Having seen that you are neither the ‘outer’ world of perceivables, nor the “inner” world of thinkables, that you are neither body nor mind — just *be*.
 
 **Q:**&ensp;Surely, there are degrees of realisation.
 
@@ -84,7 +84,7 @@ Now, Can you separate yourself both from the mirror and the image in the mirror 
 
 **Q:**&ensp;Yes, but what is the *sadhana* for achieving the natural state?
 
-**M:**&ensp;Hold on to the sense ‘I am’ to the exclusion of everything else. When thus the mind becomes completely silent, it shines with a new light and vibrates with new knowledge. It all comes spontaneously — you need only hold on to the ‘I am’. Just like emerging from sleep or a state of rapture you feel rested and yet you cannot explain why and how you come to feel so well, in the same way on realisation you feel complete, fulfilled, free from the pleasure–pain complex, and yet not always able to explain what happened, why and how. You can only put it in negative terms: “Nothing is wrong with me any longer”. It is only by comparison with the past that you know that you are out of it. Otherwise, you are just yourself. Don’t try to convey it to others. If you can, it is not the real thing. Be silent and watch it expressing itself in action.
+**M:**&ensp;Hold on to the sense “I Am” to the exclusion of everything else. When thus the mind becomes completely silent, it shines with a new light and vibrates with new knowledge. It all comes spontaneously — you need only hold on to the “I Am”. Just like emerging from sleep or a state of rapture you feel rested and yet you cannot explain why and how you come to feel so well, in the same way on realisation you feel complete, fulfilled, free from the pleasure–pain complex, and yet not always able to explain what happened, why and how. You can only put it in negative terms: “Nothing is wrong with me any longer”. It is only by comparison with the past that you know that you are out of it. Otherwise, you are just yourself. Don’t try to convey it to others. If you can, it is not the real thing. Be silent and watch it expressing itself in action.
 
 **Q:**&ensp;If you could tell me what I shall become, it may help me to watch over my development.
 

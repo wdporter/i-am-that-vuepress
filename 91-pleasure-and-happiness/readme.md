@@ -45,14 +45,7 @@ the other hand, a disciple that distrusts and hesitates is bound to remain unful
 
 **Q:**&ensp;What happens then?
 
-**M:**&ensp;Life teaches where all else fails. But the lessons of life take a long time to come. Much delay 
-and trouble is saved by trusting and obeying. But such trust comes only when indifference and 
-restlessness give place to clarity and peace. A man who holds himself in low esteem will not be 
-able to trust himself or anybody else. Therefore, in the beginning, the teacher tries his best to 
-reässure the disciple as to his high origin, noble nature and glorious destiny. He relates to him the 
-experiences of some saints as well as his own, instilling confidence in himself and in his infinite 
-possibilities. When self-confidence and trust in the teacher come together, rapid and far-reaching 
-changes in the disciple’s character and life can take place.
+**M:**&ensp;Life teaches where all else fails. But the lessons of life take a long time to come. Much delay and trouble is saved by trusting and obeying. But such trust comes only when indifference and restlessness give place to clarity and peace. A man who holds himself in low esteem will not be able to trust himself or anybody else. Therefore, in the beginning, the teacher tries his best to reässure the disciple as to his high origin, noble nature and glorious destiny. He relates to him the experiences of some saints as well as his own, instilling confidence in himself and in his infinite possibilities. When self-confidence and trust in the teacher come together, rapid and far-reaching changes in the disciple’s character and life can take place.
 
 **Q:**&ensp;I may not want to change. My life is good enough as it is.
 

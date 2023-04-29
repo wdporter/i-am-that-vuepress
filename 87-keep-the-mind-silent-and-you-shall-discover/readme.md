@@ -1,21 +1,14 @@
 # 87. Keep the Mind Silent and You shall Discover
 
 >Cease looking for happiness and reality in a dream and you will wake up. You 
-need not know all the ‘why’ and ‘how’; there is no end to questions. Abandon 
+need not know all the “why” and “how”; there is no end to questions. Abandon 
 all desires, keep your mind silent and you shall discover.
 
 **Questioner:**&ensp;Once I had a strange experience. I was not, nor was the 
 world. There was only light — within and without — and immense peace. This 
 lasted for four days and then I returned to the everyday consciousness. 
 
-Now I have a feeling that all I know is merely scaffolding, covering and 
-hiding the building under construction. Of the architect, the design, the 
-plans, the purpose — I know nothing. Some activity is going on, things are 
-happening; that is all I can say. I am that scaffolding, some thing very 
-flimsy and short-lived. When the building is ready, the scaffolding will be 
-dismantled and removed. The ‘I am’ and ‘What am I?’ are of no importance 
-because once the building is ready, the ‘I’ will go as a matter of course, 
-leaving no questions about itself to answer.
+Now I have a feeling that all I know is merely scaffolding, covering and hiding the building under construction. Of the architect, the design, the plans, the purpose — I know nothing. Some activity is going on, things are happening; that is all I can say. I am that scaffolding, some thing very flimsy and short-lived. When the building is ready, the scaffolding will be dismantled and removed. The “I Am” and “What am I?” are of no importance because once the building is ready, the “I” will go as a matter of course, leaving no questions about itself to answer.
 
 **Maharaj:**&ensp;Are you not aware of all this? Is not the fact of awareness 
 the constant factor?
@@ -72,19 +65,19 @@ peace — this is the way beyond. Stop asking questions.
 
 **M:**&ensp;For the centre of your being to emerge into consciousness. The 
 three states of sleeping, dreaming and waking are all in consciousness, the 
-manifested; what you call ‘consciousness’ will also be manifested in time; 
+manifested; what you call “consciousness” will also be manifested in time; 
 beyond consciousness altogether lies the unmanifested. And beyond all and 
 pervading all is the heart of being, which beats steadily — 
 manifested–unmanifested, manifested–unmanifested (<span 
 data-tippy-content="Manifested condition with the three <em>guna</em>s, 
 qualities — <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. The Supreme 
-Absolute conceived of as possessing qualities like love, mercy etc., as 
+Absolute conceived of as possessing qualities like love, mercy and so forth, as 
 distinguished from the undifferentiated Absolute of the <em>Advaita 
 Vedanta</em>.">saguna</span>–<span data-tippy-content="The unconditioned, 
 without form, qualities or attributes.">nirguna</span>).
 
 **Q:**&ensp;On the verbal level, it sounds all right. I can visualise myself 
-as the seed of being, a point in consciousness, with my sense ‘I am’ 
+as the seed of being, a point in consciousness, with my sense “I Am” 
 pulsating, appearing and disappearing alternately. But what am I to do to 
 realise it as a fact, to go beyond into the changeless, wordless Reality?
 
@@ -99,7 +92,7 @@ universal spirit (<em>Paramatma</em>).">yoga</span> and seek reality? They
 make me feel empowered and responsible, while in fact it is time that does all.
 
 **M:**&ensp;This is the end of *yoga* — to realise independence. All that 
-happens, happens in and to the mind, not to the source of the ‘I am’. Once you 
+happens, happens in and to the mind, not to the source of the “I Am”. Once you 
 realise that all happens by itself (call it destiny, the will of God or mere 
 accident), you remain as witness only, understanding and enjoying, but not 
 perturbed.
@@ -151,7 +144,7 @@ Withdraw your belief in its reality and it will dissolve like a dream. Time
 can bring down mountains; much more can be done by you who are the timeless 
 source of time. For without memory and expectation there can be no time.
 
-**Q:**&ensp;Is the ‘I am’ the Ultimate?
+**Q:**&ensp;Is the “I Am” the Ultimate?
 
 **M:**&ensp;Before you can say, “I am”, you must be there to say it. Being 
 need not be self-conscious. You need not know to be, but you must *be* to know.
@@ -165,22 +158,7 @@ beyond it. What is that power that creates order out of chaos? Living is more
 than being, and consciousness is more than living. Who is the conscious living 
 being?
 
-**M:**&ensp;Your question contains the answer: a conscious living being is a 
-conscious living being. The words are most appropriate, but you do not grasp 
-their full import. Go deep into the meaning of the words ‘being’, ‘living’ and 
-‘conscious’, and you will stop running in circles and asking questions, but 
-missing answers. Do understand that you cannot ask a valid question about 
-yourself because you do not know whom you are asking about. In the question, 
-“Who am I?”, the ‘I’ is not known and the question can be worded as, “I do not 
-know what I mean by ‘I’”. What you are, you must find out. I can only tell you 
-what you are not. You are not of the world; you are not even in the world. The 
-world is not; you alone are. You create the world in your imagination like a 
-dream. As you cannot separate the dream from yourself, so you cannot have an 
-outer world independent of yourself. You are independent, not the world. Don’t 
-be afraid of a world you yourself have created. Cease from looking for 
-happiness and reality in a dream and you will wake up. You need not know ‘why’ 
-and ‘how’; there is no end to questions. Abandon all desires, keep your mind 
-silent and you shall discover.
+**M:**&ensp;Your question contains the answer: a conscious living being is a conscious living being. The words are most appropriate, but you do not grasp their full import. Go deep into the meaning of the words “being”, “living” and “conscious”, and you will stop running in circles and asking questions, but missing answers. Do understand that you cannot ask a valid question about yourself because you do not know whom you are asking about. In the question, “Who am I?”, the “I” is not known and the question can be worded as, “I do not know what I mean by ‘I’”. What you are, you must find out. I can only tell you what you are not. You are not of the world; you are not even in the world. The world is not; you alone are. You create the world in your imagination like a dream. As you cannot separate the dream from yourself, so you cannot have an outer world independent of yourself. You are independent, not the world. Don’t be afraid of a world you yourself have created. Cease from looking for happiness and reality in a dream and you will wake up. You need not know “why” and “how”; there is no end to questions. Abandon all desires, keep your mind silent and you shall discover.
 
 
 <script>

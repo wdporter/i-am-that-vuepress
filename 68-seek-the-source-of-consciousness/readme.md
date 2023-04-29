@@ -10,7 +10,7 @@ They have no patience with people like you who preach personal improvement as a 
 
 **Q:**&ensp;Are you not advising escape?
 
-**M:**&ensp;On the contrary. The only way to renewal lies through destruction. You must melt down the old jewelry into formless gold before you can mould a new piece. Only the people who have gone beyond the world can change the world. It never happened otherwise. The few whose impact was long lasting were all knowers of reality. Reach their level and only then talk of helping the world.
+**M:**&ensp;On the contrary. The only way to renewal lies through destruction. You must melt down the old jewellery into formless gold before you can mould a new piece. Only the people who have gone beyond the world can change the world. It never happened otherwise. The few whose impact was long lasting were all knowers of reality. Reach their level and only then talk of helping the world.
 
 **Q:**&ensp;It is not the rivers and mountains that we want to help, but the people
 

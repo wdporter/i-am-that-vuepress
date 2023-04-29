@@ -44,14 +44,9 @@ there anything beyond awareness?
 
 **Q:**&ensp;I feel that I am. I cannot express it otherwise.
 
-**M:**&ensp;When you follow it up carefully from brain through consciousness 
-to awareness, you find that the sense of duality persists. When you go beyond 
-awareness, there is a state of non-duality in which there is no cognition, 
-only pure being — which may as well be called ‘non-being’, if by ‘being’ you 
-mean ‘being something in particular’.
+**M:**&ensp;When you follow it up carefully from brain through consciousness to awareness, you find that the sense of duality persists. When you go beyond awareness, there is a state of non-duality in which there is no cognition, only pure being — which may as well be called “non-being”, if by “being” you mean “being something in particular”.
 
-**Q:**&ensp;What you call ‘pure being’ — is it universal being, being 
-everything?
+**Q:**&ensp;What you call “pure being” — is it universal being, being everything?
 
 **M:**&ensp;Everything implies a collection of particulars. In pure being the 
 very idea of the particular is absent.
@@ -97,7 +92,7 @@ present state and from it you draw conclusions for all times and places. You
 may just be dreaming and imagining your dream to be eternal.
 
 **Q:**&ensp;Calling it a dream does not change the situation. I repeat my 
-question: What hope is left which the eternity behind me could not fulfill? 
+question: What hope is left which the eternity behind me could not fulfil? 
 Why should my future be different from my past?
 
 **M:**&ensp;In your fevered state, you project a past and a future and take 
@@ -136,13 +131,13 @@ grow in sunlight, but the sun does not grow. By themselves both the body and
 the witness are motionless, but when brought together in the mind, both appear 
 to move.
 
-**Q:**&ensp;Yes, I can see that what moves and changes is the ‘I am’ only. Is 
-the ‘I am’ needed at all?
+**Q:**&ensp;Yes, I can see that what moves and changes is the “I Am” only. Is 
+the “I Am” needed at all?
 
 **M:**&ensp;Who needs it? It is there — now. It had a beginning, it will have 
 an end.
 
-**Q:**&ensp;What remains when the ‘I am’ goes?
+**Q:**&ensp;What remains when the “I Am” goes?
 
 **M:**&ensp;What does not come and go remains. It is the ever-greedy mind that 
 creates ideas of progress and evolution towards perfection. It disturbs and 
@@ -178,37 +173,12 @@ is due to misapprehension. It is the body that is in danger, not you.
 takes many shapes and distorts my thoughts and feelings. But how did this 
 anxiety come into being?
 
-**M:**&ensp;It is a mental state caused by the ‘I am the body’ idea. It can be 
-removed by the contrary idea, ‘I am 
-not the body’. Both the ideas are false, but one removes the other. Realise 
-that no ideas are your own; they all come to you from outside. You must think 
-it all out for yourself; become yourself the object of your meditation. The 
-effort to understand yourself is <span data-tippy-content="One of the six 
-systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). 
-<em>Yoga</em> teaches the means by which the individual spirit 
-(<em>jivatma</em>) can be joined or united with the universal spirit 
-(<em>Paramatma</em>).">yoga</span>. Be a <span data-tippy-content="One who 
-practices <em>yoga</em>.">yogi</span>, give your life to it — brood, wonder, 
-search, till you come to the root of error and to the truth beyond the error.
+**M:**&ensp;It is a mental state caused by the “I am the body” idea. It can be 
+removed by the contrary idea, “I am not the body”. Both the ideas are false, but one removes the other. Realise that no ideas are your own; they all come to you from outside. You must think it all out for yourself; become yourself the object of your meditation. The effort to understand yourself is <span data-tippy-content="One of the six systems of the Hindu philosophy (from <em>yoj</em>, to yoke or join). <em>Yoga</em> teaches the means by which the individual spirit (<em>jivatma</em>) can be joined or united with the universal spirit (<em>Paramatma</em>).">yoga</span>. Be a <span data-tippy-content="One who practices <em>yoga</em>.">yogi</span>, give your life to it — brood, wonder, search, until you come to the root of error and to the truth beyond the error.
 
 **Q:**&ensp;In meditation, who meditates — the person or the witness?
 
-**M:**&ensp;Meditation is a deliberate attempt to pierce into the higher 
-states of consciousness and finally go beyond them. The art of meditation is 
-the art of shifting the focus of attention to ever subtler levels without 
-losing one’s grip on the levels left behind. In a way it is like having death 
-under control. One begins with the lowest levels: social circumstances, 
-customs and habits; physical surroundings, the posture and the breathing of 
-the body; the senses, their sensations and perceptions; the mind, its thoughts 
-and feelings, until the entire mechanism of personality is grasped and firmly 
-held. The final stage of meditation is reached when the sense of identity goes 
-beyond the ‘I am so-and-so’, beyond ‘so I am’, beyond ‘I am the witness only’, 
-beyond ‘there is’, beyond all ideas into the impersonally personal pure being. 
-But you must be energetic when you take to meditation. It is definitely not a 
-part-time occupation. Limit your interests and activities to what is needed 
-for you and your dependents’ barest needs. Save all of your energies and time 
-for breaking the wall your mind had built around you. Believe me, you will not 
-regret it.
+**M:**&ensp;Meditation is a deliberate attempt to pierce into the higher states of consciousness and finally go beyond them. The art of meditation is the art of shifting the focus of attention to ever subtler levels without losing one’s grip on the levels left behind. In a way it is like having death under control. One begins with the lowest levels: social circumstances, customs and habits; physical surroundings, the posture and the breathing of the body; the senses, their sensations and perceptions; the mind, its thoughts and feelings, until the entire mechanism of personality is grasped and firmly held. The final stage of meditation is reached when the sense of identity goes beyond the “I am so-and-so”, beyond “so I am”, beyond “I am the witness only”, beyond “there is”, beyond all ideas into the impersonally personal pure being. But you must be energetic when you take to meditation. It is definitely not a part-time occupation. Limit your interests and activities to what is needed for you and your dependents’ barest needs. Save all of your energies and time for breaking the wall your mind had built around you. Believe me, you will not regret it.
 
 **Q:**&ensp;How do I come to know that my experience is universal?
 
@@ -232,9 +202,9 @@ meditation.
 
 **Q:**&ensp;What exactly do you want me to do?
 
-**M:**&ensp;Give your heart and mind to brooding over the ‘I am’: what is it, 
+**M:**&ensp;Give your heart and mind to brooding over the “I Am”: what is it, 
 how is it, what is its source, its life, its meaning. It is very much like 
-digging a well. You reject all that is not water, till you reach the 
+digging a well. You reject all that is not water, until you reach the 
 life-giving spring.
 
 **Q:**&ensp;How shall I know that I am moving in the right direction?

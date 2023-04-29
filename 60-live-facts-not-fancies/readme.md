@@ -8,7 +8,7 @@
 
 **Q:**&ensp;Our common world, the one in which we live.
 
-**M:**&ensp;Are you sure we live in the same world? I do not mean nature, the sea and the land, plants and animals. They are not the problem, nor are the endless space, the infinite time, the inexhaustible power. Do not be misled by my eating and smoking, reading and talking. My mind is not here, my life is not here. Your world of desires and their fulfillment, of fears and their escapes, is definitely not my world. I do not even perceive it except through what you tell me about it. It is your private dream world and my only reäction to it is to ask you to stop dreaming.
+**M:**&ensp;Are you sure we live in the same world? I do not mean nature, the sea and the land, plants and animals. They are not the problem, nor are the endless space, the infinite time, the inexhaustible power. Do not be misled by my eating and smoking, reading and talking. My mind is not here, my life is not here. Your world of desires and their fulfilment, of fears and their escapes, is definitely not my world. I do not even perceive it except through what you tell me about it. It is your private dream world and my only reäction to it is to ask you to stop dreaming.
 
 **Q:**&ensp;Surely, wars and revolutions are not dreams. Sick mothers and starving children are not dreams. Wealth, ill-gotten and misused, is not a dream.
 
@@ -16,13 +16,13 @@
 
 **Q:**&ensp;A dream cannot be shared.
 
-**M:**&ensp;Nor can the waking state. All the three states — waking, dreaming and sleeping — are subjective, personal, intimate. They all happen to and are contained within the little bubble in consciousness called ‘I’. The real world lies beyond the self.
+**M:**&ensp;Nor can the waking state. All the three states — waking, dreaming and sleeping — are subjective, personal, intimate. They all happen to and are contained within the little bubble in consciousness called “I”. The real world lies beyond the self.
 
 **Q:**&ensp;Self or no self, facts are real.
 
 **M:**&ensp;Of course facts are real! I live among them. But you live with fancies, not with facts. Facts never clash, while your life and world are full of contradictions. Contradiction is the mark of the false; the real never contradicts itself. 
 
-For instance, you complain that people are abjectly poor. Yet you do not share your riches with them. You mind the war next door, but you hardly give it a thought when it is in some far off country. The shifting fortunes of your ego determine your values: ‘I think’, ‘I want’, ‘I must’ are made into absolutes.
+For instance, you complain that people are abjectly poor. Yet you do not share your riches with them. You mind the war next door, but you hardly give it a thought when it is in some far off country. The shifting fortunes of your ego determine your values: “I think”, “I want”, “I must” are made into absolutes.
 
 **Q:**&ensp;Nevertheless, the evil is real.
 
@@ -50,7 +50,7 @@ For instance, you complain that people are abjectly poor. Yet you do not share y
 
 **Q:**&ensp;Who decides?
 
-**M:**&ensp;The situation decides. Every situation is a challenge which demands the right response. When the response is right, the challenge is met and the problem ceases. If the response is wrong, the challenge is not met and the problem remains unsolved. Your unsolved problems — that is what constitutes your <span data-tippy-content="Action or ‘the fruits of action’. <em>Karma</em> is of three kinds: <em>sanchita</em> (accumulated from previous births), <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the present life) and <em>agami</em> (the current <em>karma</em> the result of which will fructify in future).">karma</span>. Solve them rightly and be free.
+**M:**&ensp;The situation decides. Every situation is a challenge which demands the right response. When the response is right, the challenge is met and the problem ceases. If the response is wrong, the challenge is not met and the problem remains unsolved. Your unsolved problems — that is what constitutes your <span data-tippy-content="Action or “the fruits of action”. <em>Karma</em> is of three kinds: <em>sanchita</em> (accumulated from previous births), <em>prarabdha</em> (portion of the past <em>karma</em> to be worked out in the present life) and <em>agami</em> (the current <em>karma</em> the result of which will fructify in future).">karma</span>. Solve them rightly and be free.
 
 **Q:**&ensp;You seem to drive me always back into myself. Is there no objective solution to the world’s problems?
 

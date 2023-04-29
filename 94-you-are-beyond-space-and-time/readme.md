@@ -8,14 +8,7 @@ other remedy.
 **Questioner:**&ensp;You continue saying that I was never born and will never die. If so, how is it that I see 
 the world as one which has been born and will surely die?
 
-**Maharaj:**&ensp;You believe so because you have never questioned your belief that you are the body, 
-which, obviously, is born and dies. While alive, it attracts attention and fascinates so completely that 
-rarely does one perceive one’s real nature. It is like seeing the surface of the ocean and completely 
-forgetting the immensity beneath. The world is but the surface of the mind and the mind is infinite. 
-What we call ‘thoughts’ are just ripples in the mind. When the mind is quiet, it reflects reality. When it 
-is motionless through and through, it dissolves and only reality remains. This reality is so concrete, 
-so actual, so much more tangible than mind and matter, that compared to it, even diamond is soft 
-like butter. This overwhelming actuality makes the world dreamlike, misty, irrelevant.
+**Maharaj:**&ensp;You believe so because you have never questioned your belief that you are the body, which, obviously, is born and dies. While alive, it attracts attention and fascinates so completely that rarely does one perceive one’s real nature. It is like seeing the surface of the ocean and completely forgetting the immensity beneath. The world is but the surface of the mind and the mind is infinite. What we call “thoughts” are just ripples in the mind. When the mind is quiet, it reflects reality. When it is motionless through and through, it dissolves and only reality remains. This reality is so concrete, so actual, so much more tangible than mind and matter, that compared to it, even diamond is soft like butter. This overwhelming actuality makes the world dreamlike, misty, irrelevant.
 
 **Q:**&ensp;This world, with so much suffering in it — how can you see it as irrelevant? What callousness!
 
@@ -140,9 +133,9 @@ describable.
 
 **Q:**&ensp;Who is aware in awareness?
 
-**M:**&ensp;When there is a person, there is also consciousness. ‘I am’, mind, consciousness denote the 
+**M:**&ensp;When there is a person, there is also consciousness. “I Am”, mind, consciousness denote the 
 same state. If you say, “I am aware”, it only means, “I am conscious of thinking about being aware”. 
-There is no ‘I am’ in awareness.
+There is no “I Am” in awareness.
 
 **Q:**&ensp;What about witnessing?
 
@@ -151,9 +144,7 @@ separation ceases.
 
 **Q:**&ensp;What about you? Do you continue in awareness?
 
-**M:**&ensp;The person, the ‘I am this body, this mind, this chain of memories, this bundle of desires and 
-fears’ disappears, but something you may call identity remains. It enables me to become a person 
-when required. Love creates its own necessities, even of becoming a person.
+**M:**&ensp;The person, the “I am this body, this mind, this chain of memories, this bundle of desires and fears” disappears, but something you may call identity remains. It enables me to become a person when required. Love creates its own necessities, even of becoming a person.
 
 **Q:**&ensp;It is said that Reality manifests itself as existence–consciousness–bliss. Are they absolute or
 relative?
@@ -163,7 +154,7 @@ expressions.
 
 **Q:**&ensp;What is the relation between reality and its expressions?
 
-**M:**&ensp;No relation. In reality all is real and identical. As we put it, <span data-tippy-content="Manifested condition with the three <em>guna</em>s, qualities — <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. The Supreme Absolute conceived of as possessing qualities like love, mercy etc., as distinguished from the undifferentiated Absolute of the <em>Advaita Vedanta</em>.">saguna</span> and <span data-tippy-content="The unconditioned, without form, qualities or attributes.">nirguna</span> are one in <span data-tippy-content="The Supreme Reality.">Parabrahman</span>. There is only the Supreme. In movement, it is *saguna*. Motionless, it is *nirguna*. But it 
+**M:**&ensp;No relation. In reality all is real and identical. As we put it, <span data-tippy-content="Manifested condition with the three <em>guna</em>s, qualities — <em>sattva</em>, <em>rajas</em> and <em>tamas</em>. The Supreme Absolute conceived of as possessing qualities like love, mercy and so forth, as distinguished from the undifferentiated Absolute of the <em>Advaita Vedanta</em>.">saguna</span> and <span data-tippy-content="The unconditioned, without form, qualities or attributes.">nirguna</span> are one in <span data-tippy-content="The Supreme Reality.">Parabrahman</span>. There is only the Supreme. In movement, it is *saguna*. Motionless, it is *nirguna*. But it 
 is only the mind that moves or does not move. The real is beyond, you are beyond. Once you have 
 understood that nothing perceivable or conceivable can be yourself, you are free of your 
 imaginations. To see everything as imagination, born of desire, is necessary for self-realisation. We 
@@ -180,7 +171,7 @@ it and imagine myself to be free.
 which are not there. *Karma* is the divinely prescribed treatment. Welcome it and follow the 
 instructions faithfully and you will get well. A patient will leave the hospital after he recovers. To 
 insist on immediate freedom of choice and action will merely postpone recovery. Accept your 
-destiny and fulfill it — this is the shortest way to freedom from destiny, though not from love and its 
+destiny and fulfil it — this is the shortest way to freedom from destiny, though not from love and its 
 compulsions. To act from desire and fear is bondage, to act from love is freedom.
 
 

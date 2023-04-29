@@ -39,7 +39,7 @@ succession.
 
 **M:**&ensp;You, the self, being the root of all being, consciousness and joy, impart your reality to whatever 
 you perceive. This imparting of reality takes place invariably in the now and at no other time because 
-past and future are only in the mind. ‘Being’ applies to the now only.
+past and future are only in the mind. “Being” applies to the now only.
 
 **Q:**&ensp;Is not eternity endless too?
 
@@ -257,9 +257,7 @@ so small and helpless to myself?
 
 **Q:**&ensp;If I am God, then the world I create must be true.
 
-**M:**&ensp;It is true in essence, but not in appearance. Be free of desires and fears and at once your vision 
-will clear and you shall see all things as they are. Or, you may say that the *satoguna* creates the 
-world, the *tamoguna* obscures it and the *rajoguna* distorts it.
+**M:**&ensp;It is true in essence, but not in appearance. Be free of desires and fears and at once your vision will clear and you shall see all things as they are. Or, you may say that the *satoguna* creates the world, the *tamoguna* obscures it and the *rajoguna* distorts it.
 
 **Q:**&ensp;This does not tell me much, because if I ask what the <span data-tippy-content="Attributes, qualities. In <em>Samkhya</em> philosophy the three attributes of the cosmic substance (<em>prakriti</em>) are: illuminating (<em>sattva</em>), activating (<em>rajas</em>) and restraining (<em>tamas</em>).">guna</span>s are, the answer will be: what 
 creates, what obscures and what distorts. The fact remains — something unbelievable happened to 

@@ -101,9 +101,7 @@ aware of both, is already self-knowledge.
 **Q:**&ensp;If I am neither the body nor mind, how am I aware of them? How can I perceive something 
 quite foreign to myself?
 
-**M:**&ensp;‘Nothing is me’ is the first step. ‘Everything is me’ is the next. Both hang on the idea ‘there is a 
-world’. When this too is given up, you remain what you are — the non-dual Self. You are *it* here and 
-now, but your vision is obstructed by your false ideas about your self.
+**M:**&ensp;“Nothing is me” is the first step. “Everything is me” is the next. Both hang on the idea “there is a world”. When this too is given up, you remain what you are — the non-dual Self. You are *it* here and now, but your vision is obstructed by your false ideas about your self.
 
 **Q:**&ensp;Well, I admit that I am, I was, I shall be; at least from birth to death. I have no doubts of my 
 being here and now. But I find that it is not enough. My life lacks joy born of harmony between the 
@@ -141,7 +139,7 @@ clear and there will be peace and joy. You know so many things about yourself, b
 do not know. Find out who you are, the knower of the known. Look within diligently; remember to 
 remember that the perceived cannot be the perceiver. Whatever you see, hear or think of, 
 remember — you are not what happens, you are he to whom it happens. Delve deeply into the 
-sense ‘I am’ and you will surely discover that the perceiving centre is universal, as universal as the 
+sense “I Am” and you will surely discover that the perceiving centre is universal, as universal as the 
 light that illumines the world. All that happens in the universe happens to you, the silent witness. On 
 the other hand, whatever is done is done by you, the universal and inexhaustible energy.
 
@@ -159,7 +157,7 @@ you know. Between knowing and being there is no gap.
 
 **M:**&ensp;By all means use your mind to know your mind. It is perfectly legitimate and also the best 
 preparation for going beyond the mind. Being, knowing and enjoying is your own. First realise your 
-*own* being. This is easy because the sense ‘I am’ is always with you. Then meet yourself as the 
+*own* being. This is easy because the sense “I Am” is always with you. Then meet yourself as the 
 knower, apart from the known. Once you know yourself as pure being, the ecstasy of freedom is 
 your own.
 
@@ -178,13 +176,7 @@ of liberation through understanding. Understand your own mind and its hold on yo
 mind misunderstands — misunderstanding is its very nature. Right understanding is the only remedy, 
 whatever name you give it. It is the earliest and also the latest, for it deals with the mind as it is.
 
-Nothing you do will change you, for you need no change. You may change your mind or your body, 
-but it is always something external to you that has changed, not yourself. Why bother at all to 
-change? Realise once and for all that neither your body nor your mind nor even your consciousness is 
-yourself, and stand alone in your true nature beyond consciousness and unconsciousness. No effort 
-can take you there, only the clarity of understanding. Trace your misunderstandings and abandon 
-them, that is all. There is nothing to seek and find, for there is nothing lost. Relax and watch the ‘I
-am’. Reality is just behind it. Keep quiet, keep silent; it will emerge or, rather, it will take you in.
+Nothing you do will change you, for you need no change. You may change your mind or your body, but it is always something external to you that has changed, not yourself. Why bother at all to change? Realise once and for all that neither your body nor your mind nor even your consciousness is yourself, and stand alone in your true nature beyond consciousness and unconsciousness. No effort can take you there, only the clarity of understanding. Trace your misunderstandings and abandon them, that is all. There is nothing to seek and find, for there is nothing lost. Relax and watch the “I am”. Reality is just behind it. Keep quiet, keep silent; it will emerge or, rather, it will take you in.
 
 **Q:**&ensp;Must I not get rid of my body and mind first?
 
@@ -192,9 +184,7 @@ am’. Reality is just behind it. Keep quiet, keep silent; it will emerge or, ra
 
 **Q:**&ensp;I am unable to disregard, for I am not integrated.
 
-**M:**&ensp;Imagine you are completely integrated, your thought and action fully coördinated. How will it 
-help you? It will not free you from mistaking yourself to be the body or the mind. See them correctly
-as ‘not you’, that is all.
+**M:**&ensp;Imagine you are completely integrated, your thought and action fully coördinated. How will it help you? It will not free you from mistaking yourself to be the body or the mind. See them correctly as “not you”, that is all.
 
 **Q:**&ensp;You want me to remember to forget!
 
@@ -228,8 +218,8 @@ it. Fear can always delay it, until another opportunity arises.
 **Q:**&ensp;I thought there is always a chance.
 
 **M:**&ensp;In theory — yes. In practice, a situation must arise when all the factors necessary for self-realisation 
-are present. This need not discourage you. Your dwelling on the fact of ‘I am’ will soon 
-create another chance, for attitude attracts opportunity. All you know is second-hand. Only ‘I am’ is 
+are present. This need not discourage you. Your dwelling on the fact of “I Am” will soon 
+create another chance, for attitude attracts opportunity. All you know is second-hand. Only “I Am” is 
 first-hand and needs no proofs. Stay with it.
 
 

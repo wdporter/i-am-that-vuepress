@@ -50,7 +50,7 @@
 
 **Q:**&ensp;Some sensory experiences as related to myself.
 
-**M:**&ensp;Not even that. You only know that you reäct. Who reäcts and to what, you do not know. You know on contact that you exist — ‘I am’. The ‘I am this’, ‘I am that’ are imaginary.
+**M:**&ensp;Not even that. You only know that you reäct. Who reäcts and to what, you do not know. You know on contact that you exist — “I Am”. The “I am this”, “I Am That” are imaginary.
 
 **Q:**&ensp;I know the manifested because I participate in it. I admit my part in it is very small, yet it is as real as the totality of it. And what is more important, I give it meaning. Without me the world is dark and silent.
 
@@ -94,7 +94,7 @@ Merely giving up a thing to secure a better one is not true relinquishment. Give
 
 **Q:**&ensp;Why so much insistence on relinquishing all desires and fears? Are they not natural?
 
-**M:**&ensp;They are not. They are entirely mind-made. You have to give up everything to know that you need nothing, not even your body. Your needs are unreal and your efforts are meaningless. You imagine that your possessions protect you. In reality they make you vulnerable. Realise yourself as apart from all that can be pointed at as ‘this’ or ‘that’. You are unreachable by any sensory experience or verbal construction. Turn away from them. Refuse to impersonate.
+**M:**&ensp;They are not. They are entirely mind-made. You have to give up everything to know that you need nothing, not even your body. Your needs are unreal and your efforts are meaningless. You imagine that your possessions protect you. In reality they make you vulnerable. Realise yourself as apart from all that can be pointed at as “this” or “that”. You are unreachable by any sensory experience or verbal construction. Turn away from them. Refuse to impersonate.
 
 **Q:**&ensp;After I have heard you, what am I to do?
 
@@ -130,7 +130,7 @@ Merely giving up a thing to secure a better one is not true relinquishment. Give
 
 **Q:**&ensp;I must begin with some absolute truth. Is there any?
 
-**M:**&ensp;Yes, there is, the feeling ‘I am’. Begin with that.
+**M:**&ensp;Yes, there is, the feeling “I Am”. Begin with that.
 
 **Q:**&ensp;Nothing else is true?
 

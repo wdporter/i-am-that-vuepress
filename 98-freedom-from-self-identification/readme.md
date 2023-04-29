@@ -6,20 +6,11 @@ the person you are; now see the urgent need of being free of this unnecessary se
 with a bundle of memories and habits. This steady resistance against the unnecessary is the secret 
 of success.
 
-**Maharaj:**&ensp;Can you sit on the floor? Do you need a pillow? Have you any questions to ask? Not that 
-you need to ask, you can as well be quiet. To be, just *be*, is important. You need not ask anything, 
-nor do anything. Such apparently lazy way of spending time is highly regarded in India. It means 
-that for the time being, you are free from the obsession with ‘what next’. When you are not in a hurry 
-and the mind is free from anxieties, it becomes quiet, and in the silence something may be heard 
-which is ordinarily too fine and subtle for perception. The mind must be open and quiet to see. What 
-we are trying to do here is to bring our minds into the right state for understanding what is real.
+**Maharaj:**&ensp;Can you sit on the floor? Do you need a pillow? Have you any questions to ask? Not that you need to ask, you can as well be quiet. To be, just *be*, is important. You need not ask anything, nor do anything. Such apparently lazy way of spending time is highly regarded in India. It means that for the time being, you are free from the obsession with “what next”. When you are not in a hurry and the mind is free from anxieties, it becomes quiet, and in the silence something may be heard which is ordinarily too fine and subtle for perception. The mind must be open and quiet to see. What we are trying to do here is to bring our minds into the right state for understanding what is real.
 
 **Questioner:**&ensp;How do we learn to cut out worries?
 
-**M:**&ensp;You need not worry about your worries. Just *be*. Do not try to be quiet; do not make ‘being quiet’ 
-into a task to be performed. Don’t be restless about ‘being quiet’, miserable about  ‘being happy’. 
-Just be aware that you are and remain aware — don’t say:, “yes, I am; what next?”. There is no ‘next’
-in ‘I am’. It is a timeless state.
+**M:**&ensp;You need not worry about your worries. Just *be*. Do not try to be quiet; do not make “being quiet” into a task to be performed. Don’t be restless about “being quiet”, miserable about  “being happy”. Just be aware that you are and remain aware — don’t say:, “yes, I am; what next?”. There is no “next” in “I Am”. It is a timeless state.
 
 **Q:**&ensp;If it is a timeless state, it will assert itself anyhow.
 
@@ -53,20 +44,14 @@ sterile.
 
 **Q:**&ensp;Then what am I to do?
 
-**M:**&ensp;Try to *be*, only to *be*. The all-important word is ‘try’. Allot enough time daily for sitting quietly and 
-trying, just trying, to go beyond the personality with its addictions and obsessions. Don’t ask how; it 
-cannot be explained. You just keep on trying until you succeed. If you persevere, there can be no 
-failure. What matters supremely is sincerity, earnestness; you must really have had a surfeit of being 
-the person you are; now see the urgent need of being free of this unnecessary self-identification 
-with a bundle of memories and habits. This steady resistance against the unnecessary is the secret 
-of success.
+**M:**&ensp;Try to *be*, only to *be*. The all-important word is “try”. Allot enough time daily for sitting quietly and trying, just trying, to go beyond the personality with its addictions and obsessions. Don’t ask how; it cannot be explained. You just keep on trying until you succeed. If you persevere, there can be no failure. What matters supremely is sincerity, earnestness; you must really have had a surfeit of being the person you are; now see the urgent need of being free of this unnecessary self-identification with a bundle of memories and habits. This steady resistance against the unnecessary is the secret of success.
 
 After all, you are what you are every moment of your life, but you are never conscious of it except, 
 maybe, at the point of awakening from sleep. All you need is to be aware of being, not as a verbal 
 statement, but as an ever-present fact. The a awareness that you *are* will open your eyes to what 
 you are. It is all very simple. First of all, establish a constant contact with your self; be with yourself 
 all the time. Into self-awareness all blessings flow. Begin as a centre of observation, deliberate 
-cognisance, and grow into a centre of love in action. ‘I am’ is a tiny seed which will grow into a 
+cognisance, and grow into a centre of love in action. “I Am” is a tiny seed which will grow into a 
 mighty tree — quite naturally, without a trace of effort.
 
 **Q:**&ensp;I see so much evil in myself. Must I not change it?
@@ -89,15 +74,7 @@ and action behind and beyond the image.
 **Q:**&ensp;You seem to advise me to be self-centred to the point of egoism. Must I not yield even to my 
 interest in other people?
 
-**M:**&ensp;Your interest in others is egoistic, self-concerned, self-oriented. You are not interested in others 
-as persons, but only as far as they enrich or ennoble your own image of yourself. And the ultimate 
-in selfishness is to care only for the protection, preservation and multiplication of one’s own body. 
-By *body* I mean all that is related to your name and shape — your family, tribe, country, race and so forth. To 
-be attached to one’s name and shape is selfishness. A man who knows that he is neither body nor 
-mind cannot be selfish, for he has nothing to be selfish about. Or, you may say, he is equally ‘selfish’
-on behalf of everybody he meets; everybody’s welfare is his own. The feeling ’I am the world, the
-world is myself’ becomes quite natural; once it is established, there is just no way of being selfish.
-To be selfish means to covet, acquire, accumulate on behalf of the part against the whole.
+**M:**&ensp;Your interest in others is egoistic, self-concerned, self-oriented. You are not interested in others as persons, but only as far as they enrich or ennoble your own image of yourself. And the ultimate in selfishness is to care only for the protection, preservation and multiplication of one’s own body. By *body* I mean all that is related to your name and shape — your family, tribe, country, race and so forth. To be attached to one’s name and shape is selfishness. A man who knows that he is neither body nor mind cannot be selfish, for he has nothing to be selfish about. Or, you may say, he is equally “selfish” on behalf of everybody he meets; everybody’s welfare is his own. The feeling “I am the world, the world is myself” becomes quite natural; once it is established, there is just no way of being selfish. To be selfish means to covet, acquire, accumulate on behalf of the part against the whole.
 
 **Q:**&ensp;One may be rich with many possessions, by inheritance, or marriage, or just good luck.
 
@@ -168,26 +145,7 @@ body.
 
 **Q:**&ensp;You seem to have little use for religion.
 
-**M:**&ensp;What is religion? A cloud in the sky. I live in the sky, not in the clouds, which are so many words 
-held together. Remove the verbiage and what remains? Truth remains. My home is in the 
-unchangeable, which appears to be a state of constant reconciliation and integration of opposites. 
-People come here to learn about the actual existence of such a state, the obstacles to its 
-emergence, and, once perceived, the art of stabilising it in consciousness so that there is no clash 
-between understanding and living. The state itself is beyond the mind and need not be learned. The 
-mind can only focus the obstacles; seeing an obstacle as an obstacle is effective because it is the 
-mind acting on the mind. Begin from the beginning; give attention to the fact that you *are*. At no time 
-can you say, “I was not”; all you can say is, “I do not remember”. You know how unreliable memory is. 
-Accept that, engrossed in petty personal affairs, you have forgotten what you are; try to bring back 
-the lost memory through the elimination of the known. You cannot be told what will happen, nor is it 
-desirable; anticipation will create illusions. In the inner search the unexpected is inevitable; the 
-discovery is invariably beyond all imagination. Just as an unborn child cannot know life after birth 
-for it has nothing in its mind with which to form a valid picture, so is the mind unable to think of the 
-real in terms of the unreal, except by negation: ‘Not this, not that’. The acceptance of the unreal as 
-real is the obstacle; to see the false as false and abandon the false brings reality into being. The 
-states of utter clarity, immense love, utter fearlessness — these are mere words at the present, 
-outlines without colour, hints at what can be. You are like a blind man expecting to see as a result of 
-an operation — provided you do not shirk the operation! In the state that I am in, words do not matter at all. 
-Nor is there any addiction to words. Only facts matter.
+**M:**&ensp;What is religion? A cloud in the sky. I live in the sky, not in the clouds, which are so many words held together. Remove the verbiage and what remains? Truth remains. My home is in the unchangeable, which appears to be a state of constant reconciliation and integration of opposites. People come here to learn about the actual existence of such a state, the obstacles to its emergence, and, once perceived, the art of stabilising it in consciousness so that there is no clash between understanding and living. The state itself is beyond the mind and need not be learned. The mind can only focus the obstacles; seeing an obstacle as an obstacle is effective because it is the mind acting on the mind. Begin from the beginning; give attention to the fact that you *are*. At no time can you say, “I was not”; all you can say is, “I do not remember”. You know how unreliable memory is. Accept that, engrossed in petty personal affairs, you have forgotten what you are; try to bring back the lost memory through the elimination of the known. You cannot be told what will happen, nor is it desirable; anticipation will create illusions. In the inner search the unexpected is inevitable; the discovery is invariably beyond all imagination. Just as an unborn child cannot know life after birth for it has nothing in its mind with which to form a valid picture, so is the mind unable to think of the real in terms of the unreal, except by negation: “Not this, not that”. The acceptance of the unreal as real is the obstacle; to see the false as false and abandon the false brings reality into being. The states of utter clarity, immense love, utter fearlessness — these are mere words at the present, outlines without colour, hints at what can be. You are like a blind man expecting to see as a result of an operation — provided you do not shirk the operation! In the state that I am in, words do not matter at all. Nor is there any addiction to words. Only facts matter.
 
 **Q:**&ensp;There can be no religion without words.
 
@@ -198,18 +156,9 @@ They play with them and are often very fond of them, but they will not act on th
 
 **Q:**&ensp;Words are needed for communication.
 
-**M:**&ensp;For exchange of information — yes. But real communication between people is not verbal. For 
-establishing and maintaining relationships, affectionate awareness expressed in direct action is 
-required. Not what you say, but what you do is what matters. Words are made by the mind and are 
-meaningful only on the level of the mind. The word ‘bread’ — you can neither eat nor live by it; it 
-merely conveys an idea. It acquires meaning only with the actual eating. In the same sense am I 
-telling you that the Normal State is not verbal. I may say it is wise love expressed in action, but 
-these words convey little unless you experience them in their fullness and beauty.
+**M:**&ensp;For exchange of information — yes. But real communication between people is not verbal. For establishing and maintaining relationships, affectionate awareness expressed in direct action is required. Not what you say, but what you do is what matters. Words are made by the mind and are meaningful only on the level of the mind. The word “bread” — you can neither eat nor live by it; it merely conveys an idea. It acquires meaning only with the actual eating. In the same sense am I telling you that the Normal State is not verbal. I may say it is wise love expressed in action, but these words convey little unless you experience them in their fullness and beauty.
 
-Words have their limited usefulness, but we put no limits to them and bring ourselves to the brink of 
-disaster. Our noble ideas are finely balanced by ignoble actions. We talk of God, Truth and Love, 
-but instead of direct experience we have definitions. Instead of enlarging and deepening action, we 
-chisel our definitions. And we imagine that we know what we can define!
+Words have their limited usefulness, but we put no limits to them and bring ourselves to the brink of disaster. Our noble ideas are finely balanced by ignoble actions. We talk of God, Truth and Love, but instead of direct experience we have definitions. Instead of enlarging and deepening action, we chisel our definitions. And we imagine that we know what we can define!
 
 **Q:**&ensp;How can one convey experience except through words?
 
